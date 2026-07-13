@@ -15,6 +15,8 @@ dependencies installed). Don't assume build/lint/test tooling exists; there is n
 ## Repository layout (per README; created incrementally as logs accumulate)
 
 ```
+plan/         topics to cover, uploaded in advance: {topic}-w{n}.md
+              (kanji-w1.md, vocabulary-w1.md, grammar-w1.md, reading-w1.md, listening-w1.md, ...)
 logs/         one file per study day: YYYY-MM-DD.md
               (items covered, drill sentences, answers, grades, explanations, weak points, conversation notes)
 diagnostics/  weekly N5-N3 legacy quizzes: YYYY-Wnn.md
@@ -28,7 +30,8 @@ files in the matching directory.
 
 ## Weekly workflow (the thing this repo supports)
 
-1. Weekdays: study → text drill in the Claude Tutor Project → "log it" → download the MD → commit to `logs/`.
+0. Ahead of the week: commit that week's `plan/{topic}-w{n}.md` files (Kanji, Vocabulary, Grammar, Reading, Listening).
+1. Weekdays: study that day's items from the current week's `plan/` files → text drill in the Claude Tutor Project → "log it" → download the MD → commit to `logs/`.
 2. Voice conversation (30 min) in Claude voice mode; optionally append a summary to that day's log.
 3. Weekly: run the 10-sentence legacy diagnostic → commit to `diagnostics/`.
 4. Weekly: paste the week's logs into the Tutor Project → receive Anki TSV (`anki/`) and weakness report (`reports/`) → import TSV into Anki.
