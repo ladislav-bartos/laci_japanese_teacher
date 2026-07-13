@@ -39,6 +39,10 @@ files in the matching directory.
 Commits are frequently made from mobile (GitHub mobile app / github.com), so keep changes to
 this repo simple, single-file, and mergeable.
 
+## Git commit conventions
+
+Do not add a `Co-Authored-By: Claude ...` trailer to commit messages in this repo.
+
 ## Phase 2 — planned voice tutor app (not started)
 
 `specs/phase2.md` describes a future small web app that would replace the manual workflow above:
