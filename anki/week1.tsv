@@ -1,0 +1,479 @@
+#separator:tab
+#html:true
+#columns:Front	Back	Tags
+# Week 1 (Sou Matome N2, Days 1-6) — Kanji, Vocabulary, Grammar, Reading, Listening
+禁止	きんし — Prohibition <br><i>(kanji: 禁)</i>	kanji::w1 kanji::w1d1
+禁煙	きんえん — No smoking <br><i>(kanji: 煙・禁)</i>	kanji::w1 kanji::w1d1
+煙	けむり — Smoke <br><i>(kanji: 煙)</i>	kanji::w1 kanji::w1d1
+安静	あんせい — Quietly <br><i>(kanji: 静)</i>	kanji::w1 kanji::w1d1
+静か	しずか — Quiet <br><i>(kanji: 静)</i>	kanji::w1 kanji::w1d1
+危機	きき — Crisis <br><i>(kanji: 危)</i>	kanji::w1 kanji::w1d1
+危ない	あぶない — Dangerous <br><i>(kanji: 危)</i>	kanji::w1 kanji::w1d1
+危険	きけん — Danger <br><i>(kanji: 険)</i>	kanji::w1 kanji::w1d1
+険しい	けわしい — Steep <br><i>(kanji: 険)</i>	kanji::w1 kanji::w1d1
+関心	かんしん — Interest <br><i>(kanji: 関)</i>	kanji::w1 kanji::w1d1
+関わる	かかわる — Have to do with <br><i>(kanji: 関)</i>	kanji::w1 kanji::w1d1
+関係	かんけい — Relation <br><i>(kanji: 係)</i>	kanji::w1 kanji::w1d1
+係員	かかりいん — Person in charge <br><i>(kanji: 係)</i>	kanji::w1 kanji::w1d1
+転落	てんらく — Fall <br><i>(kanji: 落)</i>	kanji::w1 kanji::w1d1
+落石	らくせき — Falling rocks <br><i>(kanji: 落)</i>	kanji::w1 kanji::w1d1
+磁石	じしゃく — Magnet <br><i>(kanji: 石)</i>	kanji::w1 kanji::w1d1
+石	いし — Stone <br><i>(kanji: 石)</i>	kanji::w1 kanji::w1d1
+飛行場	ひこうじょう — Airport <br><i>(kanji: 飛)</i>	kanji::w1 kanji::w1d1
+飛び出す	とびだす — Run out suddenly <br><i>(kanji: 飛)</i>	kanji::w1 kanji::w1d1
+駐車場	ちゅうしゃじょう — Parking lot <br><i>(kanji: 駐)</i>	kanji::w1 kanji::w1d1
+駐車	ちゅうしゃ — Parking <br><i>(kanji: 駐)</i>	kanji::w1 kanji::w1d1
+四捨五入	ししゃごにゅう — Rounding <br><i>(kanji: 捨)</i>	kanji::w1 kanji::w1d1
+捨てる	すてる — Throw away <br><i>(kanji: 捨)</i>	kanji::w1 kanji::w1d1
+遊泳	ゆうえい — Swimming <br><i>(kanji: 遊)</i>	kanji::w1 kanji::w1d1
+遊ぶ	あそぶ — Play <br><i>(kanji: 遊)</i>	kanji::w1 kanji::w1d1
+水泳	すいえい — Swimming <br><i>(kanji: 泳)</i>	kanji::w1 kanji::w1d1
+泳ぐ	およぐ — Swim <br><i>(kanji: 泳)</i>	kanji::w1 kanji::w1d1
+喫茶店	きっさてん — Coffee shop <br><i>(kanji: 喫)</i>	kanji::w1 kanji::w1d2
+喫煙所	きつえんじょ — Smoking area <br><i>(kanji: 喫)</i>	kanji::w1 kanji::w1d2
+非〜	ひ — Non-/Anti- <br><i>(kanji: 非)</i>	kanji::w1 kanji::w1d2
+非常に	ひじょうに — Extremely <br><i>(kanji: 非)</i>	kanji::w1 kanji::w1d2
+非常口	ひじょうぐち — Emergency exit <br><i>(kanji: 非)</i>	kanji::w1 kanji::w1d2
+御手洗い	おてあらい — Toilet <br><i>(kanji: 御)</i>	kanji::w1 kanji::w1d2
+御中	おんちゅう — Written on letters addressed to an organization <br><i>(kanji: 御)</i>	kanji::w1 kanji::w1d2
+日常	にちじょう — Everyday <br><i>(kanji: 常)</i>	kanji::w1 kanji::w1d2
+常識	じょうしき — Common sense <br><i>(kanji: 常)</i>	kanji::w1 kanji::w1d2
+受験	じゅけん — Taking an exam <br><i>(kanji: 受)</i>	kanji::w1 kanji::w1d2
+受ける	うける — Receive <br><i>(kanji: 受)</i>	kanji::w1 kanji::w1d2
+付近	ふきん — Vicinity <br><i>(kanji: 付)</i>	kanji::w1 kanji::w1d2
+受付	うけつけ — Reception <br><i>(kanji: 付)</i>	kanji::w1 kanji::w1d2
+日付	ひづけ — Date <br><i>(kanji: 付)</i>	kanji::w1 kanji::w1d2
+案内	あんない — Information <br><i>(kanji: 案)</i>	kanji::w1 kanji::w1d2
+以内	いない — Within <br><i>(kanji: 内)</i>	kanji::w1 kanji::w1d2
+社内	しゃない — Within the company <br><i>(kanji: 内)</i>	kanji::w1 kanji::w1d2
+会議室	かいぎしつ — Meeting room <br><i>(kanji: 議)</i>	kanji::w1 kanji::w1d2
+不思議	ふしぎ — Wonderful/strange <br><i>(kanji: 議)</i>	kanji::w1 kanji::w1d2
+文化	ぶんか — Culture <br><i>(kanji: 化)</i>	kanji::w1 kanji::w1d2
+化粧室	けしょうしつ — Powder room/toilet <br><i>(kanji: 化)</i>	kanji::w1 kanji::w1d2
+階段	かいだん — Stairs <br><i>(kanji: 階)</i>	kanji::w1 kanji::w1d2
+〜階	〜かい — ...floor <br><i>(kanji: 階)</i>	kanji::w1 kanji::w1d2
+段階	だんかい — Level <br><i>(kanji: 段)</i>	kanji::w1 kanji::w1d2
+手段	しゅだん — Means/way <br><i>(kanji: 段)</i>	kanji::w1 kanji::w1d2
+石段	いしだん — Stone step <br><i>(kanji: 段)</i>	kanji::w1 kanji::w1d2
+営業	えいぎょう — Business <br><i>(kanji: 営)</i>	kanji::w1 kanji::w1d3
+放送	ほうそう — Broadcast <br><i>(kanji: 放)</i>	kanji::w1 kanji::w1d3
+開放	かいほう — Opening <br><i>(kanji: 放)</i>	kanji::w1 kanji::w1d3
+押す	おす — Push <br><i>(kanji: 押)</i>	kanji::w1 kanji::w1d3
+押し入れ	おしいれ — Closet <br><i>(kanji: 押)</i>	kanji::w1 kanji::w1d3
+準備	じゅんび — Preparation <br><i>(kanji: 準)</i>	kanji::w1 kanji::w1d3
+水準	すいじゅん — Standard <br><i>(kanji: 準)</i>	kanji::w1 kanji::w1d3
+備品	びひん — Equipment <br><i>(kanji: 備)</i>	kanji::w1 kanji::w1d3
+備え付け	そなえつけ — Furnished with <br><i>(kanji: 備)</i>	kanji::w1 kanji::w1d3
+定員	ていいん — Capacity <br><i>(kanji: 定)</i>	kanji::w1 kanji::w1d3
+定休日	ていきゅうび — Regular holiday <br><i>(kanji: 定)</i>	kanji::w1 kanji::w1d3
+流行	りゅうこう — Fashion <br><i>(kanji: 流)</i>	kanji::w1 kanji::w1d3
+流す	ながす — Let flow <br><i>(kanji: 流)</i>	kanji::w1 kanji::w1d3
+清書	せいしょ — Clean copy <br><i>(kanji: 清)</i>	kanji::w1 kanji::w1d3
+清流	せいりゅう — Clear stream <br><i>(kanji: 清)</i>	kanji::w1 kanji::w1d3
+清掃	せいそう — Cleaning <br><i>(kanji: 掃)</i>	kanji::w1 kanji::w1d3
+掃く	はく — Sweep <br><i>(kanji: 掃)</i>	kanji::w1 kanji::w1d3
+閉会	へいかい — Closing of a meeting <br><i>(kanji: 閉)</i>	kanji::w1 kanji::w1d3
+閉店	へいてん — Closing of a store <br><i>(kanji: 閉)</i>	kanji::w1 kanji::w1d3
+点	てん — Point <br><i>(kanji: 点)</i>	kanji::w1 kanji::w1d3
+欠点	けってん — Shortcoming <br><i>(kanji: 点)</i>	kanji::w1 kanji::w1d3
+点検	てんけん — Inspection <br><i>(kanji: 検・点)</i>	kanji::w1 kanji::w1d3
+検問	けんもん — Inspection <br><i>(kanji: 検)</i>	kanji::w1 kanji::w1d3
+地下鉄	ちかてつ — Subway <br><i>(kanji: 鉄)</i>	kanji::w1 kanji::w1d4
+私鉄	してつ — Private railway <br><i>(kanji: 鉄)</i>	kanji::w1 kanji::w1d4
+同窓会	どうそうかい — School reunion <br><i>(kanji: 窓)</i>	kanji::w1 kanji::w1d4
+窓口	まどぐち — Ticket window <br><i>(kanji: 窓)</i>	kanji::w1 kanji::w1d4
+切符	きっぷ — Ticket <br><i>(kanji: 符)</i>	kanji::w1 kanji::w1d4
+精算	せいさん — Fare adjustment <br><i>(kanji: 精)</i>	kanji::w1 kanji::w1d4
+精神	せいしん — Spirit/mind <br><i>(kanji: 精)</i>	kanji::w1 kanji::w1d4
+計算	けいさん — Calculation <br><i>(kanji: 算)</i>	kanji::w1 kanji::w1d4
+引き算	ひきざん — Subtraction <br><i>(kanji: 算)</i>	kanji::w1 kanji::w1d4
+改正	かいせい — Amendment <br><i>(kanji: 改)</i>	kanji::w1 kanji::w1d4
+改札口	かいさつぐち — Ticket gate <br><i>(kanji: 改・札)</i>	kanji::w1 kanji::w1d4
+1万円札	いちまんえんさつ — 10,000 yen note <br><i>(kanji: 札)</i>	kanji::w1 kanji::w1d4
+下線	かせん — Underline <br><i>(kanji: 線)</i>	kanji::w1 kanji::w1d4
+新幹線	しんかんせん — Bullet train <br><i>(kanji: 線)</i>	kanji::w1 kanji::w1d4
+線路	せんろ — Railway track <br><i>(kanji: 線)</i>	kanji::w1 kanji::w1d4
+時刻	じこく — Time <br><i>(kanji: 刻)</i>	kanji::w1 kanji::w1d4
+刻む	きざむ — Engrave <br><i>(kanji: 刻)</i>	kanji::w1 kanji::w1d4
+番号	ばんごう — Number <br><i>(kanji: 番)</i>	kanji::w1 kanji::w1d4
+〜番線	〜ばんせん — Line/Platform number <br><i>(kanji: 番)</i>	kanji::w1 kanji::w1d4
+符号	ふごう — Symbol/sign <br><i>(kanji: 号)</i>	kanji::w1 kanji::w1d4
+信号	しんごう — Signal <br><i>(kanji: 号)</i>	kanji::w1 kanji::w1d4
+〜号車	〜ごうしゃ — Carriage number <br><i>(kanji: 号)</i>	kanji::w1 kanji::w1d4
+快速	かいそく — High speed <br><i>(kanji: 快)</i>	kanji::w1 kanji::w1d4
+快い	こころよい — Pleasant <br><i>(kanji: 快)</i>	kanji::w1 kanji::w1d4
+時速	じそく — Speed per hour <br><i>(kanji: 速)</i>	kanji::w1 kanji::w1d4
+速い	はやい — Fast <br><i>(kanji: 速)</i>	kanji::w1 kanji::w1d4
+早速	さっそく — At once <br><i>(kanji: 速)</i>	kanji::w1 kanji::w1d4
+道路	どうろ — Road <br><i>(kanji: 路)</i>	kanji::w1 kanji::w1d4
+通路	つうろ — Aisle <br><i>(kanji: 路)</i>	kanji::w1 kanji::w1d4
+空港	くうこう — Airport <br><i>(kanji: 港)</i>	kanji::w1 kanji::w1d5
+港	みなと — Port <br><i>(kanji: 港)</i>	kanji::w1 kanji::w1d5
+理由	りゆう — Reason <br><i>(kanji: 由)</i>	kanji::w1 kanji::w1d5
+経由	けいゆ — Via <br><i>(kanji: 由)</i>	kanji::w1 kanji::w1d5
+深夜	しんや — Midnight <br><i>(kanji: 深)</i>	kanji::w1 kanji::w1d5
+深刻	しんこく — Serious <br><i>(kanji: 深)</i>	kanji::w1 kanji::w1d5
+降車口	こうしゃぐち — Exit for getting off <br><i>(kanji: 降)</i>	kanji::w1 kanji::w1d5
+下降	かこう — Descent/fall <br><i>(kanji: 降)</i>	kanji::w1 kanji::w1d5
+両親	りょうしん — Parents <br><i>(kanji: 両)</i>	kanji::w1 kanji::w1d5
+両替	りょうがえ — Money exchange <br><i>(kanji: 両)</i>	kanji::w1 kanji::w1d5
+着替える	きがえる — Change clothes <br><i>(kanji: 替)</i>	kanji::w1 kanji::w1d5
+為替	かわせ — Exchange/money order <br><i>(kanji: 替)</i>	kanji::w1 kanji::w1d5
+家賃	やちん — Rent <br><i>(kanji: 賃)</i>	kanji::w1 kanji::w1d5
+運賃	うんちん — Fare <br><i>(kanji: 賃)</i>	kanji::w1 kanji::w1d5
+分割	ぶんかつ — Split <br><i>(kanji: 割)</i>	kanji::w1 kanji::w1d5
+割引	わりびき — Discount <br><i>(kanji: 割)</i>	kanji::w1 kanji::w1d5
+割増	わりまし — Extra/Proportional increase <br><i>(kanji: 割)</i>	kanji::w1 kanji::w1d5
+増加	ぞうか — Increase <br><i>(kanji: 増)</i>	kanji::w1 kanji::w1d5
+増える	ふえる — Increase <br><i>(kanji: 増)</i>	kanji::w1 kanji::w1d5
+優先	ゆうせん — Priority <br><i>(kanji: 優)</i>	kanji::w1 kanji::w1d5
+優しい	やさしい — Kind <br><i>(kanji: 優)</i>	kanji::w1 kanji::w1d5
+座席	ざせき — Seat <br><i>(kanji: 席・座)</i>	kanji::w1 kanji::w1d5
+出席	しゅっせき — Attendance <br><i>(kanji: 席)</i>	kanji::w1 kanji::w1d5
+指定席	していせき — Reserved seat <br><i>(kanji: 席)</i>	kanji::w1 kanji::w1d5
+側面	そくめん — Side/flank <br><i>(kanji: 側)</i>	kanji::w1 kanji::w1d5
+両側	りょうがわ — Both sides <br><i>(kanji: 側)</i>	kanji::w1 kanji::w1d5
+座る	すわる — Sit <br><i>(kanji: 座)</i>	kanji::w1 kanji::w1d5
+銀行口座	ぎんこうこうざ — Bank account <br><i>(kanji: 座)</i>	kanji::w1 kanji::w1d5
+寄付	きふ — Donation <br><i>(kanji: 寄)</i>	kanji::w1 kanji::w1d5
+取り寄せる	とりよせる — Order/bring <br><i>(kanji: 寄)</i>	kanji::w1 kanji::w1d5
+お年寄り	おとしより — Old person <br><i>(kanji: 寄)</i>	kanji::w1 kanji::w1d5
+郵便	ゆうびん — Mail service <br><i>(kanji: 郵)</i>	kanji::w1 kanji::w1d6
+郵送	ゆうそう — Sending by post <br><i>(kanji: 郵)</i>	kanji::w1 kanji::w1d6
+郵便局	ゆうびんきょく — Post office <br><i>(kanji: 局)</i>	kanji::w1 kanji::w1d6
+薬局	やっきょく — Drugstore <br><i>(kanji: 局)</i>	kanji::w1 kanji::w1d6
+貯金	ちょきん — Savings <br><i>(kanji: 貯)</i>	kanji::w1 kanji::w1d6
+包帯	ほうたい — Bandage <br><i>(kanji: 包)</i>	kanji::w1 kanji::w1d6
+小包	こづつみ — Parcel <br><i>(kanji: 包)</i>	kanji::w1 kanji::w1d6
+発達	はったつ — Development <br><i>(kanji: 達)</i>	kanji::w1 kanji::w1d6
+友達	ともだち — Friend <br><i>(kanji: 達)</i>	kanji::w1 kanji::w1d6
+速達	そくたつ — Special delivery <br><i>(kanji: 達)</i>	kanji::w1 kanji::w1d6
+国際	こくさい — International <br><i>(kanji: 際)</i>	kanji::w1 kanji::w1d6
+実際に	じっさいに — Actually <br><i>(kanji: 際)</i>	kanji::w1 kanji::w1d6
+初診	しょしん — First medical consultation <br><i>(kanji: 初)</i>	kanji::w1 kanji::w1d6
+初雪	はつゆき — First snow <br><i>(kanji: 初)</i>	kanji::w1 kanji::w1d6
+再診	さいしん — Follow-up medical consultation <br><i>(kanji: 再)</i>	kanji::w1 kanji::w1d6
+再生	さいせい — Regeneration/recycling <br><i>(kanji: 再)</i>	kanji::w1 kanji::w1d6
+診療	しんりょう — Medical examination <br><i>(kanji: 療)</i>	kanji::w1 kanji::w1d6
+治療	ちりょう — Medical treatment <br><i>(kanji: 療)</i>	kanji::w1 kanji::w1d6
+科学	かがく — Science <br><i>(kanji: 科)</i>	kanji::w1 kanji::w1d6
+内科	ないか — Internal medicine <br><i>(kanji: 科)</i>	kanji::w1 kanji::w1d6
+外科	げか — Surgery <br><i>(kanji: 科)</i>	kanji::w1 kanji::w1d6
+産婦人科	さんふじんか — Obstetrics and gynecology <br><i>(kanji: 婦)</i>	kanji::w1 kanji::w1d6
+主婦	しゅふ — Housewife <br><i>(kanji: 婦)</i>	kanji::w1 kanji::w1d6
+皮肉	ひにく — Irony/sarcasm <br><i>(kanji: 皮)</i>	kanji::w1 kanji::w1d6
+皮	かわ — Skin/peel <br><i>(kanji: 皮)</i>	kanji::w1 kanji::w1d6
+皮膚	ひふ — Skin <br><i>(kanji: 膚)</i>	kanji::w1 kanji::w1d6
+救急	きゅうきゅう — First aid <br><i>(kanji: 救)</i>	kanji::w1 kanji::w1d6
+救う	すくう — Save <br><i>(kanji: 救)</i>	kanji::w1 kanji::w1d6
+チラシ／びら	leaflet	vocabulary::w1 vocabulary::w1d1
+賃貸アパート (ちんたいアパート)	a rental apartment	vocabulary::w1 vocabulary::w1d1
+家賃 (やちん)	monthly rent	vocabulary::w1 vocabulary::w1d1
+管理費 (かんりひ)	caretaker / maintenance fee	vocabulary::w1 vocabulary::w1d1
+無料／ただ (むりょう)	free	vocabulary::w1 vocabulary::w1d1
+有料 (ゆうりょう)	not free	vocabulary::w1 vocabulary::w1d1
+マンション	a higher-class apartment building; may be for rental or purchase (分譲と賃貸がある)	vocabulary::w1 vocabulary::w1d1
+敷金 (しききん)	deposit left with the owner as a guarantee when the contract starts (returned later)	vocabulary::w1 vocabulary::w1d1
+礼金 (れいきん)	one-time "thank-you" payment to the owner when renting; sometimes not required (not returned)	vocabulary::w1 vocabulary::w1d1
+1DK (ワンディーケー) / 2LDK (ニーエルディーケー)	L: living room, D: dining, K: kitchen; the number = number of other rooms	vocabulary::w1 vocabulary::w1d1
+徒歩5分 (とほ5ふん)	a five-minute walk	vocabulary::w1 vocabulary::w1d1
+3階建て (3かいだて)	a three-story building	vocabulary::w1 vocabulary::w1d1
+南向き (みなみむき)	faces south	vocabulary::w1 vocabulary::w1d1
+築10年 (ちく10ねん)	built 10 years ago	vocabulary::w1 vocabulary::w1d1
+自転車置き場 (じてんしゃおきば)	a bicycle parking lot	vocabulary::w1 vocabulary::w1d1
+広々（と）している (ひろびろ)	spacious	vocabulary::w1 vocabulary::w1d1
+ながめがいい	has a good view	vocabulary::w1 vocabulary::w1d1
+日当たりがいい (ひあたり)	gets a lot of sunlight	vocabulary::w1 vocabulary::w1d1
+人通りが多い (ひとどおり)	a street with lots of pedestrians	vocabulary::w1 vocabulary::w1d1
+一軒家／一戸建て (いっけんや／いっこだて)	a (detached) house	vocabulary::w1 vocabulary::w1d1
+物干し (ものほし)	a clothesline	vocabulary::w1 vocabulary::w1d1
+風呂場 (ふろば)	a bathroom	vocabulary::w1 vocabulary::w1d1
+洗面所 (せんめんじょ)	a washroom	vocabulary::w1 vocabulary::w1d1
+一人暮らし／一人住まい (ひとりぐらし／ひとりずまい)	living alone	vocabulary::w1 vocabulary::w1d1
+近所付き合い (きんじょづきあい)	relations with neighbors	vocabulary::w1 vocabulary::w1d1
+彼と付き合う (かれとつきあう)	go out with a man	vocabulary::w1 vocabulary::w1d1
+友達に付き合う (ともだちにつきあう)	go along with a friend to (do something)	vocabulary::w1 vocabulary::w1d1
+引っ越しの荷造りをする (ひっこしのにづくり)	pack up for a move	vocabulary::w1 vocabulary::w1d1
+回覧板を回す (かいらんばんをまわす)	send a bulletin around to the neighbors	vocabulary::w1 vocabulary::w1d1
+この辺り／この付近 (このあたり／このふきん)	around here	vocabulary::w1 vocabulary::w1d1
+真ん前 (まんまえ)	right in front of…	vocabulary::w1 vocabulary::w1d1
+真後ろ (まうしろ)	right behind…	vocabulary::w1 vocabulary::w1d1
+真ん中 (まんなか)	right in the middle	vocabulary::w1 vocabulary::w1d1
+斜め前 (ななめまえ)	kitty-corner (diagonally in front)	vocabulary::w1 vocabulary::w1d1
+段ボール箱 (だんボールばこ)	a cardboard box	vocabulary::w1 vocabulary::w1d2
+ガムテープ	parcel/packing tape	vocabulary::w1 vocabulary::w1d2
+ポリ袋 (ポリぶくろ)	a plastic bag	vocabulary::w1 vocabulary::w1d2
+レジ袋 (レジぶくろ)	a plastic bag (from the checkout counter)	vocabulary::w1 vocabulary::w1d2
+（卵・牛乳などの）パック	an egg carton	vocabulary::w1 vocabulary::w1d2
+（肉などの）トレイ	a styrofoam tray	vocabulary::w1 vocabulary::w1d2
+キャップ	a bottle top / cap	vocabulary::w1 vocabulary::w1d2
+ラベル	a label	vocabulary::w1 vocabulary::w1d2
+ペットボトル	a PET (plastic) bottle	vocabulary::w1 vocabulary::w1d2
+買い換える (かいかえる)	buy a new one to replace the old	vocabulary::w1 vocabulary::w1d2
+家電製品 (かでんせいひん)	electronic appliances	vocabulary::w1 vocabulary::w1d2
+省エネ (しょうエネ)	energy-saving	vocabulary::w1 vocabulary::w1d2
+電気代を節約する (でんきだいをせつやく)	reduce the electricity bill	vocabulary::w1 vocabulary::w1d2
+ごみがたまる	garbage accumulates	vocabulary::w1 vocabulary::w1d2
+リサイクルに出す	put out for recycling	vocabulary::w1 vocabulary::w1d2
+不用品を処分する (ふようひんをしょぶん)	get rid of clutter	vocabulary::w1 vocabulary::w1d2
+ごみを分別する (ぶんべつ)	separate garbage	vocabulary::w1 vocabulary::w1d2
+燃えるごみ／可燃ごみ (もえる／かねん)	burnable garbage	vocabulary::w1 vocabulary::w1d2
+燃やせるごみ (もやせる)	burnable garbage	vocabulary::w1 vocabulary::w1d2
+燃えないごみ／不燃ごみ (もえない／ふねん)	unburnable garbage	vocabulary::w1 vocabulary::w1d2
+燃やせないごみ (もやせない)	unburnable garbage	vocabulary::w1 vocabulary::w1d2
+生ごみ (なまごみ)	kitchen garbage	vocabulary::w1 vocabulary::w1d2
+粗大ごみ (そだいごみ)	large-size garbage	vocabulary::w1 vocabulary::w1d2
+資源ごみ (しげんごみ)	recyclable garbage	vocabulary::w1 vocabulary::w1d2
+指定のごみ袋 (していのごみぶくろ)	garbage bag specified by the city government	vocabulary::w1 vocabulary::w1d2
+ペットボトルをすすぐ	rinse a PET bottle	vocabulary::w1 vocabulary::w1d2
+ラベルをはがす	peel the label off	vocabulary::w1 vocabulary::w1d2
+シールを貼る (はる)	put a sticker on	vocabulary::w1 vocabulary::w1d2
+アルミ缶をつぶす (かん)	crush the aluminum can	vocabulary::w1 vocabulary::w1d2
+古新聞を再利用する (ふるしんぶんをさいりよう)	reuse old newspaper	vocabulary::w1 vocabulary::w1d2
+水がもれる	water leaks	vocabulary::w1 vocabulary::w1d2
+水をもらす	let water flood out	vocabulary::w1 vocabulary::w1d2
+秘密がもれる (ひみつ)	a secret leaks out	vocabulary::w1 vocabulary::w1d2
+秘密をもらす	leak a secret	vocabulary::w1 vocabulary::w1d2
+こぼれる	spill out	vocabulary::w1 vocabulary::w1d2
+「よくいらっしゃいました。どうぞおあがりください。」	Welcome! Please come in.	vocabulary::w1 vocabulary::w1d3
+「おじゃまします。」	Thank you (said when entering someone's home).	vocabulary::w1 vocabulary::w1d3
+「ご無沙汰しています。お元気で(いらっしゃいま)したか。」	It's been a long time. How have you been?	vocabulary::w1 vocabulary::w1d3
+「ええ、おかげさまで。」	Quite well, thank you.	vocabulary::w1 vocabulary::w1d3
+「つまらないものですが……。」	"It's nothing much, but…" — a humble expression used when giving a gift/souvenir.	vocabulary::w1 vocabulary::w1d3
+「ありがとうございます。遠慮なくいただきます。」	Thank you very much. It's very kind of you.	vocabulary::w1 vocabulary::w1d3
+「お茶をお持ちします。」	I'll bring you a cup of tea.	vocabulary::w1 vocabulary::w1d3
+「どうぞおかまいなく。」	Please don't go to any trouble.	vocabulary::w1 vocabulary::w1d3
+「ゆっくりしていってください。」	Please stay as long as you like.	vocabulary::w1 vocabulary::w1d3
+「ごゆっくりお召し上がりください。」	Please enjoy your meal — a phrase often heard at restaurants.	vocabulary::w1 vocabulary::w1d3
+友人を家に招く／招待する (まねく／しょうたいする)	invite friends to your home	vocabulary::w1 vocabulary::w1d3
+座り心地がいいソファー (すわりごこち)	a comfortable sofa (to sit on)	vocabulary::w1 vocabulary::w1d3
+寝心地がいいベッド (ねごこち)	a comfortable bed (to sleep in)	vocabulary::w1 vocabulary::w1d3
+居心地がいい家 (いごこち)	a comfortable home (to be in)	vocabulary::w1 vocabulary::w1d3
+家で過ごす (いえですごす)	stay home / spend time at home	vocabulary::w1 vocabulary::w1d3
+ゆっくりする	have a leisurely time	vocabulary::w1 vocabulary::w1d3
+のんびりする	relax / make yourself at home	vocabulary::w1 vocabulary::w1d3
+くつろぐ	relax / unwind	vocabulary::w1 vocabulary::w1d3
+快適に暮らす (かいてきにくらす)	have a comfortable life	vocabulary::w1 vocabulary::w1d3
+半額セール (はんがく)	a half-price sale	vocabulary::w1 vocabulary::w1d3
+手ごろな価格 (てごろなかかく)	an affordable price	vocabulary::w1 vocabulary::w1d3
+家事をする (かじ)	do housework	vocabulary::w1 vocabulary::w1d4
+食卓を片付ける (しょくたくをかたづける)	clear the table	vocabulary::w1 vocabulary::w1d4
+汚れた食器 (よごれたしょっき)	dirty dishes	vocabulary::w1 vocabulary::w1d4
+子育てをする (こそだて)	raise a child	vocabulary::w1 vocabulary::w1d4
+子どもをかわいがる	love / dote on your child	vocabulary::w1 vocabulary::w1d4
+子どもを甘やかす (あまやかす)	spoil your child	vocabulary::w1 vocabulary::w1d4
+子どもをしつける	teach a child manners	vocabulary::w1 vocabulary::w1d4
+お尻をたたく (おしり)	spank	vocabulary::w1 vocabulary::w1d4
+怒鳴る (どなる)	yell	vocabulary::w1 vocabulary::w1d4
+よす (＝やめる)	stop / quit. ◆ この話はよそう。(Let's stop talking about it.) ◆ よしなさい。／よせ。(Stop it.)	vocabulary::w1 vocabulary::w1d4
+妊娠する (にんしん)	get pregnant	vocabulary::w1 vocabulary::w1d4
+子どもを産む (うむ)	give birth to a baby	vocabulary::w1 vocabulary::w1d4
+赤ちゃんをおんぶする／おぶう	carry a baby on your back	vocabulary::w1 vocabulary::w1d4
+おむつを換える／おしめを当てる	change a diaper / put a diaper on	vocabulary::w1 vocabulary::w1d4
+炊事 (すいじ)	cooking	vocabulary::w1 vocabulary::w1d4
+洗い物を流しに持っていく (あらいもの／ながし)	take the dirty dishes to the sink	vocabulary::w1 vocabulary::w1d4
+育児 (いくじ)(N)	child rearing	vocabulary::w1 vocabulary::w1d4
+子どもが甘える (あまえる)	a child seeking attention / being clingy	vocabulary::w1 vocabulary::w1d4
+しつけ (N)	discipline / manners	vocabulary::w1 vocabulary::w1d4
+生まれる (うまれる)	be born	vocabulary::w1 vocabulary::w1d4
+だっこする／(腕に)抱く (だく)	pick up / hold the baby	vocabulary::w1 vocabulary::w1d4
+紙おむつ (かみ)	disposable diaper	vocabulary::w1 vocabulary::w1d4
+やんちゃな子ども	a mischievous child	vocabulary::w1 vocabulary::w1d4
+いたずらをする	get into mischief	vocabulary::w1 vocabulary::w1d4
+さわぐ	make a racket / be rowdy	vocabulary::w1 vocabulary::w1d4
+さわがしい	noisy (making noise)	vocabulary::w1 vocabulary::w1d4
+そうぞうしい	noisy	vocabulary::w1 vocabulary::w1d4
+やかましい	noisy	vocabulary::w1 vocabulary::w1d4
+にぎやかな	lively	vocabulary::w1 vocabulary::w1d4
+落書きをする (らくがき)	scribble / doodle on	vocabulary::w1 vocabulary::w1d4
+暴れる (あばれる)	go out of control / thrash about	vocabulary::w1 vocabulary::w1d4
+頭をぶつ (あたま)	hit (someone) on the head	vocabulary::w1 vocabulary::w1d4
+顔をなぐる (かお)	punch someone in the face	vocabulary::w1 vocabulary::w1d4
+足でける (あし)	kick	vocabulary::w1 vocabulary::w1d4
+猫の耳を引っ張る (ねこのみみをひっぱる)	pull a cat's ear	vocabulary::w1 vocabulary::w1d4
+動物をいじめる (どうぶつ)	be cruel to an animal	vocabulary::w1 vocabulary::w1d4
+海水浴に行く (かいすいよく)	go swimming in the ocean	vocabulary::w1 vocabulary::w1d5
+日光浴をする (にっこうよく)	sunbathe	vocabulary::w1 vocabulary::w1d5
+太陽の光を浴びる (たいようのひかりをあびる)	bask in the sunlight	vocabulary::w1 vocabulary::w1d5
+日焼けする (ひやけ)	get a suntan	vocabulary::w1 vocabulary::w1d5
+肌が真っ黒になる (はだがまっくろ)	get very tanned/sunburnt	vocabulary::w1 vocabulary::w1d5
+サングラスを外す (はずす)	take off your sunglasses	vocabulary::w1 vocabulary::w1d5
+サングラスのあとがついている	have a tan mark from your sunglasses	vocabulary::w1 vocabulary::w1d5
+汗をかく (あせ)	sweat	vocabulary::w1 vocabulary::w1d5
+シャワーを浴びる (あびる)	take a shower	vocabulary::w1 vocabulary::w1d5
+真っ暗な部屋 (まっくら)	a pitch-black room	vocabulary::w1 vocabulary::w1d5
+ボタンを外す	unbutton	vocabulary::w1 vocabulary::w1d5
+海にもぐる (うみ)	dive into the ocean	vocabulary::w1 vocabulary::w1d5
+おぼれる	(almost) drown	vocabulary::w1 vocabulary::w1d5
+ロープをつかむ	grab a rope	vocabulary::w1 vocabulary::w1d5
+ロープにつかまる	hang onto a rope	vocabulary::w1 vocabulary::w1d5
+魚を捕まえる (さかなをつかまえる)	catch fish	vocabulary::w1 vocabulary::w1d5
+(~が)捕まる (つかまる)	be caught	vocabulary::w1 vocabulary::w1d5
+魚をつる	fish (with a rod)	vocabulary::w1 vocabulary::w1d5
+棚をつる (たな)	put up a shelf	vocabulary::w1 vocabulary::w1d5
+魚が網に引っかかる (あみ)	fish gets caught in a net	vocabulary::w1 vocabulary::w1d5
+詐欺に引っかかる (さぎ)	get conned / fall for a scam	vocabulary::w1 vocabulary::w1d5
+(~を)引っかける	hook / hang something on	vocabulary::w1 vocabulary::w1d5
+ボートをこぐ	row a boat	vocabulary::w1 vocabulary::w1d5
+自転車をこぐ	pedal a bicycle	vocabulary::w1 vocabulary::w1d5
+ボートがひっくり返る (かえる)	a boat tips over	vocabulary::w1 vocabulary::w1d5
+(~を)ひっくり返す	overturn / flip over	vocabulary::w1 vocabulary::w1d5
+ボートの行方 (ゆくえ)	the whereabouts of the boat	vocabulary::w1 vocabulary::w1d5
+行方不明 (ゆくえふめい)	missing / gone	vocabulary::w1 vocabulary::w1d5
+船を岸に近づける (ふねをきしにちかづける)	bring a boat toward the shore	vocabulary::w1 vocabulary::w1d5
+サメが近づく／近寄る (ちかづく／ちかよる)	a shark coming close	vocabulary::w1 vocabulary::w1d5
+あちこち／あちらこちらへ行く	go all over the place	vocabulary::w1 vocabulary::w1d5
+うまそうな（＝おいしそうな）えさ	tempting bait	vocabulary::w1 vocabulary::w1d5
+まずそう	looks unappetizing	vocabulary::w1 vocabulary::w1d5
+紙幣／お札 (しへい／おさつ)	a bill / banknote	vocabulary::w1 vocabulary::w1d6
+請求書 (せいきゅうしょ)	a bill / invoice	vocabulary::w1 vocabulary::w1d6
+小銭 (こぜに)	coins / small change	vocabulary::w1 vocabulary::w1d6
+銀行でお金を下ろす／引き出す (おろす／ひきだす)	withdraw money from your account	vocabulary::w1 vocabulary::w1d6
+預ける (あずける)	put money into a bank account	vocabulary::w1 vocabulary::w1d6
+銀行口座 (ぎんこうこうざ)	bank account	vocabulary::w1 vocabulary::w1d6
+自動で引き落とされる (じどうでひきおとされる)	be paid by automatic bank transfer	vocabulary::w1 vocabulary::w1d6
+授業料を払い込む (じゅぎょうりょうをはらいこむ)	pay tuition fees by transfer	vocabulary::w1 vocabulary::w1d6
+家賃を振り込む (やちんをふりこむ)	transfer monthly rent	vocabulary::w1 vocabulary::w1d6
+振込 (ふりこみ)(N)	bank transfer	vocabulary::w1 vocabulary::w1d6
+公共料金を支払う (こうきょうりょうきんをしはらう)	pay the utility charges (*electricity, gas, water, phone bills, etc.*)	vocabulary::w1 vocabulary::w1d6
+支払い (しはらい)(N)	payment	vocabulary::w1 vocabulary::w1d6
+手数料がかかる (てすうりょう)	a (bank) charge applies	vocabulary::w1 vocabulary::w1d6
+収入 (しゅうにゅう)	income	vocabulary::w1 vocabulary::w1d6
+支出 (ししゅつ)	expenditure	vocabulary::w1 vocabulary::w1d6
+赤字 (あかじ)	deficit / in the red	vocabulary::w1 vocabulary::w1d6
+黒字 (くろじ)	profit / in the black	vocabulary::w1 vocabulary::w1d6
+外食する (がいしょく)	eat out	vocabulary::w1 vocabulary::w1d6
+自炊する (じすい)	cook one's own meals	vocabulary::w1 vocabulary::w1d6
+高くつく (たかくつく)	end up costly	vocabulary::w1 vocabulary::w1d6
+栄養がかたよる (えいよう)	have an unbalanced/poor diet	vocabulary::w1 vocabulary::w1d6
+バランスが取れた食事 (とれたしょくじ)	a balanced meal	vocabulary::w1 vocabulary::w1d6
+生活費が不足する (せいかつひがふそく)	run short of living expenses	vocabulary::w1 vocabulary::w1d6
+食費を節約する (しょくひをせつやく)	economize on food expenses	vocabulary::w1 vocabulary::w1d6
+旅行する余裕がない (りょこうするよゆう)	have no spare money to travel	vocabulary::w1 vocabulary::w1d6
+収入につりあう生活 (しゅうにゅうにつりあう)	a lifestyle that matches one's income	vocabulary::w1 vocabulary::w1d6
+ぜいたくをする	splurge / live luxuriously	vocabulary::w1 vocabulary::w1d6
+むだづかいをする	waste money	vocabulary::w1 vocabulary::w1d6
+むだを省く (はぶく)	eliminate waste	vocabulary::w1 vocabulary::w1d6
+〜げ (seems / looks like)	Appears / gives the impression of (a feeling or state). Equivalent to 〜そう(な).<br><b>Connection:</b> A + げ / na + げ / Vたい(stem) + げ / ❗ よさげ・なさげ<br><b>Ex:</b> あの人はさびしげな目をしている。(＝さびしそうな) — That person has a lonely look in his eye.<br>彼は何か言いたげだった。(＝言いたそう) — He looked like he wanted to say something.	grammar::w1 grammar::w1d1
+〜がち (tend to / often)	Tends to / is apt to (often has a negative nuance). Equivalent to 〜ことが多い.<br><b>Connection:</b> N + がち / Vます(stem) + がち<br><b>Ex:</b> 私は子どもの頃、病気がちだった。(＝病気になることが多かった) — I tended to get sick when I was a child.<br>最近、彼は仕事を休みがちだ。(＝休むことが多い) — He has been taking a lot of days off work recently.	grammar::w1 grammar::w1d1
+〜っぽい (-ish / tends to / looks like)	Has a strong tendency toward, or has the quality/appearance of.<br><b>Connection:</b> N + っぽい / Vます(stem) + っぽい / A + っぽい<br><b>Ex:</b> 年を取ると、忘れっぽくなる。(＝よく忘れるようになる) — As you get older, you become more forgetful.<br>このコート、デザインはいいけれど、生地が安っぽいね。(＝安く見える) — This coat has a nice design, but the material looks cheap.	grammar::w1 grammar::w1d1
+〜気味 (a touch of / slightly)	A slight tendency toward a state; "a little bit...". Equivalent to ちょっと〜.<br><b>Connection:</b> Vます(stem) + 気味 / N + 気味<br><b>Ex:</b> 残業続きで疲れ気味だ。(＝ちょっと疲れている) — I've been feeling rather tired, because of continuous overtime work.<br>新入社員は緊張気味の顔をしていた。(＝ちょっと緊張した) — The new employee looked a little bit nervous.	grammar::w1 grammar::w1d1
+〜ものなら / もんなら (if I could...)	If it were possible (but it probably isn't). Hypothetical about something difficult/impossible.<br><b>Connection:</b> V(potential/れる form) + ものなら / もんなら<br><b>Ex:</b> 帰れるものなら、今すぐ、国へ帰りたい。(＝帰れないが、もしも帰れるなら) — If I could, I'd like to go back to my country right now.<br>やれるもんなら、やってみろ。(＝できないと思うが、もしできるなら) — If you can do it, then let's see you try.	grammar::w1 grammar::w1d2
+〜ものだから / もんだから (because / the reason is)	Gives a reason or excuse (often defensive/explanatory). Equivalent to 〜ので.<br><b>Connection:</b> V / A / na(な) / N(だ) + ものだから / もんだから<br><b>Ex:</b> 上着を脱いでもいいですか。暑いものですから。(＝暑いので) — Can I take my jacket off? I'm feeling a bit hot.<br>遅くなってごめん。道路が混んでいたもんだから。(＝混んでいたので) — I'm sorry I'm late. I got caught in a traffic jam.	grammar::w1 grammar::w1d2
+〜(んだ)もの / もん (because [emphatic, casual])	States a reason with an emotional/justifying nuance. Equivalent to 〜から.<br><b>Connection:</b> V / A / na / N + もの；or + んだ + もの / もん（na→なんだ、N→なんだ）<br><b>Ex:</b> パーティーには行かなかったよ。知らなかった(んだ)もの。(＝知らなかったから) — I didn't go to the party, because I didn't know it was on.<br>しょうがないよ。子ども(なん)だもん。(＝子どもだから) — It can't be helped. He's just a kid.	grammar::w1 grammar::w1d2
+〜ものの (although / but)	Concessive; "although / even though" (the second clause is unexpected). Equivalent to 〜けれど.<br><b>Connection:</b> V / A / na(な・である) / N(である) + ものの<br><b>Ex:</b> 車の免許は持っているものの、ほとんど運転したことがない。(＝持っているけれど) — Although I have a driver's license, I have almost never driven.<br>申し込みはしたものの、試験を受けるかどうか未定だ。(＝申し込んだけれど) — Although I applied, I haven't decided whether I'll take the test.	grammar::w1 grammar::w1d2
+N はもとより 〜も (let alone / not to mention) 【硬い / formal】	"Not only X but also Y" / "let alone." A formal version of 〜はもちろん〜も.<br><b>Connection:</b> N + はもとより + 〜も<br><b>Ex:</b> うちには、車はもとより自転車もないんです。(＝もちろん車もないし) — My family doesn't have a bicycle, let alone a car.<br>レタスはサラダで食べるのはもとより、炒めてもおいしい。(＝もちろんサラダで食べるのもおいしいし) — Lettuce is of course good in salad, but it is good in a stir-fry too.	grammar::w1 grammar::w1d3
+N1はともかく(として) (whether... or not / setting aside)	Setting X aside (leaving its evaluation open), the focus is on Y.<br><b>Connection:</b> N1は + ともかく(として) + [N2は / N2が]<br><b>Ex:</b> 母の料理は見た目はともかく味はおいしい。(＝見た目はどうか、わからないが) — Whether it looks good or not, my mother's cooking tastes good.<br>あの女優は、顔はともかくとして演技がすばらしい。(＝顔はどうか、わからないが) — Whether she is good-looking or not, she is a great actress.	grammar::w1 grammar::w1d3
+N は / N なら + まだしも (...would be one thing, but)	X would be acceptable/tolerable, but (the following) is not. Equivalent to 〜なら少しはいいが.<br><b>Connection:</b> Nは / Nなら + まだしも<br><b>Ex:</b> 私の英語力では、旅行はまだしも、留学なんて無理です。(＝旅行なら少しはいいが) — With my English skills, I can handle travelling but not studying abroad.<br>10分や20分ならまだしも、1時間も待てません。(＝10分や20分なら少しはいいが) — I can wait for ten or twenty minutes, but not for an hour.	grammar::w1 grammar::w1d3
+N(を)抜きにして / 抜きで / 抜きに / 抜きのN (without / leaving out)	Excluding / without / setting aside something.<br><b>Connection:</b> N + 抜きにして / 抜きで / 抜きに / 抜きの+N；N(を) + 抜きにして(は) / 抜きで(は) / 抜きに(は) + Vれない<br><b>Ex:</b> 皆さん、仕事の話は抜きにして楽しく飲みましょう。(＝仕事の話はやめて) — Everyone, let's enjoy drinking and forget about work.<br>お世辞抜きに、君の日本語は本当にうまいよ。(＝お世辞ではなく) — I am not flattering you. Your Japanese is really good.	grammar::w1 grammar::w1d3
+〜てたまらない (can't stand / extremely)	A feeling/sensation so strong it can hardly be endured ("がまんできないぐらい〜だ").<br><b>Connection:</b> A + くて / na + で / Vたくて + たまらない<br><b>Ex:</b> 子どものことが心配でたまらない。(＝とても心配だ) — I am so worried about my children.<br>家族に会いたくてたまらない。(＝とても会いたい) — I can't wait to see my family.	grammar::w1 grammar::w1d4
+〜て仕方がない / しょうがない (extremely / can't help)	A feeling/sensation/troubled state that is overwhelming.<br><b>Connection:</b> A + くて + 仕方がない；na + で / V + て + しょうがない / 仕方がない<br><b>Ex:</b> 今日は何もすることがなくて、ひまで仕方がない。(＝とてもひまだ) — I have nothing to do today. I'm so bored.<br>そんな方法では、時間がかかってしょうがない。(＝とても時間がかかる) — It will take you forever to do it that way.	grammar::w1 grammar::w1d4
+〜てかなわない (can't stand / unbearable) 【硬い / formal】	"〜で困る" — troubled/bothered by something. NOT used for emotions.<br><b>Connection:</b> A + くて / na + で + かなわない<br><b>Ex:</b> 隣の工事がうるさくてかなわない。(＝うるさくて困る) — I can't stand the noise from the construction next door.<br>私の家は、駅から遠くて不便でかなわない。(＝不便で困る) — I can't stand how inconvenient it is that my house is so far from the station.	grammar::w1 grammar::w1d4
+〜てならない (extremely / can't help) 【硬い / formal】	A feeling that arises naturally and can't be suppressed (自然になる気持ち).<br><b>Connection:</b> A + くて / na + で / V + て + ならない<br><b>Ex:</b> 親友の結婚式に出席できないのが、残念でならない。(＝とても残念だ) — I am so disappointed that I won't be able to attend my friend's wedding.<br>検査の結果が気になってならない。(＝とても気になる) — I am really concerned about the results of my physical exam.	grammar::w1 grammar::w1d4
+〜ことはない (it doesn't mean that... / it's not that...)	Softens or partially denies — "it's not the case that... (but)". Equivalent to 〜と言っていいが.<br><b>Connection:</b> A + くない / na + じゃない / V + ない / V + られない + ことは ない<br><b>Ex:</b> 食べないことはないが、あまり好きじゃない。(＝食べると言っていいが) — It doesn't mean that I won't eat it, I just don't like it much.<br>お酒やタバコをやめるのは難しいが、やめられないことはない。(＝やめることは可能である) — It is difficult to quit drinking or smoking, but it is possible to quit.	grammar::w1 grammar::w1d5
+〜こともない (it's not impossible / could possibly)	"It's not impossible to..." / "to some extent, one could...". Equivalent to 〜かもしれない.<br><b>Connection:</b> A + くない / na + じゃない / V + ない / V + られない + ことも ない<br><b>Ex:</b> 毎日、漢字を4つか5つなら、覚えられないこともない。(＝覚えられるかもしれない) — It's not impossible to memorize kanji if it's only 4 or 5 a day.<br>この会社を辞める人の気持ちがわからないこともない。(＝わかるように思う) — I can understand, to some extent, why someone would quit this company.	grammar::w1 grammar::w1d5
+〜ないではいられない (can't help but / can't stop oneself)	Unable to refrain from doing something. Equivalent to 〜することをやめられない.<br><b>Connection:</b> V + ないでは + いられない<br><b>Ex:</b> 態度の悪い店員に、一言文句を言わないではいられなかった。(＝言うことをやめられなかった) — I couldn't help giving a piece of my mind to the ill-mannered store clerk.<br>工事の音がうるさくて、耳をふさがないではいられない。(＝ふさぐことをやめられない) — The construction noise was so loud I couldn't help covering my ears.	grammar::w1 grammar::w1d5
+〜ずにはいられない (can't help but) 【硬い / formal】	Formal version of 〜ないではいられない.<br><b>Connection:</b> V + ずには + いられない；❗ する → せず<br><b>Ex:</b> 職場でいやなことがあると、酒を飲まずにはいられない。(＝飲むことをやめられない) — I can't help having a drink when something unpleasant happens at work.<br>あの映画を見たら、だれでも感動せずにはいられないだろう。(＝感動することを止められない) — Anyone who sees that movie will no doubt be moved.	grammar::w1 grammar::w1d5
+〜ねばならない / ならぬ (must / have to) 【硬い / formal】	Formal equivalent of 〜なければならない.<br><b>Connection:</b> V + ない(stem) + ねば + ならない / ならぬ；❗ する → せねば<br><b>Ex:</b> ビザが切れたので、国に帰らねばならない。(＝帰らなければならない) — I have to go back to my country as my visa has expired.<br>それが真実であることを確かめねばならない。(＝確かめなければならない) — I have to confirm whether it is true.	grammar::w1 grammar::w1d6
+〜てはならない (must not) 【硬い / formal】	Expresses prohibition (禁止). Formal equivalent of 〜てはいけない.<br><b>Connection:</b> V + て + はならない<br><b>Ex:</b> この悲惨な体験を決して忘れてはならない。(＝忘れてはいけない) — We must never forget this tragic experience.<br>失敗を人のせいにしてはなりません。(＝してはいけません) — You should not put the blame for failure on others.	grammar::w1 grammar::w1d6
+〜て(は)いられない / てられない / てらんない (can't keep... / can't afford to)	Cannot continue doing / cannot afford (the time or patience) to keep doing.<br><b>Connection:</b> V + て(は)いられない / てられない / てらんない（てらんない is casual）<br><b>Ex:</b> 田中君、遅いなあ。もう待ってられないから先に行こう。(＝待ち続けられない) — Tanaka is very late. I can't keep waiting; let's go ahead.<br>忙しくてテレビなんか見てらんない。(＝見ることを続けられない) — I'm so busy I have no time to be watching TV.	grammar::w1 grammar::w1d6
+〜てばかりは / てばかりも いられない (can't just keep -ing)	Cannot keep doing only one thing (must do something else too).<br><b>Connection:</b> V + てばかりは / てばかりも + いられない<br><b>Ex:</b> 連休だけれど、もうすぐ試験があるから、遊んでばかりはいられない。(＝いつも遊んでいることはできない) — It's a long holiday, but with an exam coming I can't just play around.<br>もう親に頼ってばかりはいられない。(＝いつも頼ることはできない) — I can't keep depending on my parents.	grammar::w1 grammar::w1d6
+有効期限	ゆうこうきげん — the date/time until which something (a coupon, offer) is valid	reading::w1 reading::w1d1
+併用できません	cannot be used together (with other coupons/discounts)	reading::w1 reading::w1d1
+お一人様一回	one use per person	reading::w1 reading::w1d1
+同伴の方	the person accompanying you	reading::w1 reading::w1d1
+ご注文の際	at the time of ordering (as opposed to at checkout)	reading::w1 reading::w1d1
+店頭表示価格	the price displayed in-store (before any further discount)	reading::w1 reading::w1d2
+本状をお持ちください	please bring this notice/flyer with you	reading::w1 reading::w1d2
+特典	a special benefit/perk (of a sale or offer)	reading::w1 reading::w1d2
+交通費	transportation expenses (often provided by a part-time job)	reading::w1 reading::w1d3
+時給	hourly wage	reading::w1 reading::w1d3
+全額支給	full amount paid/reimbursed (e.g. transport costs)	reading::w1 reading::w1d3
+最寄り駅	the nearest station	reading::w1 reading::w1d4
+徒歩	on foot / (n)-minute walk	reading::w1 reading::w1d4
+間取り	floor plan	reading::w1 reading::w1d4
+築年数	the age of a building (years since construction)	reading::w1 reading::w1d4
+賃料	rent	reading::w1 reading::w1d4
+敷金／保証金	deposit paid to the landlord as a guarantee at signing	reading::w1 reading::w1d4
+礼金	"thank-you money" paid to the landlord at signing (not returned)	reading::w1 reading::w1d4
+種別	building structure type (wood / concrete / steel-frame)	reading::w1 reading::w1d4
+所在地	location/address	reading::w1 reading::w1d4
+面積	floor space/area	reading::w1 reading::w1d4
+角部屋	a corner room	reading::w1 reading::w1d4
+駐輪	bicycle parking	reading::w1 reading::w1d5
+原付（＝原動機付自転車）	a moped (50cc or under)	reading::w1 reading::w1d5
+月極	a monthly lease	reading::w1 reading::w1d5
+盗難	theft	reading::w1 reading::w1d5
+防止	prevention	reading::w1 reading::w1d5
+破損	damage	reading::w1 reading::w1d5
+責任を負う	to be responsible for	reading::w1 reading::w1d5
+放置	parked/left beyond the allowable time limit	reading::w1 reading::w1d5
+撤去	removal (e.g. of an abandoned bicycle)	reading::w1 reading::w1d5
+定期契約	a fixed-period lease	reading::w1 reading::w1d5
+ルー	roux (sauce base, e.g. for curry/stew)	reading::w1 reading::w1d6
+〜の素	instant mix for making ○○	reading::w1 reading::w1d6
+薄切り	thinly sliced	reading::w1 reading::w1d6
+角切り	diced / cubed	reading::w1 reading::w1d6
+一口大に切る	to cut into bite-size pieces	reading::w1 reading::w1d6
+厚手の鍋	a heavy pan	reading::w1 reading::w1d6
+耐熱皿	a heatproof (Pyrex) dish	reading::w1 reading::w1d6
+煮込む	to simmer	reading::w1 reading::w1d6
+沸騰する	to boil	reading::w1 reading::w1d6
+かき混ぜる	to mix / stir	reading::w1 reading::w1d6
+煮立つ	to start to boil	reading::w1 reading::w1d6
+アクをとる	to skim off the scum	reading::w1 reading::w1d6
+すくう	to scoop out	reading::w1 reading::w1d6
+焦がさないように	so as not to burn	reading::w1 reading::w1d6
+焦げ目がつくように	so as to brown	reading::w1 reading::w1d6
+いったん	temporarily / once	reading::w1 reading::w1d6
+仕上げに	as a finishing touch / at the end	reading::w1 reading::w1d6
+しゅちょう（主張）↔ しゅっちょう（出張）	主張 = assert/claim, 出張 = business trip — small っ changes the meaning	listening::w1 listening::w1d1
+じこ（事故）↔ じっこう（実行）	事故 = accident, 実行 = carry out — small っ changes the meaning	listening::w1 listening::w1d1
+こきょう（故郷）↔ こっきょう（国境）	故郷 = hometown, 国境 = national border — small っ changes the meaning	listening::w1 listening::w1d1
+しゅるい（種類）↔ しょるい（書類）	種類 = kind/type, 書類 = documents — しゅ/しょ contrast	listening::w1 listening::w1d1
+しりょう（資料）↔ ちりょう（治療）	資料 = materials/data, 治療 = medical treatment — し/ち contrast	listening::w1 listening::w1d1
+かんこう（観光）↔ かんきょう（環境）	観光 = sightseeing, 環境 = environment — こう/きょう contrast	listening::w1 listening::w1d1
+けんこう（健康）↔ けんきゅう（研究）	健康 = health, 研究 = research — こう/きゅう contrast	listening::w1 listening::w1d1
+わかんない（縮約形）	＝わからない — casual contraction of ら/り/る/れ/に/の → ん	listening::w1 listening::w1d1
+見てる（縮約形）	＝見ている — casual contraction of ている → てる	listening::w1 listening::w1d1
+置いとく（縮約形）	＝置いておく — casual contraction of ておく → とく	listening::w1 listening::w1d1
+見せたげる（縮約形）	＝見せてあげる — casual contraction of てあげる → たげる	listening::w1 listening::w1d1
+食べちゃいけない（縮約形）	＝食べては(いけない) — casual contraction of ては → ちゃ	listening::w1 listening::w1d1
+飲んじゃだめ（縮約形）	＝飲んでは(だめ) — casual contraction of では → じゃ	listening::w1 listening::w1d1
+行かなけりゃ（縮約形）	＝行かなければ — casual contraction of ければ → けりゃ	listening::w1 listening::w1d1
+晴れるって（縮約形）	＝晴れると — casual contraction of と → って	listening::w1 listening::w1d1
+そんなこと言ったって（縮約形）	＝言っても — casual contraction of ても → たって	listening::w1 listening::w1d1
+急いだって（縮約形）	＝急いでも — casual contraction of でも → だって	listening::w1 listening::w1d1
+Aさんに〜してさしあげる	giving/receiving: the subject (A) does the action for B (humble, A does it)	listening::w1 listening::w1d2
+Aさんに〜してくださる	giving/receiving: A does the action for the speaker (A does it, respectful toward A)	listening::w1 listening::w1d2
+AがBに〜していただく	giving/receiving: B performs the action as a favor to A (A receives the benefit, B does it)	listening::w1 listening::w1d2
+雨に降られた（迷惑受身）	"suffering passive" — I was troubled by the rain falling (nuisance passive)	listening::w1 listening::w1d2
+店員に辞められた（迷惑受身）	the manager was troubled by the employee quitting (nuisance passive)	listening::w1 listening::w1d2
+兄は妹を泣かせた（使役）	causative: the older brother made his sister cry (his teasing caused it)	listening::w1 listening::w1d2
+私は両親を安心させた（使役）	causative: I made my parents feel relieved (by passing the exam)	listening::w1 listening::w1d2
+落ち込む	to become depressed	listening::w1 listening::w1d2
+召す／召し上がる	keigo for 着る・風邪をひく (wear/catch a cold) or 食べる・飲む・吸う (eat/drink/smoke)	listening::w1 listening::w1d3
+見える／お見えになる	keigo for 来る (come)	listening::w1 listening::w1d3
+おいでだ／おいでになる	keigo for いる・来る・行く (be/come/go)	listening::w1 listening::w1d3
+お越しだ／お越しになる	keigo for 来る (come)	listening::w1 listening::w1d3
+存じる／存じ上げる	keigo (humble) for 知る (know)	listening::w1 listening::w1d3
+申す	keigo (humble) for 言う (say) — e.g. 田中と申します	listening::w1 listening::w1d3
+申し上げる	keigo (humble) for する — e.g. よろしくお願い申し上げます	listening::w1 listening::w1d3
+拝見する／拝読する／拝借する	keigo (humble) for 見る／読む／借りる (see/read/borrow)	listening::w1 listening::w1d3
+恐れ入ります	humble expression of thanks/apology — used e.g. when someone points out you dropped something	listening::w1 listening::w1d3
+〜わけだ	＝〜のは当然だ — "no wonder..., that explains why..."	listening::w1 listening::w1d4
+〜わけじゃない	＝〜という理由ではない — "it's not that... (reason denial)"	listening::w1 listening::w1d4
+わけない	＝簡単だ — "that's easy/no big deal" (NOT the same as わけがない)	listening::w1 listening::w1d4
+〜わけがない	＝はずがない — "there's no way that..."	listening::w1 listening::w1d4
+〜わけにはいかない	＝べきではない／できない — "can't afford to / mustn't"	listening::w1 listening::w1d4
+〜ことはない	＝必要ない — "there's no need to..."	listening::w1 listening::w1d4
+〜ことは〜	＝〜だ。でも… — concessive "I do X, but..." (e.g. 食べることは食べるが好きではない)	listening::w1 listening::w1d4
+〜た／なかったことにする	to treat something as if it did/didn't happen (pretend it happened/didn't)	listening::w1 listening::w1d4
+それはそれは	an expression of thanks when receiving a small gift (＝それはどうもありがとう)	listening::w1 listening::w1d4
+どうせ	a sense of resignation/giving up ("it's no use anyway...")	listening::w1 listening::w1d4
+どうだか	a sense of distrust/skepticism ("I doubt it...")	listening::w1 listening::w1d4
+そこをなんとか	pleading for an unreasonable favor ("please, somehow...")	listening::w1 listening::w1d4
+また、そのうちに	a vague non-committal reply, often used to decline politely without saying no directly	listening::w1 listening::w1d4
+あいにく	unfortunately	listening::w1 listening::w1d4
+張り切る	to be eager/fired up	listening::w1 listening::w1d4
+ぎりぎりの線	the absolute limit of what can be offered/accepted	listening::w1 listening::w1d4
