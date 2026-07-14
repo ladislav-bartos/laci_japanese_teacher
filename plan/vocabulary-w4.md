@@ -1,0 +1,341 @@
+# Vocabulary Learning Summary - Week 4 (第4週)[cite: 7]
+
+**Theme: 副詞をたっぷり覚えましょう (Let's memorize as many adverbs as possible)[cite: 7]**
+
+This document extracts the vocabulary, useful expressions, and practice questions from Week 4, organized day by day for self-testing.[cite: 7] Answer keys (printed in the source for Days 1–6) are included at the end of each day.[cite: 7]
+
+---
+
+# Day 1 (1日目): なんとか覚えよう！ (I'll try to memorize them!)[cite: 7]
+
+## Vocabulary — Adverbs of Certainty, Time, and Manner[cite: 7]
+* **必ずしも～とは限らない (かならずしも～とはかぎらない)** — not necessarily (e.g., Being rich does not necessarily mean happy.)[cite: 7]
+* **必ず (かならず)** — eventually / definitely / always[cite: 7]
+* **いつか** — someday / sometime[cite: 7]
+* **いつまでも** — forever / always[cite: 7]
+* **いつのまにか** — before one knows it / unawares[cite: 7]
+* **つい** — without meaning to / unintentionally[cite: 7]
+* **ついに** — finally / at last[cite: 7]
+* **どうしても** — no matter what / simply not possible[cite: 7]
+* **どうも** — somehow / really (cannot explain well) / much (thanks/excuse me)[cite: 7]
+* **なんとか／どうにか** — somehow / manage to do[cite: 7]
+* **なんとなく** — sort of / somehow[cite: 7]
+* **なんとも～ない** — not care about / think nothing of[cite: 7]
+* **もし（も）** — if[cite: 7]
+* **もしかしたら／もしかすると** — perhaps / possibly / could be[cite: 7]
+* **なるべく** — as much as possible / if you can[cite: 7]
+* **なるほど** — I see / certainly / indeed[cite: 7]
+* **確か (たしか)** — probably / I think / if I remember correctly[cite: 7]
+* **確かに (たしかに)** — definitely / certainly / surely[cite: 7]
+
+## Practice (練習)[cite: 7]
+
+**練習I — Choose the correct option:**[cite: 7]
+1. お金を貯めて、（a. つい / b. ついに）欲しい車を手に入れた。[cite: 7]
+2. 急げば、（a. なんとか / b. なんとなく）約束の時間に間に合うでしょう。[cite: 7]
+3. （a. 確か / b. なるほど）彼女は結婚したはずだけど……。[cite: 7]
+4. 彼のあの態度は（a. なるべく / b. どうしても）許せない。[cite: 7]
+5. ゲームに夢中になっていたら、（a. いつまでも / b. いつのまにか）朝になっていた。[cite: 7]
+6. （a. どうしても / b. どうも）風邪をひいてしまったらしい。[cite: 7]
+
+**練習II — Choose the word that fits:**[cite: 7]
+7. （ ）私は、昨日、5時まで会社にいました。間違いありません。 → 1 必ず 2 必ずしも 3 確か 4 確かに[cite: 7]
+8. このごみを（ ）しないと、座るところもない。 → 1 なんとも 2 なんとか 3 なるべく 4 なんとなく[cite: 7]
+
+*きょうの一言: 全部覚えるのは、必ずしも不可能ではありません。*[cite: 7]
+
+**Answers (Day 1):** 練習I ① b ② a ③ a ④ b ⑤ b ⑥ b ／ 練習II ⑦ 4 ⑧ 2[cite: 7]
+
+---
+
+# Day 2 (2日目): いずれ覚えられる！ (You will eventually remember it!)[cite: 7]
+
+## Vocabulary — Time-Related Adverbs[cite: 7]
+* **まもなく** — soon / shortly after[cite: 7]
+* **近々 (ちかぢか)** — sometime soon / in the near future[cite: 7]
+* **そのうち** — someday / before long[cite: 7]
+* **やがて** — soon / eventually[cite: 7]
+* **ようやく** — finally / at last[cite: 7]
+* **いずれ** — eventually / someday[cite: 7]
+* **たちまち** — immediately / instantly[cite: 7]
+* **ただちに** — right away / immediately[cite: 7]
+* **にわかに** — suddenly / abruptly[cite: 7]
+* **絶えず (たえず)** — constantly[cite: 7]
+* **つねに** — always[cite: 7]
+* **しきりに** — repeatedly / frequently[cite: 7]
+* **しょっちゅう** — often / frequently[cite: 7]
+* **（もう）すでに** — already[cite: 7]
+* **とっくに** — long ago / already[cite: 7]
+* **前もって (まえもって)** — in advance[cite: 7]
+
+## Vocabulary — Quantity & Degree Adverbs[cite: 7]
+* **ほぼ** — approximately / almost[cite: 7]
+* **お（お）よそ** — approximately / roughly[cite: 7]
+* **ほんの** — a tiny bit / just[cite: 7]
+* **たった** — only / merely[cite: 7]
+* **せいぜい** — at most / only about[cite: 7]
+* **少なくとも (すくなくとも)** — at least[cite: 7]
+* **せめて** — at least / if only[cite: 7]
+
+## Practice (練習)[cite: 7]
+
+**練習I — Choose the correct option:**[cite: 7]
+1. 申し込みの期限は（a. とっくに / b. そのうち）過ぎてしまった。[cite: 7]
+2. 建物は（a. およそ / b. ほぼ）完成した。[cite: 7]
+3. 長い梅雨が（a. ただちに / b. ようやく）終わった。[cite: 7]
+4. その子は（a. ほんの / b. たった）一人でこんなに遠くまで来た。[cite: 7]
+5. 「（a. せめて / b. ほぼ）70点は取りたいなあ。」[cite: 7]
+6. その家からは（a. やがて / b. 絶えず）笑い声が聞こえてくる。[cite: 7]
+
+**練習II — Choose the word that fits:**[cite: 7]
+7. （ ）本当のことがわかるだろう。 → 1 しきりに 2 いずれ 3 たえず 4 せいぜい[cite: 7]
+8. 今日の仕事は（ ）終わりました。 → 1 ほんの 2 やがて 3 ほぼ 4 つねに[cite: 7]
+
+*きょうの一言: 毎日、せめて1時間は勉強しましょう。*[cite: 7]
+
+**Answers (Day 2):** 練習I ① a ② b ③ b ④ b ⑤ a ⑥ b ／ 練習II ⑦ 2 ⑧ 3[cite: 7]
+
+---
+
+# Day 3 (3日目): せっせと覚えよう！ (I'll memorize them diligently!)[cite: 7]
+
+## Vocabulary — Adverbs Expressing States & Actions[cite: 7]
+* **たびたび／しばしば** — frequently / many times[cite: 7]
+* **いよいよ** — finally / at last[cite: 7]
+* **いちいち** — one by one / every single thing[cite: 7]
+* **ふわふわ（する）** — soft / floating[cite: 7]
+* **まごまご（する）** — be at a loss / confused[cite: 7]
+* **それぞれ／めいめい／ひとりひとり／各々（おのおの）** — each / respectively[cite: 7]
+* **ばったり** — bump into (someone unexpectedly)[cite: 7]
+* **こっそり** — secretly / sneaking[cite: 7]
+* **ぴったり** — exactly / tightly[cite: 7]
+* **ぎっしり** — tightly packed / cramped[cite: 7]
+* **じっくり** — slowly and carefully[cite: 7]
+* **ちらっと／ちらりと** — at a glance[cite: 7]
+* **うんざり（する）** — get fed up with / disgusted[cite: 7]
+* **びっしょり／びしょびしょ** — soaked / drenched[cite: 7]
+* **しいんと（する）／シーンと（する）** — fall silent / quiet[cite: 7]
+* **ずらりと／ずらっと** — lined up[cite: 7]
+* **さっさと** — at once / quickly[cite: 7]
+* **せっせと** — diligently / steadily[cite: 7]
+* **どっと** — pouring in / all of a sudden[cite: 7]
+* **すっと（する）** — abruptly / feel refreshed[cite: 7]
+* **ひとりでに** — by itself / automatically[cite: 7]
+* **いっせいに** — simultaneously / all at once[cite: 7]
+
+## Practice (練習)[cite: 7]
+
+**練習I — Choose the correct option:**[cite: 7]
+1. 家に着いたら（a. どっと / b. すっと）疲れが出た。[cite: 7]
+2. 手と手を（a. しいんと / b. ぴったり）合わせる。[cite: 7]
+3. 妻と子どものために（a. ちらっと / b. せっせと）働く。[cite: 7]
+4. （a. じっくり / b. ぎっしり）考えて結論を出そう。[cite: 7]
+5. 毎日こんなに暑くて、本当に（a. いちいち / b. うんざり）する。[cite: 7]
+6. このパソコンは（a. しばしば / b. いよいよ）フリーズする。[cite: 7]
+
+**練習II — Choose the word that fits:**[cite: 7]
+7. 桜が（ ）開花した。 → 1 ひとりでに 2 めいめい 3 いっせいに 4 ずらりと[cite: 7]
+8. おなかがすいたので夜中に（ ）お菓子を食べてしまった。 → 1 ぱったり 2 こっそり 3 ぴったり 4 ぎっしり[cite: 7]
+
+*きょうの一言: 宿題はさっさと済ませましょう。*[cite: 7]
+
+**Answers (Day 3):** 練習I ① a ② b ③ b ④ a ⑤ b ⑥ a ／ 練習II ⑦ 3 ⑧ 2[cite: 7]
+
+---
+
+# Day 4 (4日目): さらに覚えよう！ (I'll try to memorize more!)[cite: 7]
+
+## Vocabulary — Adverbs of Degree & Extent[cite: 7]
+* **相当（そうとう）／かなり** — very / considerably[cite: 7]
+* **大いに (おおいに)** — highly / greatly / very much[cite: 7]
+* **うんと** — a lot / extremely[cite: 7]
+* **たっぷり** — ample / fully[cite: 7]
+* **あまりにも** — too much / excessively[cite: 7]
+* **やや** — a little / somewhat[cite: 7]
+* **多少 (たしょう)** — somewhat / a little[cite: 7]
+* **いくぶん／いくらか** — a little / to some extent[cite: 7]
+* **わりに／わりと／割合（に） (わりあいに)** — relatively / unexpectedly[cite: 7]
+* **なお（いっそう）** — even more / furthermore[cite: 7]
+* **より（いっそう）** — much more[cite: 7]
+* **むしろ** — rather / preferably[cite: 7]
+* **余計（に） (よけいに)** — excessively / rather (more)[cite: 7]
+* **じょじょに** — gradually / little by little[cite: 7]
+* **次第に (しだいに)** — gradually[cite: 7]
+* **さらに** — furthermore / even more[cite: 7]
+* **一段と (いちだんと)** — much more / a lot[cite: 7]
+* **ぐっと** — significantly / much (better)[cite: 7]
+* **めっきり** — noticeably / remarkably[cite: 7]
+* **主に (おもに)** — mainly[cite: 7]
+* **くれぐれも** — earnestly / repeatedly (used for greetings/requests)[cite: 7]
+* **一応 (いちおう)** — more or less / tentatively[cite: 7]
+* **一般に (いっぱんに)** — generally[cite: 7]
+* **明らかに (あきらかに)** — obviously / clearly[cite: 7]
+
+## Practice (練習)[cite: 7]
+
+**練習I — Choose the correct option:**[cite: 7]
+1. 彼女からのメールが（a. たっぷり / b. めっきり）減ってしまった。[cite: 7]
+2. 改良されたソフトは前より（a. かなり / b. 次第に）使いやすい。[cite: 7]
+3. 塩を入れたら味が（a. ぐっと / b. 主に）よくなった。[cite: 7]
+4. 痛みはさっきより（a. よけいに / b. いくらか）ましになった。[cite: 7]
+5. あの政治家の発言は（a. じょじょに / b. あまりにも）無責任だ。[cite: 7]
+6. 国の借金は前年より（a. さらに / b. くれぐれも）増えた。[cite: 7]
+
+**練習II — Choose the word that fits:**[cite: 7]
+7. ごはんを（ ）食べて早く大きくなってね。 → 1 じょじょに 2 うんと 3 ぐっと 4 おもに[cite: 7]
+8. 最近の女性は（ ）強くなったと言われている。 → 1 おもに 2 くれぐれも 3 たっぷり 4 いちだんと[cite: 7]
+
+*きょうの一言: 明らかに日本語がうまくなっていますよ。*[cite: 7]
+
+**Answers (Day 4):** 練習I ① b ② a ③ a ④ b ⑤ b ⑥ a ／ 練習II ⑦ 2 ⑧ 4[cite: 7]
+
+---
+
+# Day 5 (5日目): 取りあえず覚えよう！ (I'll memorize them for the time being!)[cite: 7]
+
+## Vocabulary — Evaluative & Temporal Adverbs[cite: 7]
+* **いわば** — so to speak / as it were[cite: 7]
+* **いわゆる** — so-called[cite: 7]
+* **まさか** — never / by no means[cite: 7]
+* **まさに** — exactly / surely / just now[cite: 7]
+* **一度に／いっぺんに (いちどに)** — all at once / at one time[cite: 7]
+* **一気に (いっきに)** — in one breath / at a stroke[cite: 7]
+* **思い切り (おもいきり)** — with all one's might / to one's heart's content[cite: 7]
+* **思い切って (おもいきって)** — boldly / daringly[cite: 7]
+* **思わず (おもわず)** — unintentionally / instinctively[cite: 7]
+* **思いがけず／思いがけなく (おもいがけず)** — unexpectedly[cite: 7]
+* **なにしろ／とにかく** — at any rate / anyhow[cite: 7]
+* **なにかと** — one way or another / with this and that[cite: 7]
+* **相変わらず (あいかわらず)** — as ever / as usual[cite: 7]
+* **取りあえず (とりあえず)** — for the time being / first of all[cite: 7]
+* **わざと** — intentionally / on purpose[cite: 7]
+* **わざわざ** — taking the trouble to do / expressly[cite: 7]
+* **いっそう** — much more / still more[cite: 7]
+* **いっそ** — rather / preferably[cite: 7]
+* **今に (いまに)** — before long / eventually[cite: 7]
+* **今にも (いまにも)** — at any moment[cite: 7]
+* **今さら (いまさら)** — now / at this late hour[cite: 7]
+* **未だに (いまだに)** — still / even now[cite: 7]
+* **ただ今 (ただいま)** — right now / presently[cite: 7]
+* **たった今 (たったいま)** — just now[cite: 7]
+
+## Practice (練習)[cite: 7]
+
+**練習I — Choose the correct option:**[cite: 7]
+1. （a. 思い切り / b. 思い切って）マンションを買った。[cite: 7]
+2. （a. 今さら / b. 今にも）やめるわけにはいかない。[cite: 7]
+3. この店は（a. 相変わらず / b. とりあえず）客の入りが悪い。[cite: 7]
+4. その子どもは（a. 今にも / b. ただ今）泣き出しそうだ。[cite: 7]
+5. 年賀状は（a. いわば / b. いっそ）、クリスマスカードのようなものです。[cite: 7]
+6. レポートを（a. 一気に / b. 一度に）書き上げた。[cite: 7]
+
+**練習II — Choose the word that fits:**[cite: 7]
+7. こんなにうすく皮をむくとは、（ ）プロですね。 → 1 思い切って 2 まさに 3 まさか 4 なにしろ[cite: 7]
+8. カレーにチーズを入れたら（ ）おいしくなりました。 → 1 いっそう 2 いっそ 3 なにかと 4 わざと[cite: 7]
+
+*きょうの一言: 今に、なんでも話せるようになるでしょう。*[cite: 7]
+
+**Answers (Day 5):** 練習I ① b ② a ③ a ④ a ⑤ a ⑥ a ／ 練習II ⑦ 2 ⑧ 1[cite: 7]
+
+---
+
+# Day 6 (6日目): いったん覚えたら忘れない！ (You'll never forget once you learn it!)[cite: 7]
+
+## Vocabulary — Negative Polarity & Conditional Adverbs[cite: 7]
+* **別に～ない (べつに～ない)** — not particularly[cite: 7]
+* **そう～ない** — not so much / not that[cite: 7]
+* **大して～ない (たいして～ない)** — not much / not very[cite: 7]
+* **一切～ない (いっさい～ない)** — absolutely not / none at all[cite: 7]
+* **とても～ない** — hardly / by no means[cite: 7]
+* **おそらく～だろう** — probably[cite: 7]
+* **どうやら～そうだ／ようだ** — seemingly / it looks like[cite: 7]
+* **果たして～だろうか (はたして～だろうか)** — really? / is it true that?[cite: 7]
+* **どうせ～だろう** — anyway / anyhow[cite: 7]
+* **せっかく～のに／から** — despite taking the trouble to / since we've gone to the trouble[cite: 7]
+* **いったん／一度／ひとたび～したら** — once (you do something)[cite: 7]
+* **かえって** — on the contrary / rather[cite: 7]
+* **さっそく** — immediately / right away[cite: 7]
+* **さすが（に）** — as expected / truly[cite: 7]
+* **あいにく** — unfortunately[cite: 7]
+* **あくまで（も）** — to the bitter end / persistently[cite: 7]
+* **なんだか／なんとなく／なぜか** — for some reason / somewhat[cite: 7]
+* **なんと／なんて** — what a / how[cite: 7]
+
+## Practice (練習)[cite: 7]
+
+**練習I — Choose the correct option:**[cite: 7]
+1. これで（a. ひとまず / b. ひとたび）安心です。[cite: 7]
+2. （a. せっかく / b. あいにく）買ったのに、どうして使わないの？[cite: 7]
+3. 比較すると（a. とても / b. そう）差はなかった。[cite: 7]
+4. 今日は（a. なんと / b. なんだか）蒸し暑い。[cite: 7]
+5. もらったケーキを（a. さっそく / b. ひとたび）食べた。[cite: 7]
+6. 30年後の自動車は（a. おそらく / b. かえって）すべて電動になっているだろう。[cite: 7]
+
+**練習II — Choose the word that fits:**[cite: 7]
+7. ハイキングへ行くつもりだったが（ ）雨が降ってしまった。 → 1 さっそく 2 あいにく 3 なんだか 4 ひとまず[cite: 7]
+8. 私のピアノは下手なので（ ）人の前では演奏できません。 → 1 たいして 2 そう 3 とても 4 別に[cite: 7]
+
+*きょうの一言: おそらく合格できるでしょう。*[cite: 7]
+
+**Answers (Day 6):** 練習I ① a ② a ③ b ④ b ⑤ a ⑥ a ／ 練習II ⑦ 2 ⑧ 3[cite: 7]
+
+---
+
+# Day 7 (7日目): 実戦問題 (Practice Exercise)[cite: 7]
+
+*Time limit: 15 min · 4 points × 25 questions · /100*[cite: 7]
+
+## 問題1 — Choose the best word for the blank (1–10)[cite: 7]
+1. 法律を犯したその議員は（ ）逮捕されるだろう。 → 1 絶えず 2 すでに 3 せいぜい 4 近々[cite: 7]
+2. 時間がたつにつれて、痛みは（ ）消えていった。 → 1 たっぷり 2 しだいに 3 わりに 4 なお[cite: 7]
+3. （ ）わが社は新製品を開発することに成功した。 → 1 ついに 2 つい 3 いつか 4 もしかすると[cite: 7]
+4. あのタレントは事件以来、（ ）テレビに出なくなった。 → 1 どうせ 2 とても 3 別に 4 いっさい[cite: 7]
+5. 料理の前に（ ）ビールを頼みましょう。 → 1 相変わらず 2 とりあえず 3 たった今 4 思わず[cite: 7]
+6. 明日から（ ）オリンピックが開幕します。 → 1 前もって 2 いよいよ 3 たびたび 4 すっと[cite: 7]
+7. がんこな彼は、（ ）やると決めたら、どんなことがあってもやめることはない。 → 1 ひとまず 2 なぜか 3 いったん 4 さっそく[cite: 7]
+8. 人気のマンションは発売と同時に（ ）売り切れてしまった。 → 1 やがて 2 たちまち 3 とっくに 4 ようやく[cite: 7]
+9. ほかの人に見つからないように、田中さんに（ ）手紙を渡した。 → 1 ぴったり 2 ぎっしり 3 こっそり 4 じっくり[cite: 7]
+10. 試合は（ ）始まります。 → 1 とっくに 2 にわかに 3 まもなく 4 しきりに[cite: 7]
+
+## 問題2 — Choose the word that best matches the description (11–15)[cite: 7]
+11. たくさんつまっている様子。 → 1 じょじょに 2 ずらりと 3 ぎっしり 4 おおいに[cite: 7]
+12. 同じようなことを何度もくり返す様子。 → 1 しきりに 2 とっくに 3 にわかに 4 ただちに[cite: 7]
+13. 少し、ちょっとという意味。 → 1 相当 2 わりと 3 多少 4 わりあいに[cite: 7]
+14. たくさん、いっぱいという意味。 → 1 うんと 2 ぐっと 3 より 4 いちだんと[cite: 7]
+15. かたく心に決めて物事を行う様子。 → 1 思わず 2 一気に 3 思い切って 4 思い切り[cite: 7]
+
+## 問題3 — Choose the word closest in meaning to the underlined word (16–20)[cite: 7]
+16. あの事故から**もうすぐ**1年がたつ。 → 1 絶えず 2 いずれ 3 ほんの 4 まもなく[cite: 7]
+17. 言ってはいけないと思っていたのに、**思わず**本当のことを言ってしまった。 → 1 なにしろ 2 つい 3 実に 4 あいにく[cite: 7]
+18. 車にはまだガソリンが**たっぷり**入っています。 → 1 わりに 2 いちおう 3 多少 4 十分に[cite: 7]
+19. **あんまり**おいしくなかったし、高かったし、もうそのレストランには行かない。 → 1 たいして 2 はたして 3 あくまでも 4 どうせ[cite: 7]
+20. 彼女は**ずいぶん前に**離婚してしまったよ。 → 1 とっくに 2 まさか 3 いったん 4 どうやら[cite: 7]
+
+## 問題4 — Choose the best usage of the word (21–25)[cite: 7]
+21. **まさか**[cite: 7]
+   1 この犬は頭がよくて、まさかサルか人間のようだ。[cite: 7]
+   2 まさか彼女が本当は男だったとは、信じられない。[cite: 7]
+   3 まさかそれが私の言いたかったことです。[cite: 7]
+   4 今日は、まさか仕事があるので行けません。[cite: 7]
+22. **にわかに**[cite: 7]
+   1 急に言われても、にわかには決められない。[cite: 7]
+   2 ショーが7時ににわかに始まった。[cite: 7]
+   3 にわかに100人は集まっているだろう。[cite: 7]
+   4 「大変です！ にわかに来てください！」[cite: 7]
+23. **いっそ**[cite: 7]
+   1 頼んだピザがいっそ来ていない。[cite: 7]
+   2 あちこち修理するよりも、いっそ家を新しく建て直してしまおう。[cite: 7]
+   3 お酒を加えたら、料理がいっそおいしくなった。[cite: 7]
+   4 のどがかわいていたので、水をいっそ飲んでしまった。[cite: 7]
+24. **しょっちゅう**[cite: 7]
+   1 そのチケットはしょっちゅう売り切れてしまった。[cite: 7]
+   2 練習したのでギターがしょっちゅううまくなってきた。[cite: 7]
+   3 母はしょっちゅう文句を言っている。[cite: 7]
+   4 単語をしょっちゅう覚えたのに英語の成績が悪かった。[cite: 7]
+25. **むしろ**[cite: 7]
+   1 あのチンパンジーはサルと言うよりむしろ人間に近いです。[cite: 7]
+   2 トレーニングのおかげでむしろ体がきたえられた。[cite: 7]
+   3 あの大会社の社長はむしろお金をたくさん持っている。[cite: 7]
+   4 その高層ビルはむしろ完成した。[cite: 7]
+
+*(Note: Answers for Day 7 are located in the separate answer booklet (別冊 p.2~3) which is not included in the source.)*[cite: 7]
