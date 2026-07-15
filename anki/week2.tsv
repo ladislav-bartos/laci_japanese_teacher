@@ -1,7 +1,7 @@
 #separator:tab
 #html:true
 #columns:Front	Back	Tags
-# Week 2 (Sou Matome N2, Days 1-7) — Kanji, Grammar, Reading, Listening (Vocabulary pending — plan/vocabulary-w2.md source file is mislabeled Week 8 kanji content, not Week 2 vocabulary)
+# Week 2 (Sou Matome N2, Days 1-7) — Kanji, Vocabulary, Grammar, Reading, Listening
 普通	ふつう — Ordinary <br><i>(kanji: 普)</i>	kanji::w2 kanji::w2d1
 普段(の)	ふだんの — Usually <br><i>(kanji: 普)</i>	kanji::w2 kanji::w2d1
 回数券	かいすうけん — Commuter ticket <br><i>(kanji: 券)</i>	kanji::w2 kanji::w2d1
@@ -344,3 +344,137 @@
 コース	a course/route/plan option, e.g. a tour package	listening::w2 listening::w2d6
 希望	one's wish/preference	listening::w2 listening::w2d6
 重要ではない言葉に惑わされない	a listening strategy: don't be misled/distracted by unimportant words	listening::w2 listening::w2d6
+仕事を探す (しごとをさがす)	look for a job	vocabulary::w2 vocabulary::w2d1
+面接 (めんせつ)	interview	vocabulary::w2 vocabulary::w2d1
+募集 (ぼしゅう)	recruitment / advertising a position	vocabulary::w2 vocabulary::w2d1
+経験を問わない (けいけんをとわない)	no experience required	vocabulary::w2 vocabulary::w2d1
+年齢制限がある (ねんれいせいげん)	has an age-limit	vocabulary::w2 vocabulary::w2d1
+就職する (しゅうしょくする)	get a job	vocabulary::w2 vocabulary::w2d1
+就職活動 (しゅうしょくかつどう)	job hunting	vocabulary::w2 vocabulary::w2d1
+求人情報 (きゅうじんじょうほう)	job information	vocabulary::w2 vocabulary::w2d1
+履歴書を書く (りれきしょをかく)	prepare a resume	vocabulary::w2 vocabulary::w2d1
+雇う (やとう)	employ	vocabulary::w2 vocabulary::w2d1
+採用する (さいようする)	hire / employ	vocabulary::w2 vocabulary::w2d1
+人手が不足している (ひとでがふそくしている)	lack of manpower	vocabulary::w2 vocabulary::w2d1
+正社員を募集する (せいしゃいんをぼしゅうする)	advertise a permanent position	vocabulary::w2 vocabulary::w2d1
+派遣社員に登録する (はけんしゃいんにとうろくする)	register as a temporary/dispatch employee	vocabulary::w2 vocabulary::w2d1
+会社に問い合わせる (かいしゃにといあわせる)	ask the company about…	vocabulary::w2 vocabulary::w2d1
+気軽にたずねる (きがるにたずねる)	feel free to ask questions	vocabulary::w2 vocabulary::w2d1
+面接で緊張する (めんせつできんちょうする)	get nervous at an interview	vocabulary::w2 vocabulary::w2d1
+面接にふさわしい服装 (めんせつにふさわしいふくそう)	proper outfit for an interview	vocabulary::w2 vocabulary::w2d1
+8時間勤務 (8じかんきんむ)	8-hour workday	vocabulary::w2 vocabulary::w2d1
+時給で働く (じきゅうではたらく)	work for an hourly wage	vocabulary::w2 vocabulary::w2d1
+交通費が支給される (こうつうひがしきゅうされる)	transportation costs reimbursed	vocabulary::w2 vocabulary::w2d1
+お金をかせぐ (おかねをかせぐ)	earn money	vocabulary::w2 vocabulary::w2d1
+お金をもうける (おかねをもうける)	make a lot of money	vocabulary::w2 vocabulary::w2d1
+店がもうかる (みせがもうかる)	the store makes a profit	vocabulary::w2 vocabulary::w2d1
+上司 (じょうし)	boss	vocabulary::w2 vocabulary::w2d2
+部下 (ぶか)	subordinate	vocabulary::w2 vocabulary::w2d2
+部長 (ぶちょう)	manager	vocabulary::w2 vocabulary::w2d2
+課長 (かちょう)	chief	vocabulary::w2 vocabulary::w2d2
+先輩 (せんぱい)	senior (at work)	vocabulary::w2 vocabulary::w2d2
+後輩 (こうはい)	junior (at work)	vocabulary::w2 vocabulary::w2d2
+同僚／仕事仲間 (どうりょう／しごとなかま)	colleague	vocabulary::w2 vocabulary::w2d2
+大企業に就職する (だいきぎょうにしゅうしょくする)	get a job at a big company	vocabulary::w2 vocabulary::w2d2
+入社する (にゅうしゃする)	start working (at a company)	vocabulary::w2 vocabulary::w2d2
+新入社員 (しんにゅうしゃいん)	new employee	vocabulary::w2 vocabulary::w2d2
+先輩を見習う (せんぱいをみならう)	follow a senior's example	vocabulary::w2 vocabulary::w2d2
+早退する (そうたいする)	leave work early	vocabulary::w2 vocabulary::w2d2
+遅刻する (ちこくする)	be late	vocabulary::w2 vocabulary::w2d2
+休暇を取る (きゅうかをとる)	take a holiday	vocabulary::w2 vocabulary::w2d2
+有給休暇 (ゆうきゅうきゅうか)	paid leave	vocabulary::w2 vocabulary::w2d2
+席を外す (せきをはずす)	leave your desk	vocabulary::w2 vocabulary::w2d2
+やりがいのある仕事 (やりがいのあるしごと)	a challenging/rewarding job	vocabulary::w2 vocabulary::w2d2
+仕事が生きがいだ (しごとがいきがいだ)	I live for my work	vocabulary::w2 vocabulary::w2d2
+休む間がない (やすむまがない)	no time to rest	vocabulary::w2 vocabulary::w2d2
+体がもたない (からだがもたない)	can't keep up the pace	vocabulary::w2 vocabulary::w2d2
+やる気がない／出ない (やるきがない／でない)	have no drive/motivation	vocabulary::w2 vocabulary::w2d2
+仕事でミスをする (しごとでミスをする)	make a mistake at work	vocabulary::w2 vocabulary::w2d2
+遅刻の言い訳をする (ちこくのいいわけをする)	make excuses for being late	vocabulary::w2 vocabulary::w2d2
+上司にゴマをする (じょうしにゴマをする)	butter up the boss	vocabulary::w2 vocabulary::w2d2
+おせじを言う (おせじをいう)	flatter someone	vocabulary::w2 vocabulary::w2d2
+会議が長引く (かいぎがながびく)	meeting is prolonged	vocabulary::w2 vocabulary::w2d3
+会議の準備をする (かいぎのじゅんびをする)	prepare for a meeting	vocabulary::w2 vocabulary::w2d3
+意見を述べる (いけんをのべる)	express an opinion	vocabulary::w2 vocabulary::w2d3
+意見をまとめる (いけんをまとめる)	summarize opinions	vocabulary::w2 vocabulary::w2d3
+意見を求める (いけんをもとめる)	ask for an opinion	vocabulary::w2 vocabulary::w2d3
+具体的な案を出す (ぐたいてきなあんをだす)	suggest concrete plans	vocabulary::w2 vocabulary::w2d3
+結論が出る (けつろんがでる)	come to a conclusion	vocabulary::w2 vocabulary::w2d3
+資料 (しりょう)	materials	vocabulary::w2 vocabulary::w2d3
+メモを取る (メモをとる)	take notes	vocabulary::w2 vocabulary::w2d3
+張り切る (はりきる)	be full of enthusiasm	vocabulary::w2 vocabulary::w2d3
+仕事を引き受ける (しごとをひきうける)	take on a job	vocabulary::w2 vocabulary::w2d3
+仕事の打ち合わせをする (しごとのうちあわせをする)	have a business meeting	vocabulary::w2 vocabulary::w2d3
+スケジュールを組む (スケジュールをくむ)	make a schedule	vocabulary::w2 vocabulary::w2d3
+仕事を順調にこなす (しごとをじゅんちょうにこなす)	work efficiently	vocabulary::w2 vocabulary::w2d3
+電話を取り次ぐ (でんわをとりつぐ)	take a phone message	vocabulary::w2 vocabulary::w2d3
+電話を転送する (でんわをてんそうする)	transfer a call	vocabulary::w2 vocabulary::w2d3
+電話を保留する (でんわをほりゅうする)	put on hold	vocabulary::w2 vocabulary::w2d3
+転勤になる (てんきんになる)	be transferred	vocabulary::w2 vocabulary::w2d3
+転職する (てんしょくする)	change jobs	vocabulary::w2 vocabulary::w2d3
+残業する (ざんぎょうする)	work overtime	vocabulary::w2 vocabulary::w2d3
+会社を首になる (かいしゃをくびになる)	get fired	vocabulary::w2 vocabulary::w2d3
+リストラされる	get laid off	vocabulary::w2 vocabulary::w2d3
+退職する (たいしょくする)	retire / quit	vocabulary::w2 vocabulary::w2d3
+出張が多い (しゅっちょうがおおい)	go on many business trips	vocabulary::w2 vocabulary::w2d3
+出世する (しゅっせする)	get promoted	vocabulary::w2 vocabulary::w2d3
+昇進する (しょうしんする)	get a promotion	vocabulary::w2 vocabulary::w2d3
+失業する (しつぎょうする)	lose a job	vocabulary::w2 vocabulary::w2d3
+パソコンを操作する (パソコンをそうさする)	operate a computer	vocabulary::w2 vocabulary::w2d4
+基本をマスターする (きほんをマスターする)	master the basics	vocabulary::w2 vocabulary::w2d4
+パソコンを起動する／立ち上げる (パソコンをきどうする／たちあげる)	start the computer	vocabulary::w2 vocabulary::w2d4
+パソコンを再起動する (パソコンをさいきどうする)	restart	vocabulary::w2 vocabulary::w2d4
+終了する (しゅうりょうする)	shut down	vocabulary::w2 vocabulary::w2d4
+次の画面を表示する (つぎのがめんをひょうじする)	display next page	vocabulary::w2 vocabulary::w2d4
+プロバイダーと契約する (プロバイダーとけいやくする)	subscribe to a provider	vocabulary::w2 vocabulary::w2d4
+インターネットに接続する／つなぐ (インターネットにせつぞくする／つなぐ)	connect to the internet	vocabulary::w2 vocabulary::w2d4
+検索する (けんさくする)	search	vocabulary::w2 vocabulary::w2d4
+情報を得る (じょうほうをえる)	obtain information	vocabulary::w2 vocabulary::w2d4
+プリンター	printer	vocabulary::w2 vocabulary::w2d4
+モニター／ディスプレイ	monitor / display	vocabulary::w2 vocabulary::w2d4
+パソコン本体 (パソコンほんたい)	PC body	vocabulary::w2 vocabulary::w2d4
+(マウス)ポインター／カーソル	(mouse) pointer / cursor	vocabulary::w2 vocabulary::w2d4
+ウィンドウ	window	vocabulary::w2 vocabulary::w2d4
+キーボード	keyboard	vocabulary::w2 vocabulary::w2d4
+マウス	mouse	vocabulary::w2 vocabulary::w2d4
+書類を作成する (しょるいをさくせいする)	prepare a document	vocabulary::w2 vocabulary::w2d5
+文字を変換する (もじをへんかんする)	convert characters	vocabulary::w2 vocabulary::w2d5
+文字を削除する (もじをさくじょする)	delete text	vocabulary::w2 vocabulary::w2d5
+改行する (かいぎょうする)	start a new line	vocabulary::w2 vocabulary::w2d5
+文字サイズを設定する (もじサイズをせっていする)	set font size	vocabulary::w2 vocabulary::w2d5
+フォントを変更する (フォントをへんこうする)	change font	vocabulary::w2 vocabulary::w2d5
+カーソルを移動する (カーソルをいどうする)	move cursor	vocabulary::w2 vocabulary::w2d5
+範囲を選択する (はんい（を）せんたくする)	select area	vocabulary::w2 vocabulary::w2d5
+（文字を）中央にそろえる (（もじを）ちゅうおうにそろえる)	center text	vocabulary::w2 vocabulary::w2d5
+右に寄せる (みぎによせる)	align right	vocabulary::w2 vocabulary::w2d5
+アンダーラインを付ける (アンダーラインをつける)	underline	vocabulary::w2 vocabulary::w2d5
+記号を入れる (きごうをいれる)	insert symbol	vocabulary::w2 vocabulary::w2d5
+図を挿入する (ずをそうにゅうする)	insert image	vocabulary::w2 vocabulary::w2d5
+図を拡大／縮小する (ずをかくだい／しゅくしょうする)	enlarge/shrink image	vocabulary::w2 vocabulary::w2d5
+内容を修正する (ないようをしゅうせいする)	modify content	vocabulary::w2 vocabulary::w2d5
+文書を編集する (ぶんしょをへんしゅうする)	edit document	vocabulary::w2 vocabulary::w2d5
+元に戻す／やり直す (もとにもどす／やりなおす)	reverse/redo	vocabulary::w2 vocabulary::w2d5
+図形をコピーする (ずけいをコピーする)	copy shape	vocabulary::w2 vocabulary::w2d5
+切り取る／カットする (きりとる／カットする)	cut	vocabulary::w2 vocabulary::w2d5
+貼り付ける／ペーストする (はりつける／ペーストする)	paste	vocabulary::w2 vocabulary::w2d5
+画像を取り込む (がぞうをとりこむ)	import image	vocabulary::w2 vocabulary::w2d5
+保存する (ほぞんする)	save	vocabulary::w2 vocabulary::w2d5
+添付する (てんぷする)	attach	vocabulary::w2 vocabulary::w2d5
+印刷する (いんさつする)	print	vocabulary::w2 vocabulary::w2d6
+用紙が切れる (ようしがきれる)	out of paper	vocabulary::w2 vocabulary::w2d6
+インク／トナーがなくなる	out of ink/toner	vocabulary::w2 vocabulary::w2d6
+印刷の範囲を指定する (いんさつのはんいをしていする)	select print range	vocabulary::w2 vocabulary::w2d6
+印刷の向きを確認する (いんさつのむきをかくにんする)	check print orientation	vocabulary::w2 vocabulary::w2d6
+余白を多くする (よはくをおおくする)	set bigger margins	vocabulary::w2 vocabulary::w2d6
+標準サイズ (ひょうじゅんサイズ)	standard size	vocabulary::w2 vocabulary::w2d6
+印刷がずれる (いんさつがずれる)	printing is askew	vocabulary::w2 vocabulary::w2d6
+手間がかかる／省く (てまがかかる／はぶく)	takes work / save work	vocabulary::w2 vocabulary::w2d6
+データが消える (データがきえる)	data disappears	vocabulary::w2 vocabulary::w2d6
+消去する (しょうきょする)	delete	vocabulary::w2 vocabulary::w2d6
+迷惑メール (めいわくメール)	junk mail	vocabulary::w2 vocabulary::w2d6
+受信を拒否する (じゅしんをきょひする)	reject incoming mail	vocabulary::w2 vocabulary::w2d6
+個人情報を盗まれる (こじんじょうほうをぬすまれる)	personal info stolen	vocabulary::w2 vocabulary::w2d6
+ウイルスに感染する (ウイルスにかんせんする)	get virus infection	vocabulary::w2 vocabulary::w2d6
+掲示板に書き込む (けいじばんにかきこむ)	post on message board	vocabulary::w2 vocabulary::w2d6
+ネットオークション	net auction	vocabulary::w2 vocabulary::w2d6
+オンラインゲーム	online game	vocabulary::w2 vocabulary::w2d6
