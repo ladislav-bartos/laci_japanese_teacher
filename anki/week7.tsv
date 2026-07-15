@@ -1,0 +1,571 @@
+#separator:tab
+#html:true
+#columns:Front	Back	Tags
+# Week 7 (Sou Matome N2, Days 1-6) — Kanji, Vocabulary, Grammar
+求人	きゅうじん — Help wanted <br><i>(kanji: 求)</i>	kanji::w7 kanji::w7d1
+要求	ようきゅう — Demand/request <br><i>(kanji: 求)</i>	kanji::w7 kanji::w7d1
+請求書	せいきゅうしょ — Bill/invoice <br><i>(kanji: 求)</i>	kanji::w7 kanji::w7d1
+求める	もとめる — Demand/request <br><i>(kanji: 求)</i>	kanji::w7 kanji::w7d1
+簡単(な)	かんたんな — Easy/simple <br><i>(kanji: 簡)</i>	kanji::w7 kanji::w7d1
+単語	たんご — Word <br><i>(kanji: 単)</i>	kanji::w7 kanji::w7d1
+単位	たんい — Unit/credit <br><i>(kanji: 単)</i>	kanji::w7 kanji::w7d1
+単に	たんに — Merely/simply <br><i>(kanji: 単)</i>	kanji::w7 kanji::w7d1
+単なる	たんなる — Mere/simple <br><i>(kanji: 単)</i>	kanji::w7 kanji::w7d1
+許可	きょか — Permission <br><i>(kanji: 許)</i>	kanji::w7 kanji::w7d1
+免許	めんきょ — Permit/license <br><i>(kanji: 許)</i>	kanji::w7 kanji::w7d1
+許す	ゆるす — Permit/allow <br><i>(kanji: 許)</i>	kanji::w7 kanji::w7d1
+給料	きゅうりょう — Wage/salary <br><i>(kanji: 給)</i>	kanji::w7 kanji::w7d1
+供給	きょうきゅう — Supply/provision <br><i>(kanji: 給)</i>	kanji::w7 kanji::w7d1
+給与	きゅうよ — Allowance <br><i>(kanji: 与・給)</i>	kanji::w7 kanji::w7d1
+月給	げっきゅう — Monthly wage <br><i>(kanji: 給)</i>	kanji::w7 kanji::w7d1
+週給	しゅうきゅう — Weekly wage <br><i>(kanji: 給)</i>	kanji::w7 kanji::w7d1
+日給	にっきゅう — Daily wage <br><i>(kanji: 給)</i>	kanji::w7 kanji::w7d1
+与える	あたえる — Give/present <br><i>(kanji: 与)</i>	kanji::w7 kanji::w7d1
+応募	おうぼ — Application <br><i>(kanji: 応)</i>	kanji::w7 kanji::w7d1
+応用	おうよう — Practical use/application <br><i>(kanji: 応)</i>	kanji::w7 kanji::w7d1
+一応	いちおう — Tentatively <br><i>(kanji: 応)</i>	kanji::w7 kanji::w7d1
+応じる	おうじる — Respond <br><i>(kanji: 応)</i>	kanji::w7 kanji::w7d1
+課	か — Lesson/section <br><i>(kanji: 課)</i>	kanji::w7 kanji::w7d1
+課長	かちょう — Section chief <br><i>(kanji: 課)</i>	kanji::w7 kanji::w7d1
+日課	にっか — Daily lesson/task <br><i>(kanji: 課)</i>	kanji::w7 kanji::w7d1
+課程	かてい — Course/curriculum <br><i>(kanji: 程)</i>	kanji::w7 kanji::w7d1
+過程	かてい — Process/course <br><i>(kanji: 程)</i>	kanji::w7 kanji::w7d1
+程度	ていど — Degree/amount <br><i>(kanji: 程)</i>	kanji::w7 kanji::w7d1
+日程	にってい — Schedule <br><i>(kanji: 程)</i>	kanji::w7 kanji::w7d1
+制度	せいど — System <br><i>(kanji: 制)</i>	kanji::w7 kanji::w7d1
+制限	せいげん — Restriction/limitation <br><i>(kanji: 制)</i>	kanji::w7 kanji::w7d1
+制作	せいさく — Work/production <br><i>(kanji: 制)</i>	kanji::w7 kanji::w7d1
+体制	たいせい — System/structure <br><i>(kanji: 制)</i>	kanji::w7 kanji::w7d1
+講座	こうざ — Class/course <br><i>(kanji: 講)</i>	kanji::w7 kanji::w7d1
+講義	こうぎ — Lecture <br><i>(kanji: 講)</i>	kanji::w7 kanji::w7d1
+講演	こうえん — Lecture <br><i>(kanji: 講)</i>	kanji::w7 kanji::w7d1
+講師	こうし — Lecturer <br><i>(kanji: 講)</i>	kanji::w7 kanji::w7d1
+初級	しょきゅう — Beginning level <br><i>(kanji: 級)</i>	kanji::w7 kanji::w7d1
+中級	ちゅうきゅう — Intermediate level <br><i>(kanji: 級)</i>	kanji::w7 kanji::w7d1
+上級	じょうきゅう — Advanced level <br><i>(kanji: 級)</i>	kanji::w7 kanji::w7d1
+高級	こうきゅう — High class/grade <br><i>(kanji: 級)</i>	kanji::w7 kanji::w7d1
+基本	きほん — Foundation/basics <br><i>(kanji: 基)</i>	kanji::w7 kanji::w7d1
+基礎	きそ — Foundation/groundwork <br><i>(kanji: 基)</i>	kanji::w7 kanji::w7d1
+基準	きじゅん — Standard/criterion <br><i>(kanji: 基)</i>	kanji::w7 kanji::w7d1
+基地	きち — Base <br><i>(kanji: 基)</i>	kanji::w7 kanji::w7d1
+指導	しどう — Leadership/guidance <br><i>(kanji: 導)</i>	kanji::w7 kanji::w7d1
+導入	どうにゅう — Introduction <br><i>(kanji: 導)</i>	kanji::w7 kanji::w7d1
+導く	みちびく — Lead <br><i>(kanji: 導)</i>	kanji::w7 kanji::w7d1
+校庭	こうてい — School playground <br><i>(kanji: 庭)</i>	kanji::w7 kanji::w7d2
+家庭	かてい — Home/family <br><i>(kanji: 庭)</i>	kanji::w7 kanji::w7d2
+庭	にわ — Garden <br><i>(kanji: 庭)</i>	kanji::w7 kanji::w7d2
+教育	きょういく — Education <br><i>(kanji: 育)</i>	kanji::w7 kanji::w7d2
+体育	たいいく — Physical education <br><i>(kanji: 育)</i>	kanji::w7 kanji::w7d2
+育児	いくじ — Childcare <br><i>(kanji: 育)</i>	kanji::w7 kanji::w7d2
+育つ	そだつ — Grow <br><i>(kanji: 育)</i>	kanji::w7 kanji::w7d2
+育てる	そだてる — Raise/bring up <br><i>(kanji: 育)</i>	kanji::w7 kanji::w7d2
+猫	ねこ — Cat <br><i>(kanji: 猫)</i>	kanji::w7 kanji::w7d2
+探検	たんけん — Exploration <br><i>(kanji: 探)</i>	kanji::w7 kanji::w7d2
+探す	さがす — Search/look for <br><i>(kanji: 探)</i>	kanji::w7 kanji::w7d2
+探る	さぐる — Prove into/search <br><i>(kanji: 探)</i>	kanji::w7 kanji::w7d2
+灰	はい — Ash <br><i>(kanji: 灰)</i>	kanji::w7 kanji::w7d2
+灰色	はいいろ — Gray <br><i>(kanji: 灰)</i>	kanji::w7 kanji::w7d2
+灰皿	はいざら — Ashtray <br><i>(kanji: 灰)</i>	kanji::w7 kanji::w7d2
+車輪	しゃりん — Wheel <br><i>(kanji: 輪)</i>	kanji::w7 kanji::w7d2
+指輪	ゆびわ — Ring <br><i>(kanji: 輪)</i>	kanji::w7 kanji::w7d2
+首輪	くびわ — Collar <br><i>(kanji: 輪)</i>	kanji::w7 kanji::w7d2
+今晩	こんばん — Tonight <br><i>(kanji: 晩)</i>	kanji::w7 kanji::w7d2
+毎晩	まいばん — Every night <br><i>(kanji: 晩)</i>	kanji::w7 kanji::w7d2
+晩御飯	ばんごはん — Dinner <br><i>(kanji: 晩)</i>	kanji::w7 kanji::w7d2
+劇	げき — Drama/play <br><i>(kanji: 劇)</i>	kanji::w7 kanji::w7d2
+劇団	げきだん — Theatrical company <br><i>(kanji: 劇)</i>	kanji::w7 kanji::w7d2
+劇場	げきじょう — Theater <br><i>(kanji: 劇)</i>	kanji::w7 kanji::w7d2
+演劇	えんげき — Theatrical play <br><i>(kanji: 劇)</i>	kanji::w7 kanji::w7d2
+公園	こうえん — Park <br><i>(kanji: 公)</i>	kanji::w7 kanji::w7d2
+公演	こうえん — Public performance <br><i>(kanji: 公)</i>	kanji::w7 kanji::w7d2
+公共	こうきょう — Public/communal <br><i>(kanji: 公)</i>	kanji::w7 kanji::w7d2
+公務員	こうむいん — Civil servant <br><i>(kanji: 公)</i>	kanji::w7 kanji::w7d2
+日本舞踊	にほんぶよう — Traditional Japanese dance <br><i>(kanji: 踊)</i>	kanji::w7 kanji::w7d2
+踊る	おどる — Dance <br><i>(kanji: 踊)</i>	kanji::w7 kanji::w7d2
+踊り	おどり — A dance <br><i>(kanji: 踊)</i>	kanji::w7 kanji::w7d2
+種類	しゅるい — Type/kind <br><i>(kanji: 種)</i>	kanji::w7 kanji::w7d2
+雑種	ざっしゅ — Hybrid <br><i>(kanji: 種)</i>	kanji::w7 kanji::w7d2
+人種	じんしゅ — Race <br><i>(kanji: 種)</i>	kanji::w7 kanji::w7d2
+種	たね — Seed <br><i>(kanji: 種)</i>	kanji::w7 kanji::w7d2
+匹敵する	ひってきする — Compare with/rival <br><i>(kanji: 匹)</i>	kanji::w7 kanji::w7d2
+〜匹	〜ひき — Counter for small animals <br><i>(kanji: 匹)</i>	kanji::w7 kanji::w7d2
+渡米	とべい — Going to America <br><i>(kanji: 渡)</i>	kanji::w7 kanji::w7d2
+渡る	わたる — Cross over <br><i>(kanji: 渡)</i>	kanji::w7 kanji::w7d2
+渡す	わたす — Hand over <br><i>(kanji: 渡)</i>	kanji::w7 kanji::w7d2
+乗馬	じょうば — Horse riding <br><i>(kanji: 馬)</i>	kanji::w7 kanji::w7d2
+馬	うま — Horse <br><i>(kanji: 馬)</i>	kanji::w7 kanji::w7d2
+貝	かい — Shell/shellfish <br><i>(kanji: 貝)</i>	kanji::w7 kanji::w7d3
+貝がら	かいがら — Shell <br><i>(kanji: 貝)</i>	kanji::w7 kanji::w7d3
+〜酒	〜しゅ — Liquor <br><i>(kanji: 酒)</i>	kanji::w7 kanji::w7d3
+酒	さけ — Alcohol <br><i>(kanji: 酒)</i>	kanji::w7 kanji::w7d3
+酒屋	さかや — Liquor store <br><i>(kanji: 酒)</i>	kanji::w7 kanji::w7d3
+居酒屋	いざかや — Japanese pub <br><i>(kanji: 酒)</i>	kanji::w7 kanji::w7d3
+蒸発	じょうはつ — Evaporation <br><i>(kanji: 蒸)</i>	kanji::w7 kanji::w7d3
+水蒸気	すいじょうき — Water vapor <br><i>(kanji: 蒸)</i>	kanji::w7 kanji::w7d3
+蒸す	むす — Steam <br><i>(kanji: 蒸)</i>	kanji::w7 kanji::w7d3
+蒸し暑い	むしあつい — Humid/sultry <br><i>(kanji: 蒸)</i>	kanji::w7 kanji::w7d3
+干す	ほす — Hang/dry <br><i>(kanji: 干)</i>	kanji::w7 kanji::w7d3
+干物	ひもの — Dried food <br><i>(kanji: 干)</i>	kanji::w7 kanji::w7d3
+竹	たけ — Bamboo <br><i>(kanji: 竹)</i>	kanji::w7 kanji::w7d3
+竹の子	たけのこ — Bamboo shoot <br><i>(kanji: 竹)</i>	kanji::w7 kanji::w7d3
+卵黄	らんおう — Yolk <br><i>(kanji: 卵)</i>	kanji::w7 kanji::w7d3
+卵	たまご — Egg <br><i>(kanji: 卵)</i>	kanji::w7 kanji::w7d3
+大根	だいこん — White radish <br><i>(kanji: 根)</i>	kanji::w7 kanji::w7d3
+根	ね — Root <br><i>(kanji: 根)</i>	kanji::w7 kanji::w7d3
+屋根	やね — Roof <br><i>(kanji: 根)</i>	kanji::w7 kanji::w7d3
+材料	ざいりょう — Ingredients/materials <br><i>(kanji: 材)</i>	kanji::w7 kanji::w7d3
+材質	ざいしつ — Material properties <br><i>(kanji: 材)</i>	kanji::w7 kanji::w7d3
+原材料	げんざいりょう — Raw materials <br><i>(kanji: 材)</i>	kanji::w7 kanji::w7d3
+教材	きょうざい — Teaching materials <br><i>(kanji: 材)</i>	kanji::w7 kanji::w7d3
+植物	しょくぶつ — Plant <br><i>(kanji: 植)</i>	kanji::w7 kanji::w7d3
+植木	うえき — Potted plants <br><i>(kanji: 植)</i>	kanji::w7 kanji::w7d3
+植える	うえる — Plant/grow <br><i>(kanji: 植)</i>	kanji::w7 kanji::w7d3
+田植え	たうえ — Rice planting <br><i>(kanji: 植)</i>	kanji::w7 kanji::w7d3
+砂糖	さとう — Sugar <br><i>(kanji: 砂)</i>	kanji::w7 kanji::w7d3
+砂漠	さばく — Desert <br><i>(kanji: 砂)</i>	kanji::w7 kanji::w7d3
+砂	すな — Sand <br><i>(kanji: 砂)</i>	kanji::w7 kanji::w7d3
+牛乳	ぎゅうにゅう — Milk <br><i>(kanji: 乳)</i>	kanji::w7 kanji::w7d3
+乳児	にゅうじ — Baby <br><i>(kanji: 乳)</i>	kanji::w7 kanji::w7d3
+乳製品	にゅうせいひん — Dairy products <br><i>(kanji: 乳)</i>	kanji::w7 kanji::w7d3
+乳	ちち — Milk/breasts <br><i>(kanji: 乳)</i>	kanji::w7 kanji::w7d3
+含む	ふくむ — Be included <br><i>(kanji: 含)</i>	kanji::w7 kanji::w7d3
+含める	ふくめる — Include <br><i>(kanji: 含)</i>	kanji::w7 kanji::w7d3
+炭水化物	たんすいかぶつ — Carbohydrate <br><i>(kanji: 炭)</i>	kanji::w7 kanji::w7d3
+石炭	せきたん — Coal <br><i>(kanji: 炭)</i>	kanji::w7 kanji::w7d3
+炭	すみ — Charcoal <br><i>(kanji: 炭)</i>	kanji::w7 kanji::w7d3
+脂肪	しぼう — Fat/grease <br><i>(kanji: 脂)</i>	kanji::w7 kanji::w7d3
+脂質	ししつ — Lipids/fats <br><i>(kanji: 脂)</i>	kanji::w7 kanji::w7d3
+油脂	ゆし — Fats and oils <br><i>(kanji: 脂)</i>	kanji::w7 kanji::w7d3
+脂	あぶら — Fat/lard <br><i>(kanji: 脂)</i>	kanji::w7 kanji::w7d3
+封筒	ふうとう — Envelope <br><i>(kanji: 筒)</i>	kanji::w7 kanji::w7d4
+水筒	すいとう — Canteen/water bottle <br><i>(kanji: 筒)</i>	kanji::w7 kanji::w7d4
+筒	つつ — Pipe/tube <br><i>(kanji: 筒)</i>	kanji::w7 kanji::w7d4
+卒業	そつぎょう — Graduation <br><i>(kanji: 卒)</i>	kanji::w7 kanji::w7d4
+卒業証明書	そつぎょうしょうめいしょ — Diploma <br><i>(kanji: 卒)</i>	kanji::w7 kanji::w7d4
+業績	ぎょうせき — Achievement/business results <br><i>(kanji: 績・業)</i>	kanji::w7 kanji::w7d4
+成績	せいせき — Results/record <br><i>(kanji: 績)</i>	kanji::w7 kanji::w7d4
+実績	じっせき — Actual results/achievement <br><i>(kanji: 績)</i>	kanji::w7 kanji::w7d4
+論文	ろんぶん — Thesis/treatise <br><i>(kanji: 論)</i>	kanji::w7 kanji::w7d4
+結論	けつろん — Conclusion <br><i>(kanji: 論)</i>	kanji::w7 kanji::w7d4
+議論	ぎろん — Argument/discussion <br><i>(kanji: 論)</i>	kanji::w7 kanji::w7d4
+論じる	ろんじる — Argue/discuss <br><i>(kanji: 論)</i>	kanji::w7 kanji::w7d4
+志望	しぼう — Wish/desire <br><i>(kanji: 志)</i>	kanji::w7 kanji::w7d4
+意志	いし — Will/volition <br><i>(kanji: 志)</i>	kanji::w7 kanji::w7d4
+記述	きじゅつ — Description <br><i>(kanji: 述)</i>	kanji::w7 kanji::w7d4
+前述	ぜんじゅつ — Aforementioned <br><i>(kanji: 述)</i>	kanji::w7 kanji::w7d4
+口述	こうじゅつ — Verbal statement <br><i>(kanji: 述)</i>	kanji::w7 kanji::w7d4
+述べる	のべる — State/mention <br><i>(kanji: 述)</i>	kanji::w7 kanji::w7d4
+結構	けっこう — Splendid/nice <br><i>(kanji: 構)</i>	kanji::w7 kanji::w7d4
+構成	こうせい — Composition <br><i>(kanji: 構)</i>	kanji::w7 kanji::w7d4
+構内	こうない — Campus/grounds <br><i>(kanji: 構)</i>	kanji::w7 kanji::w7d4
+構う	かまう — Mind/care about <br><i>(kanji: 構)</i>	kanji::w7 kanji::w7d4
+遅刻	ちこく — Tardiness <br><i>(kanji: 遅)</i>	kanji::w7 kanji::w7d4
+遅い	おそい — Slow/late <br><i>(kanji: 遅)</i>	kanji::w7 kanji::w7d4
+遅れる	おくれる — Be late <br><i>(kanji: 遅)</i>	kanji::w7 kanji::w7d4
+仮名	かな — Japanese syllabary <br><i>(kanji: 仮)</i>	kanji::w7 kanji::w7d4
+振り仮名	ふりがな — Kana over kanji <br><i>(kanji: 仮)</i>	kanji::w7 kanji::w7d4
+仮定	かてい — Assumption <br><i>(kanji: 仮)</i>	kanji::w7 kanji::w7d4
+仮	かり — Temporary <br><i>(kanji: 仮)</i>	kanji::w7 kanji::w7d4
+机	つくえ — Desk <br><i>(kanji: 机)</i>	kanji::w7 kanji::w7d4
+〜冊	〜さつ — Counter for books <br><i>(kanji: 冊)</i>	kanji::w7 kanji::w7d4
+冊子	さっし — Booklet/pamphlet <br><i>(kanji: 冊)</i>	kanji::w7 kanji::w7d4
+採点	さいてん — Grading/marking <br><i>(kanji: 採)</i>	kanji::w7 kanji::w7d4
+採用	さいよう — Adoption/employment <br><i>(kanji: 採)</i>	kanji::w7 kanji::w7d4
+採集	さいしゅう — Collecting/gathering <br><i>(kanji: 採)</i>	kanji::w7 kanji::w7d4
+採る	とる — Adopt a measure <br><i>(kanji: 採)</i>	kanji::w7 kanji::w7d4
+濃度	のうど — Concentration/density <br><i>(kanji: 濃)</i>	kanji::w7 kanji::w7d4
+濃い	こい — Concentrated/dark color <br><i>(kanji: 濃)</i>	kanji::w7 kanji::w7d4
+鉛筆	えんぴつ — Pencil <br><i>(kanji: 筆)</i>	kanji::w7 kanji::w7d4
+筆記	ひっき — Taking notes <br><i>(kanji: 筆)</i>	kanji::w7 kanji::w7d4
+筆者	ひっしゃ — Writer/author <br><i>(kanji: 筆)</i>	kanji::w7 kanji::w7d4
+筆	ふで — Writing brush <br><i>(kanji: 筆)</i>	kanji::w7 kanji::w7d4
+航空	こうくう — Aviation/flying <br><i>(kanji: 航)</i>	kanji::w7 kanji::w7d5
+欠航	けっこう — Suspension of service <br><i>(kanji: 航)</i>	kanji::w7 kanji::w7d5
+運航	うんこう — Operation of ships/aircraft <br><i>(kanji: 航)</i>	kanji::w7 kanji::w7d5
+陸	りく — Land/shore <br><i>(kanji: 陸)</i>	kanji::w7 kanji::w7d5
+着陸	ちゃくりく — Landing/touchdown <br><i>(kanji: 陸)</i>	kanji::w7 kanji::w7d5
+大陸	たいりく — Continent <br><i>(kanji: 陸)</i>	kanji::w7 kanji::w7d5
+陸上	りくじょう — On the land <br><i>(kanji: 陸)</i>	kanji::w7 kanji::w7d5
+損	そん — Loss/disadvantage <br><i>(kanji: 損)</i>	kanji::w7 kanji::w7d5
+損傷	そんしょう — Damage/injury <br><i>(kanji: 損)</i>	kanji::w7 kanji::w7d5
+損害	そんがい — Damage/loss <br><i>(kanji: 損)</i>	kanji::w7 kanji::w7d5
+損得	そんとく — Loss and gain <br><i>(kanji: 損)</i>	kanji::w7 kanji::w7d5
+気候	きこう — Climate <br><i>(kanji: 候)</i>	kanji::w7 kanji::w7d5
+天候	てんこう — Weather <br><i>(kanji: 候)</i>	kanji::w7 kanji::w7d5
+風船	ふうせん — Balloon <br><i>(kanji: 船)</i>	kanji::w7 kanji::w7d5
+造船	ぞうせん — Shipbuilding <br><i>(kanji: 船)</i>	kanji::w7 kanji::w7d5
+船	ふね — Boat/ship <br><i>(kanji: 船)</i>	kanji::w7 kanji::w7d5
+船便	ふなびん — Surface/sea mail <br><i>(kanji: 船)</i>	kanji::w7 kanji::w7d5
+丸	まる — Circle <br><i>(kanji: 丸)</i>	kanji::w7 kanji::w7d5
+丸い	まるい — Round <br><i>(kanji: 丸)</i>	kanji::w7 kanji::w7d5
+〜丸	〜まる — Ship name suffix <br><i>(kanji: 丸)</i>	kanji::w7 kanji::w7d5
+混雑	こんざつ — Confusion/congestion <br><i>(kanji: 混)</i>	kanji::w7 kanji::w7d5
+かき混ぜる	かきまぜる — Stir <br><i>(kanji: 混)</i>	kanji::w7 kanji::w7d5
+混じる/混ざる	まじる/まざる — Be mixed <br><i>(kanji: 混)</i>	kanji::w7 kanji::w7d5
+予想	よそう — Anticipation/forecast <br><i>(kanji: 想)</i>	kanji::w7 kanji::w7d5
+想像	そうぞう — Imagination/guess <br><i>(kanji: 想)</i>	kanji::w7 kanji::w7d5
+感想	かんそう — Impressions/thoughts <br><i>(kanji: 想)</i>	kanji::w7 kanji::w7d5
+理想	りそう — Ideal <br><i>(kanji: 想)</i>	kanji::w7 kanji::w7d5
+事故	じこ — Accident <br><i>(kanji: 故)</i>	kanji::w7 kanji::w7d5
+故障	こしょう — Breakdown/failure <br><i>(kanji: 故)</i>	kanji::w7 kanji::w7d5
+故郷	こきょう — Hometown/birthplace <br><i>(kanji: 故)</i>	kanji::w7 kanji::w7d5
+混乱	こんらん — Disorder/confusion <br><i>(kanji: 乱)</i>	kanji::w7 kanji::w7d5
+乱暴(な)	らんぼうな — Rude/violent <br><i>(kanji: 乱)</i>	kanji::w7 kanji::w7d5
+乱れる	みだれる — Fall into disorder <br><i>(kanji: 乱)</i>	kanji::w7 kanji::w7d5
+運河	うんが — Canal/waterway <br><i>(kanji: 河)</i>	kanji::w7 kanji::w7d5
+河川	かせん — Rivers <br><i>(kanji: 河)</i>	kanji::w7 kanji::w7d5
+河	かわ — River/stream <br><i>(kanji: 河)</i>	kanji::w7 kanji::w7d5
+輸出	ゆしゅつ — Exportation <br><i>(kanji: 輸)</i>	kanji::w7 kanji::w7d5
+輸入	ゆにゅう — Importation <br><i>(kanji: 輸)</i>	kanji::w7 kanji::w7d5
+輸血	ゆけつ — Blood transfusion <br><i>(kanji: 輸)</i>	kanji::w7 kanji::w7d5
+輸送	ゆそう — Transportation <br><i>(kanji: 輸)</i>	kanji::w7 kanji::w7d5
+率	りつ — Rate/ratio <br><i>(kanji: 率)</i>	kanji::w7 kanji::w7d6
+確率	かくりつ — Probability <br><i>(kanji: 率)</i>	kanji::w7 kanji::w7d6
+利率	りりつ — Interest rate <br><i>(kanji: 率)</i>	kanji::w7 kanji::w7d6
+率直	そっちょく — Frankness/candor <br><i>(kanji: 率)</i>	kanji::w7 kanji::w7d6
+能率	のうりつ — Efficiency <br><i>(kanji: 率)</i>	kanji::w7 kanji::w7d6
+宇宙	うちゅう — Universe/outer space <br><i>(kanji: 宇)</i>	kanji::w7 kanji::w7d6
+宇都宮	うつのみや — Utsunomiya city <br><i>(kanji: 宇)</i>	kanji::w7 kanji::w7d6
+〜戸	〜こ — Counter for houses <br><i>(kanji: 戸)</i>	kanji::w7 kanji::w7d6
+一戸建て	いっこだて — Detached house <br><i>(kanji: 戸)</i>	kanji::w7 kanji::w7d6
+戸	と — Door <br><i>(kanji: 戸)</i>	kanji::w7 kanji::w7d6
+雨戸	あまど — Sliding storm door <br><i>(kanji: 戸)</i>	kanji::w7 kanji::w7d6
+水戸	みと — Mito city <br><i>(kanji: 戸)</i>	kanji::w7 kanji::w7d6
+晴天	せいてん — Fine weather <br><i>(kanji: 晴)</i>	kanji::w7 kanji::w7d6
+快晴	かいせい — Good weather <br><i>(kanji: 晴)</i>	kanji::w7 kanji::w7d6
+晴れる	はれる — Be sunny <br><i>(kanji: 晴)</i>	kanji::w7 kanji::w7d6
+素晴らしい	すばらしい — Wonderful/magnificent <br><i>(kanji: 晴)</i>	kanji::w7 kanji::w7d6
+曇り	くもり — Cloudy weather <br><i>(kanji: 曇)</i>	kanji::w7 kanji::w7d6
+曇る	くもる — Become cloudy <br><i>(kanji: 曇)</i>	kanji::w7 kanji::w7d6
+積雪	せきせつ — Snow accumulation <br><i>(kanji: 雪)</i>	kanji::w7 kanji::w7d6
+吹雪	ふぶき — Snowstorm <br><i>(kanji: 雪)</i>	kanji::w7 kanji::w7d6
+雪	ゆき — Snow <br><i>(kanji: 雪)</i>	kanji::w7 kanji::w7d6
+大雪	おおゆき — Heavy snow <br><i>(kanji: 雪)</i>	kanji::w7 kanji::w7d6
+知恵	ちえ — Wisdom <br><i>(kanji: 恵)</i>	kanji::w7 kanji::w7d6
+恩恵	おんけい — Benefits <br><i>(kanji: 恵)</i>	kanji::w7 kanji::w7d6
+恵まれる	めぐまれる — Be blessed with <br><i>(kanji: 恵)</i>	kanji::w7 kanji::w7d6
+太陽	たいよう — Sun <br><i>(kanji: 陽)</i>	kanji::w7 kanji::w7d6
+陽気	ようき — Weather/cheerfulness <br><i>(kanji: 陽)</i>	kanji::w7 kanji::w7d6
+雲	くも — Clouds <br><i>(kanji: 雲)</i>	kanji::w7 kanji::w7d6
+雨雲	あまぐも — Rain clouds <br><i>(kanji: 雲)</i>	kanji::w7 kanji::w7d6
+ひもが切れる (きれる)	the string breaks	vocabulary::w7 vocabulary::w7d1
+ひもを切る (きる)	cut the string	vocabulary::w7 vocabulary::w7d1
+電池が切れる (でんち)	the battery dies	vocabulary::w7 vocabulary::w7d1
+タバコが切れる	be out of cigarettes	vocabulary::w7 vocabulary::w7d1
+賞味期限が切れる (しょうみきげん)	past the best before date	vocabulary::w7 vocabulary::w7d1
+しびれが切れる	legs gone to sleep / legs are numb	vocabulary::w7 vocabulary::w7d1
+電源を切る (でんげん)	switch off	vocabulary::w7 vocabulary::w7d1
+電源が切れる	power goes off	vocabulary::w7 vocabulary::w7d1
+野菜の水気を切る (やさいのみずけ)	dry the vegetables (remove water)	vocabulary::w7 vocabulary::w7d1
+スタートを切る	start off	vocabulary::w7 vocabulary::w7d1
+100メートル競走で10秒を切る (きょうそうで10びょう)	run 100 meters in less than 10 seconds	vocabulary::w7 vocabulary::w7d1
+ハンドルを右に切る (みぎ)	turn right (the steering wheel)	vocabulary::w7 vocabulary::w7d1
+カードをよく切る	shuffle the cards	vocabulary::w7 vocabulary::w7d1
+キレる（俗語）	lose one's temper / snap (e.g., キレて犯罪を犯す)	vocabulary::w7 vocabulary::w7d1
+しみがつく	get a stain on	vocabulary::w7 vocabulary::w7d1
+しみをつける	put a stain on	vocabulary::w7 vocabulary::w7d1
+窓ガラスに水滴がつく (まどガラスにすいてき)	there is condensation on the window	vocabulary::w7 vocabulary::w7d1
+利子がつく (りし)	yield interest	vocabulary::w7 vocabulary::w7d1
+身につく (み)	master (a skill)	vocabulary::w7 vocabulary::w7d1
+身につける	acquire (a skill)	vocabulary::w7 vocabulary::w7d1
+力がつく (ちから)	gain skills / power	vocabulary::w7 vocabulary::w7d1
+力をつける	build strength	vocabulary::w7 vocabulary::w7d1
+差がつく (さ)	pull ahead / a gap opens up	vocabulary::w7 vocabulary::w7d1
+差をつける	make a difference	vocabulary::w7 vocabulary::w7d1
+見当がつく (けんとう)	guess / have an idea	vocabulary::w7 vocabulary::w7d1
+見当をつける	make a guess	vocabulary::w7 vocabulary::w7d1
+めどがつく	there is hope for / an end is in sight	vocabulary::w7 vocabulary::w7d1
+めどをつける	set a goal / prospect	vocabulary::w7 vocabulary::w7d1
+決心がつく (けっしん)	make a decision	vocabulary::w7 vocabulary::w7d1
+決心する	to decide	vocabulary::w7 vocabulary::w7d1
+服ににおいがつく (ふく)	clothes pick up an odor	vocabulary::w7 vocabulary::w7d1
+折り目がつく (おりめ)	get a crease	vocabulary::w7 vocabulary::w7d1
+折り目をつける	put a crease in	vocabulary::w7 vocabulary::w7d1
+味がつく (あじ)	become flavored	vocabulary::w7 vocabulary::w7d1
+味をつける	flavor	vocabulary::w7 vocabulary::w7d1
+ボールが当たる (あたる)	the ball hits...	vocabulary::w7 vocabulary::w7d1
+ボールを当てる (あてる)	hit with a ball	vocabulary::w7 vocabulary::w7d1
+答えが当たる (こたえ)	get the right answer	vocabulary::w7 vocabulary::w7d1
+答えを当てる	guess the answer	vocabulary::w7 vocabulary::w7d1
+宝くじが当たる (たからくじ)	win a lottery	vocabulary::w7 vocabulary::w7d1
+日が当たる (ひ)	get sun	vocabulary::w7 vocabulary::w7d1
+日を当てる	expose to the sun	vocabulary::w7 vocabulary::w7d1
+額に手を当てる (ひたいにて)	put your hand on your forehead	vocabulary::w7 vocabulary::w7d1
+迷惑がかかる (めいわく)	be inconvenienced	vocabulary::w7 vocabulary::w7d2
+迷惑をかける	cause inconvenience	vocabulary::w7 vocabulary::w7d2
+太陽に雲がかかる (たいようにくも)	the sun goes behind a cloud	vocabulary::w7 vocabulary::w7d2
+エンジンがかかる	the engine starts	vocabulary::w7 vocabulary::w7d2
+エンジンをかける	start the engine	vocabulary::w7 vocabulary::w7d2
+優勝がかかる (ゆうしょう)	the championship is at stake	vocabulary::w7 vocabulary::w7d2
+壁に絵をかける (かべにえ)	hang a picture on the wall	vocabulary::w7 vocabulary::w7d2
+腰をかける (こし)	take a seat	vocabulary::w7 vocabulary::w7d2
+橋がかかる (はし)	a bridge is built	vocabulary::w7 vocabulary::w7d2
+橋をかける	build a bridge	vocabulary::w7 vocabulary::w7d2
+犬にブラシをかける (いぬ)	brush the dog	vocabulary::w7 vocabulary::w7d2
+水がかかる (みず)	get wet	vocabulary::w7 vocabulary::w7d2
+植木に水をかける (うえき)	water the plant	vocabulary::w7 vocabulary::w7d2
+体重をかける (たいじゅう)	put weight on	vocabulary::w7 vocabulary::w7d2
+命をかけて、子どもたちを守る (いのち／まもる)	put one's life on the line to protect children	vocabulary::w7 vocabulary::w7d2
+保険をかける (ほけん)	insure	vocabulary::w7 vocabulary::w7d2
+（なべを）火にかける (ひ)	put a pan on the stove	vocabulary::w7 vocabulary::w7d2
+金メダルを取る (きん)	get a gold medal	vocabulary::w7 vocabulary::w7d2
+記録を取る (きろく)	keep a record of	vocabulary::w7 vocabulary::w7d2
+場所を取る (ばしょ)	take up space	vocabulary::w7 vocabulary::w7d2
+責任を取る (せきにん)	take responsibility	vocabulary::w7 vocabulary::w7d2
+下準備に時間を取る (したじゅんびにじかん)	take time to prepare	vocabulary::w7 vocabulary::w7d2
+親の機嫌を取る (おやのきげん)	try to please the parents	vocabulary::w7 vocabulary::w7d2
+大事を取って入院する (だいじ)	get hospitalized just in case (to be on the safe side)	vocabulary::w7 vocabulary::w7d2
+税金を取られる (ぜいきん)	have a tax imposed	vocabulary::w7 vocabulary::w7d2
+ハンドルを取られる	lose control of the car (steering)	vocabulary::w7 vocabulary::w7d2
+疲れが取れる (つかれ)	recover from fatigue	vocabulary::w7 vocabulary::w7d2
+身長が伸びる (しんちょう)	grow taller	vocabulary::w7 vocabulary::w7d2
+売り上げが伸びる (うりあげ)	sales go up	vocabulary::w7 vocabulary::w7d2
+売り上げを伸ばす	increase sales	vocabulary::w7 vocabulary::w7d2
+パジャマのズボンのゴムが伸びる	the elastic of the pajama pants goes slack	vocabulary::w7 vocabulary::w7d2
+そばが伸びて、まずくなる	the soba loses its texture (gets soggy) and doesn't taste good	vocabulary::w7 vocabulary::w7d2
+髪が伸びる (かみ)	hair grows	vocabulary::w7 vocabulary::w7d2
+肩まで髪を伸ばす (かた)	grow hair down to the shoulders	vocabulary::w7 vocabulary::w7d2
+アンテナを伸ばす	extend the antenna	vocabulary::w7 vocabulary::w7d2
+しわが伸びる	creases are smoothed out	vocabulary::w7 vocabulary::w7d2
+アイロンをかけてしわを伸ばす	iron out the creases	vocabulary::w7 vocabulary::w7d2
+子どもの才能を伸ばす (さいのう)	develop a child's talent	vocabulary::w7 vocabulary::w7d2
+軽いけが (かるい)	a slight injury	vocabulary::w7 vocabulary::w7d3
+重いけが (おもい)	serious injury	vocabulary::w7 vocabulary::w7d3
+台風の被害は軽かった (たいふうのひがい)	the typhoon damage was minimal	vocabulary::w7 vocabulary::w7d3
+大きかった	was heavy	vocabulary::w7 vocabulary::w7d3
+軽く運動する (うんどう)	do some light exercise	vocabulary::w7 vocabulary::w7d3
+激しく (はげしく)	intensely	vocabulary::w7 vocabulary::w7d3
+軽い罪 (つみ)	a minor offense	vocabulary::w7 vocabulary::w7d3
+重い罪	serious crime	vocabulary::w7 vocabulary::w7d3
+試験が終わって気持ちが軽くなった (きもち)	felt happy & cheerful (relieved) after the exam	vocabulary::w7 vocabulary::w7d3
+重くなった	felt heavy	vocabulary::w7 vocabulary::w7d3
+息子が就職して親の負担が軽くなった (むすこ／ふたん)	the parents' financial burden became lighter after the son got a job	vocabulary::w7 vocabulary::w7d3
+重くなった	became heavier	vocabulary::w7 vocabulary::w7d3
+口が軽い (くち)	can't keep a secret	vocabulary::w7 vocabulary::w7d3
+口がかたい	tight-lipped	vocabulary::w7 vocabulary::w7d3
+軽い気持ちで引き受ける	accept without much thinking / casually	vocabulary::w7 vocabulary::w7d3
+マッサージで体が軽くなる (からだ)	feel refreshed after a massage	vocabulary::w7 vocabulary::w7d3
+重くなる	feel heavy	vocabulary::w7 vocabulary::w7d3
+暗い夜道を歩く (よみち)	walk on a dark road at night	vocabulary::w7 vocabulary::w7d3
+暗い色のシャツ (いろ)	a dark colored shirt	vocabulary::w7 vocabulary::w7d3
+明るい (あかるい)	bright	vocabulary::w7 vocabulary::w7d3
+暗い声で話す (こえ)	speak with a low, sad voice	vocabulary::w7 vocabulary::w7d3
+明るい	cheerful	vocabulary::w7 vocabulary::w7d3
+将来の見通しは暗い (しょうらいのみとおし)	the outlook for the future is dim	vocabulary::w7 vocabulary::w7d3
+明るい	bright	vocabulary::w7 vocabulary::w7d3
+彼女には暗い過去がある (かこ)	she has a dark (sad) past	vocabulary::w7 vocabulary::w7d3
+明るい	bright	vocabulary::w7 vocabulary::w7d3
+最近の学生は政治に暗い (せいじ)	students these days know very little about politics	vocabulary::w7 vocabulary::w7d3
+明るい	knowledgeable about	vocabulary::w7 vocabulary::w7d3
+高い技術 (ぎじゅつ)	high-level technology	vocabulary::w7 vocabulary::w7d3
+芸術への関心が高い (げいじゅつ／かんしん)	be very interested in art	vocabulary::w7 vocabulary::w7d3
+低い (ひくい)	low	vocabulary::w7 vocabulary::w7d3
+理想が高い (りそう)	aim high / have high ideals	vocabulary::w7 vocabulary::w7d3
+低い	low	vocabulary::w7 vocabulary::w7d3
+鼻が高い (はな)	be proud of	vocabulary::w7 vocabulary::w7d3
+プライドが高い	be very proud / have high pride	vocabulary::w7 vocabulary::w7d3
+格式が高いホテル (かくしき)	a high-class hotel	vocabulary::w7 vocabulary::w7d3
+ベルトがきつい	the belt is too tight	vocabulary::w7 vocabulary::w7d3
+ゆるい	loose	vocabulary::w7 vocabulary::w7d3
+きついけいこ	very hard training	vocabulary::w7 vocabulary::w7d3
+早起きはきつい (はやおき)	it is very difficult to get up early	vocabulary::w7 vocabulary::w7d3
+きつく注意する (ちゅうい)	give a severe scolding / strict warning	vocabulary::w7 vocabulary::w7d3
+この旅行の日程はきつい (にってい)	the trip itinerary is tight	vocabulary::w7 vocabulary::w7d3
+余裕がある (よゆう)	have leeway	vocabulary::w7 vocabulary::w7d3
+妻はきつい性格の女性だ (つま／せいかく)	my wife has a very strong (aggressive) personality	vocabulary::w7 vocabulary::w7d3
+びんのふたがきつくて開かない	the lid is too tight to open	vocabulary::w7 vocabulary::w7d3
+ゆるくて	loose	vocabulary::w7 vocabulary::w7d3
+今日は日差しがきつい (ひざし)	the sun is beaming (very strong) today	vocabulary::w7 vocabulary::w7d3
+きつい酒 (さけ)	hard liquor / strong alcohol	vocabulary::w7 vocabulary::w7d3
+軽い	light	vocabulary::w7 vocabulary::w7d3
+目つきがきつい	a stern look / sharp eyes	vocabulary::w7 vocabulary::w7d3
+不～ (ふ)	not	vocabulary::w7 vocabulary::w7d4
+不可能（な） (ふかのう)	impossible	vocabulary::w7 vocabulary::w7d4
+不必要（な） (ふひつよう)	unnecessary	vocabulary::w7 vocabulary::w7d4
+不愉快（な） (ふゆかい)	unpleasant	vocabulary::w7 vocabulary::w7d4
+不健康（な） (ふけんこう)	unhealthy	vocabulary::w7 vocabulary::w7d4
+無～ (む)	without / lack of	vocabulary::w7 vocabulary::w7d4
+無差別 (むさべつ)	indiscriminate	vocabulary::w7 vocabulary::w7d4
+無関心（な） (むかんしん)	indifferent	vocabulary::w7 vocabulary::w7d4
+無関係（な） (むかんけい)	unrelated	vocabulary::w7 vocabulary::w7d4
+無意識 (むいしき)	unconscious	vocabulary::w7 vocabulary::w7d4
+非～ (ひ)	non- / un-	vocabulary::w7 vocabulary::w7d4
+非常識（な） (ひじょうしき)	lack of common sense	vocabulary::w7 vocabulary::w7d4
+非科学的（な） (ひかがくてき)	unscientific	vocabulary::w7 vocabulary::w7d4
+非公開 (ひこうかい)	closed / not open to the public	vocabulary::w7 vocabulary::w7d4
+非公式 (ひこうしき)	unofficial	vocabulary::w7 vocabulary::w7d4
+未～ (み)	not yet	vocabulary::w7 vocabulary::w7d4
+未完成 (みかんせい)	incomplete	vocabulary::w7 vocabulary::w7d4
+未解決 (みかいけつ)	unsolved	vocabulary::w7 vocabulary::w7d4
+再～ (さい)	re- / again	vocabulary::w7 vocabulary::w7d4
+再出発（する） (さいしゅっぱつ)	a new start	vocabulary::w7 vocabulary::w7d4
+再認識（する） (さいにんしき)	new realization	vocabulary::w7 vocabulary::w7d4
+再生産（する） (さいせいさん)	reproduction	vocabulary::w7 vocabulary::w7d4
+再開発（する） (さいかいはつ)	redevelopment	vocabulary::w7 vocabulary::w7d4
+超～ (ちょう)	super- / ultra-	vocabulary::w7 vocabulary::w7d4
+超満員 (ちょうまんいん)	extremely full	vocabulary::w7 vocabulary::w7d4
+超特急 (ちょうとっきゅう)	a super express	vocabulary::w7 vocabulary::w7d4
+超小型 (ちょうこがた)	micro / very small	vocabulary::w7 vocabulary::w7d4
+超忙しい (ちょういそがしい)	extremely busy	vocabulary::w7 vocabulary::w7d4
+高～ (こう)	high	vocabulary::w7 vocabulary::w7d4
+高カロリー (こう)	high calorie	vocabulary::w7 vocabulary::w7d4
+高収入 (こうしゅうにゅう)	a high income	vocabulary::w7 vocabulary::w7d4
+高気圧 (こうきあつ)	high pressure	vocabulary::w7 vocabulary::w7d4
+名～ (めい)	famous / excellent	vocabulary::w7 vocabulary::w7d4
+名場面 (めいばめん)	a famous scene	vocabulary::w7 vocabulary::w7d4
+名女優 (めいじょゆう)	a famous/super actress	vocabulary::w7 vocabulary::w7d4
+名演奏 (めいえんそう)	a super performance	vocabulary::w7 vocabulary::w7d4
+全～ (ぜん)	all / whole	vocabulary::w7 vocabulary::w7d4
+全世界 (ぜんせかい)	the whole world	vocabulary::w7 vocabulary::w7d4
+全日本 (ぜんにほん)	all Japan / national	vocabulary::w7 vocabulary::w7d4
+全学生 (ぜんがくせい)	all students	vocabulary::w7 vocabulary::w7d4
+全責任 (ぜんせきにん)	entire responsibility	vocabulary::w7 vocabulary::w7d4
+総～ (そう)	total	vocabulary::w7 vocabulary::w7d4
+総人数 (そうにんずう)	the total number of people	vocabulary::w7 vocabulary::w7d4
+総収入 (そうしゅうにゅう)	total income	vocabulary::w7 vocabulary::w7d4
+各～ (かく)	each / every	vocabulary::w7 vocabulary::w7d4
+各クラス (かく)	each class	vocabulary::w7 vocabulary::w7d4
+各家庭 (かくかてい)	each household	vocabulary::w7 vocabulary::w7d4
+長～ (なが)	long	vocabulary::w7 vocabulary::w7d4
+長持ち（する） (ながもち)	long-lasting	vocabulary::w7 vocabulary::w7d4
+長生き（する） (ながいき)	long-living	vocabulary::w7 vocabulary::w7d4
+長話（する） (ながばなし)	a long talk	vocabulary::w7 vocabulary::w7d4
+長電話（する） (ながでんわ)	a long phone conversation	vocabulary::w7 vocabulary::w7d4
+現～ (げん)	current	vocabulary::w7 vocabulary::w7d4
+現社長 (げんしゃちょう)	current president	vocabulary::w7 vocabulary::w7d4
+現大臣 (げんだいじん)	current minister	vocabulary::w7 vocabulary::w7d4
+前～ (ぜん)	former (immediate past)	vocabulary::w7 vocabulary::w7d4
+前社長 (ぜんしゃちょう)	ex-president (one before the current one)	vocabulary::w7 vocabulary::w7d4
+前大臣 (ぜんだいじん)	ex-minister	vocabulary::w7 vocabulary::w7d4
+元～ (もと)	former (in the past)	vocabulary::w7 vocabulary::w7d4
+元社長 (もとしゃちょう)	ex-president (past president)	vocabulary::w7 vocabulary::w7d4
+元大臣 (もとだいじん)	ex-minister	vocabulary::w7 vocabulary::w7d4
+故～ (こ)	late / deceased	vocabulary::w7 vocabulary::w7d4
+故田中社長 (こたなかしゃちょう)	the late President Tanaka	vocabulary::w7 vocabulary::w7d4
+故田中大臣 (こたなかだいじん)	the late Minister Tanaka	vocabulary::w7 vocabulary::w7d4
+副～ (ふく)	vice-	vocabulary::w7 vocabulary::w7d4
+副社長 (ふくしゃちょう)	vice-president	vocabulary::w7 vocabulary::w7d4
+副大臣 (ふくだいじん)	vice-minister	vocabulary::w7 vocabulary::w7d4
+副作用 (ふくさよう)	a side effect	vocabulary::w7 vocabulary::w7d4
+～金 (きん)	money / fee	vocabulary::w7 vocabulary::w7d5
+入学金 (にゅうがくきん)	an admission fee	vocabulary::w7 vocabulary::w7d5
+奨学金 (しょうがくきん)	a scholarship	vocabulary::w7 vocabulary::w7d5
+売上金 (うりあげきん)	proceeds	vocabulary::w7 vocabulary::w7d5
+～料 (りょう)	fee / charge	vocabulary::w7 vocabulary::w7d5
+授業料 (じゅぎょうりょう)	a tuition fee	vocabulary::w7 vocabulary::w7d5
+入場料 (にゅうじょうりょう)	entrance fee	vocabulary::w7 vocabulary::w7d5
+運送料 (うんそうりょう)	a shipping charge	vocabulary::w7 vocabulary::w7d5
+拝観料 (はいかんりょう)	an admission fee (for a temple/shrine)	vocabulary::w7 vocabulary::w7d5
+～費 (ひ)	expenses / cost	vocabulary::w7 vocabulary::w7d5
+宿泊費 (しゅくはくひ)	accommodation fees	vocabulary::w7 vocabulary::w7d5
+生活費 (せいかつひ)	living expenses	vocabulary::w7 vocabulary::w7d5
+交通費 (こうつうひ)	transportation expenses	vocabulary::w7 vocabulary::w7d5
+医療費 (いりょうひ)	medical expenses	vocabulary::w7 vocabulary::w7d5
+～代 (だい)	cost / bill	vocabulary::w7 vocabulary::w7d5
+本代 (ほんだい)	book expenses	vocabulary::w7 vocabulary::w7d5
+電気代 (でんきだい)	electricity bill	vocabulary::w7 vocabulary::w7d5
+修理代 (しゅうりだい)	a repair bill	vocabulary::w7 vocabulary::w7d5
+バス代	bus fare	vocabulary::w7 vocabulary::w7d5
+～賃 (ちん)	fare / rent / wage	vocabulary::w7 vocabulary::w7d5
+借り賃 (かりちん)	rent (borrowing)	vocabulary::w7 vocabulary::w7d5
+貸し賃 (かしちん)	rent (lending)	vocabulary::w7 vocabulary::w7d5
+電車賃 (でんしゃちん)	train fare	vocabulary::w7 vocabulary::w7d5
+手間賃 (てまちん)	pay for labor	vocabulary::w7 vocabulary::w7d5
+～内 (ない)	within / inside	vocabulary::w7 vocabulary::w7d5
+時間内に書き終える (じかんない)	finish writing within the time limit	vocabulary::w7 vocabulary::w7d5
+予算内に収まる (よさんない)	be within the budget	vocabulary::w7 vocabulary::w7d5
+期限内に支払う (きげんない)	pay before the deadline	vocabulary::w7 vocabulary::w7d5
+～外 (がい)	outside / beyond	vocabulary::w7 vocabulary::w7d5
+予想外の結果 (よそうがい)	an unexpected result	vocabulary::w7 vocabulary::w7d5
+範囲外の問題 (はんいがい)	unanticipated questions (outside the scope)	vocabulary::w7 vocabulary::w7d5
+時間外労働 (じかんがい)	overtime work	vocabulary::w7 vocabulary::w7d5
+～的 (てき)	-ic / -ive / typical	vocabulary::w7 vocabulary::w7d5
+代表的な映画 (だいひょうてき)	a typical/representative movie	vocabulary::w7 vocabulary::w7d5
+日常的な出来事 (にちじょうてき)	a daily event	vocabulary::w7 vocabulary::w7d5
+比較的大きい (ひかくてき)	comparatively big	vocabulary::w7 vocabulary::w7d5
+進歩的な考え (しんぽてき)	a progressive idea	vocabulary::w7 vocabulary::w7d5
+～風 (ふう)	style / -esque	vocabulary::w7 vocabulary::w7d5
+サラリーマン風の男 (ふう)	a man who looks like a businessman	vocabulary::w7 vocabulary::w7d5
+西洋風の建物 (せいようふう)	a western style building	vocabulary::w7 vocabulary::w7d5
+関西風の味付け (かんさいふう)	Kansai style seasoning	vocabulary::w7 vocabulary::w7d5
+～感 (かん)	feeling / sense	vocabulary::w7 vocabulary::w7d5
+立体感のある絵 (りったいかん)	a painting with a 3D effect	vocabulary::w7 vocabulary::w7d5
+開放感を味わう (かいほうかん)	enjoy the sense of freedom	vocabulary::w7 vocabulary::w7d5
+存在感がある人 (そんざいかん)	a man who makes his presence felt	vocabulary::w7 vocabulary::w7d5
+～性 (せい)	nature / property	vocabulary::w7 vocabulary::w7d5
+安全性を確かめる (あんぜんせい)	ensure safety	vocabulary::w7 vocabulary::w7d5
+可能性を試す (かのうせい)	explore the possibility	vocabulary::w7 vocabulary::w7d5
+植物性の油 (しょくぶつせい)	vegetable oil	vocabulary::w7 vocabulary::w7d5
+～製 (せい)	made of / made in	vocabulary::w7 vocabulary::w7d5
+日本製のカメラ (にほんせい)	a camera made in Japan	vocabulary::w7 vocabulary::w7d5
+スチール製の机 (せい)	a steel desk	vocabulary::w7 vocabulary::w7d5
+～化 (か)	-ization / change into	vocabulary::w7 vocabulary::w7d5
+経営の合理化 (ごうりか)	streamlining of the company	vocabulary::w7 vocabulary::w7d5
+機械化 (きかいか)	automation / mechanization	vocabulary::w7 vocabulary::w7d5
+高齢化 (こうれいか)	aging (population)	vocabulary::w7 vocabulary::w7d5
+少子化 (しょうしか)	declining birth-rate	vocabulary::w7 vocabulary::w7d5
+～目 (め)	turning point / appearance	vocabulary::w7 vocabulary::w7d5
+季節の変わり目 (かわりめ)	when the season changes / transition of seasons	vocabulary::w7 vocabulary::w7d5
+見た目が悪い (みため)	looks bad (appearance)	vocabulary::w7 vocabulary::w7d5
+ズボンの折り目 (おりめ)	a crease in the pants	vocabulary::w7 vocabulary::w7d5
+～ごと	whole / entirely	vocabulary::w7 vocabulary::w7d6
+りんごを丸ごとかじる (まるごと)	bite into a whole apple	vocabulary::w7 vocabulary::w7d6
+りんごを皮ごと食べる (かわごと)	eat an unpeeled apple	vocabulary::w7 vocabulary::w7d6
+ケースごと宝石が盗まれた (ほうせき)	the jewellery box and its contents were stolen	vocabulary::w7 vocabulary::w7d6
+～ごとに	every / each time	vocabulary::w7 vocabulary::w7d6
+一雨ごとに暖かくなる (ひとあめ)	it gets warmer with each rain	vocabulary::w7 vocabulary::w7d6
+ちらしを家ごとに配る (いえ)	put a flyer in each mailbox	vocabulary::w7 vocabulary::w7d6
+失敗するごとに（＝たびに）上達する (しっぱい／じょうたつ)	learn from one's mistakes (improve every time)	vocabulary::w7 vocabulary::w7d6
+～おき	every (intervals)	vocabulary::w7 vocabulary::w7d6
+バスが5分おきに来る (ふん)	the bus runs every five minutes	vocabulary::w7 vocabulary::w7d6
+1行おきに書く (ぎょう)	write on every other line	vocabulary::w7 vocabulary::w7d6
+～ぶり	style / way / after a period of time	vocabulary::w7 vocabulary::w7d6
+仕事ぶり (しごと)	how he works	vocabulary::w7 vocabulary::w7d6
+話しぶり (はなし)	how he speaks	vocabulary::w7 vocabulary::w7d6
+身ぶり (み)	body language	vocabulary::w7 vocabulary::w7d6
+彼と5年ぶりに会った	I saw him for the first time in 5 years	vocabulary::w7 vocabulary::w7d6
+～がたい	difficult to (formal)	vocabulary::w7 vocabulary::w7d6
+忘れがたい思い出 (わすれがたい)	unforgettable memory	vocabulary::w7 vocabulary::w7d6
+その要求は認めがたい (みとめがたい)	the demand cannot be met (hard to approve)	vocabulary::w7 vocabulary::w7d6
+信じがたい事件 (しんじがたい)	an unbelievable incident	vocabulary::w7 vocabulary::w7d6
+～づらい	hard to / difficult to	vocabulary::w7 vocabulary::w7d6
+このペンは書きづらい (かきづらい)	the pen does not write well	vocabulary::w7 vocabulary::w7d6
+歩きづらい道 (あるきづらい)	a road difficult to walk on	vocabulary::w7 vocabulary::w7d6
+～づかい	use of / handling	vocabulary::w7 vocabulary::w7d6
+言葉づかいが悪い (ことば)	have a foul mouth / bad language	vocabulary::w7 vocabulary::w7d6
+金づかいが荒い (かねづかいがあらい)	loose with money / extravagant	vocabulary::w7 vocabulary::w7d6
+人づかいが荒い (ひとづかい)	work one's men hard / drive people hard	vocabulary::w7 vocabulary::w7d6
+～こなす	manage / handle well	vocabulary::w7 vocabulary::w7d6
+パソコンを使いこなす (つかいこなす)	make full use of the computer	vocabulary::w7 vocabulary::w7d6
+洋服を着こなす (きこなす)	dress nicely / wear well	vocabulary::w7 vocabulary::w7d6
+～つき	look / attached to	vocabulary::w7 vocabulary::w7d6
+顔つき (かお)	a look / expression	vocabulary::w7 vocabulary::w7d6
+目つき (め)	a look in one's eye	vocabulary::w7 vocabulary::w7d6
+消しゴム付きの鉛筆 (つき)	pencil with an eraser	vocabulary::w7 vocabulary::w7d6
+一泊二食付き (いっぱくにしょくつき)	room with two meals	vocabulary::w7 vocabulary::w7d6
+～たて	freshly / just done	vocabulary::w7 vocabulary::w7d6
+炊きたてのごはん (たきたて)	freshly cooked rice	vocabulary::w7 vocabulary::w7d6
+焼きたてのパン (やきたて)	freshly baked bread	vocabulary::w7 vocabulary::w7d6
+ペンキ塗りたて (ぬりたて)	just painted / wet paint	vocabulary::w7 vocabulary::w7d6
+〜もかまわず (without caring about / despite)	Acting without worrying about or being bothered by something (often negative).<br><b>Connection:</b> Nも / Vるのも + かまわず<br><b>Ex:</b> 彼女は人目もかまわず子どものように泣いた。 — She cried like a child without caring about people watching.<br>彼は靴が脱げるのもかまわず走り続けた。 — He kept running without caring that his shoes came off.	grammar::w7 grammar::w7d1
+〜にもかかわらず (despite / even though)	Doing something regardless of an obstacle or unexpected situation.<br><b>Connection:</b> V/Aにも / na/N + にもかかわらず<br><b>Ex:</b> 雨にもかかわらず、大勢の人々が集まった。 — Despite the rain, many people gathered.<br>見たにもかかわらず、彼は見なかったと言った。 — Despite having seen it, he said he didn't.	grammar::w7 grammar::w7d1
+〜にかかわらず (regardless of)	Doing something regardless of conditions (e.g., whether X or Y, age, nationality).<br><b>Connection:</b> Vる-Vないに / Aい-Aくないに / N + かかわらず<br><b>Ex:</b> 来る来ないにかかわらず、連絡をください。 — Please contact me regardless of whether you are coming or not.<br>国籍にかかわらず、歓迎します。 — We welcome everyone regardless of nationality.	grammar::w7 grammar::w7d1
+〜を問わず (regardless of / irrespective of)	A condition (age, gender, etc.) does not matter for the action.<br><b>Connection:</b> N + を問わず<br><b>Ex:</b> 年齢を問わず多くの人々が集まった。 — Many people of all ages gathered.<br>経験の有無を問わず、募集。 — Recruiting regardless of experience.	grammar::w7 grammar::w7d1
+〜やら〜やら (and... and... / such things as...)	Listing examples (often overwhelming or chaotic).<br><b>Connection:</b> N/A/V + やら〜やら<br><b>Ex:</b> 机の上は本やらノートやらでいっぱいだ。 — The desk is covered with books, notebooks, and so on.<br>この季節は、目がかゆいやら鼻水が出るやら、大変です。 — This season is hard because of things like itchy eyes and a runny nose.	grammar::w7 grammar::w7d2
+〜につけ〜につけ (whether X or Y / whenever X or Y)	Whether doing X or Y; in every case of X or Y.<br><b>Connection:</b> Vる/Aい + につけ〜につけ<br><b>Ex:</b> 写真を見るにつけ、歌を聞くにつけ、国を思い出す。 — Whenever I look at photos or listen to songs, I remember my country.<br>いいにつけ悪いにつけ、子は親に似る。 — Whether good or bad, children resemble their parents.	grammar::w7 grammar::w7d2
+〜にしろ〜にしろ (whether X or Y / even if X or Y)	Regardless of the options; both cases have the same outcome.<br><b>Connection:</b> V/A/na/N + にしろ〜にしろ<br><b>Ex:</b> 行くにしろ行かないにしろ、連絡してください。 — Regardless of whether you go or not, please contact me.<br>受験はしないにしろ、勉強はしなさい。 — Even if you don't take the entrance exam, you should study.	grammar::w7 grammar::w7d2
+〜も〜ば〜も (X is X, and Y is Y)	Emphasizing that both X and Y share a quality.<br><b>Connection:</b> N1もVばN2もVる / N1もAければN2もAい<br><b>Ex:</b> 彼は勉強もできればスポーツもできる。 — He is good at studying and also good at sports.<br>私は歌も下手ならダンスも下手だ。 — I am bad at singing and dancing.	grammar::w7 grammar::w7d2
+〜だけましだ (better than nothing / at least)	Although not perfect, it's at least something to be grateful for.<br><b>Connection:</b> V/A/na + だけましだ<br><b>Ex:</b> 君は仕事があるだけましだよ。俺は首になってしまった。 — You should be grateful for even having a job. I was fired.<br>給料が減ったけれど、首にならないだけましだ。 — Although my pay decreased, at least I didn't get fired.	grammar::w7 grammar::w7d3
+〜(も)同然だ (virtually / as good as)	Practically the same as something else.<br><b>Connection:</b> N + (も)同然だ<br><b>Ex:</b> この車は中古車といっても新品(も)同然だ。 — Although this is a used car, it is virtually new.<br>彼の財産はないも同然だ。 — He has virtually no assets.	grammar::w7 grammar::w7d3
+〜(も)当然だ / 当たり前だ (it is natural)	It is expected or natural.<br><b>Connection:</b> V/A/na/N + 当然だ / 当たり前だ<br><b>Ex:</b> ひどいことばかり言ったので、彼女に嫌われて当然だ。 — Since you said nasty things, it's natural she hates you.<br>相手のチームは弱い。勝って当たり前だ。 — The other team is not good, so winning is expected.	grammar::w7 grammar::w7d3
+〜だけに (precisely because)	Because of X, Y happens even more so (expected consequence).<br><b>Connection:</b> V/A/na/N + だけに<br><b>Ex:</b> 一流ホテルだけあって快適だった。 — As expected of a first-rate hotel, it was comfortable.<br>このバッグは安いだけにすぐに壊れてしまった。 — Just as one would expect from a cheap bag, it broke immediately.	grammar::w7 grammar::w7d4
+〜ばかりか / 〜ばかりでなく (not only X, but also Y)	Emphasizing an additional fact (positive or negative).<br><b>Connection:</b> V/A/na/N + ばかりか<br><b>Ex:</b> あの人は学校の成績がいいばかりかスポーツもできる。 — He not only has good grades, but can also do sports.<br>このあたりは、空気ばかりでなく水も汚染されている。 — In this area, not only is the air polluted, but so is the water.	grammar::w7 grammar::w7d4
+〜ばかりに (precisely because of [negative])	A negative outcome happened specifically because of reason X.<br><b>Connection:</b> V/A/na/N + ばかりに<br><b>Ex:</b> あの飛行機に乗ったばかりに、彼は死んだ。 — Just because he took that plane, he died.<br>英語の先生が嫌いなばかりに、英語も嫌いになってしまった。 — Just because I disliked the English teacher, I came to dislike English.	grammar::w7 grammar::w7d4
+〜ようではないか (let's [formal/strong invitation])	Strong suggestion or resolution.<br><b>Connection:</b> Vよう + ではないか<br><b>Ex:</b> 今日はお祝いだ。みんなで飲もうではないか。 — It's a celebration today. Let's all drink!<br>だれもやらないなら、ぼくがやってみようじゃないか。 — If no one else does it, I'll do it!	grammar::w7 grammar::w7d5
+〜ようがない (no way to do)	There is no method or means to perform an action.<br><b>Connection:</b> Vます + ようがない<br><b>Ex:</b> 何と言ったらいいのか、言いようがない。 — I really don't know how to express it.<br>この作文は日本語がめちゃくちゃで直しようがない。 — This essay's Japanese is such a mess, there is no way to fix it.	grammar::w7 grammar::w7d5
+〜かのようだ (as if)	Expresses something that appears or behaves like something else.<br><b>Connection:</b> V/A/na/N + かのようだ<br><b>Ex:</b> まるで空が泣いているかのようだ。 — It is as if the sky is crying.<br>怖いものでも見たかのように、彼女は震えていた。 — She was shivering as if she had seen something frightening.	grammar::w7 grammar::w7d5
+〜そうにない (unlikely to)	Indicates low probability of an event happening.<br><b>Connection:</b> Vます + そうにない<br><b>Ex:</b> 最近仕事がすごく忙しくて、同窓会に行けそうにないよ。 — I'm so busy at work, I don't think I can go to the reunion.	grammar::w7 grammar::w7d5
+〜にあたり (upon / when)	Used when starting something official/important; formal occasion.<br><b>Connection:</b> Vる/N + にあたり<br><b>Ex:</b> 図書館の利用にあたり、図書カードが必要です。 — Upon using the library, a library card is necessary.	grammar::w7 grammar::w7d6
+〜に基づいて (based on)	Following a plan, rule, or experience.<br><b>Connection:</b> N + に基づいて<br><b>Ex:</b> この工事は市の計画に基づいて進められます。 — This construction is proceeding based on the city's plan.	grammar::w7 grammar::w7d6
+〜に応じて (in response to / depending on)	Responding to needs or conditions.<br><b>Connection:</b> N + に応じて<br><b>Ex:</b> ソフトは、必要に応じてダウンロードしてください。 — Please download the software as necessary.	grammar::w7 grammar::w7d6
+〜の下で (under)	Under the influence or guidance of X.<br><b>Connection:</b> N + の下で<br><b>Ex:</b> 子どもたちが青空の下で元気に遊んでいる。 — Children are playing cheerfully under the blue sky.	grammar::w7 grammar::w7d6

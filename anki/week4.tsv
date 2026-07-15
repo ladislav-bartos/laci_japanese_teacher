@@ -1,0 +1,532 @@
+#separator:tab
+#html:true
+#columns:Front	Back	Tags
+# Week 4 (Sou Matome N2, Days 1-7) — Kanji, Vocabulary, Grammar, Reading, Listening
+署名	しょめい — Signature <br><i>(kanji: 署)</i>	kanji::w4 kanji::w4d1
+部署	ぶしょ — Post/station <br><i>(kanji: 署)</i>	kanji::w4 kanji::w4d1
+消防署	しょうぼうしょ — Fire station <br><i>(kanji: 署)</i>	kanji::w4 kanji::w4d1
+税務署	ぜいむしょ — Tax office <br><i>(kanji: 署)</i>	kanji::w4 kanji::w4d1
+依頼	いらい — Request/commission <br><i>(kanji: 依)</i>	kanji::w4 kanji::w4d1
+信頼	しんらい — Trust <br><i>(kanji: 頼)</i>	kanji::w4 kanji::w4d1
+頼む	たのむ — Request <br><i>(kanji: 頼)</i>	kanji::w4 kanji::w4d1
+頼もしい	たのもしい — Reliable <br><i>(kanji: 頼)</i>	kanji::w4 kanji::w4d1
+頼る	たよる — Depend upon <br><i>(kanji: 頼)</i>	kanji::w4 kanji::w4d1
+頼りない	たよりない — Powerless/unreliable <br><i>(kanji: 頼)</i>	kanji::w4 kanji::w4d1
+都道府県	とどうふけん — Prefectures <br><i>(kanji: 府)</i>	kanji::w4 kanji::w4d1
+京都府	きょうとふ — Kyoto Prefecture <br><i>(kanji: 府)</i>	kanji::w4 kanji::w4d1
+到着	とうちゃく — Arrival <br><i>(kanji: 到)</i>	kanji::w4 kanji::w4d1
+希望	きぼう — Hope <br><i>(kanji: 希)</i>	kanji::w4 kanji::w4d1
+失望	しつぼう — Loss of hope/despair <br><i>(kanji: 望)</i>	kanji::w4 kanji::w4d1
+望む	のぞむ — Want/hope for <br><i>(kanji: 望)</i>	kanji::w4 kanji::w4d1
+望遠鏡	ぼうえんきょう — Telescope <br><i>(kanji: 望)</i>	kanji::w4 kanji::w4d1
+申請	しんせい — Application <br><i>(kanji: 申)</i>	kanji::w4 kanji::w4d1
+申し込み	もうしこみ — Application/proposal <br><i>(kanji: 申)</i>	kanji::w4 kanji::w4d1
+申す	もうす — Say (humble) <br><i>(kanji: 申)</i>	kanji::w4 kanji::w4d1
+申し上げる	もうしあげる — Say (very humble) <br><i>(kanji: 申)</i>	kanji::w4 kanji::w4d1
+姓	せい — Family name <br><i>(kanji: 姓)</i>	kanji::w4 kanji::w4d1
+姓名	せいめい — Full name <br><i>(kanji: 姓)</i>	kanji::w4 kanji::w4d1
+年齢	ねんれい — Age <br><i>(kanji: 齢)</i>	kanji::w4 kanji::w4d1
+高齢	こうれい — Old age <br><i>(kanji: 齢)</i>	kanji::w4 kanji::w4d1
+男性	だんせい — Man <br><i>(kanji: 性)</i>	kanji::w4 kanji::w4d1
+女性	じょせい — Woman <br><i>(kanji: 性)</i>	kanji::w4 kanji::w4d1
+性別	せいべつ — Sex/gender <br><i>(kanji: 性)</i>	kanji::w4 kanji::w4d1
+性質	せいしつ — Nature/disposition <br><i>(kanji: 性)</i>	kanji::w4 kanji::w4d1
+安全性	あんぜんせい — Safety <br><i>(kanji: 性)</i>	kanji::w4 kanji::w4d1
+可能性	かのうせい — Possibility <br><i>(kanji: 性)</i>	kanji::w4 kanji::w4d1
+お宅	おたく — House/home (respectful) <br><i>(kanji: 宅)</i>	kanji::w4 kanji::w4d1
+住宅	じゅうたく — Housing <br><i>(kanji: 宅)</i>	kanji::w4 kanji::w4d1
+自宅	じたく — One's house/home <br><i>(kanji: 宅)</i>	kanji::w4 kanji::w4d1
+帰宅	きたく — Returning home <br><i>(kanji: 宅)</i>	kanji::w4 kanji::w4d1
+勤務	きんむ — Service/duty <br><i>(kanji: 勤)</i>	kanji::w4 kanji::w4d1
+出勤	しゅっきん — Attendance at work <br><i>(kanji: 勤)</i>	kanji::w4 kanji::w4d1
+通勤	つうきん — Commuting to work <br><i>(kanji: 勤)</i>	kanji::w4 kanji::w4d1
+勤める	つとめる — Work/be employed <br><i>(kanji: 勤)</i>	kanji::w4 kanji::w4d1
+全部	ぜんぶ — All/whole <br><i>(kanji: 部)</i>	kanji::w4 kanji::w4d1
+部分	ぶぶん — Part <br><i>(kanji: 部)</i>	kanji::w4 kanji::w4d1
+部長	ぶちょう — Department head/manager <br><i>(kanji: 部)</i>	kanji::w4 kanji::w4d1
+学部	がくぶ — Faculty <br><i>(kanji: 部)</i>	kanji::w4 kanji::w4d1
+部屋	へや — Room <br><i>(kanji: 部)</i>	kanji::w4 kanji::w4d1
+結婚	けっこん — Marriage <br><i>(kanji: 婚)</i>	kanji::w4 kanji::w4d2
+未婚	みこん — Unmarried <br><i>(kanji: 婚)</i>	kanji::w4 kanji::w4d2
+婚約	こんやく — Engagement <br><i>(kanji: 婚)</i>	kanji::w4 kanji::w4d2
+新婚	しんこん — Newly wedded <br><i>(kanji: 婚)</i>	kanji::w4 kanji::w4d2
+招待	しょうたい — Invitation <br><i>(kanji: 招)</i>	kanji::w4 kanji::w4d2
+招く	まねく — Invite <br><i>(kanji: 招)</i>	kanji::w4 kanji::w4d2
+〜状	〜じょう — Letter/card <br><i>(kanji: 状)</i>	kanji::w4 kanji::w4d2
+状態	じょうたい — Situation/state <br><i>(kanji: 状)</i>	kanji::w4 kanji::w4d2
+現状	げんじょう — Existing situation <br><i>(kanji: 状)</i>	kanji::w4 kanji::w4d2
+年賀状	ねんがじょう — New year's card <br><i>(kanji: 状)</i>	kanji::w4 kanji::w4d2
+欠席	けっせき — Absence <br><i>(kanji: 欠)</i>	kanji::w4 kanji::w4d2
+欠点	けってん — Shortcoming <br><i>(kanji: 欠)</i>	kanji::w4 kanji::w4d2
+欠けている	かけている — Lacking <br><i>(kanji: 欠)</i>	kanji::w4 kanji::w4d2
+出欠	しゅっけつ — Attendance or absence <br><i>(kanji: 欠)</i>	kanji::w4 kanji::w4d2
+喜ぶ	よろこぶ — Be pleased <br><i>(kanji: 喜)</i>	kanji::w4 kanji::w4d2
+喜んで	よろこんで — Gladly <br><i>(kanji: 喜)</i>	kanji::w4 kanji::w4d2
+政治	せいじ — Politics <br><i>(kanji: 治)</i>	kanji::w4 kanji::w4d2
+自治体	じちたい — Self-governing body <br><i>(kanji: 治)</i>	kanji::w4 kanji::w4d2
+自治会	じちかい — Self-governing association <br><i>(kanji: 治)</i>	kanji::w4 kanji::w4d2
+治す	なおす — Cure <br><i>(kanji: 治)</i>	kanji::w4 kanji::w4d2
+委員	いいん — Committee member <br><i>(kanji: 委)</i>	kanji::w4 kanji::w4d2
+委任状	いにんじょう — Power of attorney <br><i>(kanji: 委)</i>	kanji::w4 kanji::w4d2
+委員会	いいんかい — Committee <br><i>(kanji: 委)</i>	kanji::w4 kanji::w4d2
+祝日	しゅくじつ — Holiday/festival day <br><i>(kanji: 祝)</i>	kanji::w4 kanji::w4d2
+祝う	いわう — Celebrate/congratulate <br><i>(kanji: 祝)</i>	kanji::w4 kanji::w4d2
+お祝い	おいわい — Celebration/congratulation <br><i>(kanji: 祝)</i>	kanji::w4 kanji::w4d2
+舞台	ぶたい — Stage <br><i>(kanji: 舞)</i>	kanji::w4 kanji::w4d2
+舞う	まう — Dance/flutter <br><i>(kanji: 舞)</i>	kanji::w4 kanji::w4d2
+お見舞い	おみまい — Call of inquiry/visit <br><i>(kanji: 舞)</i>	kanji::w4 kanji::w4d2
+お礼	おれい — Thanks/reward <br><i>(kanji: 礼)</i>	kanji::w4 kanji::w4d2
+礼儀	れいぎ — Etiquette <br><i>(kanji: 礼)</i>	kanji::w4 kanji::w4d2
+失礼(な)	しつれいな — Rude <br><i>(kanji: 礼)</i>	kanji::w4 kanji::w4d2
+多忙(な)	たぼうな — Busy with many things <br><i>(kanji: 忙)</i>	kanji::w4 kanji::w4d2
+忙しい	いそがしい — Busy <br><i>(kanji: 忙)</i>	kanji::w4 kanji::w4d2
+夫妻	ふさい — Husband and wife <br><i>(kanji: 妻)</i>	kanji::w4 kanji::w4d2
+妻	つま — Wife <br><i>(kanji: 妻)</i>	kanji::w4 kanji::w4d2
+主張	しゅちょう — Assertion/claim <br><i>(kanji: 張)</i>	kanji::w4 kanji::w4d2
+出張	しゅっちょう — Business trip <br><i>(kanji: 張)</i>	kanji::w4 kanji::w4d2
+頑張る	がんばる — Try one's hardest <br><i>(kanji: 張)</i>	kanji::w4 kanji::w4d2
+引っ張る	ひっぱる — Pull <br><i>(kanji: 張)</i>	kanji::w4 kanji::w4d2
+張る	はる — Stretch/tighten <br><i>(kanji: 張)</i>	kanji::w4 kanji::w4d2
+奥様	おくさま — Wife respectful form <br><i>(kanji: 奥)</i>	kanji::w4 kanji::w4d2
+奥	おく — Inner recesses <br><i>(kanji: 奥)</i>	kanji::w4 kanji::w4d2
+浅い	あさい — Shallow <br><i>(kanji: 浅)</i>	kanji::w4 kanji::w4d3
+浅ましい	あさましい — Shameful/sordid <br><i>(kanji: 浅)</i>	kanji::w4 kanji::w4d3
+浅草	あさくさ — Asakusa place name <br><i>(kanji: 浅)</i>	kanji::w4 kanji::w4d3
+〜君	〜くん — Honorific appended to names <br><i>(kanji: 君)</i>	kanji::w4 kanji::w4d3
+君	きみ — You <br><i>(kanji: 君)</i>	kanji::w4 kanji::w4d3
+永久	えいきゅう — Permanent <br><i>(kanji: 久)</i>	kanji::w4 kanji::w4d3
+久しぶり	ひさしぶり — Long time no see <br><i>(kanji: 久)</i>	kanji::w4 kanji::w4d3
+相互	そうご — Mutual/reciprocal <br><i>(kanji: 互)</i>	kanji::w4 kanji::w4d3
+お互いに	おたがいに — Mutually <br><i>(kanji: 互)</i>	kanji::w4 kanji::w4d3
+交互	こうご — Alternation <br><i>(kanji: 互)</i>	kanji::w4 kanji::w4d3
+追加	ついか — Addition/supplement <br><i>(kanji: 追)</i>	kanji::w4 kanji::w4d3
+追い越す	おいこす — Overtake <br><i>(kanji: 追)</i>	kanji::w4 kanji::w4d3
+追伸	ついしん — Postscript/P.S. <br><i>(kanji: 追)</i>	kanji::w4 kanji::w4d3
+追い付く	おいつく — Catch up <br><i>(kanji: 追)</i>	kanji::w4 kanji::w4d3
+追う	おう — Pursue <br><i>(kanji: 追)</i>	kanji::w4 kanji::w4d3
+伸ばす	のばす — Extend/stretch <br><i>(kanji: 伸)</i>	kanji::w4 kanji::w4d3
+伸びる	のびる — Grow/stretch <br><i>(kanji: 伸)</i>	kanji::w4 kanji::w4d3
+伸びをする	のびをする — Stretch out <br><i>(kanji: 伸)</i>	kanji::w4 kanji::w4d3
+皆	みな — All <br><i>(kanji: 皆)</i>	kanji::w4 kanji::w4d3
+皆さん	みなさん — Everyone <br><i>(kanji: 皆)</i>	kanji::w4 kanji::w4d3
+お歳暮	おせいぼ — Year-end gift <br><i>(kanji: 暮)</i>	kanji::w4 kanji::w4d3
+暮れ	くれ — End of the year <br><i>(kanji: 暮)</i>	kanji::w4 kanji::w4d3
+暮らす	くらす — Live/dwell <br><i>(kanji: 暮)</i>	kanji::w4 kanji::w4d3
+夕暮れ	ゆうぐれ — Dusk <br><i>(kanji: 暮)</i>	kanji::w4 kanji::w4d3
+習慣	しゅうかん — Custom/habit <br><i>(kanji: 慣)</i>	kanji::w4 kanji::w4d3
+慣れる	なれる — Become accustomed to <br><i>(kanji: 慣)</i>	kanji::w4 kanji::w4d3
+生活	せいかつ — Life/livelihood <br><i>(kanji: 活)</i>	kanji::w4 kanji::w4d3
+活字	かつじ — Printing type <br><i>(kanji: 活)</i>	kanji::w4 kanji::w4d3
+活用	かつよう — Practical use <br><i>(kanji: 活)</i>	kanji::w4 kanji::w4d3
+活発(な)	かっぱつな — Activity/vivacity <br><i>(kanji: 活)</i>	kanji::w4 kanji::w4d3
+恋愛	れんあい — Love/romance <br><i>(kanji: 恋)</i>	kanji::w4 kanji::w4d3
+恋人	こいびと — Lover <br><i>(kanji: 恋)</i>	kanji::w4 kanji::w4d3
+恋	こい — Love <br><i>(kanji: 恋)</i>	kanji::w4 kanji::w4d3
+恋しい	こいしい — Homesick/lonely <br><i>(kanji: 恋)</i>	kanji::w4 kanji::w4d3
+健在	けんざい — Being in good health <br><i>(kanji: 健)</i>	kanji::w4 kanji::w4d3
+健やか(な)	すこやかな — Sound/healthy <br><i>(kanji: 健)</i>	kanji::w4 kanji::w4d3
+健康	けんこう — Health <br><i>(kanji: 健)</i>	kanji::w4 kanji::w4d3
+健全(な)	けんぜんな — Sound/wholesome <br><i>(kanji: 健)</i>	kanji::w4 kanji::w4d3
+健康保険証	けんこうほけんしょう — Health insurance card <br><i>(kanji: 康)</i>	kanji::w4 kanji::w4d3
+祈願	きがん — Prayer <br><i>(kanji: 祈)</i>	kanji::w4 kanji::w4d3
+祈る	いのる — Pray <br><i>(kanji: 祈)</i>	kanji::w4 kanji::w4d3
+祈り	いのり — A prayer/grace <br><i>(kanji: 祈)</i>	kanji::w4 kanji::w4d3
+幸福	こうふく — Happiness <br><i>(kanji: 福)</i>	kanji::w4 kanji::w4d4
+福祉	ふくし — Welfare <br><i>(kanji: 福)</i>	kanji::w4 kanji::w4d4
+拝見	はいけん — Looking humble form <br><i>(kanji: 拝)</i>	kanji::w4 kanji::w4d4
+参拝者	さんぱいしゃ — Visitor to a shrine <br><i>(kanji: 拝)</i>	kanji::w4 kanji::w4d4
+拝借	はいしゃく — Borrowing humble form <br><i>(kanji: 拝)</i>	kanji::w4 kanji::w4d4
+拝む	おがむ — Worship <br><i>(kanji: 拝)</i>	kanji::w4 kanji::w4d4
+打者	だしゃ — Batter/hitter <br><i>(kanji: 打)</i>	kanji::w4 kanji::w4d4
+打つ	うつ — Strike/hit <br><i>(kanji: 打)</i>	kanji::w4 kanji::w4d4
+打ち合わせ	うちあわせ — Arrangement in advance <br><i>(kanji: 打)</i>	kanji::w4 kanji::w4d4
+伺う	うかがう — Visit/ask humble form <br><i>(kanji: 伺)</i>	kanji::w4 kanji::w4d4
+幸運(な)	こううんな — Lucky <br><i>(kanji: 幸)</i>	kanji::w4 kanji::w4d4
+不幸(な)	ふこうな — Unhappy/unfortunate <br><i>(kanji: 幸)</i>	kanji::w4 kanji::w4d4
+幸せ(な)	しあわせな — Happy <br><i>(kanji: 幸)</i>	kanji::w4 kanji::w4d4
+幸い	さいわい — Good fortune/fortunately <br><i>(kanji: 幸)</i>	kanji::w4 kanji::w4d4
+失礼(な)	しつれいな — Rude <br><i>(kanji: 失)</i>	kanji::w4 kanji::w4d4
+失望	しつぼう — Despair <br><i>(kanji: 失)</i>	kanji::w4 kanji::w4d4
+失業	しつぎょう — Unemployment <br><i>(kanji: 失)</i>	kanji::w4 kanji::w4d4
+失う	うしなう — Lose <br><i>(kanji: 失)</i>	kanji::w4 kanji::w4d4
+突然	とつぜん — Sudden <br><i>(kanji: 突)</i>	kanji::w4 kanji::w4d4
+突き当たり	つきあたり — End of the road <br><i>(kanji: 突)</i>	kanji::w4 kanji::w4d4
+煙突	えんとつ — Chimney <br><i>(kanji: 突)</i>	kanji::w4 kanji::w4d4
+突っ込む	つっこむ — Thrust into/plunge <br><i>(kanji: 突)</i>	kanji::w4 kanji::w4d4
+全然	ぜんぜん — Not at all <br><i>(kanji: 然)</i>	kanji::w4 kanji::w4d4
+当然	とうぜん — Of course <br><i>(kanji: 然)</i>	kanji::w4 kanji::w4d4
+自然	しぜん — Nature/natural <br><i>(kanji: 然)</i>	kanji::w4 kanji::w4d4
+天然	てんねん — Natural/unartificial <br><i>(kanji: 然)</i>	kanji::w4 kanji::w4d4
+諸〜	しょ〜 — Various <br><i>(kanji: 諸)</i>	kanji::w4 kanji::w4d4
+諸般	しょはん — Variety/all sorts <br><i>(kanji: 諸)</i>	kanji::w4 kanji::w4d4
+諸問題	しょもんだい — Various problems <br><i>(kanji: 諸)</i>	kanji::w4 kanji::w4d4
+事情	じじょう — Circumstance <br><i>(kanji: 情)</i>	kanji::w4 kanji::w4d4
+表情	ひょうじょう — Facial expression <br><i>(kanji: 情)</i>	kanji::w4 kanji::w4d4
+友情	ゆうじょう — Friendship <br><i>(kanji: 情)</i>	kanji::w4 kanji::w4d4
+情け	なさけ — Sympathy/mercy <br><i>(kanji: 情)</i>	kanji::w4 kanji::w4d4
+情けない	なさけない — Woeful/disgraceful <br><i>(kanji: 情)</i>	kanji::w4 kanji::w4d4
+引退	いんたい — Retirement <br><i>(kanji: 退)</i>	kanji::w4 kanji::w4d4
+退学	たいがく — Withdrawal from school <br><i>(kanji: 退)</i>	kanji::w4 kanji::w4d4
+退院	たいいん — Discharge from hospital <br><i>(kanji: 退)</i>	kanji::w4 kanji::w4d4
+退く	しりぞく — Retreat/withdraw <br><i>(kanji: 退)</i>	kanji::w4 kanji::w4d4
+退職	たいしょく — Retirement <br><i>(kanji: 退)</i>	kanji::w4 kanji::w4d4
+職業	しょくぎょう — Occupation/profession <br><i>(kanji: 職)</i>	kanji::w4 kanji::w4d4
+職場	しょくば — Workplace <br><i>(kanji: 職)</i>	kanji::w4 kanji::w4d4
+職人	しょくにん — Artisan <br><i>(kanji: 職)</i>	kanji::w4 kanji::w4d4
+紹介	しょうかい — Introduction <br><i>(kanji: 紹)</i>	kanji::w4 kanji::w4d4
+介入	かいにゅう — Intervention <br><i>(kanji: 介)</i>	kanji::w4 kanji::w4d4
+介護	かいご — Nursing care <br><i>(kanji: 介)</i>	kanji::w4 kanji::w4d4
+一次試験	いちじしけん — First examination <br><i>(kanji: 次)</i>	kanji::w4 kanji::w4d5
+次第	しだい — Depending on circumstances <br><i>(kanji: 次)</i>	kanji::w4 kanji::w4d5
+次	つぎ — Next <br><i>(kanji: 次)</i>	kanji::w4 kanji::w4d5
+文章	ぶんしょう — Sentence/composition <br><i>(kanji: 章)</i>	kanji::w4 kanji::w4d5
+章	しょう — Chapter <br><i>(kanji: 章)</i>	kanji::w4 kanji::w4d5
+対する	たいする — Toward/against <br><i>(kanji: 対)</i>	kanji::w4 kanji::w4d5
+反対	はんたい — Opposition/reverse <br><i>(kanji: 対)</i>	kanji::w4 kanji::w4d5
+〜対〜	〜たい〜 — Versus <br><i>(kanji: 対)</i>	kanji::w4 kanji::w4d5
+対照的(な)	たいしょうてきな — Contrasting <br><i>(kanji: 対)</i>	kanji::w4 kanji::w4d5
+対	つい — Pair/couple <br><i>(kanji: 対)</i>	kanji::w4 kanji::w4d5
+最初	さいしょ — First/beginning <br><i>(kanji: 最)</i>	kanji::w4 kanji::w4d5
+最後	さいご — Last/end <br><i>(kanji: 最)</i>	kanji::w4 kanji::w4d5
+最近	さいきん — Recently <br><i>(kanji: 最)</i>	kanji::w4 kanji::w4d5
+最も	もっとも — Most <br><i>(kanji: 最)</i>	kanji::w4 kanji::w4d5
+適当(な)	てきとうな — Appropriate/reasonable <br><i>(kanji: 適)</i>	kanji::w4 kanji::w4d5
+適切(な)	てきせつな — Appropriate/proper <br><i>(kanji: 適)</i>	kanji::w4 kanji::w4d5
+適する	てきする — Suit/be fit for <br><i>(kanji: 適)</i>	kanji::w4 kanji::w4d5
+適度(な)	てきどな — Moderate <br><i>(kanji: 適)</i>	kanji::w4 kanji::w4d5
+誤解	ごかい — Misunderstanding <br><i>(kanji: 誤)</i>	kanji::w4 kanji::w4d5
+誤り	あやまり — Mistake <br><i>(kanji: 誤)</i>	kanji::w4 kanji::w4d5
+直線	ちょくせん — Straight line <br><i>(kanji: 直)</i>	kanji::w4 kanji::w4d5
+正直(な)	しょうじきな — Honest <br><i>(kanji: 直)</i>	kanji::w4 kanji::w4d5
+素直(な)	すなおな — Obedient/submissive <br><i>(kanji: 直)</i>	kanji::w4 kanji::w4d5
+直す	なおす — Fix <br><i>(kanji: 直)</i>	kanji::w4 kanji::w4d5
+直ちに	ただちに — Immediately <br><i>(kanji: 直)</i>	kanji::w4 kanji::w4d5
+例	れい — Example <br><i>(kanji: 例)</i>	kanji::w4 kanji::w4d5
+例外	れいがい — Exception <br><i>(kanji: 例)</i>	kanji::w4 kanji::w4d5
+実例	じつれい — Example/instance <br><i>(kanji: 例)</i>	kanji::w4 kanji::w4d5
+例えば	たとえば — For example <br><i>(kanji: 例)</i>	kanji::w4 kanji::w4d5
+例える	たとえる — Compare/liken <br><i>(kanji: 例)</i>	kanji::w4 kanji::w4d5
+名詞	めいし — Noun <br><i>(kanji: 詞)</i>	kanji::w4 kanji::w4d5
+動詞	どうし — Verb <br><i>(kanji: 詞)</i>	kanji::w4 kanji::w4d5
+自動詞	じどうし — Intransitive verb <br><i>(kanji: 詞)</i>	kanji::w4 kanji::w4d5
+他動詞	たどうし — Transitive verb <br><i>(kanji: 詞)</i>	kanji::w4 kanji::w4d5
+形容詞	けいようし — Adjective <br><i>(kanji: 詞)</i>	kanji::w4 kanji::w4d5
+助詞	じょし — Particle <br><i>(kanji: 詞)</i>	kanji::w4 kanji::w4d5
+副詞	ふくし — Adverb <br><i>(kanji: 副・詞)</i>	kanji::w4 kanji::w4d5
+形式	けいしき — Form/formality <br><i>(kanji: 形)</i>	kanji::w4 kanji::w4d5
+図形	ずけい — Diagram <br><i>(kanji: 形)</i>	kanji::w4 kanji::w4d5
+形	かたち — Shape/form <br><i>(kanji: 形)</i>	kanji::w4 kanji::w4d5
+人形	にんぎょう — Doll/puppet <br><i>(kanji: 形)</i>	kanji::w4 kanji::w4d5
+救助	きゅうじょ — Rescue/help <br><i>(kanji: 助)</i>	kanji::w4 kanji::w4d5
+助手	じょしゅ — Assistant <br><i>(kanji: 助)</i>	kanji::w4 kanji::w4d5
+助かる	たすかる — Be saved/be helpful <br><i>(kanji: 助)</i>	kanji::w4 kanji::w4d5
+助ける	たすける — Help <br><i>(kanji: 助)</i>	kanji::w4 kanji::w4d5
+副〜	ふく〜 — Vice/assistant <br><i>(kanji: 副)</i>	kanji::w4 kanji::w4d5
+周囲	しゅうい — Perimeter/neighborhood <br><i>(kanji: 囲)</i>	kanji::w4 kanji::w4d5
+囲む	かこむ — Surround <br><i>(kanji: 囲)</i>	kanji::w4 kanji::w4d5
+夢中	むちゅう — Be engrossed <br><i>(kanji: 夢)</i>	kanji::w4 kanji::w4d6
+夢	ゆめ — Dream <br><i>(kanji: 夢)</i>	kanji::w4 kanji::w4d6
+専門	せんもん — Specialty <br><i>(kanji: 専)</i>	kanji::w4 kanji::w4d6
+専攻	せんこう — Major <br><i>(kanji: 専)</i>	kanji::w4 kanji::w4d6
+専用	せんよう — Exclusive use <br><i>(kanji: 専)</i>	kanji::w4 kanji::w4d6
+歴史	れきし — History <br><i>(kanji: 史)</i>	kanji::w4 kanji::w4d6
+〜史	〜し — History of <br><i>(kanji: 史)</i>	kanji::w4 kanji::w4d6
+区域	くいき — Area/zone <br><i>(kanji: 域)</i>	kanji::w4 kanji::w4d6
+地域	ちいき — Area/region <br><i>(kanji: 域)</i>	kanji::w4 kanji::w4d6
+祭日	さいじつ — Holiday/festival day <br><i>(kanji: 祭)</i>	kanji::w4 kanji::w4d6
+(お)祭り	おまつり — Festival <br><i>(kanji: 祭)</i>	kanji::w4 kanji::w4d6
+〜祭	〜さい — Festival <br><i>(kanji: 祭)</i>	kanji::w4 kanji::w4d6
+検査	けんさ — Inspection/test <br><i>(kanji: 査)</i>	kanji::w4 kanji::w4d6
+審査	しんさ — Examination/judgement <br><i>(kanji: 査)</i>	kanji::w4 kanji::w4d6
+調査	ちょうさ — Investigation/inquiry <br><i>(kanji: 査)</i>	kanji::w4 kanji::w4d6
+戦争	せんそう — War <br><i>(kanji: 戦)</i>	kanji::w4 kanji::w4d6
+大戦	たいせん — Major war <br><i>(kanji: 戦)</i>	kanji::w4 kanji::w4d6
+戦う	たたかう — Fight <br><i>(kanji: 戦)</i>	kanji::w4 kanji::w4d6
+競争	きょうそう — Competition <br><i>(kanji: 争)</i>	kanji::w4 kanji::w4d6
+争う	あらそう — Fight/dispute <br><i>(kanji: 争)</i>	kanji::w4 kanji::w4d6
+将来	しょうらい — Future <br><i>(kanji: 将)</i>	kanji::w4 kanji::w4d6
+将棋	しょうぎ — Shogi/Japanese chess <br><i>(kanji: 将)</i>	kanji::w4 kanji::w4d6
+歩道橋	ほどうきょう — Footbridge <br><i>(kanji: 橋)</i>	kanji::w4 kanji::w4d6
+鉄橋	てっきょう — Railroad bridge <br><i>(kanji: 橋)</i>	kanji::w4 kanji::w4d6
+橋	はし — Bridge <br><i>(kanji: 橋)</i>	kanji::w4 kanji::w4d6
+架け橋	かけはし — Bridge/go-between <br><i>(kanji: 橋)</i>	kanji::w4 kanji::w4d6
+憎い	にくい — Detestable <br><i>(kanji: 憎)</i>	kanji::w4 kanji::w4d6
+憎しみ	にくしみ — Hatred <br><i>(kanji: 憎)</i>	kanji::w4 kanji::w4d6
+憎む	にくむ — Detest <br><i>(kanji: 憎)</i>	kanji::w4 kanji::w4d6
+憎らしい	にくらしい — Detestable <br><i>(kanji: 憎)</i>	kanji::w4 kanji::w4d6
+自殺	じさつ — Suicide <br><i>(kanji: 殺)</i>	kanji::w4 kanji::w4d6
+殺す	ころす — Kill <br><i>(kanji: 殺)</i>	kanji::w4 kanji::w4d6
+悲観	ひかん — Pessimism <br><i>(kanji: 悲)</i>	kanji::w4 kanji::w4d6
+悲しい	かなしい — Sad <br><i>(kanji: 悲)</i>	kanji::w4 kanji::w4d6
+悲しむ	かなしむ — Grieve/lament <br><i>(kanji: 悲)</i>	kanji::w4 kanji::w4d6
+恥	はじ — Shame/humiliation <br><i>(kanji: 恥)</i>	kanji::w4 kanji::w4d6
+恥ずかしい	はずかしい — Ashamed/embarrassed <br><i>(kanji: 恥)</i>	kanji::w4 kanji::w4d6
+感じる	かんじる — Feel <br><i>(kanji: 感)</i>	kanji::w4 kanji::w4d6
+感心(な)	かんしんな — Admirable <br><i>(kanji: 感)</i>	kanji::w4 kanji::w4d6
+感情	かんじょう — Emotion <br><i>(kanji: 感)</i>	kanji::w4 kanji::w4d6
+感動	かんどう — Emotion/inspiration <br><i>(kanji: 感)</i>	kanji::w4 kanji::w4d6
+地球	ちきゅう — Earth <br><i>(kanji: 球)</i>	kanji::w4 kanji::w4d6
+野球	やきゅう — Baseball <br><i>(kanji: 球)</i>	kanji::w4 kanji::w4d6
+電球	でんきゅう — Light bulb <br><i>(kanji: 球)</i>	kanji::w4 kanji::w4d6
+球	たま — Ball/sphere <br><i>(kanji: 球)</i>	kanji::w4 kanji::w4d6
+平和	へいわ — Peace <br><i>(kanji: 和)</i>	kanji::w4 kanji::w4d6
+和式	わしき — Japanese style <br><i>(kanji: 和)</i>	kanji::w4 kanji::w4d6
+愛	あい — Love <br><i>(kanji: 愛)</i>	kanji::w4 kanji::w4d6
+愛情	あいじょう — Love/affection <br><i>(kanji: 愛)</i>	kanji::w4 kanji::w4d6
+恋愛	れんあい — Love/romance <br><i>(kanji: 愛)</i>	kanji::w4 kanji::w4d6
+愛する	あいする — Love/care for <br><i>(kanji: 愛)</i>	kanji::w4 kanji::w4d6
+仲	なか — Relations/terms <br><i>(kanji: 仲)</i>	kanji::w4 kanji::w4d6
+仲間	なかま — Friend/circle <br><i>(kanji: 仲)</i>	kanji::w4 kanji::w4d6
+改良	かいりょう — Improvement <br><i>(kanji: 良)</i>	kanji::w4 kanji::w4d6
+良い	よい — Good <br><i>(kanji: 良)</i>	kanji::w4 kanji::w4d6
+痛い	いたい — Painful <br><i>(kanji: 痛)</i>	kanji::w4 kanji::w4d7
+腹痛	ふくつう — Stomachache <br><i>(kanji: 痛)</i>	kanji::w4 kanji::w4d7
+休息	きゅうそく — Rest <br><i>(kanji: 息)</i>	kanji::w4 kanji::w4d7
+息	いき — Breath <br><i>(kanji: 息)</i>	kanji::w4 kanji::w4d7
+息子	むすこ — Son <br><i>(kanji: 息)</i>	kanji::w4 kanji::w4d7
+ぜん息	ぜんそく — Asthma <br><i>(kanji: 息)</i>	kanji::w4 kanji::w4d7
+高血圧	こうけつあつ — High blood pressure <br><i>(kanji: 血・圧)</i>	kanji::w4 kanji::w4d7
+圧力	あつりょく — Pressure <br><i>(kanji: 圧)</i>	kanji::w4 kanji::w4d7
+心臓	しんぞう — Heart <br><i>(kanji: 臓)</i>	kanji::w4 kanji::w4d7
+内臓	ないぞう — Internal organs <br><i>(kanji: 臓)</i>	kanji::w4 kanji::w4d7
+心臓病	しんぞうびょう — Heart disease <br><i>(kanji: 臓)</i>	kanji::w4 kanji::w4d7
+血液	けつえき — Blood <br><i>(kanji: 液・血)</i>	kanji::w4 kanji::w4d7
+血液病	けつえきびょう — Blood disease <br><i>(kanji: 液)</i>	kanji::w4 kanji::w4d7
+耳鼻科	じびか — Otorhinology <br><i>(kanji: 鼻)</i>	kanji::w4 kanji::w4d7
+鼻水	はなみず — Nasal mucous <br><i>(kanji: 鼻)</i>	kanji::w4 kanji::w4d7
+鼻炎	びえん — Nasal inflammation <br><i>(kanji: 鼻)</i>	kanji::w4 kanji::w4d7
+呼吸	こきゅう — Respiration <br><i>(kanji: 吸)</i>	kanji::w4 kanji::w4d7
+吸収	きゅうしゅう — Absorption <br><i>(kanji: 吸)</i>	kanji::w4 kanji::w4d7
+吸う	すう — Breathe/inhale <br><i>(kanji: 吸)</i>	kanji::w4 kanji::w4d7
+睡眠	すいみん — Sleep <br><i>(kanji: 眠)</i>	kanji::w4 kanji::w4d7
+眠い	ねむい — Sleepy <br><i>(kanji: 眠)</i>	kanji::w4 kanji::w4d7
+眠る	ねむる — Sleep <br><i>(kanji: 眠)</i>	kanji::w4 kanji::w4d7
+居眠り	いねむり — Doze <br><i>(kanji: 眠)</i>	kanji::w4 kanji::w4d7
+食欲	しょくよく — Appetite <br><i>(kanji: 欲)</i>	kanji::w4 kanji::w4d7
+欲張り	よくばり — Greed <br><i>(kanji: 欲)</i>	kanji::w4 kanji::w4d7
+欲しい	ほしい — Want <br><i>(kanji: 欲)</i>	kanji::w4 kanji::w4d7
+疲れる	つかれる — Get tired/exhaust <br><i>(kanji: 疲)</i>	kanji::w4 kanji::w4d7
+胃	い — Stomach <br><i>(kanji: 胃)</i>	kanji::w4 kanji::w4d7
+胃腸	いちょう — Stomach and intestines <br><i>(kanji: 胃)</i>	kanji::w4 kanji::w4d7
+胸	むね — Chest/breast <br><i>(kanji: 胸)</i>	kanji::w4 kanji::w4d7
+背中	せなか — Back <br><i>(kanji: 背)</i>	kanji::w4 kanji::w4d7
+必ずしも～とは限らない (かならずしも～とはかぎらない)	not necessarily (e.g., Being rich does not necessarily mean happy.)	vocabulary::w4 vocabulary::w4d1
+必ず (かならず)	eventually / definitely / always	vocabulary::w4 vocabulary::w4d1
+いつか	someday / sometime	vocabulary::w4 vocabulary::w4d1
+いつまでも	forever / always	vocabulary::w4 vocabulary::w4d1
+いつのまにか	before one knows it / unawares	vocabulary::w4 vocabulary::w4d1
+つい	without meaning to / unintentionally	vocabulary::w4 vocabulary::w4d1
+ついに	finally / at last	vocabulary::w4 vocabulary::w4d1
+どうしても	no matter what / simply not possible	vocabulary::w4 vocabulary::w4d1
+どうも	somehow / really (cannot explain well) / much (thanks/excuse me)	vocabulary::w4 vocabulary::w4d1
+なんとか／どうにか	somehow / manage to do	vocabulary::w4 vocabulary::w4d1
+なんとなく	sort of / somehow	vocabulary::w4 vocabulary::w4d1
+なんとも～ない	not care about / think nothing of	vocabulary::w4 vocabulary::w4d1
+もし（も）	if	vocabulary::w4 vocabulary::w4d1
+もしかしたら／もしかすると	perhaps / possibly / could be	vocabulary::w4 vocabulary::w4d1
+なるべく	as much as possible / if you can	vocabulary::w4 vocabulary::w4d1
+なるほど	I see / certainly / indeed	vocabulary::w4 vocabulary::w4d1
+確か (たしか)	probably / I think / if I remember correctly	vocabulary::w4 vocabulary::w4d1
+確かに (たしかに)	definitely / certainly / surely	vocabulary::w4 vocabulary::w4d1
+まもなく	soon / shortly after	vocabulary::w4 vocabulary::w4d2
+近々 (ちかぢか)	sometime soon / in the near future	vocabulary::w4 vocabulary::w4d2
+そのうち	someday / before long	vocabulary::w4 vocabulary::w4d2
+やがて	soon / eventually	vocabulary::w4 vocabulary::w4d2
+ようやく	finally / at last	vocabulary::w4 vocabulary::w4d2
+いずれ	eventually / someday	vocabulary::w4 vocabulary::w4d2
+たちまち	immediately / instantly	vocabulary::w4 vocabulary::w4d2
+ただちに	right away / immediately	vocabulary::w4 vocabulary::w4d2
+にわかに	suddenly / abruptly	vocabulary::w4 vocabulary::w4d2
+絶えず (たえず)	constantly	vocabulary::w4 vocabulary::w4d2
+つねに	always	vocabulary::w4 vocabulary::w4d2
+しきりに	repeatedly / frequently	vocabulary::w4 vocabulary::w4d2
+しょっちゅう	often / frequently	vocabulary::w4 vocabulary::w4d2
+（もう）すでに	already	vocabulary::w4 vocabulary::w4d2
+とっくに	long ago / already	vocabulary::w4 vocabulary::w4d2
+前もって (まえもって)	in advance	vocabulary::w4 vocabulary::w4d2
+ほぼ	approximately / almost	vocabulary::w4 vocabulary::w4d2
+お（お）よそ	approximately / roughly	vocabulary::w4 vocabulary::w4d2
+ほんの	a tiny bit / just	vocabulary::w4 vocabulary::w4d2
+たった	only / merely	vocabulary::w4 vocabulary::w4d2
+せいぜい	at most / only about	vocabulary::w4 vocabulary::w4d2
+少なくとも (すくなくとも)	at least	vocabulary::w4 vocabulary::w4d2
+せめて	at least / if only	vocabulary::w4 vocabulary::w4d2
+たびたび／しばしば	frequently / many times	vocabulary::w4 vocabulary::w4d3
+いよいよ	finally / at last	vocabulary::w4 vocabulary::w4d3
+いちいち	one by one / every single thing	vocabulary::w4 vocabulary::w4d3
+ふわふわ（する）	soft / floating	vocabulary::w4 vocabulary::w4d3
+まごまご（する）	be at a loss / confused	vocabulary::w4 vocabulary::w4d3
+それぞれ／めいめい／ひとりひとり／各々（おのおの）	each / respectively	vocabulary::w4 vocabulary::w4d3
+ばったり	bump into (someone unexpectedly)	vocabulary::w4 vocabulary::w4d3
+こっそり	secretly / sneaking	vocabulary::w4 vocabulary::w4d3
+ぴったり	exactly / tightly	vocabulary::w4 vocabulary::w4d3
+ぎっしり	tightly packed / cramped	vocabulary::w4 vocabulary::w4d3
+じっくり	slowly and carefully	vocabulary::w4 vocabulary::w4d3
+ちらっと／ちらりと	at a glance	vocabulary::w4 vocabulary::w4d3
+うんざり（する）	get fed up with / disgusted	vocabulary::w4 vocabulary::w4d3
+びっしょり／びしょびしょ	soaked / drenched	vocabulary::w4 vocabulary::w4d3
+しいんと（する）／シーンと（する）	fall silent / quiet	vocabulary::w4 vocabulary::w4d3
+ずらりと／ずらっと	lined up	vocabulary::w4 vocabulary::w4d3
+さっさと	at once / quickly	vocabulary::w4 vocabulary::w4d3
+せっせと	diligently / steadily	vocabulary::w4 vocabulary::w4d3
+どっと	pouring in / all of a sudden	vocabulary::w4 vocabulary::w4d3
+すっと（する）	abruptly / feel refreshed	vocabulary::w4 vocabulary::w4d3
+ひとりでに	by itself / automatically	vocabulary::w4 vocabulary::w4d3
+いっせいに	simultaneously / all at once	vocabulary::w4 vocabulary::w4d3
+相当（そうとう）／かなり	very / considerably	vocabulary::w4 vocabulary::w4d4
+大いに (おおいに)	highly / greatly / very much	vocabulary::w4 vocabulary::w4d4
+うんと	a lot / extremely	vocabulary::w4 vocabulary::w4d4
+たっぷり	ample / fully	vocabulary::w4 vocabulary::w4d4
+あまりにも	too much / excessively	vocabulary::w4 vocabulary::w4d4
+やや	a little / somewhat	vocabulary::w4 vocabulary::w4d4
+多少 (たしょう)	somewhat / a little	vocabulary::w4 vocabulary::w4d4
+いくぶん／いくらか	a little / to some extent	vocabulary::w4 vocabulary::w4d4
+わりに／わりと／割合（に） (わりあいに)	relatively / unexpectedly	vocabulary::w4 vocabulary::w4d4
+なお（いっそう）	even more / furthermore	vocabulary::w4 vocabulary::w4d4
+より（いっそう）	much more	vocabulary::w4 vocabulary::w4d4
+むしろ	rather / preferably	vocabulary::w4 vocabulary::w4d4
+余計（に） (よけいに)	excessively / rather (more)	vocabulary::w4 vocabulary::w4d4
+じょじょに	gradually / little by little	vocabulary::w4 vocabulary::w4d4
+次第に (しだいに)	gradually	vocabulary::w4 vocabulary::w4d4
+さらに	furthermore / even more	vocabulary::w4 vocabulary::w4d4
+一段と (いちだんと)	much more / a lot	vocabulary::w4 vocabulary::w4d4
+ぐっと	significantly / much (better)	vocabulary::w4 vocabulary::w4d4
+めっきり	noticeably / remarkably	vocabulary::w4 vocabulary::w4d4
+主に (おもに)	mainly	vocabulary::w4 vocabulary::w4d4
+くれぐれも	earnestly / repeatedly (used for greetings/requests)	vocabulary::w4 vocabulary::w4d4
+一応 (いちおう)	more or less / tentatively	vocabulary::w4 vocabulary::w4d4
+一般に (いっぱんに)	generally	vocabulary::w4 vocabulary::w4d4
+明らかに (あきらかに)	obviously / clearly	vocabulary::w4 vocabulary::w4d4
+いわば	so to speak / as it were	vocabulary::w4 vocabulary::w4d5
+いわゆる	so-called	vocabulary::w4 vocabulary::w4d5
+まさか	never / by no means	vocabulary::w4 vocabulary::w4d5
+まさに	exactly / surely / just now	vocabulary::w4 vocabulary::w4d5
+一度に／いっぺんに (いちどに)	all at once / at one time	vocabulary::w4 vocabulary::w4d5
+一気に (いっきに)	in one breath / at a stroke	vocabulary::w4 vocabulary::w4d5
+思い切り (おもいきり)	with all one's might / to one's heart's content	vocabulary::w4 vocabulary::w4d5
+思い切って (おもいきって)	boldly / daringly	vocabulary::w4 vocabulary::w4d5
+思わず (おもわず)	unintentionally / instinctively	vocabulary::w4 vocabulary::w4d5
+思いがけず／思いがけなく (おもいがけず)	unexpectedly	vocabulary::w4 vocabulary::w4d5
+なにしろ／とにかく	at any rate / anyhow	vocabulary::w4 vocabulary::w4d5
+なにかと	one way or another / with this and that	vocabulary::w4 vocabulary::w4d5
+相変わらず (あいかわらず)	as ever / as usual	vocabulary::w4 vocabulary::w4d5
+取りあえず (とりあえず)	for the time being / first of all	vocabulary::w4 vocabulary::w4d5
+わざと	intentionally / on purpose	vocabulary::w4 vocabulary::w4d5
+わざわざ	taking the trouble to do / expressly	vocabulary::w4 vocabulary::w4d5
+いっそう	much more / still more	vocabulary::w4 vocabulary::w4d5
+いっそ	rather / preferably	vocabulary::w4 vocabulary::w4d5
+今に (いまに)	before long / eventually	vocabulary::w4 vocabulary::w4d5
+今にも (いまにも)	at any moment	vocabulary::w4 vocabulary::w4d5
+今さら (いまさら)	now / at this late hour	vocabulary::w4 vocabulary::w4d5
+未だに (いまだに)	still / even now	vocabulary::w4 vocabulary::w4d5
+ただ今 (ただいま)	right now / presently	vocabulary::w4 vocabulary::w4d5
+たった今 (たったいま)	just now	vocabulary::w4 vocabulary::w4d5
+別に～ない (べつに～ない)	not particularly	vocabulary::w4 vocabulary::w4d6
+そう～ない	not so much / not that	vocabulary::w4 vocabulary::w4d6
+大して～ない (たいして～ない)	not much / not very	vocabulary::w4 vocabulary::w4d6
+一切～ない (いっさい～ない)	absolutely not / none at all	vocabulary::w4 vocabulary::w4d6
+とても～ない	hardly / by no means	vocabulary::w4 vocabulary::w4d6
+おそらく～だろう	probably	vocabulary::w4 vocabulary::w4d6
+どうやら～そうだ／ようだ	seemingly / it looks like	vocabulary::w4 vocabulary::w4d6
+果たして～だろうか (はたして～だろうか)	really? / is it true that?	vocabulary::w4 vocabulary::w4d6
+どうせ～だろう	anyway / anyhow	vocabulary::w4 vocabulary::w4d6
+せっかく～のに／から	despite taking the trouble to / since we've gone to the trouble	vocabulary::w4 vocabulary::w4d6
+いったん／一度／ひとたび～したら	once (you do something)	vocabulary::w4 vocabulary::w4d6
+かえって	on the contrary / rather	vocabulary::w4 vocabulary::w4d6
+さっそく	immediately / right away	vocabulary::w4 vocabulary::w4d6
+さすが（に）	as expected / truly	vocabulary::w4 vocabulary::w4d6
+あいにく	unfortunately	vocabulary::w4 vocabulary::w4d6
+あくまで（も）	to the bitter end / persistently	vocabulary::w4 vocabulary::w4d6
+なんだか／なんとなく／なぜか	for some reason / somewhat	vocabulary::w4 vocabulary::w4d6
+なんと／なんて	what a / how	vocabulary::w4 vocabulary::w4d6
+〜上に (not only... but also...)	Indicates an additional positive or negative fact (A, and furthermore B).<br><b>Connection:</b> V/A/na/N + 上に (naな/である, Nである)<br><b>Ex:</b> 彼は仕事ができる上に優しい。 — Not only is he good at his job but he's also a nice guy.<br>昨日は寒かった上に、風が強かった。 — Yesterday it was cold and windy.	grammar::w4 grammar::w4d1
+〜上で (after doing... / upon...)	Doing something after completing a prerequisite action.<br><b>Connection:</b> Vた + 上で / N + の上で<br><b>Ex:</b> よく考えた上で決めます。 — I will think well and then decide.<br>家族と相談の上、お返事します。 — I will reply after consulting my family.	grammar::w4 grammar::w4d1
+〜上は (since... / now that...)	Since a situation has occurred, one must act accordingly (often expressing determination, advice, or prohibition).<br><b>Connection:</b> Vる/Vた + 上は<br><b>Ex:</b> キャプテンに選ばれた上は、がんばるしかない。 — Since I was chosen as the captain, I must try my hardest.<br>入学する上は卒業したい。 — Now that I have entered school, I want to graduate.	grammar::w4 grammar::w4d1
+〜上で(は) (from the viewpoint of / in terms of)	Perspective based on a specific context or field (e.g., theory, documents, data).<br><b>Connection:</b> N + 上で(は) / 上(は)<br><b>Ex:</b> 天気図の上では春なのに、実際はまだ寒い。 — On the weather map it looks like spring, but it is actually still cold.<br>理論上はできるはずだったが、実験では失敗した。 — Theoretically it should have been possible, but the experiment failed.	grammar::w4 grammar::w4d1
+〜向け (for / intended for)	Intended for a specific target audience.<br><b>Connection:</b> N + 向け<br><b>Ex:</b> 初心者向けの教科書です。 — It is a textbook for beginners.<br>国内向けも、海外輸出向けも増加した。 — Manufacturing increased for both domestic and export markets.	grammar::w4 grammar::w4d2
+〜向き (suited for / fit for)	Indicates something is appropriate for a certain person or purpose.<br><b>Connection:</b> N + 向き<br><b>Ex:</b> この店の料理は見た目がきれいなので、女性向きだ。 — The food at this restaurant looks nice, so it is suited for women.	grammar::w4 grammar::w4d2
+〜次第で / 〜次第だ (depending on)	Depends on X; X determines the outcome.<br><b>Connection:</b> N + 次第で / 次第だ<br><b>Ex:</b> 花火大会は天気次第で中止になる場合もあります。 — The fireworks display may be cancelled depending on the weather.<br>うまくいくかどうかは本人次第だ。 — Whether it goes well or not depends on the person themselves.	grammar::w4 grammar::w4d2
+〜次第 (as soon as)	After X happens, I will immediately do Y.<br><b>Connection:</b> Vます(stem) + 次第<br><b>Ex:</b> 田中が戻り次第、お電話させます。 — As soon as Tanaka returns, I will have him call you.<br>決まり次第、ご連絡いたします。 — I will contact you as soon as it is decided.	grammar::w4 grammar::w4d2
+〜にこたえて (in response to / meeting a request)	Doing something to meet a request, expectation, or desire.<br><b>Connection:</b> N + にこたえて<br><b>Ex:</b> 客の意見にこたえて、営業時間を延長する。 — In response to customer requests, we are extending our business hours.<br>親の期待にこたえ、がんばった。 — I worked hard to meet my parents' expectations.	grammar::w4 grammar::w4d3
+〜に対して (toward / in contrast to)	Expressing an attitude toward someone/something, or contrasting two things.<br><b>Connection:</b> N + に対して<br><b>Ex:</b> 目上の人に対して、そういう言い方は失礼ですよ。 — It is rude to speak to your superiors that way.<br>都市で人口が増えているのに対し、農村では減っている。 — In contrast to the rising population in cities, it is falling in the countryside.	grammar::w4 grammar::w4d3
+〜により (due to / by means of)	Cause, reason, means, or method. (Formal version of 〜によって)<br><b>Connection:</b> N + により<br><b>Ex:</b> 未成年者の飲酒は、法律により禁じられている。 — Minors' alcohol consumption is prohibited by law.<br>その地震による被害は、過去最大だった。 — The damage due to that earthquake was the largest in history.	grammar::w4 grammar::w4d3
+〜にかかわって (concerning / involved in)	Related to something important or serious.<br><b>Connection:</b> N + にかかわって / にかかわる<br><b>Ex:</b> 彼は汚職事件にかかわって逮捕された。 — He was arrested for being involved in a corruption case.<br>命にかかわる病気。 — A life-threatening illness.	grammar::w4 grammar::w4d3
+〜つつ (while / even though)	Doing something while also doing something else; or a state of progress.<br><b>Connection:</b> Vます(stem) + つつ<br><b>Ex:</b> 先生と相談しつつ、進路を決めたい。 — I want to decide my career path while consulting with my teacher.<br>医療はますます進歩しつつある。 — Medical care is progressing more and more.	grammar::w4 grammar::w4d4
+〜つつも (while / even though)	Doing X while thinking/feeling Y; often implies doing X despite knowing Y.<br><b>Connection:</b> Vます(stem) + つつも<br><b>Ex:</b> 悪いことと知りつつも、盗みを繰り返した。 — Although I knew it was wrong, I continued to steal.	grammar::w4 grammar::w4d4
+〜くせして (although [contemptuous])	Criticizing someone for doing something contrary to their position or situation. (Colloquial)<br><b>Connection:</b> V/A/na/N + くせして<br><b>Ex:</b> 知らないくせして、知っているようなことを言うな。 — Don't talk as if you know when you don't.<br>大学生のくせして、そんなことも知らないの？ — You're a university student, and you don't even know that?	grammar::w4 grammar::w4d4
+〜べき (should)	Obligation or moral duty; what one ought to do.<br><b>Connection:</b> Vる + べき / N + であるべき<br><b>Ex:</b> そんなことをすべきではない。 — You should not do that.<br>もっと勉強するべきだった。 — I should have studied more.	grammar::w4 grammar::w4d5
+〜ざるをえない (cannot help but / have no choice but to)	Forced to do something against one's own will.<br><b>Connection:</b> Vない + ざるをえない (する → せざるをえない)<br><b>Ex:</b> いやな仕事でも、生活のためには続けざるをえない。 — Even if it's an unpleasant job, I have no choice but to continue it for the sake of my living.<br>この戦争は間違いだったと言わざるをえない。 — I have no choice but to say this war was a mistake.	grammar::w4 grammar::w4d5
+〜ことになっている (it is arranged / it is a rule)	Indicates a pre-arranged schedule or established rule.<br><b>Connection:</b> Vる/Vない + ことになっている<br><b>Ex:</b> 明日、ここで卒業式が行われることになっている。 — The graduation ceremony is scheduled to be held here tomorrow.<br>60点以上が合格ということになっている。 — The rule is that 60 points or more is a passing grade.	grammar::w4 grammar::w4d5
+〜にすぎない (nothing more than / just)	Expresses that something is small in value, quantity, or importance.<br><b>Connection:</b> V/A/na/N + にすぎない<br><b>Ex:</b> 単なる言い間違いにすぎない。 — It is just a simple slip of the tongue.<br>簡単な日常英会話ができるにすぎない。 — I can only have simple everyday conversations.	grammar::w4 grammar::w4d5
+〜にあたり (upon / when)	Used when starting something official or important; formal time/occasion.<br><b>Connection:</b> Vる / N + にあたり<br><b>Ex:</b> 図書館の利用にあたり、図書カードが必要です。 — Upon using the library, a library card is necessary.<br>アルバイトをするにあたっては、学業に無理のないようにすること。 — When working a part-time job, ensure it does not interfere with your studies.	grammar::w4 grammar::w4d6
+〜に沿って (along / in accordance with)	Acting in accordance with a rule, plan, or request.<br><b>Connection:</b> N + に沿って / に沿った + N<br><b>Ex:</b> 資料に沿って、ご説明いたします。 — I will explain based on the materials.<br>お客様の希望に沿った旅行プランをお作りします。 — I will create a travel plan in accordance with the customer's wishes.	grammar::w4 grammar::w4d6
+〜に先立ち (prior to)	Doing something before an event. (Formal)<br><b>Connection:</b> Vる / N + に先立ち<br><b>Ex:</b> 開店に先立ち、パーティーが行われた。 — A party was held prior to the opening.<br>新製品の開発に先立って、アンケート調査を行った。 — We conducted a survey prior to developing the new product.	grammar::w4 grammar::w4d6
+〜にわたって (over a period/area)	Expresses a duration or a range/area.<br><b>Connection:</b> N + にわたって / にわたる + N<br><b>Ex:</b> 関東地方は広い範囲にわたって大雨となるでしょう。 — Heavy rain is expected over a wide area of the Kanto region.<br>20年間にわたり、この薬の研究をしてきた。 — We have conducted research on this drug for 20 years.	grammar::w4 grammar::w4d6
+〜ものだ（よく〜たものだ）	used with a past-tense verb to express a nostalgic, habitual past action — "I used to..."	reading::w4 reading::w4d1
+意識	awareness/consciousness (e.g. 意識はなかった = "I wasn't aware that...")	reading::w4 reading::w4d1
+未知の本	an unfamiliar/unknown book (one not yet read)	reading::w4 reading::w4d1
+仕事がらみで	on account of work / work-related reasons	reading::w4 reading::w4d1
+必要にせまられて	being driven/forced by necessity, out of necessity	reading::w4 reading::w4d1
+図書館通い	regularly going to/frequenting the library	reading::w4 reading::w4d1
+言い伝え	a legend, a tradition passed down orally	reading::w4 reading::w4d2
+くしゃみ	a sneeze	reading::w4 reading::w4d2
+防ぐ	to prevent, to ward off	reading::w4 reading::w4d2
+記述	a written description/account (e.g. in an old text)	reading::w4 reading::w4d2
+古語	an archaic/classical Japanese word	reading::w4 reading::w4d2
+気がつかないうちに	before one notices, without realizing it	reading::w4 reading::w4d3
+〜すらある	there is even a case of.../it even goes as far as... (emphatic "even")	reading::w4 reading::w4d3
+払わないわけにはいかない	can't avoid paying, have no choice but to pay	reading::w4 reading::w4d3
+管理料	a management/maintenance fee (e.g. charged by a bank)	reading::w4 reading::w4d3
+残高	an account balance	reading::w4 reading::w4d3
+通帳	a bankbook/passbook	reading::w4 reading::w4d3
+空き缶	an empty can	reading::w4 reading::w4d4
+散らかる	to be scattered about, to be messy/untidy	reading::w4 reading::w4d4
+手作り	handmade	reading::w4 reading::w4d4
+ペンキを塗る	to paint (with paint)	reading::w4 reading::w4d4
+心が温まる	to be heartwarmed, to feel touched	reading::w4 reading::w4d4
+宣教師	a missionary	reading::w4 reading::w4d5
+お嬢さん	your daughter / a young lady (polite/respectful term)	reading::w4 reading::w4d5
+ご存知ですか	do you know? (polite form of 知っていますか)	reading::w4 reading::w4d5
+気後れ	feeling intimidated or hesitant, losing one's nerve	reading::w4 reading::w4d6
+わざと	intentionally, on purpose	reading::w4 reading::w4d6
+思いやる	to be considerate of, to show consideration for (someone's feelings/situation)	reading::w4 reading::w4d6
+あわれな	pitiful, to be pitied	reading::w4 reading::w4d6
+気づく	to notice, to realize	reading::w4 reading::w4d6
+駆け込み乗車	rushing to jump onto a train just as the doors are closing (a practice station announcements warn against)	listening::w4 listening::w4d1
+終日禁煙	no smoking all day (posted on a platform or train)	listening::w4 listening::w4d1
+車庫に入る	(a train) goes into the depot/yard, i.e. is taken out of service	listening::w4 listening::w4d1
+特急通過待ち	a stop where the train waits for an express train to pass through first	listening::w4 listening::w4d1
+ダイヤが乱れる	the train schedule/timetable gets disrupted	listening::w4 listening::w4d1
+運転見合わせ	train service is temporarily suspended	listening::w4 listening::w4d1
+お呼び出しを申し上げます	"we are paging..." — a department-store PA phrase used to call someone to the counter	listening::w4 listening::w4d1
+催し物会場	an event hall/venue (inside a department store)	listening::w4 listening::w4d1
+正面玄関	the main entrance	listening::w4 listening::w4d1
+明け方	early dawn, just before daybreak	listening::w4 listening::w4d2
+にわか雨	a sudden rain shower	listening::w4 listening::w4d2
+濃霧	dense fog	listening::w4 listening::w4d2
+波浪	high waves/swell (as named in a marine weather warning)	listening::w4 listening::w4d2
+津波	a tsunami	listening::w4 listening::w4d2
+震度	seismic intensity — the JMA scale measuring how strongly shaking is felt at a location	listening::w4 listening::w4d2
+震源	the epicenter/hypocenter of an earthquake	listening::w4 listening::w4d2
+マグニチュード	magnitude — a measure of an earthquake's total energy released (distinct from 震度)	listening::w4 listening::w4d2
+上り線／下り線	the inbound line (toward the city) vs. the outbound line (away from the city)	listening::w4 listening::w4d2
+渋滞	traffic congestion, a traffic jam	listening::w4 listening::w4d2
+欠航	cancellation of a flight or ferry service	listening::w4 listening::w4d2
+見合わせる	to suspend/hold off on (a service), often temporarily	listening::w4 listening::w4d2
+学内放送	an in-campus PA announcement	listening::w4 listening::w4d3
+就活	job hunting (short for 就職活動)	listening::w4 listening::w4d3
+奨学金	a scholarship, student financial aid	listening::w4 listening::w4d3
+健康診断	a health checkup/physical exam	listening::w4 listening::w4d3
+避難訓練	an evacuation drill	listening::w4 listening::w4d3
+指導教員	one's academic advisor/supervising professor	listening::w4 listening::w4d3
+延滞	being overdue/late (e.g. returning a library book, a payment)	listening::w4 listening::w4d3
+聴講	auditing a class (attending without earning credit)	listening::w4 listening::w4d3
+学割	a student discount	listening::w4 listening::w4d3
+卒論	a graduation thesis (short for 卒業論文)	listening::w4 listening::w4d3
+口をすすぐ	to rinse one's mouth (e.g. at the dentist)	listening::w4 listening::w4d4
+麻酔	anesthesia	listening::w4 listening::w4d4
+染みる	to sting/smart — a stinging sensation, e.g. when something touches a sore spot	listening::w4 listening::w4d4
+敷金・礼金	the deposit and "key money" paid to a landlord when signing an apartment lease	listening::w4 listening::w4d4
+間取り	a floor plan (of an apartment)	listening::w4 listening::w4d4
+履歴書	a résumé/CV	listening::w4 listening::w4d4
+時給	an hourly wage	listening::w4 listening::w4d4
