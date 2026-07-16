@@ -1,273 +1,545 @@
 #separator:tab
 #html:true
-#columns:Front	Back	Tags
-# Topic 11 — Everyday Life at Home / Family: Kanji & Vocabulary (with example sentences)
-朝	あさ — morning (N5) <i>(kanji: 朝)</i><br>Example: 起きて！朝だよ。 — Wake up! It's morning.	kanji::topic11 kanji::topic11-s01
-起	お(きる)、お(こす) — wake up / wake someone (N5) <i>(kanji: 起)</i><br>Example: 起きて！朝だよ。 — Wake up! It's morning.	kanji::topic11 kanji::topic11-s01
-顔	かお — face (N5) <i>(kanji: 顔)</i><br>Example: 顔を洗って、歯を磨いてね。 — Wash your face and brush your teeth.	kanji::topic11 kanji::topic11-s01
-着	き(る)、つ(く) — wear / arrive (N5) <i>(kanji: 着)</i><br>Example: 服を着替えようか。 — Shall we change clothes?	kanji::topic11 kanji::topic11-s01
-服	ふく — clothes (N5) <i>(kanji: 服)</i><br>Example: 服を着替えようか。 — Shall we change clothes?	kanji::topic11 kanji::topic11-s01
-早	はや(い) — early (N5) <i>(kanji: 早)</i><br>Example: 早く起きて、幼稚園に遅れるよ。 — Get up quickly, you'll be late for kindergarten.	kanji::topic11 kanji::topic11-s01
-眠	ねむ(い) — sleepy (N3) <i>(kanji: 眠)</i><br>Example: よく眠れた？ — Did you sleep well?	kanji::topic11 kanji::topic11-s01
-洗	あら(う) — wash (N4) <i>(kanji: 洗)</i><br>Example: 顔を洗って、歯を磨いてね。 — Wash your face and brush your teeth.	kanji::topic11 kanji::topic11-s01 kanji::topic11-s02 kanji::topic11-s03
-食	た(べる)、しょく — eat / food (N5) <i>(kanji: 食)</i><br>Example: ご飯できたよ、食べよう。 — Food's ready, let's eat.	kanji::topic11 kanji::topic11-s02 kanji::topic11-s10
-飲	の(む) — drink (N5) <i>(kanji: 飲)</i><br>Example: 水を飲んでね。 — Drink some water.	kanji::topic11 kanji::topic11-s02
-味	あじ — taste (N4) <i>(kanji: 味)</i><br>Example: どう？美味しい？ — How is it? Is it good?	kanji::topic11 kanji::topic11-s02
-皿	さら — plate (N4) <i>(kanji: 皿)</i><br>Example: 食べ終わったら、お皿を片付けようね。 — Once you're done, let's clear the plates.	kanji::topic11 kanji::topic11-s02
-片	かた(づける) — put in order (N4) <i>(kanji: 片)</i><br>Example: 食べ終わったら、お皿を片付けようね。 — Once you're done, let's clear the plates.	kanji::topic11 kanji::topic11-s02
-満	まん — full (N3) <i>(kanji: 満)</i><br>Example: 満腹になったよ。 — I'm full now (my stomach is full).	kanji::topic11 kanji::topic11-s02
-冷	ひ(やす)、つめ(たい) — cool / cold (N4) <i>(kanji: 冷)</i><br>Example: 残りは冷蔵庫にしまっておくね。 — I'll put the leftovers in the fridge.	kanji::topic11 kanji::topic11-s02
-濯	たく — rinse/wash (laundry) (beyond N1) <i>(kanji: 濯)</i><br>Example: 洗濯物を干してくれる？ — Can you hang up the laundry?	kanji::topic11 kanji::topic11-s03
-干	ほ(す) — to hang/dry (N2) <i>(kanji: 干)</i><br>Example: 洗濯物を干してくれる？ — Can you hang up the laundry?	kanji::topic11 kanji::topic11-s03
-畳	たた(む) — to fold (N2) <i>(kanji: 畳)</i><br>Example: 乾いた服を畳もう。 — Let's fold the dry clothes.	kanji::topic11 kanji::topic11-s03
-掃	そう(じ) — sweep/clean (N4) <i>(kanji: 掃)</i><br>Example: 掃除機をかけるね。 — I'll vacuum now.	kanji::topic11 kanji::topic11-s03
-除	じょ — remove (N3) <i>(kanji: 除)</i><br>Example: 掃除機をかけるね。 — I'll vacuum now.	kanji::topic11 kanji::topic11-s03
-捨	す(てる) — throw away (N4) <i>(kanji: 捨)</i><br>Example: ゴミを捨てようね。 — Let's throw away the trash.	kanji::topic11 kanji::topic11-s03
-順	じゅん — order/turn (N3) <i>(kanji: 順)</i><br>Example: 順番に並んでね。 — Line up in order / take turns.	kanji::topic11 kanji::topic11-s03
-出	で(かける) — go out (N5) <i>(kanji: 出)</i><br>Example: 準備して、出かけるよ。 — Get ready, we're heading out.	kanji::topic11 kanji::topic11-s04
-準	じゅん — prepare (N3) <i>(kanji: 準)</i><br>Example: 準備して、出かけるよ。 — Get ready, we're heading out.	kanji::topic11 kanji::topic11-s04
-備	び — prepare/equip (N3) <i>(kanji: 備)</i><br>Example: 準備して、出かけるよ。 — Get ready, we're heading out.	kanji::topic11 kanji::topic11-s04
-鍵	かぎ — key/lock (N3) <i>(kanji: 鍵)</i><br>Example: 鍵を閉めた？ — Did you lock the door?	kanji::topic11 kanji::topic11-s04
-閉	し(める) — close (N4) <i>(kanji: 閉)</i><br>Example: 鍵を閉めた？ — Did you lock the door?	kanji::topic11 kanji::topic11-s04
-持	も(つ) — carry/hold (N5) <i>(kanji: 持)</i><br>Example: 水筒を持っていこう。 — Let's take the water bottle.	kanji::topic11 kanji::topic11-s04
-公	こう — public (N4) <i>(kanji: 公)</i><br>Example: 公園に行こう！ — Let's go to the park!	kanji::topic11 kanji::topic11-s04
-買	か(う) — buy (N5) <i>(kanji: 買)</i><br>Example: 帰りにスーパーで買い物しよう。 — Let's do shopping at the supermarket on the way back.	kanji::topic11 kanji::topic11-s04
-行	い(く) — go (N5) <i>(kanji: 行)</i><br>Example: 行ってきます！ — I'm off (I'll be back)!	kanji::topic11 kanji::topic11-s05
-帰	かえ(る) — return/go home (N5) <i>(kanji: 帰)</i><br>Example: 何時に帰る？ — What time will you be home?	kanji::topic11 kanji::topic11-s05
-戻	もど(る) — come back (N4) <i>(kanji: 戻)</i><br>Example: すぐ戻るね。 — I'll be right back.	kanji::topic11 kanji::topic11-s05
-時	じ、とき — time/hour (N5) <i>(kanji: 時)</i><br>Example: 何時に帰る？ — What time will you be home?	kanji::topic11 kanji::topic11-s05
-頃	ころ — around (time) (N3) <i>(kanji: 頃)</i><br>Example: 六時頃、帰るよ。 — I'll be back around six.	kanji::topic11 kanji::topic11-s05
-遅	おそ(い) — late (N4) <i>(kanji: 遅)</i><br>Example: 今日はちょっと遅くなるかも。 — I might be a bit late today.	kanji::topic11 kanji::topic11-s05
-玄	げん — entrance (compound) (N2) <i>(kanji: 玄)</i><br>Example: 玄関で靴を脱いでね。 — Take your shoes off at the entrance.	kanji::topic11 kanji::topic11-s05
-関	かん — related/gate (compound) (N3) <i>(kanji: 関)</i><br>Example: 玄関で靴を脱いでね。 — Take your shoes off at the entrance.	kanji::topic11 kanji::topic11-s05
-待	ま(つ) — wait (N5) <i>(kanji: 待)</i><br>Example: ちょっと待って。 — Wait a second.	kanji::topic11 kanji::topic11-s06
-消	け(す) — turn off/erase (N4) <i>(kanji: 消)</i><br>Example: 電気を消してくれる？ — Can you turn off the light?	kanji::topic11 kanji::topic11-s06 kanji::topic11-s08
-急	いそ(ぐ) — hurry (N4) <i>(kanji: 急)</i><br>Example: 急いで、遅れちゃうよ。 — Hurry up, we'll be late.	kanji::topic11 kanji::topic11-s06
-気	き — care/spirit (N5) <i>(kanji: 気)</i><br>Example: 電気を消してくれる？ — Can you turn off the light?	kanji::topic11 kanji::topic11-s06 kanji::topic11-s07 kanji::topic11-s13
-渡	わた(す) — hand over (N3) <i>(kanji: 渡)</i><br>Example: タオル、渡してくれる？ — Can you hand me the towel?	kanji::topic11 kanji::topic11-s06
-静	しず(か) — quiet (N4) <i>(kanji: 静)</i><br>Example: 静かにして、赤ちゃんが寝てるよ。 — Be quiet, the baby is sleeping.	kanji::topic11 kanji::topic11-s06
-触	さわ(る) — touch (N3) <i>(kanji: 触)</i><br>Example: それ、熱いから触らないで。 — That's hot, so don't touch it.	kanji::topic11 kanji::topic11-s06
-危	あぶ(ない) — dangerous (N4) <i>(kanji: 危)</i><br>Example: 危ない！離れて！ — Careful! Step back!	kanji::topic11 kanji::topic11-s06
-疲	つか(れる) — get tired (N4) <i>(kanji: 疲)</i><br>Example: ただいま、疲れた〜。 — I'm home, so tired...	kanji::topic11 kanji::topic11-s07
-元	げん — origin/vitality (N5) <i>(kanji: 元)</i><br>Example: 大丈夫？なんか元気ないね。 — Are you okay? You seem a bit down.	kanji::topic11 kanji::topic11-s07
-今	いま — now (N5) <i>(kanji: 今)</i><br>Example: お疲れ様。今日はどうだった？ — Good work today. How was today?	kanji::topic11 kanji::topic11-s07 kanji::topic11-s10
-日	ひ、にち — day (N5) <i>(kanji: 日)</i><br>Example: お疲れ様。今日はどうだった？ — Good work today. How was today?	kanji::topic11 kanji::topic11-s07
-楽	たの(しい) — fun/enjoyable (N4) <i>(kanji: 楽)</i><br>Example: 楽しかったよ、でもちょっと疲れた。 — It was fun, but a bit tiring.	kanji::topic11 kanji::topic11-s07 kanji::topic11-s10
-大	だい、たい — big (N5) <i>(kanji: 大)</i><br>Example: 大丈夫？顔色悪いよ。 — Are you okay? You look pale.	kanji::topic11 kanji::topic11-s07
-変	へん — strange/change (N4) <i>(kanji: 変)</i><br>Example: ううん、別に。ちょっと大変な日だっただけ。 — No, not really. Just a tough day.	kanji::topic11 kanji::topic11-s07
-風	ふろ — bath (compound 風呂) (N4) <i>(kanji: 風)</i><br>Example: そろそろお風呂に入ろうか。 — Shall we take a bath soon?	kanji::topic11 kanji::topic11-s08
-呂	ろ — bath (compound) (beyond N1) <i>(kanji: 呂)</i><br>Example: そろそろお風呂に入ろうか。 — Shall we take a bath soon?	kanji::topic11 kanji::topic11-s08
-歯	は — tooth (N4) <i>(kanji: 歯)</i><br>Example: お風呂から出たら、歯を磨こう。 — Once you're out of the bath, let's brush teeth.	kanji::topic11 kanji::topic11-s08
-磨	みが(く) — polish/brush (N3) <i>(kanji: 磨)</i><br>Example: お風呂から出たら、歯を磨こう。 — Once you're out of the bath, let's brush teeth.	kanji::topic11 kanji::topic11-s08
-寝	ね(る) — sleep (N5) <i>(kanji: 寝)</i><br>Example: おもちゃを片付けてから寝ようね。 — Let's tidy the toys before bed.	kanji::topic11 kanji::topic11-s08
-夜	よる — night (N5) <i>(kanji: 夜)</i><br>Example: 夜はもう暗いね。 — It's already dark at night.	kanji::topic11 kanji::topic11-s08
-布	ふ — cloth (compound 布団) (N3) <i>(kanji: 布)</i><br>Example: 布団に入って。 — Get into bed.	kanji::topic11 kanji::topic11-s08
-休	やす(み) — rest/day off (N5) <i>(kanji: 休)</i><br>Example: 今日は休みの日だよ。 — Today is a day off.	kanji::topic11 kanji::topic11-s09
-週	しゅう — week (N5) <i>(kanji: 週)</i><br>Example: 今度の週末、何する？ — What should we do this coming weekend?	kanji::topic11 kanji::topic11-s09
-末	まつ — end (compound 週末) (N3) <i>(kanji: 末)</i><br>Example: 今度の週末、何する？ — What should we do this coming weekend?	kanji::topic11 kanji::topic11-s09
-予	よ — beforehand (N3) <i>(kanji: 予)</i><br>Example: 特に予定ないから、決めようか。 — We don't have plans yet, so let's decide.	kanji::topic11 kanji::topic11-s09
-定	てい — fixed/decided (N3) <i>(kanji: 定)</i><br>Example: 特に予定ないから、決めようか。 — We don't have plans yet, so let's decide.	kanji::topic11 kanji::topic11-s09
-遊	あそ(ぶ) — play (N5) <i>(kanji: 遊)</i><br>Example: 公園に遊びに行かない？ — Want to go play at the park?	kanji::topic11 kanji::topic11-s09
-分	わ(ける) — divide (N4) <i>(kanji: 分)</i><br>Example: 家事を半分に分けようね。 — Let's split the chores in half.	kanji::topic11 kanji::topic11-s09
-決	き(める) — decide (N4) <i>(kanji: 決)</i><br>Example: 特に予定ないから、決めようか。 — We don't have plans yet, so let's decide.	kanji::topic11 kanji::topic11-s09
-園	えん — garden/institution (compound) (N4) <i>(kanji: 園)</i><br>Example: 今日は幼稚園で何した？ — What did you do at kindergarten today?	kanji::topic11 kanji::topic11-s10
-友	とも — friend (N5) <i>(kanji: 友)</i><br>Example: 友達とケンカした？ — Did you fight with a friend?	kanji::topic11 kanji::topic11-s10
-先	せん — before/teacher (compound) (N5) <i>(kanji: 先)</i><br>Example: 先生に褒められた？ — Did the teacher praise you?	kanji::topic11 kanji::topic11-s10
-生	せい — life/birth (compound) (N5) <i>(kanji: 生)</i><br>Example: 先生に褒められた？ — Did the teacher praise you?	kanji::topic11 kanji::topic11-s10
-何	なに、なん — what (N5) <i>(kanji: 何)</i><br>Example: 今日は幼稚園で何した？ — What did you do at kindergarten today?	kanji::topic11 kanji::topic11-s10
-悪	わる(い) — bad (N4) <i>(kanji: 悪)</i><br>Example: それは悪いことだよ。 — That's a bad thing.	kanji::topic11 kanji::topic11-s11
-良	よ(い) — good (N4) <i>(kanji: 良)</i><br>Example: 良い子だね。 — You're a good kid.	kanji::topic11 kanji::topic11-s11
-駄	だ — (compound だめ) no good (beyond N1) <i>(kanji: 駄)</i><br>Example: それは駄目だよ。 — That's not okay.	kanji::topic11 kanji::topic11-s11
-目	め、だめ — eye / (compound) no good (N5) <i>(kanji: 目)</i><br>Example: 目を見て話してね。 — Look at me (my eyes) and talk.	kanji::topic11 kanji::topic11-s11
-謝	あやま(る) — apologize (N3) <i>(kanji: 謝)</i><br>Example: ちゃんと謝ろうね。 — Let's properly apologize.	kanji::topic11 kanji::topic11-s11
-理	り — reason (compound) (N4) <i>(kanji: 理)</i><br>Example: ちゃんと理由を言ってね。 — Properly tell me the reason.	kanji::topic11 kanji::topic11-s11 kanji::topic11-s13
-由	ゆう、ゆ — reason (compound 理由) (N3) <i>(kanji: 由)</i><br>Example: 理由を教えて。 — Tell me the reason.	kanji::topic11 kanji::topic11-s11 kanji::topic11-s13
-泣	な(く) — cry (N4) <i>(kanji: 泣)</i><br>Example: 泣かないで、大丈夫だよ。 — Don't cry, it's okay.	kanji::topic11 kanji::topic11-s11
-絵	え — picture (N4) <i>(kanji: 絵)</i><br>Example: 今日はどの絵本を読む？ — Which picture book shall we read today?	kanji::topic11 kanji::topic11-s12
-本	ほん — book (N5) <i>(kanji: 本)</i><br>Example: 今日はどの絵本を読む？ — Which picture book shall we read today?	kanji::topic11 kanji::topic11-s12
-読	よ(む) — read (N5) <i>(kanji: 読)</i><br>Example: 今日はどの絵本を読む？ — Which picture book shall we read today?	kanji::topic11 kanji::topic11-s12
-話	はなし — story/talk (N5) <i>(kanji: 話)</i><br>Example: 楽しいお話だったね。 — That was a fun story.	kanji::topic11 kanji::topic11-s12
-聞	き(く) — listen (N5) <i>(kanji: 聞)</i><br>Example: 絵を見ながら聞いてね。 — Listen while looking at the pictures.	kanji::topic11 kanji::topic11-s12
-昔	むかし — old times (N4) <i>(kanji: 昔)</i><br>Example: これは昔からある絵本だよ。 — This is a picture book that's been around for a long time.	kanji::topic11 kanji::topic11-s12
-見	み(せる) — show (N5) <i>(kanji: 見)</i><br>Example: 絵を見ながら聞いてね。 — Listen while looking at the pictures.	kanji::topic11 kanji::topic11-s12
-頁	ページ — page (usually written ページ) (beyond N1) <i>(kanji: 頁)</i><br>Example: このページ、可愛いね。 — This page is cute.	kanji::topic11 kanji::topic11-s12
-動	うご(く) — move (N4) <i>(kanji: 動)</i><br>Example: 冷蔵庫は電気で動くから、中が冷たくなるんだよ。 — The fridge runs on electricity, so the inside gets cold.	kanji::topic11 kanji::topic11-s13
-水	みず — water (N5) <i>(kanji: 水)</i><br>Example: なぜお水は冷たいの？ — Why is the water cold?	kanji::topic11 kanji::topic11-s13
-電	でん — electric (N4) <i>(kanji: 電)</i><br>Example: 冷蔵庫は電気で動くから、中が冷たくなるんだよ。 — The fridge runs on electricity, so the inside gets cold.	kanji::topic11 kanji::topic11-s13
-使	つか(う) — use (N5) <i>(kanji: 使)</i><br>Example: このスプーンを使ってね。 — Use this spoon.	kanji::topic11 kanji::topic11-s13
-押	お(す) — push (N4) <i>(kanji: 押)</i><br>Example: このボタンを押すから、電気がつくんだよ。 — Because you push this button, the light turns on.	kanji::topic11 kanji::topic11-s13
-払	はら(う) — pay (N3) <i>(kanji: 払)</i><br>Example: 今月の電気代、払った？ — Did you pay this month's electricity bill?	kanji::topic11 kanji::topic11-s14
-支	し — support/pay (compound) (N3) <i>(kanji: 支)</i><br>Example: 家賃の支払い期限はいつだっけ？ — When is the rent due date again?	kanji::topic11 kanji::topic11-s14
-代	だい — fee/charge (compound) (N4) <i>(kanji: 代)</i><br>Example: 今月の電気代、払った？ — Did you pay this month's electricity bill?	kanji::topic11 kanji::topic11-s14
-賃	ちん — fare/rent (compound) (N2) <i>(kanji: 賃)</i><br>Example: 家賃の支払い期限はいつだっけ？ — When is the rent due date again?	kanji::topic11 kanji::topic11-s14
-期	き — period (N3) <i>(kanji: 期)</i><br>Example: 家賃の支払い期限はいつだっけ？ — When is the rent due date again?	kanji::topic11 kanji::topic11-s14
-限	げん — limit (N2) <i>(kanji: 限)</i><br>Example: 家賃の支払い期限はいつだっけ？ — When is the rent due date again?	kanji::topic11 kanji::topic11-s14
-落	お(とす)、お(ちる) — drop/fall (N4) <i>(kanji: 落)</i><br>Example: 水道代とガス代はもう引き落としになってるよ。 — The water and gas bills are already set to auto-debit.	kanji::topic11 kanji::topic11-s14
-引	ひ(く) — pull/deduct (N4) <i>(kanji: 引)</i><br>Example: 水道代とガス代はもう引き落としになってるよ。 — The water and gas bills are already set to auto-debit.	kanji::topic11 kanji::topic11-s14
-起きる	おきる — to wake up / get up (N5)<br>Example: もう起きる時間だよ。 — It's already time to get up.	vocabulary::topic11 vocabulary::topic11-s01
-起こす	おこす — to wake someone up (N4)<br>Example: 朝、パパを起こしてくれる？ — Can you wake Dad up in the morning?	vocabulary::topic11 vocabulary::topic11-s01
-よく眠れた	よくねむれた — slept well (N3)<br>Example: よく眠れた？ — Did you sleep well?	vocabulary::topic11 vocabulary::topic11-s01
-顔を洗う	かおをあらう — to wash one's face (N5)<br>Example: 顔を洗って、歯を磨いてね。 — Wash your face and brush your teeth.	vocabulary::topic11 vocabulary::topic11-s01
-歯を磨く	はをみがく — to brush teeth (N5)<br>Example: 顔を洗って、歯を磨いてね。 — Wash your face and brush your teeth.	vocabulary::topic11 vocabulary::topic11-s01 vocabulary::topic11-s08
-着替える	きがえる — to change clothes (N4)<br>Example: 服を着替えようか。 — Shall we change clothes?	vocabulary::topic11 vocabulary::topic11-s01
-服を着る	ふくをきる — to put on clothes (N5)<br>Example: 服を着替えようか。 — Shall we change clothes?	vocabulary::topic11 vocabulary::topic11-s01
-朝ごはん	あさごはん — breakfast (N5)<br>Example: 朝ごはんを作ろう。 — Let's make breakfast.	vocabulary::topic11 vocabulary::topic11-s01
-作る	つくる — to make (N5)<br>Example: 一緒にケーキを作ろう。 — Let's make a cake together.	vocabulary::topic11 vocabulary::topic11-s01
-眠い	ねむい — sleepy (N4)<br>Example: まだ眠い… — I'm still sleepy...	vocabulary::topic11 vocabulary::topic11-s01
-早く	はやく — quickly / early (N5)<br>Example: 早く起きて、幼稚園に遅れるよ。 — Get up quickly, you'll be late for kindergarten.	vocabulary::topic11 vocabulary::topic11-s01
-準備する	じゅんびする — to get ready (N4)<br>Example: 準備して、出かけるよ。 — Get ready, we're heading out.	vocabulary::topic11 vocabulary::topic11-s01 vocabulary::topic11-s04
-もう一回寝る	もういっかいねる — to sleep once more (N4)<br>Example: もう起きる時間だよ。 — It's already time to get up.	vocabulary::topic11 vocabulary::topic11-s01
-目覚まし時計	めざましどけい — alarm clock (N4)<br>Example: 目覚まし時計が鳴ったよ。 — The alarm clock went off.	vocabulary::topic11 vocabulary::topic11-s01
-いただきます	いただきます — (said before eating) (N5)<br>Example: いただきます！ — Let's eat! / Thanks for the food!	vocabulary::topic11 vocabulary::topic11-s02
-ごちそうさま	ごちそうさま — (said after eating) (N5)<br>Example: ごちそうさま、美味しかった。 — Thanks for the meal, it was delicious.	vocabulary::topic11 vocabulary::topic11-s02
-美味しい	おいしい — delicious (N5)<br>Example: どう？美味しい？ — How is it? Is it good?	vocabulary::topic11 vocabulary::topic11-s02
-まずい	まずい — not tasty (N4)<br>Example: これはちょっとまずいね。 — This is a bit not tasty.	vocabulary::topic11 vocabulary::topic11-s02
-おかわり	おかわり — second helping (N4)<br>Example: おかわりある？ — Is there seconds?	vocabulary::topic11 vocabulary::topic11-s02
-お腹いっぱい	おなかいっぱい — full (stomach) (N4)<br>Example: もうお腹いっぱい。 — I'm already full.	vocabulary::topic11 vocabulary::topic11-s02
-片付ける	かたづける — to clear/tidy up (N4)<br>Example: 食べ終わったら、お皿を片付けようね。 — Once you're done, let's clear the plates.	vocabulary::topic11 vocabulary::topic11-s02 vocabulary::topic11-s03 vocabulary::topic11-s08
-お皿を洗う	おさらをあらう — to wash dishes (N4)<br>Example: お皿を洗って、拭いてくれる？ — Can you wash and dry the dishes?	vocabulary::topic11 vocabulary::topic11-s02
-拭く	ふく — to wipe/dry (N4)<br>Example: テーブルを拭いてくれる？ — Can you wipe the table?	vocabulary::topic11 vocabulary::topic11-s02
-しまう	しまう — to put away (N3)<br>Example: 残りは冷蔵庫にしまっておくね。 — I'll put the leftovers in the fridge.	vocabulary::topic11 vocabulary::topic11-s02
-冷蔵庫	れいぞうこ — refrigerator (N4)<br>Example: 残りは冷蔵庫にしまっておくね。 — I'll put the leftovers in the fridge.	vocabulary::topic11 vocabulary::topic11-s02
-味付け	あじつけ — seasoning/flavor (N3)<br>Example: この料理、味付けがちょうどいいね。 — The seasoning on this dish is just right.	vocabulary::topic11 vocabulary::topic11-s02
-こぼす	こぼす — to spill (N3)<br>Example: こぼさないように気をつけて。 — Be careful not to spill.	vocabulary::topic11 vocabulary::topic11-s02
-残す	のこす — to leave (food) (N3)<br>Example: 嫌いなものは残していいよ。 — It's okay to leave what you don't like.	vocabulary::topic11 vocabulary::topic11-s02
-洗濯する	せんたくする — to do laundry (N4)<br>Example: 洗濯物を干してくれる？ — Can you hang up the laundry?	vocabulary::topic11 vocabulary::topic11-s03
-洗濯物	せんたくもの — laundry (N4)<br>Example: 洗濯物を干してくれる？ — Can you hang up the laundry?	vocabulary::topic11 vocabulary::topic11-s03
-干す	ほす — to hang (to dry) (N2)<br>Example: 洗濯物をベランダに干そう。 — Let's hang the laundry on the balcony.	vocabulary::topic11 vocabulary::topic11-s03
-畳む	たたむ — to fold (N2)<br>Example: ぼくも畳む！ — I'll fold too!	vocabulary::topic11 vocabulary::topic11-s03
-ゴミを出す	ゴミをだす — to take out the trash (N4)<br>Example: ゴミを出してくれない？ — Could you take out the trash?	vocabulary::topic11 vocabulary::topic11-s03
-掃除機をかける	そうじきをかける — to vacuum (N3)<br>Example: 掃除機をかけるね。 — I'll vacuum now.	vocabulary::topic11 vocabulary::topic11-s03
-掃除する	そうじする — to clean (N5)<br>Example: 掃除機をかけるね。 — I'll vacuum now.	vocabulary::topic11 vocabulary::topic11-s03
-順番	じゅんばん — turn/order (N3)<br>Example: お風呂は順番に入ろうね。 — Let's take the bath in turns.	vocabulary::topic11 vocabulary::topic11-s03
-交代する	こうたいする — to take turns / swap (N3)<br>Example: 交代でやろうか。 — Shall we take turns?	vocabulary::topic11 vocabulary::topic11-s03
-手伝う	てつだう — to help (N4)<br>Example: ちょっと手伝ってくれる？ — Can you help me a bit?	vocabulary::topic11 vocabulary::topic11-s03
-誰の番	だれのばん — whose turn (N4)<br>Example: 今日は誰の番？ — Whose turn is it today?	vocabulary::topic11 vocabulary::topic11-s03
-家事を分ける	かじをわける — to split chores (N3)<br>Example: 午前中に家事を終わらせよう。 — Let's finish the chores in the morning.	vocabulary::topic11 vocabulary::topic11-s03 vocabulary::topic11-s09
-部屋を片付ける	へやをかたづける — to tidy the room (N4)<br>Example: 部屋を片付けたら遊んでいいよ。 — You can play once you tidy your room.	vocabulary::topic11 vocabulary::topic11-s03
-出かける	でかける — to go out (N5)<br>Example: 準備して、出かけるよ。 — Get ready, we're heading out.	vocabulary::topic11 vocabulary::topic11-s04
-公園	こうえん — park (N5)<br>Example: 公園に行こう！ — Let's go to the park!	vocabulary::topic11 vocabulary::topic11-s04
-用意する	よういする — to prepare (N4)<br>Example: 出かける前に、水筒を用意しようね。 — Let's prepare the water bottle before we go out.	vocabulary::topic11 vocabulary::topic11-s04
-鍵をかける	かぎをかける — to lock (N4)<br>Example: 鍵を閉めた？ — Did you lock the door?	vocabulary::topic11 vocabulary::topic11-s04
-鍵を閉めた？	かぎをしめた — did you lock (it)? (N4)<br>Example: 鍵を閉めた？ — Did you lock the door?	vocabulary::topic11 vocabulary::topic11-s04
-持っていく	もっていく — to take (with you) (N5)<br>Example: 傘、持っていく？ — Should we bring an umbrella?	vocabulary::topic11 vocabulary::topic11-s04
-忘れ物	わすれもの — forgotten item (N4)<br>Example: 何か忘れ物ない？ — Do we have anything we're forgetting?	vocabulary::topic11 vocabulary::topic11-s04
-買い物	かいもの — shopping (N5)<br>Example: 帰りにスーパーで買い物しよう。 — Let's do shopping at the supermarket on the way back.	vocabulary::topic11 vocabulary::topic11-s04
-靴を履く	くつをはく — to put on shoes (N5)<br>Example: 靴を履いて、帽子をかぶってね。 — Put on your shoes and hat.	vocabulary::topic11 vocabulary::topic11-s04
-帽子をかぶる	ぼうしをかぶる — to put on a hat (N4)<br>Example: 靴を履いて、帽子をかぶってね。 — Put on your shoes and hat.	vocabulary::topic11 vocabulary::topic11-s04
-用事	ようじ — errand (N3)<br>Example: ちょっと用事があるから、先に行ってて。 — I have an errand to run, so go ahead without me.	vocabulary::topic11 vocabulary::topic11-s04
-誰が持つ	だれがもつ — who will carry (N5)<br>Example: このカバン、誰が持つ？ — Who's going to carry this bag?	vocabulary::topic11 vocabulary::topic11-s04
-行ってきます	いってきます — I'm leaving (and coming back) (N5)<br>Example: 行ってきます！ — I'm off (I'll be back)!	vocabulary::topic11 vocabulary::topic11-s05
-行ってらっしゃい	いってらっしゃい — see you off / take care (N5)<br>Example: 行ってらっしゃい、気をつけてね。 — Take care, see you later.	vocabulary::topic11 vocabulary::topic11-s05
-ただいま	ただいま — I'm home (N5)<br>Example: ただいま！ — I'm home!	vocabulary::topic11 vocabulary::topic11-s05
-おかえり	おかえり — welcome back (N5)<br>Example: おかえり！早かったね。 — Welcome back! That was quick.	vocabulary::topic11 vocabulary::topic11-s05
-帰る	かえる — to go home (N5)<br>Example: 何時に帰る？ — What time will you be home?	vocabulary::topic11 vocabulary::topic11-s05
-戻る	もどる — to come back (N4)<br>Example: すぐ戻るから、待ってて。 — I'll be right back, so wait.	vocabulary::topic11 vocabulary::topic11-s05
-何時に帰る？	なんじにかえる — what time will you be back? (N5)<br>Example: 何時に帰る？ — What time will you be home?	vocabulary::topic11 vocabulary::topic11-s05
-玄関	げんかん — entryway (N4)<br>Example: 玄関で靴を脱いでね。 — Take your shoes off at the entrance.	vocabulary::topic11 vocabulary::topic11-s05
-遅くなる	おそくなる — to become late (N4)<br>Example: 今日はちょっと遅くなるかも。 — I might be a bit late today.	vocabulary::topic11 vocabulary::topic11-s05
-お帰りなさい	おかえりなさい — welcome home (fuller form) (N5)<br>Example: お帰りなさい、お疲れ様。 — Welcome home, good work today.	vocabulary::topic11 vocabulary::topic11-s05
-出発する	しゅっぱつする — to depart (N3)<br>Example: そろそろ出発する時間だよ。 — It's about time to depart.	vocabulary::topic11 vocabulary::topic11-s05
-到着する	とうちゃくする — to arrive (N3)<br>Example: もうすぐ駅に到着するよ。 — We'll arrive at the station soon.	vocabulary::topic11 vocabulary::topic11-s05
-待って	まって — wait (N5)<br>Example: ちょっと待って。 — Wait a second.	vocabulary::topic11 vocabulary::topic11-s06
-ちょっと待って	ちょっとまって — wait a second (N5)<br>Example: ちょっと待って。 — Wait a second.	vocabulary::topic11 vocabulary::topic11-s06
-急いで	いそいで — hurry up (N4)<br>Example: 急いで、遅れちゃうよ。 — Hurry up, we'll be late.	vocabulary::topic11 vocabulary::topic11-s06
-電気を消す	でんきをけす — to turn off the light (N4)<br>Example: 電気を消すね。 — I'll turn off the light.	vocabulary::topic11 vocabulary::topic11-s06 vocabulary::topic11-s08
-電気をつける	でんきをつける — to turn on the light (N4)<br>Example: 電気を消してくれる？ — Can you turn off the light?	vocabulary::topic11 vocabulary::topic11-s06
-取って	とって — pass me (that) (N5)<br>Example: そのリモコン、取って。 — Pass me that remote.	vocabulary::topic11 vocabulary::topic11-s06
-渡して	わたして — hand it over (N3)<br>Example: タオル、渡してくれる？ — Can you hand me the towel?	vocabulary::topic11 vocabulary::topic11-s06
-気をつけて	きをつけて — be careful (N4)<br>Example: 気をつけて、階段だよ。 — Be careful, there are stairs.	vocabulary::topic11 vocabulary::topic11-s06
-静かにして	しずかにして — be quiet (N4)<br>Example: 静かにして、赤ちゃんが寝てるよ。 — Be quiet, the baby is sleeping.	vocabulary::topic11 vocabulary::topic11-s06
-触らないで	さわらないで — don't touch (N3)<br>Example: それ、熱いから触らないで。 — That's hot, so don't touch it.	vocabulary::topic11 vocabulary::topic11-s06
-危ない	あぶない — dangerous (N4)<br>Example: 危ない！離れて！ — Careful! Step back!	vocabulary::topic11 vocabulary::topic11-s06
-ちゃんと座って	ちゃんとすわって — sit properly (N4)<br>Example: ちゃんと座って食べようね。 — Sit properly and eat.	vocabulary::topic11 vocabulary::topic11-s06
-疲れた	つかれた — I'm tired (N4)<br>Example: ただいま、疲れた〜。 — I'm home, so tired...	vocabulary::topic11 vocabulary::topic11-s07
-元気？	げんき — are you well? (N5)<br>Example: おかえり、元気だった？ — Welcome back, were you well?	vocabulary::topic11 vocabulary::topic11-s07
-今日はどうだった？	きょうはどうだった — how was today? (N5)<br>Example: お疲れ様。今日はどうだった？ — Good work today. How was today?	vocabulary::topic11 vocabulary::topic11-s07
-大丈夫？	だいじょうぶ — are you okay? (N4)<br>Example: 大丈夫？顔色悪いよ。 — Are you okay? You look pale.	vocabulary::topic11 vocabulary::topic11-s07
-どうしたの？	どうしたの — what's wrong? (N4)<br>Example: お疲れ様。今日はどうだった？ — Good work today. How was today?	vocabulary::topic11 vocabulary::topic11-s07
-楽しかった	たのしかった — it was fun (N4)<br>Example: 楽しかったよ、でもちょっと疲れた。 — It was fun, but a bit tiring.	vocabulary::topic11 vocabulary::topic11-s07
-大変だった	たいへんだった — it was tough (N4)<br>Example: ううん、別に。ちょっと大変な日だっただけ。 — No, not really. Just a tough day.	vocabulary::topic11 vocabulary::topic11-s07
-何かあった？	なにかあった — did something happen? (N4)<br>Example: 何かあった？ — Did something happen?	vocabulary::topic11 vocabulary::topic11-s07
-ゆっくりして	ゆっくりして — relax / take it easy (N4)<br>Example: ゆっくりしてね。 — Take it easy.	vocabulary::topic11 vocabulary::topic11-s07
-話を聞く	はなしをきく — to listen (to a story) (N4)<br>Example: ちゃんと話を聞いてね。 — Listen to the story properly.	vocabulary::topic11 vocabulary::topic11-s07 vocabulary::topic11-s12
-気になる	きになる — to be on one's mind (N3)<br>Example: なんだか気になることがあるの？ — Is there something on your mind?	vocabulary::topic11 vocabulary::topic11-s07
-落ち込む	おちこむ — to feel down (N2)<br>Example: 今日はちょっと落ち込んでるみたい。 — You seem a bit down today.	vocabulary::topic11 vocabulary::topic11-s07
-お風呂に入る	おふろにはいる — to take a bath (N5)<br>Example: そろそろお風呂に入ろうか。 — Shall we take a bath soon?	vocabulary::topic11 vocabulary::topic11-s08
-体を洗う	からだをあらう — to wash one's body (N5)<br>Example: ちゃんと体を洗ってね。 — Wash your body properly.	vocabulary::topic11 vocabulary::topic11-s08
-パジャマに着替える	パジャマにきがえる — to change into pajamas (N4)<br>Example: パジャマに着替えて。 — Change into your pajamas.	vocabulary::topic11 vocabulary::topic11-s08
-布団に入る	ふとんにはいる — to get into bed (N3)<br>Example: 布団に入って。 — Get into bed.	vocabulary::topic11 vocabulary::topic11-s08
-おやすみ	おやすみ — good night (N5)<br>Example: おやすみ、また明日ね。 — Good night, see you tomorrow.	vocabulary::topic11 vocabulary::topic11-s08
-絵本を読む	えほんをよむ — to read a picture book (N4)<br>Example: 今日はどの絵本を読む？ — Which picture book shall we read today?	vocabulary::topic11 vocabulary::topic11-s08 vocabulary::topic11-s12
-寝る時間	ねるじかん — bedtime (N5)<br>Example: もう寝る時間だよ。 — It's already bedtime.	vocabulary::topic11 vocabulary::topic11-s08
-もう遅い	もうおそい — it's already late (N4)<br>Example: もう寝る時間だよ。 — It's already bedtime.	vocabulary::topic11 vocabulary::topic11-s08
-眠くなる	ねむくなる — to get sleepy (N4)<br>Example: 眠くなってきた？ — Are you getting sleepy?	vocabulary::topic11 vocabulary::topic11-s08
-週末	しゅうまつ — weekend (N4)<br>Example: 今度の週末、何する？ — What should we do this coming weekend?	vocabulary::topic11 vocabulary::topic11-s09
-休みの日	やすみのひ — day off (N5)<br>Example: 休みの日は何をする？ — What do you do on your day off?	vocabulary::topic11 vocabulary::topic11-s09
-予定	よてい — plans/schedule (N3)<br>Example: 特に予定ないから、決めようか。 — We don't have plans yet, so let's decide.	vocabulary::topic11 vocabulary::topic11-s09
-決める	きめる — to decide (N4)<br>Example: 特に予定ないから、決めようか。 — We don't have plans yet, so let's decide.	vocabulary::topic11 vocabulary::topic11-s09
-何する？	なにする — what shall we do? (N5)<br>Example: 今度の週末、何する？ — What should we do this coming weekend?	vocabulary::topic11 vocabulary::topic11-s09
-ゆっくりする	ゆっくりする — to relax/take it easy (N4)<br>Example: 午後はゆっくりしたいな。 — I'd like to relax in the afternoon.	vocabulary::topic11 vocabulary::topic11-s09
-遊びに行く	あそびにいく — to go out to play (N5)<br>Example: 公園に遊びに行かない？ — Want to go play at the park?	vocabulary::topic11 vocabulary::topic11-s09
-交代で	こうたいで — by taking turns (N3)<br>Example: 家事は交代でやろうか。 — Shall we split the chores by taking turns?	vocabulary::topic11 vocabulary::topic11-s09
-自由時間	じゆうじかん — free time (N3)<br>Example: そのあとは自由時間にしよう。 — Let's make the rest free time.	vocabulary::topic11 vocabulary::topic11-s09
-一緒に過ごす	いっしょにすごす — to spend time together (N3)<br>Example: 一緒に過ごす時間を増やそうね。 — Let's spend more time together.	vocabulary::topic11 vocabulary::topic11-s09
-出かける準備	でかけるじゅんび — preparation to go out (N4)<br>Example: 久しぶりに家族で出かけようか。 — Let's go out together as a family for a change.	vocabulary::topic11 vocabulary::topic11-s09
-幼稚園	ようちえん — kindergarten (N4)<br>Example: 今日は幼稚園で何した？ — What did you do at kindergarten today?	vocabulary::topic11 vocabulary::topic11-s10
-保育園	ほいくえん — nursery school (N4)<br>Example: 保育園は楽しかった？ — Was nursery school fun?	vocabulary::topic11 vocabulary::topic11-s10
-先生	せんせい — teacher (N5)<br>Example: 先生に褒められた？ — Did the teacher praise you?	vocabulary::topic11 vocabulary::topic11-s10
-友達	ともだち — friend (N5)<br>Example: 友達とケンカした？ — Did you fight with a friend?	vocabulary::topic11 vocabulary::topic11-s10
-今日は何した？	きょうはなにした — what did you do today? (N5)<br>Example: 今日は幼稚園で何した？ — What did you do at kindergarten today?	vocabulary::topic11 vocabulary::topic11-s10
-楽しかった？	たのしかった — was it fun? (N4)<br>Example: 楽しかった？ — Was it fun?	vocabulary::topic11 vocabulary::topic11-s10
-給食	きゅうしょく — school lunch (N3)<br>Example: 給食は美味しかった？ — Was the school lunch good?	vocabulary::topic11 vocabulary::topic11-s10
-誰と遊んだ？	だれとあそんだ — who did you play with? (N5)<br>Example: 誰と遊んだの？ — Who did you play with?	vocabulary::topic11 vocabulary::topic11-s10
-お迎え	おむかえ — pickup (N3)<br>Example: 今日はお迎え、ママが行くね。 — Mom will pick you up today.	vocabulary::topic11 vocabulary::topic11-s10
-送る	おくる — to drop off/send (N4)<br>Example: 明日は僕が保育園に送るね。 — I'll drop him off at nursery tomorrow.	vocabulary::topic11 vocabulary::topic11-s10
-発表会	はっぴょうかい — recital/presentation event (N2)<br>Example: 今度、保育園で発表会があるんだって。 — There's apparently a recital at nursery coming up.	vocabulary::topic11 vocabulary::topic11-s10
-連絡帳	れんらくちょう — daily communication notebook (N2)<br>Example: 連絡帳、ちゃんと書いた？ — Did you fill in the notebook properly?	vocabulary::topic11 vocabulary::topic11-s10
-だめ	だめ — no good / not allowed (N5)<br>Example: それはだめだよ。 — That's not okay.	vocabulary::topic11 vocabulary::topic11-s11
-いけない	いけない — must not (N4)<br>Example: お友達を叩いたらいけないよ。 — You mustn't hit your friend.	vocabulary::topic11 vocabulary::topic11-s11
-どうしてそんなことをしたの？	どうしてそんなことをしたの — why did you do such a thing? (N4)<br>Example: どうしてそんなことをしたの？ — Why did you do such a thing?	vocabulary::topic11 vocabulary::topic11-s11
-悪いこと	わるいこと — a bad thing (N4)<br>Example: それは悪いことだよ、わかる？ — That's a bad thing, do you understand?	vocabulary::topic11 vocabulary::topic11-s11
-いい子	いいこ — good kid (N5)<br>Example: ちゃんと謝れて、えらいね。いい子だね。 — You apologized properly, well done. You're a good kid.	vocabulary::topic11 vocabulary::topic11-s11
-謝る	あやまる — to apologize (N3)<br>Example: ちゃんと謝ろうね。 — Let's properly apologize.	vocabulary::topic11 vocabulary::topic11-s11
-ごめんなさいは？	ごめんなさいは — where's your "sorry"? (N5)<br>Example: ごめんなさいは？ — Where's your "sorry"?	vocabulary::topic11 vocabulary::topic11-s11
-わざと	わざと — on purpose (N3)<br>Example: わざとやったの？ — Did you do that on purpose?	vocabulary::topic11 vocabulary::topic11-s11
-わざとじゃない	わざとじゃない — not on purpose (N3)<br>Example: わざとじゃなかった… — It wasn't on purpose...	vocabulary::topic11 vocabulary::topic11-s11
-理由	りゆう — reason (N4)<br>Example: ちゃんと理由を教えてね。 — Please tell me the reason properly.	vocabulary::topic11 vocabulary::topic11-s11
-危ないからだめ	あぶないからだめ — it's no good because it's dangerous (N4)<br>Example: 危ないから、これはダメなんだよ。 — This isn't allowed because it's dangerous.	vocabulary::topic11 vocabulary::topic11-s11
-もうしない	もうしない — won't do it again (N4)<br>Example: もうしないね、約束だよ。 — Won't do it again, I promise.	vocabulary::topic11 vocabulary::topic11-s11
-絵本	えほん — picture book (N4)<br>Example: 今日はどの絵本を読む？ — Which picture book shall we read today?	vocabulary::topic11 vocabulary::topic11-s12
-物語	ものがたり — story/tale (N3)<br>Example: 今日はSpotifyで物語を聞こうか。 — Shall we listen to a story on Spotify today?	vocabulary::topic11 vocabulary::topic11-s12
-Spotifyで物語を聞く	スポティファイでものがたりをきく — to listen to a story on Spotify (N3)<br>Example: 今日はSpotifyで物語を聞こうか。 — Shall we listen to a story on Spotify today?	vocabulary::topic11 vocabulary::topic11-s12
-ページをめくる	ページをめくる — to turn the page (N3)<br>Example: ページをめくってくれる？ — Can you turn the page?	vocabulary::topic11 vocabulary::topic11-s12
-絵を見せる	えをみせる — to show a picture (N5)<br>Example: 絵を見ながら聞いてね。 — Listen while looking at the pictures.	vocabulary::topic11 vocabulary::topic11-s12
-昔のページ	むかしのページ — old/earlier page (N4)<br>Example: この昔のページ、好きだな。 — I like this earlier page.	vocabulary::topic11 vocabulary::topic11-s12
-もう一回読んで	もういっかいよんで — read it again (N4)<br>Example: もう一回読んで！ — Read it again!	vocabulary::topic11 vocabulary::topic11-s12
-続き	つづき — the rest/continuation (N3)<br>Example: 続きはまた明日ね。 — We'll continue tomorrow.	vocabulary::topic11 vocabulary::topic11-s12
-主人公	しゅじんこう — main character (N2)<br>Example: この主人公、好き？ — Do you like this main character?	vocabulary::topic11 vocabulary::topic11-s12
-お気に入りの本	おきにいりのほん — favorite book (N4)<br>Example: お気に入りの本はどれ？ — Which is your favorite book?	vocabulary::topic11 vocabulary::topic11-s12
-これは〜だよ	これは〜だよ — this is ~ (N5)<br>Example: これは冷蔵庫だよ。 — This is a refrigerator.	vocabulary::topic11 vocabulary::topic11-s13
-〜だから〜なんだよ	〜だから〜なんだよ — it's ~ because ~ (N4)<br>Example: 危ないから、だめなんだよ。 — It's because it's dangerous that it's not okay.	vocabulary::topic11 vocabulary::topic11-s13
-動く	うごく — to move (N4)<br>Example: 冷蔵庫は電気で動くから、中が冷たくなるんだよ。 — The fridge runs on electricity, so the inside gets cold.	vocabulary::topic11 vocabulary::topic11-s13
-使う	つかう — to use (N5)<br>Example: このスプーンを使ってね。 — Use this spoon.	vocabulary::topic11 vocabulary::topic11-s13
-押す	おす — to push (N4)<br>Example: このボタンを押すから、電気がつくんだよ。 — Because you push this button, the light turns on.	vocabulary::topic11 vocabulary::topic11-s13
-なぜ	なぜ — why (N4)<br>Example: なぜお水は冷たいの？ — Why is the water cold?	vocabulary::topic11 vocabulary::topic11-s13
-どうして	どうして — why (N4)<br>Example: どうして電気がつくの？ — Why does the light turn on?	vocabulary::topic11 vocabulary::topic11-s13
-仕組み	しくみ — mechanism/how it works (N2)<br>Example: この仕組み、面白いね。 — This mechanism is interesting.	vocabulary::topic11 vocabulary::topic11-s13
-電気で動く	でんきでうごく — to run on electricity (N4)<br>Example: 冷蔵庫は電気で動くから、中が冷たくなるんだよ。 — The fridge runs on electricity, so the inside gets cold.	vocabulary::topic11 vocabulary::topic11-s13
-水でぬれる	みずでぬれる — to get wet with water (N4)<br>Example: シャツが水でぬれちゃった。 — The shirt got wet with water.	vocabulary::topic11 vocabulary::topic11-s13
-危ないから触らないでね	あぶないからさわらないでね — don't touch it, it's dangerous (N4)<br>Example: 危ないから、コンセントは触らないでね。 — It's dangerous, so don't touch the outlet.	vocabulary::topic11 vocabulary::topic11-s13
-冷たくなる	つめたくなる — to become cold (N4)<br>Example: 冷蔵庫は電気で動くから、中が冷たくなるんだよ。 — The fridge runs on electricity, so the inside gets cold.	vocabulary::topic11 vocabulary::topic11-s13
-水道代	すいどうだい — water bill (N3)<br>Example: 水道代とガス代はもう引き落としになってるよ。 — The water and gas bills are already set to auto-debit.	vocabulary::topic11 vocabulary::topic11-s14
-電気代	でんきだい — electricity bill (N4)<br>Example: 今月の電気代、払った？ — Did you pay this month's electricity bill?	vocabulary::topic11 vocabulary::topic11-s14
-ガス代	ガスだい — gas bill (N4)<br>Example: 水道代とガス代はもう引き落としになってるよ。 — The water and gas bills are already set to auto-debit.	vocabulary::topic11 vocabulary::topic11-s14
-家賃	やちん — rent (N3)<br>Example: 家賃の支払い期限はいつだっけ？ — When is the rent due date again?	vocabulary::topic11 vocabulary::topic11-s14
-クレジットカードの支払い	クレジットカードのしはらい — credit card payment (N3)<br>Example: クレジットカードの支払い、確認した？ — Did you check the credit card payment?	vocabulary::topic11 vocabulary::topic11-s14
-支払い期限	しはらいきげん — payment due date (N2)<br>Example: 家賃の支払い期限はいつだっけ？ — When is the rent due date again?	vocabulary::topic11 vocabulary::topic11-s14
-引き落とし	ひきおとし — automatic bank debit (N2)<br>Example: 水道代とガス代はもう引き落としになってるよ。 — The water and gas bills are already set to auto-debit.	vocabulary::topic11 vocabulary::topic11-s14
-払う	はらう — to pay (N3)<br>Example: まだだよ、明日払うね。 — Not yet, I'll pay it tomorrow.	vocabulary::topic11 vocabulary::topic11-s14
-振り込む	ふりこむ — to transfer (money) (N2)<br>Example: 家賃を振り込んでくれる？ — Can you transfer the rent payment?	vocabulary::topic11 vocabulary::topic11-s14
-請求書	せいきゅうしょ — invoice/bill (N2)<br>Example: 請求書が来てるよ、確認してくれる？ — The invoice has arrived, can you check it?	vocabulary::topic11 vocabulary::topic11-s14
-銀行口座	ぎんこうこうざ — bank account (N3)<br>Example: 銀行口座からの引き落としで大丈夫だよ。 — It's fine, it'll come out automatically from the bank account.	vocabulary::topic11 vocabulary::topic11-s14
-残高	ざんだか — balance (N2)<br>Example: うん、口座の残高、大丈夫だった。 — Yeah, the account balance was fine.	vocabulary::topic11 vocabulary::topic11-s14
+#notetype:Cloze
+#columns:Text	Back Extra	Tags
+# Topic 11 — Everyday Life at Home / Family: Kanji & Vocabulary cloze cards
+# Each item has 2 cards: no-hint recall, then meaning-hint recall. Back Extra includes
+# the full sentence's hiragana reading plus the English translation.
+起きて！{{c1::朝}}だよ。	あさ — morning (N5)<br>Sentence reading: おきて！あさだよ。<br>Translation: Wake up! It's morning.	kanji::topic11 kanji::topic11-s01
+起きて！{{c1::朝::morning}}だよ。	あさ — morning (N5)<br>Sentence reading: おきて！あさだよ。<br>Translation: Wake up! It's morning.	kanji::topic11 kanji::topic11-s01
+{{c1::起}}きて！朝だよ。	お(きる)、お(こす) — wake up / wake someone (N5)<br>Sentence reading: おきて！あさだよ。<br>Translation: Wake up! It's morning.	kanji::topic11 kanji::topic11-s01
+{{c1::起::wake up / wake someone}}きて！朝だよ。	お(きる)、お(こす) — wake up / wake someone (N5)<br>Sentence reading: おきて！あさだよ。<br>Translation: Wake up! It's morning.	kanji::topic11 kanji::topic11-s01
+{{c1::顔}}を洗って、歯を磨いてね。	かお — face (N5)<br>Sentence reading: かおをあらって、はをみがいてね。<br>Translation: Wash your face and brush your teeth.	kanji::topic11 kanji::topic11-s01
+{{c1::顔::face}}を洗って、歯を磨いてね。	かお — face (N5)<br>Sentence reading: かおをあらって、はをみがいてね。<br>Translation: Wash your face and brush your teeth.	kanji::topic11 kanji::topic11-s01
+服を{{c1::着}}替えようか。	き(る)、つ(く) — wear / arrive (N5)<br>Sentence reading: ふくをきがえようか。<br>Translation: Shall we change clothes?	kanji::topic11 kanji::topic11-s01
+服を{{c1::着::wear / arrive}}替えようか。	き(る)、つ(く) — wear / arrive (N5)<br>Sentence reading: ふくをきがえようか。<br>Translation: Shall we change clothes?	kanji::topic11 kanji::topic11-s01
+{{c1::服}}を着替えようか。	ふく — clothes (N5)<br>Sentence reading: ふくをきがえようか。<br>Translation: Shall we change clothes?	kanji::topic11 kanji::topic11-s01
+{{c1::服::clothes}}を着替えようか。	ふく — clothes (N5)<br>Sentence reading: ふくをきがえようか。<br>Translation: Shall we change clothes?	kanji::topic11 kanji::topic11-s01
+{{c1::早}}く起きて、幼稚園に遅れるよ。	はや(い) — early (N5)<br>Sentence reading: はやくおきて、ようちえんにおくれるよ。<br>Translation: Get up quickly, you'll be late for kindergarten.	kanji::topic11 kanji::topic11-s01
+{{c1::早::early}}く起きて、幼稚園に遅れるよ。	はや(い) — early (N5)<br>Sentence reading: はやくおきて、ようちえんにおくれるよ。<br>Translation: Get up quickly, you'll be late for kindergarten.	kanji::topic11 kanji::topic11-s01
+よく{{c1::眠}}れた？	ねむ(い) — sleepy (N3)<br>Sentence reading: よくねむれた？<br>Translation: Did you sleep well?	kanji::topic11 kanji::topic11-s01
+よく{{c1::眠::sleepy}}れた？	ねむ(い) — sleepy (N3)<br>Sentence reading: よくねむれた？<br>Translation: Did you sleep well?	kanji::topic11 kanji::topic11-s01
+顔を{{c1::洗}}って、歯を磨いてね。	あら(う) — wash (N4)<br>Sentence reading: かおをあらって、はをみがいてね。<br>Translation: Wash your face and brush your teeth.	kanji::topic11 kanji::topic11-s01 kanji::topic11-s02 kanji::topic11-s03
+顔を{{c1::洗::wash}}って、歯を磨いてね。	あら(う) — wash (N4)<br>Sentence reading: かおをあらって、はをみがいてね。<br>Translation: Wash your face and brush your teeth.	kanji::topic11 kanji::topic11-s01 kanji::topic11-s02 kanji::topic11-s03
+ご飯できたよ、{{c1::食}}べよう。	た(べる)、しょく — eat / food (N5)<br>Sentence reading: ごはんできたよ、たべよう。<br>Translation: Food's ready, let's eat.	kanji::topic11 kanji::topic11-s02 kanji::topic11-s10
+ご飯できたよ、{{c1::食::eat / food}}べよう。	た(べる)、しょく — eat / food (N5)<br>Sentence reading: ごはんできたよ、たべよう。<br>Translation: Food's ready, let's eat.	kanji::topic11 kanji::topic11-s02 kanji::topic11-s10
+水を{{c1::飲}}んでね。	の(む) — drink (N5)<br>Sentence reading: みずをのんでね。<br>Translation: Drink some water.	kanji::topic11 kanji::topic11-s02
+水を{{c1::飲::drink}}んでね。	の(む) — drink (N5)<br>Sentence reading: みずをのんでね。<br>Translation: Drink some water.	kanji::topic11 kanji::topic11-s02
+どう？美{{c1::味}}しい？	あじ — taste (N4)<br>Sentence reading: どう？おいしい？<br>Translation: How is it? Is it good?	kanji::topic11 kanji::topic11-s02
+どう？美{{c1::味::taste}}しい？	あじ — taste (N4)<br>Sentence reading: どう？おいしい？<br>Translation: How is it? Is it good?	kanji::topic11 kanji::topic11-s02
+食べ終わったら、お{{c1::皿}}を片付けようね。	さら — plate (N4)<br>Sentence reading: たべおわったら、おさらをかたづけようね。<br>Translation: Once you're done, let's clear the plates.	kanji::topic11 kanji::topic11-s02
+食べ終わったら、お{{c1::皿::plate}}を片付けようね。	さら — plate (N4)<br>Sentence reading: たべおわったら、おさらをかたづけようね。<br>Translation: Once you're done, let's clear the plates.	kanji::topic11 kanji::topic11-s02
+食べ終わったら、お皿を{{c1::片}}付けようね。	かた(づける) — put in order (N4)<br>Sentence reading: たべおわったら、おさらをかたづけようね。<br>Translation: Once you're done, let's clear the plates.	kanji::topic11 kanji::topic11-s02
+食べ終わったら、お皿を{{c1::片::put in order}}付けようね。	かた(づける) — put in order (N4)<br>Sentence reading: たべおわったら、おさらをかたづけようね。<br>Translation: Once you're done, let's clear the plates.	kanji::topic11 kanji::topic11-s02
+{{c1::満}}腹になったよ。	まん — full (N3)<br>Sentence reading: まんぷくになったよ。<br>Translation: I'm full now (my stomach is full).	kanji::topic11 kanji::topic11-s02
+{{c1::満::full}}腹になったよ。	まん — full (N3)<br>Sentence reading: まんぷくになったよ。<br>Translation: I'm full now (my stomach is full).	kanji::topic11 kanji::topic11-s02
+残りは{{c1::冷}}蔵庫にしまっておくね。	ひ(やす)、つめ(たい) — cool / cold (N4)<br>Sentence reading: のこりはれいぞうこにしまっておくね。<br>Translation: I'll put the leftovers in the fridge.	kanji::topic11 kanji::topic11-s02
+残りは{{c1::冷::cool / cold}}蔵庫にしまっておくね。	ひ(やす)、つめ(たい) — cool / cold (N4)<br>Sentence reading: のこりはれいぞうこにしまっておくね。<br>Translation: I'll put the leftovers in the fridge.	kanji::topic11 kanji::topic11-s02
+洗{{c1::濯}}物を干してくれる？	たく — rinse/wash (laundry) (beyond N1)<br>Sentence reading: せんたくものをほしてくれる？<br>Translation: Can you hang up the laundry?	kanji::topic11 kanji::topic11-s03
+洗{{c1::濯::rinse/wash}}物を干してくれる？	たく — rinse/wash (laundry) (beyond N1)<br>Sentence reading: せんたくものをほしてくれる？<br>Translation: Can you hang up the laundry?	kanji::topic11 kanji::topic11-s03
+洗濯物を{{c1::干}}してくれる？	ほ(す) — to hang/dry (N2)<br>Sentence reading: せんたくものをほしてくれる？<br>Translation: Can you hang up the laundry?	kanji::topic11 kanji::topic11-s03
+洗濯物を{{c1::干::to hang/dry}}してくれる？	ほ(す) — to hang/dry (N2)<br>Sentence reading: せんたくものをほしてくれる？<br>Translation: Can you hang up the laundry?	kanji::topic11 kanji::topic11-s03
+乾いた服を{{c1::畳}}もう。	たた(む) — to fold (N2)<br>Sentence reading: かわいたふくをたたもう。<br>Translation: Let's fold the dry clothes.	kanji::topic11 kanji::topic11-s03
+乾いた服を{{c1::畳::to fold}}もう。	たた(む) — to fold (N2)<br>Sentence reading: かわいたふくをたたもう。<br>Translation: Let's fold the dry clothes.	kanji::topic11 kanji::topic11-s03
+{{c1::掃}}除機をかけるね。	そう(じ) — sweep/clean (N4)<br>Sentence reading: そうじきをかけるね。<br>Translation: I'll vacuum now.	kanji::topic11 kanji::topic11-s03
+{{c1::掃::sweep/clean}}除機をかけるね。	そう(じ) — sweep/clean (N4)<br>Sentence reading: そうじきをかけるね。<br>Translation: I'll vacuum now.	kanji::topic11 kanji::topic11-s03
+掃{{c1::除}}機をかけるね。	じょ — remove (N3)<br>Sentence reading: そうじきをかけるね。<br>Translation: I'll vacuum now.	kanji::topic11 kanji::topic11-s03
+掃{{c1::除::remove}}機をかけるね。	じょ — remove (N3)<br>Sentence reading: そうじきをかけるね。<br>Translation: I'll vacuum now.	kanji::topic11 kanji::topic11-s03
+ゴミを{{c1::捨}}てようね。	す(てる) — throw away (N4)<br>Sentence reading: ゴミをすてようね。<br>Translation: Let's throw away the trash.	kanji::topic11 kanji::topic11-s03
+ゴミを{{c1::捨::throw away}}てようね。	す(てる) — throw away (N4)<br>Sentence reading: ゴミをすてようね。<br>Translation: Let's throw away the trash.	kanji::topic11 kanji::topic11-s03
+{{c1::順}}番に並んでね。	じゅん — order/turn (N3)<br>Sentence reading: じゅんばんにならんでね。<br>Translation: Line up in order / take turns.	kanji::topic11 kanji::topic11-s03
+{{c1::順::order/turn}}番に並んでね。	じゅん — order/turn (N3)<br>Sentence reading: じゅんばんにならんでね。<br>Translation: Line up in order / take turns.	kanji::topic11 kanji::topic11-s03
+準備して、{{c1::出}}かけるよ。	で(かける) — go out (N5)<br>Sentence reading: じゅんびして、でかけるよ。<br>Translation: Get ready, we're heading out.	kanji::topic11 kanji::topic11-s04
+準備して、{{c1::出::go out}}かけるよ。	で(かける) — go out (N5)<br>Sentence reading: じゅんびして、でかけるよ。<br>Translation: Get ready, we're heading out.	kanji::topic11 kanji::topic11-s04
+{{c1::準}}備して、出かけるよ。	じゅん — prepare (N3)<br>Sentence reading: じゅんびして、でかけるよ。<br>Translation: Get ready, we're heading out.	kanji::topic11 kanji::topic11-s04
+{{c1::準::prepare}}備して、出かけるよ。	じゅん — prepare (N3)<br>Sentence reading: じゅんびして、でかけるよ。<br>Translation: Get ready, we're heading out.	kanji::topic11 kanji::topic11-s04
+準{{c1::備}}して、出かけるよ。	び — prepare/equip (N3)<br>Sentence reading: じゅんびして、でかけるよ。<br>Translation: Get ready, we're heading out.	kanji::topic11 kanji::topic11-s04
+準{{c1::備::prepare/equip}}して、出かけるよ。	び — prepare/equip (N3)<br>Sentence reading: じゅんびして、でかけるよ。<br>Translation: Get ready, we're heading out.	kanji::topic11 kanji::topic11-s04
+{{c1::鍵}}を閉めた？	かぎ — key/lock (N3)<br>Sentence reading: かぎをしめた？<br>Translation: Did you lock the door?	kanji::topic11 kanji::topic11-s04
+{{c1::鍵::key/lock}}を閉めた？	かぎ — key/lock (N3)<br>Sentence reading: かぎをしめた？<br>Translation: Did you lock the door?	kanji::topic11 kanji::topic11-s04
+鍵を{{c1::閉}}めた？	し(める) — close (N4)<br>Sentence reading: かぎをしめた？<br>Translation: Did you lock the door?	kanji::topic11 kanji::topic11-s04
+鍵を{{c1::閉::close}}めた？	し(める) — close (N4)<br>Sentence reading: かぎをしめた？<br>Translation: Did you lock the door?	kanji::topic11 kanji::topic11-s04
+水筒を{{c1::持}}っていこう。	も(つ) — carry/hold (N5)<br>Sentence reading: すいとうをもっていこう。<br>Translation: Let's take the water bottle.	kanji::topic11 kanji::topic11-s04
+水筒を{{c1::持::carry/hold}}っていこう。	も(つ) — carry/hold (N5)<br>Sentence reading: すいとうをもっていこう。<br>Translation: Let's take the water bottle.	kanji::topic11 kanji::topic11-s04
+{{c1::公}}園に行こう！	こう — public (N4)<br>Sentence reading: こうえんにいこう！<br>Translation: Let's go to the park!	kanji::topic11 kanji::topic11-s04
+{{c1::公::public}}園に行こう！	こう — public (N4)<br>Sentence reading: こうえんにいこう！<br>Translation: Let's go to the park!	kanji::topic11 kanji::topic11-s04
+帰りにスーパーで{{c1::買}}い物しよう。	か(う) — buy (N5)<br>Sentence reading: かえりにスーパーでかいものしよう。<br>Translation: Let's do shopping at the supermarket on the way back.	kanji::topic11 kanji::topic11-s04
+帰りにスーパーで{{c1::買::buy}}い物しよう。	か(う) — buy (N5)<br>Sentence reading: かえりにスーパーでかいものしよう。<br>Translation: Let's do shopping at the supermarket on the way back.	kanji::topic11 kanji::topic11-s04
+{{c1::行}}ってきます！	い(く) — go (N5)<br>Sentence reading: いってきます！<br>Translation: I'm off (I'll be back)!	kanji::topic11 kanji::topic11-s05
+{{c1::行::go}}ってきます！	い(く) — go (N5)<br>Sentence reading: いってきます！<br>Translation: I'm off (I'll be back)!	kanji::topic11 kanji::topic11-s05
+何時に{{c1::帰}}る？	かえ(る) — return/go home (N5)<br>Sentence reading: なんじにかえる？<br>Translation: What time will you be home?	kanji::topic11 kanji::topic11-s05
+何時に{{c1::帰::return/go home}}る？	かえ(る) — return/go home (N5)<br>Sentence reading: なんじにかえる？<br>Translation: What time will you be home?	kanji::topic11 kanji::topic11-s05
+すぐ{{c1::戻}}るね。	もど(る) — come back (N4)<br>Sentence reading: すぐもどるね。<br>Translation: I'll be right back.	kanji::topic11 kanji::topic11-s05
+すぐ{{c1::戻::come back}}るね。	もど(る) — come back (N4)<br>Sentence reading: すぐもどるね。<br>Translation: I'll be right back.	kanji::topic11 kanji::topic11-s05
+何{{c1::時}}に帰る？	じ、とき — time/hour (N5)<br>Sentence reading: なんじにかえる？<br>Translation: What time will you be home?	kanji::topic11 kanji::topic11-s05
+何{{c1::時::time/hour}}に帰る？	じ、とき — time/hour (N5)<br>Sentence reading: なんじにかえる？<br>Translation: What time will you be home?	kanji::topic11 kanji::topic11-s05
+六時{{c1::頃}}、帰るよ。	ころ — around (time) (N3)<br>Sentence reading: ろくじごろ、かえるよ。<br>Translation: I'll be back around six.	kanji::topic11 kanji::topic11-s05
+六時{{c1::頃::around}}、帰るよ。	ころ — around (time) (N3)<br>Sentence reading: ろくじごろ、かえるよ。<br>Translation: I'll be back around six.	kanji::topic11 kanji::topic11-s05
+今日はちょっと{{c1::遅}}くなるかも。	おそ(い) — late (N4)<br>Sentence reading: きょうはちょっとおそくなるかも。<br>Translation: I might be a bit late today.	kanji::topic11 kanji::topic11-s05
+今日はちょっと{{c1::遅::late}}くなるかも。	おそ(い) — late (N4)<br>Sentence reading: きょうはちょっとおそくなるかも。<br>Translation: I might be a bit late today.	kanji::topic11 kanji::topic11-s05
+{{c1::玄}}関で靴を脱いでね。	げん — entrance (compound) (N2)<br>Sentence reading: げんかんでくつをぬいでね。<br>Translation: Take your shoes off at the entrance.	kanji::topic11 kanji::topic11-s05
+{{c1::玄::entrance}}関で靴を脱いでね。	げん — entrance (compound) (N2)<br>Sentence reading: げんかんでくつをぬいでね。<br>Translation: Take your shoes off at the entrance.	kanji::topic11 kanji::topic11-s05
+玄{{c1::関}}で靴を脱いでね。	かん — related/gate (compound) (N3)<br>Sentence reading: げんかんでくつをぬいでね。<br>Translation: Take your shoes off at the entrance.	kanji::topic11 kanji::topic11-s05
+玄{{c1::関::related/gate}}で靴を脱いでね。	かん — related/gate (compound) (N3)<br>Sentence reading: げんかんでくつをぬいでね。<br>Translation: Take your shoes off at the entrance.	kanji::topic11 kanji::topic11-s05
+ちょっと{{c1::待}}って。	ま(つ) — wait (N5)<br>Sentence reading: ちょっとまって。<br>Translation: Wait a second.	kanji::topic11 kanji::topic11-s06
+ちょっと{{c1::待::wait}}って。	ま(つ) — wait (N5)<br>Sentence reading: ちょっとまって。<br>Translation: Wait a second.	kanji::topic11 kanji::topic11-s06
+電気を{{c1::消}}してくれる？	け(す) — turn off/erase (N4)<br>Sentence reading: でんきをけしてくれる？<br>Translation: Can you turn off the light?	kanji::topic11 kanji::topic11-s06 kanji::topic11-s08
+電気を{{c1::消::turn off/erase}}してくれる？	け(す) — turn off/erase (N4)<br>Sentence reading: でんきをけしてくれる？<br>Translation: Can you turn off the light?	kanji::topic11 kanji::topic11-s06 kanji::topic11-s08
+{{c1::急}}いで、遅れちゃうよ。	いそ(ぐ) — hurry (N4)<br>Sentence reading: いそいで、おくれちゃうよ。<br>Translation: Hurry up, we'll be late.	kanji::topic11 kanji::topic11-s06
+{{c1::急::hurry}}いで、遅れちゃうよ。	いそ(ぐ) — hurry (N4)<br>Sentence reading: いそいで、おくれちゃうよ。<br>Translation: Hurry up, we'll be late.	kanji::topic11 kanji::topic11-s06
+電{{c1::気}}を消してくれる？	き — care/spirit (N5)<br>Sentence reading: でんきをけしてくれる？<br>Translation: Can you turn off the light?	kanji::topic11 kanji::topic11-s06 kanji::topic11-s07 kanji::topic11-s13
+電{{c1::気::care/spirit}}を消してくれる？	き — care/spirit (N5)<br>Sentence reading: でんきをけしてくれる？<br>Translation: Can you turn off the light?	kanji::topic11 kanji::topic11-s06 kanji::topic11-s07 kanji::topic11-s13
+タオル、{{c1::渡}}してくれる？	わた(す) — hand over (N3)<br>Sentence reading: タオル、わたしてくれる？<br>Translation: Can you hand me the towel?	kanji::topic11 kanji::topic11-s06
+タオル、{{c1::渡::hand over}}してくれる？	わた(す) — hand over (N3)<br>Sentence reading: タオル、わたしてくれる？<br>Translation: Can you hand me the towel?	kanji::topic11 kanji::topic11-s06
+{{c1::静}}かにして、赤ちゃんが寝てるよ。	しず(か) — quiet (N4)<br>Sentence reading: しずかにして、あかちゃんがねてるよ。<br>Translation: Be quiet, the baby is sleeping.	kanji::topic11 kanji::topic11-s06
+{{c1::静::quiet}}かにして、赤ちゃんが寝てるよ。	しず(か) — quiet (N4)<br>Sentence reading: しずかにして、あかちゃんがねてるよ。<br>Translation: Be quiet, the baby is sleeping.	kanji::topic11 kanji::topic11-s06
+それ、熱いから{{c1::触}}らないで。	さわ(る) — touch (N3)<br>Sentence reading: それ、あついからさわらないで。<br>Translation: That's hot, so don't touch it.	kanji::topic11 kanji::topic11-s06
+それ、熱いから{{c1::触::touch}}らないで。	さわ(る) — touch (N3)<br>Sentence reading: それ、あついからさわらないで。<br>Translation: That's hot, so don't touch it.	kanji::topic11 kanji::topic11-s06
+{{c1::危}}ない！離れて！	あぶ(ない) — dangerous (N4)<br>Sentence reading: あぶない！はなれて！<br>Translation: Careful! Step back!	kanji::topic11 kanji::topic11-s06
+{{c1::危::dangerous}}ない！離れて！	あぶ(ない) — dangerous (N4)<br>Sentence reading: あぶない！はなれて！<br>Translation: Careful! Step back!	kanji::topic11 kanji::topic11-s06
+ただいま、{{c1::疲}}れた〜。	つか(れる) — get tired (N4)<br>Sentence reading: ただいま、つかれた〜。<br>Translation: I'm home, so tired...	kanji::topic11 kanji::topic11-s07
+ただいま、{{c1::疲::get tired}}れた〜。	つか(れる) — get tired (N4)<br>Sentence reading: ただいま、つかれた〜。<br>Translation: I'm home, so tired...	kanji::topic11 kanji::topic11-s07
+大丈夫？なんか{{c1::元}}気ないね。	げん — origin/vitality (N5)<br>Sentence reading: だいじょうぶ？なんかげんきないね。<br>Translation: Are you okay? You seem a bit down.	kanji::topic11 kanji::topic11-s07
+大丈夫？なんか{{c1::元::origin/vitality}}気ないね。	げん — origin/vitality (N5)<br>Sentence reading: だいじょうぶ？なんかげんきないね。<br>Translation: Are you okay? You seem a bit down.	kanji::topic11 kanji::topic11-s07
+お疲れ様。{{c1::今}}日はどうだった？	いま — now (N5)<br>Sentence reading: おつかれさま。きょうはどうだった？<br>Translation: Good work today. How was today?	kanji::topic11 kanji::topic11-s07 kanji::topic11-s10
+お疲れ様。{{c1::今::now}}日はどうだった？	いま — now (N5)<br>Sentence reading: おつかれさま。きょうはどうだった？<br>Translation: Good work today. How was today?	kanji::topic11 kanji::topic11-s07 kanji::topic11-s10
+お疲れ様。今{{c1::日}}はどうだった？	ひ、にち — day (N5)<br>Sentence reading: おつかれさま。きょうはどうだった？<br>Translation: Good work today. How was today?	kanji::topic11 kanji::topic11-s07
+お疲れ様。今{{c1::日::day}}はどうだった？	ひ、にち — day (N5)<br>Sentence reading: おつかれさま。きょうはどうだった？<br>Translation: Good work today. How was today?	kanji::topic11 kanji::topic11-s07
+{{c1::楽}}しかったよ、でもちょっと疲れた。	たの(しい) — fun/enjoyable (N4)<br>Sentence reading: たのしかったよ、でもちょっとつかれた。<br>Translation: It was fun, but a bit tiring.	kanji::topic11 kanji::topic11-s07 kanji::topic11-s10
+{{c1::楽::fun/enjoyable}}しかったよ、でもちょっと疲れた。	たの(しい) — fun/enjoyable (N4)<br>Sentence reading: たのしかったよ、でもちょっとつかれた。<br>Translation: It was fun, but a bit tiring.	kanji::topic11 kanji::topic11-s07 kanji::topic11-s10
+{{c1::大}}丈夫？顔色悪いよ。	だい、たい — big (N5)<br>Sentence reading: だいじょうぶ？かおいろわるいよ。<br>Translation: Are you okay? You look pale.	kanji::topic11 kanji::topic11-s07
+{{c1::大::big}}丈夫？顔色悪いよ。	だい、たい — big (N5)<br>Sentence reading: だいじょうぶ？かおいろわるいよ。<br>Translation: Are you okay? You look pale.	kanji::topic11 kanji::topic11-s07
+ううん、別に。ちょっと大{{c1::変}}な日だっただけ。	へん — strange/change (N4)<br>Sentence reading: ううん、べつに。ちょっとたいへんなひだっただけ。<br>Translation: No, not really. Just a tough day.	kanji::topic11 kanji::topic11-s07
+ううん、別に。ちょっと大{{c1::変::strange/change}}な日だっただけ。	へん — strange/change (N4)<br>Sentence reading: ううん、べつに。ちょっとたいへんなひだっただけ。<br>Translation: No, not really. Just a tough day.	kanji::topic11 kanji::topic11-s07
+そろそろお{{c1::風}}呂に入ろうか。	ふろ — bath (compound 風呂) (N4)<br>Sentence reading: そろそろおふろにはいろうか。<br>Translation: Shall we take a bath soon?	kanji::topic11 kanji::topic11-s08
+そろそろお{{c1::風::bath}}呂に入ろうか。	ふろ — bath (compound 風呂) (N4)<br>Sentence reading: そろそろおふろにはいろうか。<br>Translation: Shall we take a bath soon?	kanji::topic11 kanji::topic11-s08
+そろそろお風{{c1::呂}}に入ろうか。	ろ — bath (compound) (beyond N1)<br>Sentence reading: そろそろおふろにはいろうか。<br>Translation: Shall we take a bath soon?	kanji::topic11 kanji::topic11-s08
+そろそろお風{{c1::呂::bath}}に入ろうか。	ろ — bath (compound) (beyond N1)<br>Sentence reading: そろそろおふろにはいろうか。<br>Translation: Shall we take a bath soon?	kanji::topic11 kanji::topic11-s08
+お風呂から出たら、{{c1::歯}}を磨こう。	は — tooth (N4)<br>Sentence reading: おふろからでたら、はをみがこう。<br>Translation: Once you're out of the bath, let's brush teeth.	kanji::topic11 kanji::topic11-s08
+お風呂から出たら、{{c1::歯::tooth}}を磨こう。	は — tooth (N4)<br>Sentence reading: おふろからでたら、はをみがこう。<br>Translation: Once you're out of the bath, let's brush teeth.	kanji::topic11 kanji::topic11-s08
+お風呂から出たら、歯を{{c1::磨}}こう。	みが(く) — polish/brush (N3)<br>Sentence reading: おふろからでたら、はをみがこう。<br>Translation: Once you're out of the bath, let's brush teeth.	kanji::topic11 kanji::topic11-s08
+お風呂から出たら、歯を{{c1::磨::polish/brush}}こう。	みが(く) — polish/brush (N3)<br>Sentence reading: おふろからでたら、はをみがこう。<br>Translation: Once you're out of the bath, let's brush teeth.	kanji::topic11 kanji::topic11-s08
+おもちゃを片付けてから{{c1::寝}}ようね。	ね(る) — sleep (N5)<br>Sentence reading: おもちゃをかたづけてからねようね。<br>Translation: Let's tidy the toys before bed.	kanji::topic11 kanji::topic11-s08
+おもちゃを片付けてから{{c1::寝::sleep}}ようね。	ね(る) — sleep (N5)<br>Sentence reading: おもちゃをかたづけてからねようね。<br>Translation: Let's tidy the toys before bed.	kanji::topic11 kanji::topic11-s08
+{{c1::夜}}はもう暗いね。	よる — night (N5)<br>Sentence reading: よるはもうくらいね。<br>Translation: It's already dark at night.	kanji::topic11 kanji::topic11-s08
+{{c1::夜::night}}はもう暗いね。	よる — night (N5)<br>Sentence reading: よるはもうくらいね。<br>Translation: It's already dark at night.	kanji::topic11 kanji::topic11-s08
+{{c1::布}}団に入って。	ふ — cloth (compound 布団) (N3)<br>Sentence reading: ふとんにはいって。<br>Translation: Get into bed.	kanji::topic11 kanji::topic11-s08
+{{c1::布::cloth}}団に入って。	ふ — cloth (compound 布団) (N3)<br>Sentence reading: ふとんにはいって。<br>Translation: Get into bed.	kanji::topic11 kanji::topic11-s08
+今日は{{c1::休}}みの日だよ。	やす(み) — rest/day off (N5)<br>Sentence reading: きょうはやすみのひだよ。<br>Translation: Today is a day off.	kanji::topic11 kanji::topic11-s09
+今日は{{c1::休::rest/day off}}みの日だよ。	やす(み) — rest/day off (N5)<br>Sentence reading: きょうはやすみのひだよ。<br>Translation: Today is a day off.	kanji::topic11 kanji::topic11-s09
+今度の{{c1::週}}末、何する？	しゅう — week (N5)<br>Sentence reading: こんどのしゅうまつ、なにする？<br>Translation: What should we do this coming weekend?	kanji::topic11 kanji::topic11-s09
+今度の{{c1::週::week}}末、何する？	しゅう — week (N5)<br>Sentence reading: こんどのしゅうまつ、なにする？<br>Translation: What should we do this coming weekend?	kanji::topic11 kanji::topic11-s09
+今度の週{{c1::末}}、何する？	まつ — end (compound 週末) (N3)<br>Sentence reading: こんどのしゅうまつ、なにする？<br>Translation: What should we do this coming weekend?	kanji::topic11 kanji::topic11-s09
+今度の週{{c1::末::end}}、何する？	まつ — end (compound 週末) (N3)<br>Sentence reading: こんどのしゅうまつ、なにする？<br>Translation: What should we do this coming weekend?	kanji::topic11 kanji::topic11-s09
+特に{{c1::予}}定ないから、決めようか。	よ — beforehand (N3)<br>Sentence reading: とくによていないから、きめようか。<br>Translation: We don't have plans yet, so let's decide.	kanji::topic11 kanji::topic11-s09
+特に{{c1::予::beforehand}}定ないから、決めようか。	よ — beforehand (N3)<br>Sentence reading: とくによていないから、きめようか。<br>Translation: We don't have plans yet, so let's decide.	kanji::topic11 kanji::topic11-s09
+特に予{{c1::定}}ないから、決めようか。	てい — fixed/decided (N3)<br>Sentence reading: とくによていないから、きめようか。<br>Translation: We don't have plans yet, so let's decide.	kanji::topic11 kanji::topic11-s09
+特に予{{c1::定::fixed/decided}}ないから、決めようか。	てい — fixed/decided (N3)<br>Sentence reading: とくによていないから、きめようか。<br>Translation: We don't have plans yet, so let's decide.	kanji::topic11 kanji::topic11-s09
+公園に{{c1::遊}}びに行かない？	あそ(ぶ) — play (N5)<br>Sentence reading: こうえんにあそびにいかない？<br>Translation: Want to go play at the park?	kanji::topic11 kanji::topic11-s09
+公園に{{c1::遊::play}}びに行かない？	あそ(ぶ) — play (N5)<br>Sentence reading: こうえんにあそびにいかない？<br>Translation: Want to go play at the park?	kanji::topic11 kanji::topic11-s09
+家事を半{{c1::分}}に分けようね。	わ(ける) — divide (N4)<br>Sentence reading: かじをはんぶんにわけようね。<br>Translation: Let's split the chores in half.	kanji::topic11 kanji::topic11-s09
+家事を半{{c1::分::divide}}に分けようね。	わ(ける) — divide (N4)<br>Sentence reading: かじをはんぶんにわけようね。<br>Translation: Let's split the chores in half.	kanji::topic11 kanji::topic11-s09
+特に予定ないから、{{c1::決}}めようか。	き(める) — decide (N4)<br>Sentence reading: とくによていないから、きめようか。<br>Translation: We don't have plans yet, so let's decide.	kanji::topic11 kanji::topic11-s09
+特に予定ないから、{{c1::決::decide}}めようか。	き(める) — decide (N4)<br>Sentence reading: とくによていないから、きめようか。<br>Translation: We don't have plans yet, so let's decide.	kanji::topic11 kanji::topic11-s09
+今日は幼稚{{c1::園}}で何した？	えん — garden/institution (compound) (N4)<br>Sentence reading: きょうはようちえんでなにした？<br>Translation: What did you do at kindergarten today?	kanji::topic11 kanji::topic11-s10
+今日は幼稚{{c1::園::garden/institution}}で何した？	えん — garden/institution (compound) (N4)<br>Sentence reading: きょうはようちえんでなにした？<br>Translation: What did you do at kindergarten today?	kanji::topic11 kanji::topic11-s10
+{{c1::友}}達とケンカした？	とも — friend (N5)<br>Sentence reading: ともだちとケンカした？<br>Translation: Did you fight with a friend?	kanji::topic11 kanji::topic11-s10
+{{c1::友::friend}}達とケンカした？	とも — friend (N5)<br>Sentence reading: ともだちとケンカした？<br>Translation: Did you fight with a friend?	kanji::topic11 kanji::topic11-s10
+{{c1::先}}生に褒められた？	せん — before/teacher (compound) (N5)<br>Sentence reading: せんせいにほめられた？<br>Translation: Did the teacher praise you?	kanji::topic11 kanji::topic11-s10
+{{c1::先::before/teacher}}生に褒められた？	せん — before/teacher (compound) (N5)<br>Sentence reading: せんせいにほめられた？<br>Translation: Did the teacher praise you?	kanji::topic11 kanji::topic11-s10
+先{{c1::生}}に褒められた？	せい — life/birth (compound) (N5)<br>Sentence reading: せんせいにほめられた？<br>Translation: Did the teacher praise you?	kanji::topic11 kanji::topic11-s10
+先{{c1::生::life/birth}}に褒められた？	せい — life/birth (compound) (N5)<br>Sentence reading: せんせいにほめられた？<br>Translation: Did the teacher praise you?	kanji::topic11 kanji::topic11-s10
+今日は幼稚園で{{c1::何}}した？	なに、なん — what (N5)<br>Sentence reading: きょうはようちえんでなにした？<br>Translation: What did you do at kindergarten today?	kanji::topic11 kanji::topic11-s10
+今日は幼稚園で{{c1::何::what}}した？	なに、なん — what (N5)<br>Sentence reading: きょうはようちえんでなにした？<br>Translation: What did you do at kindergarten today?	kanji::topic11 kanji::topic11-s10
+それは{{c1::悪}}いことだよ。	わる(い) — bad (N4)<br>Sentence reading: それはわるいことだよ。<br>Translation: That's a bad thing.	kanji::topic11 kanji::topic11-s11
+それは{{c1::悪::bad}}いことだよ。	わる(い) — bad (N4)<br>Sentence reading: それはわるいことだよ。<br>Translation: That's a bad thing.	kanji::topic11 kanji::topic11-s11
+{{c1::良}}い子だね。	よ(い) — good (N4)<br>Sentence reading: よいこだね。<br>Translation: You're a good kid.	kanji::topic11 kanji::topic11-s11
+{{c1::良::good}}い子だね。	よ(い) — good (N4)<br>Sentence reading: よいこだね。<br>Translation: You're a good kid.	kanji::topic11 kanji::topic11-s11
+それは{{c1::駄}}目だよ。	だ — (compound だめ) no good (beyond N1)<br>Sentence reading: それはだめだよ。<br>Translation: That's not okay.	kanji::topic11 kanji::topic11-s11
+それは{{c1::駄::(compound だめ) no good}}目だよ。	だ — (compound だめ) no good (beyond N1)<br>Sentence reading: それはだめだよ。<br>Translation: That's not okay.	kanji::topic11 kanji::topic11-s11
+{{c1::目}}を見て話してね。	め、だめ — eye / (compound) no good (N5)<br>Sentence reading: めをみてはなしてね。<br>Translation: Look at me (my eyes) and talk.	kanji::topic11 kanji::topic11-s11
+{{c1::目::eye /}}を見て話してね。	め、だめ — eye / (compound) no good (N5)<br>Sentence reading: めをみてはなしてね。<br>Translation: Look at me (my eyes) and talk.	kanji::topic11 kanji::topic11-s11
+ちゃんと{{c1::謝}}ろうね。	あやま(る) — apologize (N3)<br>Sentence reading: ちゃんとあやまろうね。<br>Translation: Let's properly apologize.	kanji::topic11 kanji::topic11-s11
+ちゃんと{{c1::謝::apologize}}ろうね。	あやま(る) — apologize (N3)<br>Sentence reading: ちゃんとあやまろうね。<br>Translation: Let's properly apologize.	kanji::topic11 kanji::topic11-s11
+ちゃんと{{c1::理}}由を言ってね。	り — reason (compound) (N4)<br>Sentence reading: ちゃんとりゆうをいってね。<br>Translation: Properly tell me the reason.	kanji::topic11 kanji::topic11-s11 kanji::topic11-s13
+ちゃんと{{c1::理::reason}}由を言ってね。	り — reason (compound) (N4)<br>Sentence reading: ちゃんとりゆうをいってね。<br>Translation: Properly tell me the reason.	kanji::topic11 kanji::topic11-s11 kanji::topic11-s13
+理{{c1::由}}を教えて。	ゆう、ゆ — reason (compound 理由) (N3)<br>Sentence reading: りゆうをおしえて。<br>Translation: Tell me the reason.	kanji::topic11 kanji::topic11-s11 kanji::topic11-s13
+理{{c1::由::reason}}を教えて。	ゆう、ゆ — reason (compound 理由) (N3)<br>Sentence reading: りゆうをおしえて。<br>Translation: Tell me the reason.	kanji::topic11 kanji::topic11-s11 kanji::topic11-s13
+{{c1::泣}}かないで、大丈夫だよ。	な(く) — cry (N4)<br>Sentence reading: なかないで、だいじょうぶだよ。<br>Translation: Don't cry, it's okay.	kanji::topic11 kanji::topic11-s11
+{{c1::泣::cry}}かないで、大丈夫だよ。	な(く) — cry (N4)<br>Sentence reading: なかないで、だいじょうぶだよ。<br>Translation: Don't cry, it's okay.	kanji::topic11 kanji::topic11-s11
+今日はどの{{c1::絵}}本を読む？	え — picture (N4)<br>Sentence reading: きょうはどのえほんをよむ？<br>Translation: Which picture book shall we read today?	kanji::topic11 kanji::topic11-s12
+今日はどの{{c1::絵::picture}}本を読む？	え — picture (N4)<br>Sentence reading: きょうはどのえほんをよむ？<br>Translation: Which picture book shall we read today?	kanji::topic11 kanji::topic11-s12
+今日はどの絵{{c1::本}}を読む？	ほん — book (N5)<br>Sentence reading: きょうはどのえほんをよむ？<br>Translation: Which picture book shall we read today?	kanji::topic11 kanji::topic11-s12
+今日はどの絵{{c1::本::book}}を読む？	ほん — book (N5)<br>Sentence reading: きょうはどのえほんをよむ？<br>Translation: Which picture book shall we read today?	kanji::topic11 kanji::topic11-s12
+今日はどの絵本を{{c1::読}}む？	よ(む) — read (N5)<br>Sentence reading: きょうはどのえほんをよむ？<br>Translation: Which picture book shall we read today?	kanji::topic11 kanji::topic11-s12
+今日はどの絵本を{{c1::読::read}}む？	よ(む) — read (N5)<br>Sentence reading: きょうはどのえほんをよむ？<br>Translation: Which picture book shall we read today?	kanji::topic11 kanji::topic11-s12
+楽しいお{{c1::話}}だったね。	はなし — story/talk (N5)<br>Sentence reading: たのしいおはなしだったね。<br>Translation: That was a fun story.	kanji::topic11 kanji::topic11-s12
+楽しいお{{c1::話::story/talk}}だったね。	はなし — story/talk (N5)<br>Sentence reading: たのしいおはなしだったね。<br>Translation: That was a fun story.	kanji::topic11 kanji::topic11-s12
+絵を見ながら{{c1::聞}}いてね。	き(く) — listen (N5)<br>Sentence reading: えをみながらきいてね。<br>Translation: Listen while looking at the pictures.	kanji::topic11 kanji::topic11-s12
+絵を見ながら{{c1::聞::listen}}いてね。	き(く) — listen (N5)<br>Sentence reading: えをみながらきいてね。<br>Translation: Listen while looking at the pictures.	kanji::topic11 kanji::topic11-s12
+これは{{c1::昔}}からある絵本だよ。	むかし — old times (N4)<br>Sentence reading: これはむかしからあるえほんだよ。<br>Translation: This is a picture book that's been around for a long time.	kanji::topic11 kanji::topic11-s12
+これは{{c1::昔::old times}}からある絵本だよ。	むかし — old times (N4)<br>Sentence reading: これはむかしからあるえほんだよ。<br>Translation: This is a picture book that's been around for a long time.	kanji::topic11 kanji::topic11-s12
+絵を{{c1::見}}ながら聞いてね。	み(せる) — show (N5)<br>Sentence reading: えをみながらきいてね。<br>Translation: Listen while looking at the pictures.	kanji::topic11 kanji::topic11-s12
+絵を{{c1::見::show}}ながら聞いてね。	み(せる) — show (N5)<br>Sentence reading: えをみながらきいてね。<br>Translation: Listen while looking at the pictures.	kanji::topic11 kanji::topic11-s12
+この絵本は32{{c1::頁}}あります。	ページ — page (usually written ページ) (beyond N1)<br>Sentence reading: このえほんは32ページあります。<br>Translation: This picture book has 32 pages.	kanji::topic11 kanji::topic11-s12
+この絵本は32{{c1::頁::page}}あります。	ページ — page (usually written ページ) (beyond N1)<br>Sentence reading: このえほんは32ページあります。<br>Translation: This picture book has 32 pages.	kanji::topic11 kanji::topic11-s12
+冷蔵庫は電気で{{c1::動}}くから、中が冷たくなるんだよ。	うご(く) — move (N4)<br>Sentence reading: れいぞうこはでんきでうごくから、なかがつめたくなるんだよ。<br>Translation: The fridge runs on electricity, so the inside gets cold.	kanji::topic11 kanji::topic11-s13
+冷蔵庫は電気で{{c1::動::move}}くから、中が冷たくなるんだよ。	うご(く) — move (N4)<br>Sentence reading: れいぞうこはでんきでうごくから、なかがつめたくなるんだよ。<br>Translation: The fridge runs on electricity, so the inside gets cold.	kanji::topic11 kanji::topic11-s13
+なぜお{{c1::水}}は冷たいの？	みず — water (N5)<br>Sentence reading: なぜおみずはつめたいの？<br>Translation: Why is the water cold?	kanji::topic11 kanji::topic11-s13
+なぜお{{c1::水::water}}は冷たいの？	みず — water (N5)<br>Sentence reading: なぜおみずはつめたいの？<br>Translation: Why is the water cold?	kanji::topic11 kanji::topic11-s13
+冷蔵庫は{{c1::電}}気で動くから、中が冷たくなるんだよ。	でん — electric (N4)<br>Sentence reading: れいぞうこはでんきでうごくから、なかがつめたくなるんだよ。<br>Translation: The fridge runs on electricity, so the inside gets cold.	kanji::topic11 kanji::topic11-s13
+冷蔵庫は{{c1::電::electric}}気で動くから、中が冷たくなるんだよ。	でん — electric (N4)<br>Sentence reading: れいぞうこはでんきでうごくから、なかがつめたくなるんだよ。<br>Translation: The fridge runs on electricity, so the inside gets cold.	kanji::topic11 kanji::topic11-s13
+このスプーンを{{c1::使}}ってね。	つか(う) — use (N5)<br>Sentence reading: このスプーンをつかってね。<br>Translation: Use this spoon.	kanji::topic11 kanji::topic11-s13
+このスプーンを{{c1::使::use}}ってね。	つか(う) — use (N5)<br>Sentence reading: このスプーンをつかってね。<br>Translation: Use this spoon.	kanji::topic11 kanji::topic11-s13
+このボタンを{{c1::押}}すから、電気がつくんだよ。	お(す) — push (N4)<br>Sentence reading: このボタンをおすから、でんきがつくんだよ。<br>Translation: Because you push this button, the light turns on.	kanji::topic11 kanji::topic11-s13
+このボタンを{{c1::押::push}}すから、電気がつくんだよ。	お(す) — push (N4)<br>Sentence reading: このボタンをおすから、でんきがつくんだよ。<br>Translation: Because you push this button, the light turns on.	kanji::topic11 kanji::topic11-s13
+今月の電気代、{{c1::払}}った？	はら(う) — pay (N3)<br>Sentence reading: こんげつのでんきだい、はらった？<br>Translation: Did you pay this month's electricity bill?	kanji::topic11 kanji::topic11-s14
+今月の電気代、{{c1::払::pay}}った？	はら(う) — pay (N3)<br>Sentence reading: こんげつのでんきだい、はらった？<br>Translation: Did you pay this month's electricity bill?	kanji::topic11 kanji::topic11-s14
+家賃の{{c1::支}}払い期限はいつだっけ？	し — support/pay (compound) (N3)<br>Sentence reading: やちんのしはらいきげんはいつだっけ？<br>Translation: When is the rent due date again?	kanji::topic11 kanji::topic11-s14
+家賃の{{c1::支::support/pay}}払い期限はいつだっけ？	し — support/pay (compound) (N3)<br>Sentence reading: やちんのしはらいきげんはいつだっけ？<br>Translation: When is the rent due date again?	kanji::topic11 kanji::topic11-s14
+今月の電気{{c1::代}}、払った？	だい — fee/charge (compound) (N4)<br>Sentence reading: こんげつのでんきだい、はらった？<br>Translation: Did you pay this month's electricity bill?	kanji::topic11 kanji::topic11-s14
+今月の電気{{c1::代::fee/charge}}、払った？	だい — fee/charge (compound) (N4)<br>Sentence reading: こんげつのでんきだい、はらった？<br>Translation: Did you pay this month's electricity bill?	kanji::topic11 kanji::topic11-s14
+家{{c1::賃}}の支払い期限はいつだっけ？	ちん — fare/rent (compound) (N2)<br>Sentence reading: やちんのしはらいきげんはいつだっけ？<br>Translation: When is the rent due date again?	kanji::topic11 kanji::topic11-s14
+家{{c1::賃::fare/rent}}の支払い期限はいつだっけ？	ちん — fare/rent (compound) (N2)<br>Sentence reading: やちんのしはらいきげんはいつだっけ？<br>Translation: When is the rent due date again?	kanji::topic11 kanji::topic11-s14
+家賃の支払い{{c1::期}}限はいつだっけ？	き — period (N3)<br>Sentence reading: やちんのしはらいきげんはいつだっけ？<br>Translation: When is the rent due date again?	kanji::topic11 kanji::topic11-s14
+家賃の支払い{{c1::期::period}}限はいつだっけ？	き — period (N3)<br>Sentence reading: やちんのしはらいきげんはいつだっけ？<br>Translation: When is the rent due date again?	kanji::topic11 kanji::topic11-s14
+家賃の支払い期{{c1::限}}はいつだっけ？	げん — limit (N2)<br>Sentence reading: やちんのしはらいきげんはいつだっけ？<br>Translation: When is the rent due date again?	kanji::topic11 kanji::topic11-s14
+家賃の支払い期{{c1::限::limit}}はいつだっけ？	げん — limit (N2)<br>Sentence reading: やちんのしはらいきげんはいつだっけ？<br>Translation: When is the rent due date again?	kanji::topic11 kanji::topic11-s14
+水道代とガス代はもう引き{{c1::落}}としになってるよ。	お(とす)、お(ちる) — drop/fall (N4)<br>Sentence reading: すいどうだいとガスだいはもうひきおとしになってるよ。<br>Translation: The water and gas bills are already set to auto-debit.	kanji::topic11 kanji::topic11-s14
+水道代とガス代はもう引き{{c1::落::drop/fall}}としになってるよ。	お(とす)、お(ちる) — drop/fall (N4)<br>Sentence reading: すいどうだいとガスだいはもうひきおとしになってるよ。<br>Translation: The water and gas bills are already set to auto-debit.	kanji::topic11 kanji::topic11-s14
+水道代とガス代はもう{{c1::引}}き落としになってるよ。	ひ(く) — pull/deduct (N4)<br>Sentence reading: すいどうだいとガスだいはもうひきおとしになってるよ。<br>Translation: The water and gas bills are already set to auto-debit.	kanji::topic11 kanji::topic11-s14
+水道代とガス代はもう{{c1::引::pull/deduct}}き落としになってるよ。	ひ(く) — pull/deduct (N4)<br>Sentence reading: すいどうだいとガスだいはもうひきおとしになってるよ。<br>Translation: The water and gas bills are already set to auto-debit.	kanji::topic11 kanji::topic11-s14
+もう{{c1::起きる}}時間だよ。	おきる — to wake up / get up (N5)<br>Sentence reading: もうおきるじかんだよ。<br>Translation: It's already time to get up.	vocabulary::topic11 vocabulary::topic11-s01
+もう{{c1::起きる::to wake up / get up}}時間だよ。	おきる — to wake up / get up (N5)<br>Sentence reading: もうおきるじかんだよ。<br>Translation: It's already time to get up.	vocabulary::topic11 vocabulary::topic11-s01
+朝、パパを{{c1::起こして}}くれる？	おこす — to wake someone up (N4)<br>Sentence reading: あさ、パパをおこしてくれる？<br>Translation: Can you wake Dad up in the morning?	vocabulary::topic11 vocabulary::topic11-s01
+朝、パパを{{c1::起こして::to wake someone up}}くれる？	おこす — to wake someone up (N4)<br>Sentence reading: あさ、パパをおこしてくれる？<br>Translation: Can you wake Dad up in the morning?	vocabulary::topic11 vocabulary::topic11-s01
+{{c1::よく眠れた}}？	よくねむれた — slept well (N3)<br>Sentence reading: よくねむれた？<br>Translation: Did you sleep well?	vocabulary::topic11 vocabulary::topic11-s01
+{{c1::よく眠れた::slept well}}？	よくねむれた — slept well (N3)<br>Sentence reading: よくねむれた？<br>Translation: Did you sleep well?	vocabulary::topic11 vocabulary::topic11-s01
+{{c1::顔を洗って}}、歯を磨いてね。	かおをあらう — to wash one's face (N5)<br>Sentence reading: かおをあらって、はをみがいてね。<br>Translation: Wash your face and brush your teeth.	vocabulary::topic11 vocabulary::topic11-s01
+{{c1::顔を洗って::to wash one's face}}、歯を磨いてね。	かおをあらう — to wash one's face (N5)<br>Sentence reading: かおをあらって、はをみがいてね。<br>Translation: Wash your face and brush your teeth.	vocabulary::topic11 vocabulary::topic11-s01
+顔を洗って、{{c1::歯を磨いて}}ね。	はをみがく — to brush teeth (N5)<br>Sentence reading: かおをあらって、はをみがいてね。<br>Translation: Wash your face and brush your teeth.	vocabulary::topic11 vocabulary::topic11-s01 vocabulary::topic11-s08
+顔を洗って、{{c1::歯を磨いて::to brush teeth}}ね。	はをみがく — to brush teeth (N5)<br>Sentence reading: かおをあらって、はをみがいてね。<br>Translation: Wash your face and brush your teeth.	vocabulary::topic11 vocabulary::topic11-s01 vocabulary::topic11-s08
+服を{{c1::着替えよう}}か。	きがえる — to change clothes (N4)<br>Sentence reading: ふくをきがえようか。<br>Translation: Shall we change clothes?	vocabulary::topic11 vocabulary::topic11-s01
+服を{{c1::着替えよう::to change clothes}}か。	きがえる — to change clothes (N4)<br>Sentence reading: ふくをきがえようか。<br>Translation: Shall we change clothes?	vocabulary::topic11 vocabulary::topic11-s01
+早く{{c1::服を着て}}ね。	ふくをきる — to put on clothes (N5)<br>Sentence reading: はやくふくをきてね。<br>Translation: Put your clothes on quickly.	vocabulary::topic11 vocabulary::topic11-s01
+早く{{c1::服を着て::to put on clothes}}ね。	ふくをきる — to put on clothes (N5)<br>Sentence reading: はやくふくをきてね。<br>Translation: Put your clothes on quickly.	vocabulary::topic11 vocabulary::topic11-s01
+{{c1::朝ごはん}}を作ろう。	あさごはん — breakfast (N5)<br>Sentence reading: あさごはんをつくろう。<br>Translation: Let's make breakfast.	vocabulary::topic11 vocabulary::topic11-s01
+{{c1::朝ごはん::breakfast}}を作ろう。	あさごはん — breakfast (N5)<br>Sentence reading: あさごはんをつくろう。<br>Translation: Let's make breakfast.	vocabulary::topic11 vocabulary::topic11-s01
+一緒にケーキを{{c1::作ろう}}。	つくる — to make (N5)<br>Sentence reading: いっしょにケーキをつくろう。<br>Translation: Let's make a cake together.	vocabulary::topic11 vocabulary::topic11-s01
+一緒にケーキを{{c1::作ろう::to make}}。	つくる — to make (N5)<br>Sentence reading: いっしょにケーキをつくろう。<br>Translation: Let's make a cake together.	vocabulary::topic11 vocabulary::topic11-s01
+まだ{{c1::眠い}}…	ねむい — sleepy (N4)<br>Sentence reading: まだねむい…<br>Translation: I'm still sleepy...	vocabulary::topic11 vocabulary::topic11-s01
+まだ{{c1::眠い::sleepy}}…	ねむい — sleepy (N4)<br>Sentence reading: まだねむい…<br>Translation: I'm still sleepy...	vocabulary::topic11 vocabulary::topic11-s01
+{{c1::早く}}起きて、幼稚園に遅れるよ。	はやく — quickly / early (N5)<br>Sentence reading: はやくおきて、ようちえんにおくれるよ。<br>Translation: Get up quickly, you'll be late for kindergarten.	vocabulary::topic11 vocabulary::topic11-s01
+{{c1::早く::quickly / early}}起きて、幼稚園に遅れるよ。	はやく — quickly / early (N5)<br>Sentence reading: はやくおきて、ようちえんにおくれるよ。<br>Translation: Get up quickly, you'll be late for kindergarten.	vocabulary::topic11 vocabulary::topic11-s01
+{{c1::準備して}}、出かけるよ。	じゅんびする — to get ready (N4)<br>Sentence reading: じゅんびして、でかけるよ。<br>Translation: Get ready, we're heading out.	vocabulary::topic11 vocabulary::topic11-s01 vocabulary::topic11-s04
+{{c1::準備して::to get ready}}、出かけるよ。	じゅんびする — to get ready (N4)<br>Sentence reading: じゅんびして、でかけるよ。<br>Translation: Get ready, we're heading out.	vocabulary::topic11 vocabulary::topic11-s01 vocabulary::topic11-s04
+{{c1::もう一回寝て}}もいい？	もういっかいねる — to sleep once more (N4)<br>Sentence reading: もういっかいねてもいい？<br>Translation: Can I sleep once more?	vocabulary::topic11 vocabulary::topic11-s01
+{{c1::もう一回寝て::to sleep once more}}もいい？	もういっかいねる — to sleep once more (N4)<br>Sentence reading: もういっかいねてもいい？<br>Translation: Can I sleep once more?	vocabulary::topic11 vocabulary::topic11-s01
+{{c1::目覚まし時計}}が鳴ったよ。	めざましどけい — alarm clock (N4)<br>Sentence reading: めざましどけいがなったよ。<br>Translation: The alarm clock went off.	vocabulary::topic11 vocabulary::topic11-s01
+{{c1::目覚まし時計::alarm clock}}が鳴ったよ。	めざましどけい — alarm clock (N4)<br>Sentence reading: めざましどけいがなったよ。<br>Translation: The alarm clock went off.	vocabulary::topic11 vocabulary::topic11-s01
+{{c1::いただきます}}！	いただきます — (said before eating) (N5)<br>Sentence reading: いただきます！<br>Translation: Let's eat! / Thanks for the food!	vocabulary::topic11 vocabulary::topic11-s02
+{{c1::いただきます::(said before eating)}}！	いただきます — (said before eating) (N5)<br>Sentence reading: いただきます！<br>Translation: Let's eat! / Thanks for the food!	vocabulary::topic11 vocabulary::topic11-s02
+{{c1::ごちそうさま}}、美味しかった。	ごちそうさま — (said after eating) (N5)<br>Sentence reading: ごちそうさま、おいしかった。<br>Translation: Thanks for the meal, it was delicious.	vocabulary::topic11 vocabulary::topic11-s02
+{{c1::ごちそうさま::(said after eating)}}、美味しかった。	ごちそうさま — (said after eating) (N5)<br>Sentence reading: ごちそうさま、おいしかった。<br>Translation: Thanks for the meal, it was delicious.	vocabulary::topic11 vocabulary::topic11-s02
+どう？{{c1::美味しい}}？	おいしい — delicious (N5)<br>Sentence reading: どう？おいしい？<br>Translation: How is it? Is it good?	vocabulary::topic11 vocabulary::topic11-s02
+どう？{{c1::美味しい::delicious}}？	おいしい — delicious (N5)<br>Sentence reading: どう？おいしい？<br>Translation: How is it? Is it good?	vocabulary::topic11 vocabulary::topic11-s02
+これはちょっと{{c1::まずい}}ね。	まずい — not tasty (N4)<br>Sentence reading: これはちょっとまずいね。<br>Translation: This is a bit not tasty.	vocabulary::topic11 vocabulary::topic11-s02
+これはちょっと{{c1::まずい::not tasty}}ね。	まずい — not tasty (N4)<br>Sentence reading: これはちょっとまずいね。<br>Translation: This is a bit not tasty.	vocabulary::topic11 vocabulary::topic11-s02
+{{c1::おかわり}}ある？	おかわり — second helping (N4)<br>Sentence reading: おかわりある？<br>Translation: Is there seconds?	vocabulary::topic11 vocabulary::topic11-s02
+{{c1::おかわり::second helping}}ある？	おかわり — second helping (N4)<br>Sentence reading: おかわりある？<br>Translation: Is there seconds?	vocabulary::topic11 vocabulary::topic11-s02
+もう{{c1::お腹いっぱい}}。	おなかいっぱい — full (stomach) (N4)<br>Sentence reading: もうおなかいっぱい。<br>Translation: I'm already full.	vocabulary::topic11 vocabulary::topic11-s02
+もう{{c1::お腹いっぱい::full}}。	おなかいっぱい — full (stomach) (N4)<br>Sentence reading: もうおなかいっぱい。<br>Translation: I'm already full.	vocabulary::topic11 vocabulary::topic11-s02
+食べ終わったら、お皿を{{c1::片付けよう}}ね。	かたづける — to clear/tidy up (N4)<br>Sentence reading: たべおわったら、おさらをかたづけようね。<br>Translation: Once you're done, let's clear the plates.	vocabulary::topic11 vocabulary::topic11-s02 vocabulary::topic11-s03 vocabulary::topic11-s08
+食べ終わったら、お皿を{{c1::片付けよう::to clear/tidy up}}ね。	かたづける — to clear/tidy up (N4)<br>Sentence reading: たべおわったら、おさらをかたづけようね。<br>Translation: Once you're done, let's clear the plates.	vocabulary::topic11 vocabulary::topic11-s02 vocabulary::topic11-s03 vocabulary::topic11-s08
+{{c1::お皿を洗って}}、拭いてくれる？	おさらをあらう — to wash dishes (N4)<br>Sentence reading: おさらをあらって、ふいてくれる？<br>Translation: Can you wash and dry the dishes?	vocabulary::topic11 vocabulary::topic11-s02
+{{c1::お皿を洗って::to wash dishes}}、拭いてくれる？	おさらをあらう — to wash dishes (N4)<br>Sentence reading: おさらをあらって、ふいてくれる？<br>Translation: Can you wash and dry the dishes?	vocabulary::topic11 vocabulary::topic11-s02
+テーブルを{{c1::拭いて}}くれる？	ふく — to wipe/dry (N4)<br>Sentence reading: テーブルをふいてくれる？<br>Translation: Can you wipe the table?	vocabulary::topic11 vocabulary::topic11-s02
+テーブルを{{c1::拭いて::to wipe/dry}}くれる？	ふく — to wipe/dry (N4)<br>Sentence reading: テーブルをふいてくれる？<br>Translation: Can you wipe the table?	vocabulary::topic11 vocabulary::topic11-s02
+残りは冷蔵庫に{{c1::しまって}}おくね。	しまう — to put away (N3)<br>Sentence reading: のこりはれいぞうこにしまっておくね。<br>Translation: I'll put the leftovers in the fridge.	vocabulary::topic11 vocabulary::topic11-s02
+残りは冷蔵庫に{{c1::しまって::to put away}}おくね。	しまう — to put away (N3)<br>Sentence reading: のこりはれいぞうこにしまっておくね。<br>Translation: I'll put the leftovers in the fridge.	vocabulary::topic11 vocabulary::topic11-s02
+残りは{{c1::冷蔵庫}}にしまっておくね。	れいぞうこ — refrigerator (N4)<br>Sentence reading: のこりはれいぞうこにしまっておくね。<br>Translation: I'll put the leftovers in the fridge.	vocabulary::topic11 vocabulary::topic11-s02
+残りは{{c1::冷蔵庫::refrigerator}}にしまっておくね。	れいぞうこ — refrigerator (N4)<br>Sentence reading: のこりはれいぞうこにしまっておくね。<br>Translation: I'll put the leftovers in the fridge.	vocabulary::topic11 vocabulary::topic11-s02
+この料理、{{c1::味付け}}がちょうどいいね。	あじつけ — seasoning/flavor (N3)<br>Sentence reading: このりょうり、あじつけがちょうどいいね。<br>Translation: The seasoning on this dish is just right.	vocabulary::topic11 vocabulary::topic11-s02
+この料理、{{c1::味付け::seasoning/flavor}}がちょうどいいね。	あじつけ — seasoning/flavor (N3)<br>Sentence reading: このりょうり、あじつけがちょうどいいね。<br>Translation: The seasoning on this dish is just right.	vocabulary::topic11 vocabulary::topic11-s02
+{{c1::こぼさない}}ように気をつけて。	こぼす — to spill (N3)<br>Sentence reading: こぼさないようにきをつけて。<br>Translation: Be careful not to spill.	vocabulary::topic11 vocabulary::topic11-s02
+{{c1::こぼさない::to spill}}ように気をつけて。	こぼす — to spill (N3)<br>Sentence reading: こぼさないようにきをつけて。<br>Translation: Be careful not to spill.	vocabulary::topic11 vocabulary::topic11-s02
+嫌いなものは{{c1::残して}}いいよ。	のこす — to leave (food) (N3)<br>Sentence reading: きらいなものはのこしていいよ。<br>Translation: It's okay to leave what you don't like.	vocabulary::topic11 vocabulary::topic11-s02
+嫌いなものは{{c1::残して::to leave}}いいよ。	のこす — to leave (food) (N3)<br>Sentence reading: きらいなものはのこしていいよ。<br>Translation: It's okay to leave what you don't like.	vocabulary::topic11 vocabulary::topic11-s02
+今日は{{c1::洗濯する}}ね。	せんたくする — to do laundry (N4)<br>Sentence reading: きょうはせんたくするね。<br>Translation: I'll do the laundry today.	vocabulary::topic11 vocabulary::topic11-s03
+今日は{{c1::洗濯する::to do laundry}}ね。	せんたくする — to do laundry (N4)<br>Sentence reading: きょうはせんたくするね。<br>Translation: I'll do the laundry today.	vocabulary::topic11 vocabulary::topic11-s03
+{{c1::洗濯物}}を干してくれる？	せんたくもの — laundry (N4)<br>Sentence reading: せんたくものをほしてくれる？<br>Translation: Can you hang up the laundry?	vocabulary::topic11 vocabulary::topic11-s03
+{{c1::洗濯物::laundry}}を干してくれる？	せんたくもの — laundry (N4)<br>Sentence reading: せんたくものをほしてくれる？<br>Translation: Can you hang up the laundry?	vocabulary::topic11 vocabulary::topic11-s03
+洗濯物をベランダに{{c1::干そう}}。	ほす — to hang (to dry) (N2)<br>Sentence reading: せんたくものをベランダにほそう。<br>Translation: Let's hang the laundry on the balcony.	vocabulary::topic11 vocabulary::topic11-s03
+洗濯物をベランダに{{c1::干そう::to hang}}。	ほす — to hang (to dry) (N2)<br>Sentence reading: せんたくものをベランダにほそう。<br>Translation: Let's hang the laundry on the balcony.	vocabulary::topic11 vocabulary::topic11-s03
+ぼくも{{c1::畳む}}！	たたむ — to fold (N2)<br>Sentence reading: ぼくもたたむ！<br>Translation: I'll fold too!	vocabulary::topic11 vocabulary::topic11-s03
+ぼくも{{c1::畳む::to fold}}！	たたむ — to fold (N2)<br>Sentence reading: ぼくもたたむ！<br>Translation: I'll fold too!	vocabulary::topic11 vocabulary::topic11-s03
+{{c1::ゴミを出して}}くれない？	ゴミをだす — to take out the trash (N4)<br>Sentence reading: ゴミをだしてくれない？<br>Translation: Could you take out the trash?	vocabulary::topic11 vocabulary::topic11-s03
+{{c1::ゴミを出して::to take out the trash}}くれない？	ゴミをだす — to take out the trash (N4)<br>Sentence reading: ゴミをだしてくれない？<br>Translation: Could you take out the trash?	vocabulary::topic11 vocabulary::topic11-s03
+{{c1::掃除機をかける}}ね。	そうじきをかける — to vacuum (N3)<br>Sentence reading: そうじきをかけるね。<br>Translation: I'll vacuum now.	vocabulary::topic11 vocabulary::topic11-s03
+{{c1::掃除機をかける::to vacuum}}ね。	そうじきをかける — to vacuum (N3)<br>Sentence reading: そうじきをかけるね。<br>Translation: I'll vacuum now.	vocabulary::topic11 vocabulary::topic11-s03
+部屋を{{c1::掃除する}}ね。	そうじする — to clean (N5)<br>Sentence reading: へやをそうじするね。<br>Translation: I'll clean the room.	vocabulary::topic11 vocabulary::topic11-s03
+部屋を{{c1::掃除する::to clean}}ね。	そうじする — to clean (N5)<br>Sentence reading: へやをそうじするね。<br>Translation: I'll clean the room.	vocabulary::topic11 vocabulary::topic11-s03
+お風呂は{{c1::順番}}に入ろうね。	じゅんばん — turn/order (N3)<br>Sentence reading: おふろはじゅんばんにはいろうね。<br>Translation: Let's take the bath in turns.	vocabulary::topic11 vocabulary::topic11-s03
+お風呂は{{c1::順番::turn/order}}に入ろうね。	じゅんばん — turn/order (N3)<br>Sentence reading: おふろはじゅんばんにはいろうね。<br>Translation: Let's take the bath in turns.	vocabulary::topic11 vocabulary::topic11-s03
+順番に{{c1::交代しよう}}か。	こうたいする — to take turns / swap (N3)<br>Sentence reading: じゅんばんにこうたいしようか。<br>Translation: Shall we take turns in order?	vocabulary::topic11 vocabulary::topic11-s03
+順番に{{c1::交代しよう::to take turns / swap}}か。	こうたいする — to take turns / swap (N3)<br>Sentence reading: じゅんばんにこうたいしようか。<br>Translation: Shall we take turns in order?	vocabulary::topic11 vocabulary::topic11-s03
+ちょっと{{c1::手伝って}}くれる？	てつだう — to help (N4)<br>Sentence reading: ちょっとてつだってくれる？<br>Translation: Can you help me a bit?	vocabulary::topic11 vocabulary::topic11-s03
+ちょっと{{c1::手伝って::to help}}くれる？	てつだう — to help (N4)<br>Sentence reading: ちょっとてつだってくれる？<br>Translation: Can you help me a bit?	vocabulary::topic11 vocabulary::topic11-s03
+今日は{{c1::誰の番}}？	だれのばん — whose turn (N4)<br>Sentence reading: きょうはだれのばん？<br>Translation: Whose turn is it today?	vocabulary::topic11 vocabulary::topic11-s03
+今日は{{c1::誰の番::whose turn}}？	だれのばん — whose turn (N4)<br>Sentence reading: きょうはだれのばん？<br>Translation: Whose turn is it today?	vocabulary::topic11 vocabulary::topic11-s03
+{{c1::家事を分けよう}}ね。	かじをわける — to split chores (N3)<br>Sentence reading: かじをわけようね。<br>Translation: Let's split the chores.	vocabulary::topic11 vocabulary::topic11-s03 vocabulary::topic11-s09
+{{c1::家事を分けよう::to split chores}}ね。	かじをわける — to split chores (N3)<br>Sentence reading: かじをわけようね。<br>Translation: Let's split the chores.	vocabulary::topic11 vocabulary::topic11-s03 vocabulary::topic11-s09
+{{c1::部屋を片付けたら}}遊んでいいよ。	へやをかたづける — to tidy the room (N4)<br>Sentence reading: へやをかたづけたらあそんでいいよ。<br>Translation: You can play once you tidy your room.	vocabulary::topic11 vocabulary::topic11-s03
+{{c1::部屋を片付けたら::to tidy the room}}遊んでいいよ。	へやをかたづける — to tidy the room (N4)<br>Sentence reading: へやをかたづけたらあそんでいいよ。<br>Translation: You can play once you tidy your room.	vocabulary::topic11 vocabulary::topic11-s03
+準備して、{{c1::出かける}}よ。	でかける — to go out (N5)<br>Sentence reading: じゅんびして、でかけるよ。<br>Translation: Get ready, we're heading out.	vocabulary::topic11 vocabulary::topic11-s04
+準備して、{{c1::出かける::to go out}}よ。	でかける — to go out (N5)<br>Sentence reading: じゅんびして、でかけるよ。<br>Translation: Get ready, we're heading out.	vocabulary::topic11 vocabulary::topic11-s04
+{{c1::公園}}に行こう！	こうえん — park (N5)<br>Sentence reading: こうえんにいこう！<br>Translation: Let's go to the park!	vocabulary::topic11 vocabulary::topic11-s04
+{{c1::公園::park}}に行こう！	こうえん — park (N5)<br>Sentence reading: こうえんにいこう！<br>Translation: Let's go to the park!	vocabulary::topic11 vocabulary::topic11-s04
+出かける前に、水筒を{{c1::用意しよう}}ね。	よういする — to prepare (N4)<br>Sentence reading: でかけるまえに、すいとうをよういしようね。<br>Translation: Let's prepare the water bottle before we go out.	vocabulary::topic11 vocabulary::topic11-s04
+出かける前に、水筒を{{c1::用意しよう::to prepare}}ね。	よういする — to prepare (N4)<br>Sentence reading: でかけるまえに、すいとうをよういしようね。<br>Translation: Let's prepare the water bottle before we go out.	vocabulary::topic11 vocabulary::topic11-s04
+出かける前に{{c1::鍵をかけて}}ね。	かぎをかける — to lock (N4)<br>Sentence reading: でかけるまえにかぎをかけてね。<br>Translation: Lock the door before we go out.	vocabulary::topic11 vocabulary::topic11-s04
+出かける前に{{c1::鍵をかけて::to lock}}ね。	かぎをかける — to lock (N4)<br>Sentence reading: でかけるまえにかぎをかけてね。<br>Translation: Lock the door before we go out.	vocabulary::topic11 vocabulary::topic11-s04
+{{c1::鍵を閉めた}}？	かぎをしめた — did you lock (it)? (N4)<br>Sentence reading: かぎをしめた？<br>Translation: Did you lock the door?	vocabulary::topic11 vocabulary::topic11-s04
+{{c1::鍵を閉めた::did you lock}}？	かぎをしめた — did you lock (it)? (N4)<br>Sentence reading: かぎをしめた？<br>Translation: Did you lock the door?	vocabulary::topic11 vocabulary::topic11-s04
+傘、{{c1::持っていく}}？	もっていく — to take (with you) (N5)<br>Sentence reading: かさ、もっていく？<br>Translation: Should we bring an umbrella?	vocabulary::topic11 vocabulary::topic11-s04
+傘、{{c1::持っていく::to take}}？	もっていく — to take (with you) (N5)<br>Sentence reading: かさ、もっていく？<br>Translation: Should we bring an umbrella?	vocabulary::topic11 vocabulary::topic11-s04
+何か{{c1::忘れ物}}ない？	わすれもの — forgotten item (N4)<br>Sentence reading: なにかわすれものない？<br>Translation: Do we have anything we're forgetting?	vocabulary::topic11 vocabulary::topic11-s04
+何か{{c1::忘れ物::forgotten item}}ない？	わすれもの — forgotten item (N4)<br>Sentence reading: なにかわすれものない？<br>Translation: Do we have anything we're forgetting?	vocabulary::topic11 vocabulary::topic11-s04
+帰りにスーパーで{{c1::買い物しよう}}。	かいもの — shopping (N5)<br>Sentence reading: かえりにスーパーでかいものしよう。<br>Translation: Let's do shopping at the supermarket on the way back.	vocabulary::topic11 vocabulary::topic11-s04
+帰りにスーパーで{{c1::買い物しよう::shopping}}。	かいもの — shopping (N5)<br>Sentence reading: かえりにスーパーでかいものしよう。<br>Translation: Let's do shopping at the supermarket on the way back.	vocabulary::topic11 vocabulary::topic11-s04
+{{c1::靴を履いて}}、帽子をかぶってね。	くつをはく — to put on shoes (N5)<br>Sentence reading: くつをはいて、ぼうしをかぶってね。<br>Translation: Put on your shoes and hat.	vocabulary::topic11 vocabulary::topic11-s04
+{{c1::靴を履いて::to put on shoes}}、帽子をかぶってね。	くつをはく — to put on shoes (N5)<br>Sentence reading: くつをはいて、ぼうしをかぶってね。<br>Translation: Put on your shoes and hat.	vocabulary::topic11 vocabulary::topic11-s04
+靴を履いて、{{c1::帽子をかぶって}}ね。	ぼうしをかぶる — to put on a hat (N4)<br>Sentence reading: くつをはいて、ぼうしをかぶってね。<br>Translation: Put on your shoes and hat.	vocabulary::topic11 vocabulary::topic11-s04
+靴を履いて、{{c1::帽子をかぶって::to put on a hat}}ね。	ぼうしをかぶる — to put on a hat (N4)<br>Sentence reading: くつをはいて、ぼうしをかぶってね。<br>Translation: Put on your shoes and hat.	vocabulary::topic11 vocabulary::topic11-s04
+ちょっと{{c1::用事}}があるから、先に行ってて。	ようじ — errand (N3)<br>Sentence reading: ちょっとようじがあるから、さきにいってて。<br>Translation: I have an errand to run, so go ahead without me.	vocabulary::topic11 vocabulary::topic11-s04
+ちょっと{{c1::用事::errand}}があるから、先に行ってて。	ようじ — errand (N3)<br>Sentence reading: ちょっとようじがあるから、さきにいってて。<br>Translation: I have an errand to run, so go ahead without me.	vocabulary::topic11 vocabulary::topic11-s04
+このカバン、{{c1::誰が持つ}}？	だれがもつ — who will carry (N5)<br>Sentence reading: このカバン、だれがもつ？<br>Translation: Who's going to carry this bag?	vocabulary::topic11 vocabulary::topic11-s04
+このカバン、{{c1::誰が持つ::who will carry}}？	だれがもつ — who will carry (N5)<br>Sentence reading: このカバン、だれがもつ？<br>Translation: Who's going to carry this bag?	vocabulary::topic11 vocabulary::topic11-s04
+{{c1::行ってきます}}！	いってきます — I'm leaving (and coming back) (N5)<br>Sentence reading: いってきます！<br>Translation: I'm off (I'll be back)!	vocabulary::topic11 vocabulary::topic11-s05
+{{c1::行ってきます::I'm leaving}}！	いってきます — I'm leaving (and coming back) (N5)<br>Sentence reading: いってきます！<br>Translation: I'm off (I'll be back)!	vocabulary::topic11 vocabulary::topic11-s05
+{{c1::行ってらっしゃい}}、気をつけてね。	いってらっしゃい — see you off / take care (N5)<br>Sentence reading: いってらっしゃい、きをつけてね。<br>Translation: Take care, see you later.	vocabulary::topic11 vocabulary::topic11-s05
+{{c1::行ってらっしゃい::see you off / take care}}、気をつけてね。	いってらっしゃい — see you off / take care (N5)<br>Sentence reading: いってらっしゃい、きをつけてね。<br>Translation: Take care, see you later.	vocabulary::topic11 vocabulary::topic11-s05
+{{c1::ただいま}}！	ただいま — I'm home (N5)<br>Sentence reading: ただいま！<br>Translation: I'm home!	vocabulary::topic11 vocabulary::topic11-s05
+{{c1::ただいま::I'm home}}！	ただいま — I'm home (N5)<br>Sentence reading: ただいま！<br>Translation: I'm home!	vocabulary::topic11 vocabulary::topic11-s05
+{{c1::おかえり}}！早かったね。	おかえり — welcome back (N5)<br>Sentence reading: おかえり！はやかったね。<br>Translation: Welcome back! That was quick.	vocabulary::topic11 vocabulary::topic11-s05
+{{c1::おかえり::welcome back}}！早かったね。	おかえり — welcome back (N5)<br>Sentence reading: おかえり！はやかったね。<br>Translation: Welcome back! That was quick.	vocabulary::topic11 vocabulary::topic11-s05
+何時に{{c1::帰る}}？	かえる — to go home (N5)<br>Sentence reading: なんじにかえる？<br>Translation: What time will you be home?	vocabulary::topic11 vocabulary::topic11-s05
+何時に{{c1::帰る::to go home}}？	かえる — to go home (N5)<br>Sentence reading: なんじにかえる？<br>Translation: What time will you be home?	vocabulary::topic11 vocabulary::topic11-s05
+すぐ{{c1::戻る}}から、待ってて。	もどる — to come back (N4)<br>Sentence reading: すぐもどるから、まってて。<br>Translation: I'll be right back, so wait.	vocabulary::topic11 vocabulary::topic11-s05
+すぐ{{c1::戻る::to come back}}から、待ってて。	もどる — to come back (N4)<br>Sentence reading: すぐもどるから、まってて。<br>Translation: I'll be right back, so wait.	vocabulary::topic11 vocabulary::topic11-s05
+{{c1::何時に帰る}}？	なんじにかえる — what time will you be back? (N5)<br>Sentence reading: なんじにかえる？<br>Translation: What time will you be home?	vocabulary::topic11 vocabulary::topic11-s05
+{{c1::何時に帰る::what time will you be back?}}？	なんじにかえる — what time will you be back? (N5)<br>Sentence reading: なんじにかえる？<br>Translation: What time will you be home?	vocabulary::topic11 vocabulary::topic11-s05
+{{c1::玄関}}で靴を脱いでね。	げんかん — entryway (N4)<br>Sentence reading: げんかんでくつをぬいでね。<br>Translation: Take your shoes off at the entrance.	vocabulary::topic11 vocabulary::topic11-s05
+{{c1::玄関::entryway}}で靴を脱いでね。	げんかん — entryway (N4)<br>Sentence reading: げんかんでくつをぬいでね。<br>Translation: Take your shoes off at the entrance.	vocabulary::topic11 vocabulary::topic11-s05
+今日はちょっと{{c1::遅くなる}}かも。	おそくなる — to become late (N4)<br>Sentence reading: きょうはちょっとおそくなるかも。<br>Translation: I might be a bit late today.	vocabulary::topic11 vocabulary::topic11-s05
+今日はちょっと{{c1::遅くなる::to become late}}かも。	おそくなる — to become late (N4)<br>Sentence reading: きょうはちょっとおそくなるかも。<br>Translation: I might be a bit late today.	vocabulary::topic11 vocabulary::topic11-s05
+{{c1::お帰りなさい}}、お疲れ様。	おかえりなさい — welcome home (fuller form) (N5)<br>Sentence reading: おかえりなさい、おつかれさま。<br>Translation: Welcome home, good work today.	vocabulary::topic11 vocabulary::topic11-s05
+{{c1::お帰りなさい::welcome home}}、お疲れ様。	おかえりなさい — welcome home (fuller form) (N5)<br>Sentence reading: おかえりなさい、おつかれさま。<br>Translation: Welcome home, good work today.	vocabulary::topic11 vocabulary::topic11-s05
+そろそろ{{c1::出発する}}時間だよ。	しゅっぱつする — to depart (N3)<br>Sentence reading: そろそろしゅっぱつするじかんだよ。<br>Translation: It's about time to depart.	vocabulary::topic11 vocabulary::topic11-s05
+そろそろ{{c1::出発する::to depart}}時間だよ。	しゅっぱつする — to depart (N3)<br>Sentence reading: そろそろしゅっぱつするじかんだよ。<br>Translation: It's about time to depart.	vocabulary::topic11 vocabulary::topic11-s05
+もうすぐ駅に{{c1::到着する}}よ。	とうちゃくする — to arrive (N3)<br>Sentence reading: もうすぐえきにとうちゃくするよ。<br>Translation: We'll arrive at the station soon.	vocabulary::topic11 vocabulary::topic11-s05
+もうすぐ駅に{{c1::到着する::to arrive}}よ。	とうちゃくする — to arrive (N3)<br>Sentence reading: もうすぐえきにとうちゃくするよ。<br>Translation: We'll arrive at the station soon.	vocabulary::topic11 vocabulary::topic11-s05
+ちょっと{{c1::待って}}。	まって — wait (N5)<br>Sentence reading: ちょっとまって。<br>Translation: Wait a second.	vocabulary::topic11 vocabulary::topic11-s06
+ちょっと{{c1::待って::wait}}。	まって — wait (N5)<br>Sentence reading: ちょっとまって。<br>Translation: Wait a second.	vocabulary::topic11 vocabulary::topic11-s06
+{{c1::ちょっと待って}}。	ちょっとまって — wait a second (N5)<br>Sentence reading: ちょっとまって。<br>Translation: Wait a second.	vocabulary::topic11 vocabulary::topic11-s06
+{{c1::ちょっと待って::wait a second}}。	ちょっとまって — wait a second (N5)<br>Sentence reading: ちょっとまって。<br>Translation: Wait a second.	vocabulary::topic11 vocabulary::topic11-s06
+{{c1::急いで}}、遅れちゃうよ。	いそいで — hurry up (N4)<br>Sentence reading: いそいで、おくれちゃうよ。<br>Translation: Hurry up, we'll be late.	vocabulary::topic11 vocabulary::topic11-s06
+{{c1::急いで::hurry up}}、遅れちゃうよ。	いそいで — hurry up (N4)<br>Sentence reading: いそいで、おくれちゃうよ。<br>Translation: Hurry up, we'll be late.	vocabulary::topic11 vocabulary::topic11-s06
+{{c1::電気を消す}}ね。	でんきをけす — to turn off the light (N4)<br>Sentence reading: でんきをけすね。<br>Translation: I'll turn off the light.	vocabulary::topic11 vocabulary::topic11-s06 vocabulary::topic11-s08
+{{c1::電気を消す::to turn off the light}}ね。	でんきをけす — to turn off the light (N4)<br>Sentence reading: でんきをけすね。<br>Translation: I'll turn off the light.	vocabulary::topic11 vocabulary::topic11-s06 vocabulary::topic11-s08
+暗いね、{{c1::電気をつけよう}}か。	でんきをつける — to turn on the light (N4)<br>Sentence reading: くらいね、でんきをつけようか。<br>Translation: It's dark, shall we turn on the light?	vocabulary::topic11 vocabulary::topic11-s06
+暗いね、{{c1::電気をつけよう::to turn on the light}}か。	でんきをつける — to turn on the light (N4)<br>Sentence reading: くらいね、でんきをつけようか。<br>Translation: It's dark, shall we turn on the light?	vocabulary::topic11 vocabulary::topic11-s06
+そのリモコン、{{c1::取って}}。	とって — pass me (that) (N5)<br>Sentence reading: そのリモコン、とって。<br>Translation: Pass me that remote.	vocabulary::topic11 vocabulary::topic11-s06
+そのリモコン、{{c1::取って::pass me}}。	とって — pass me (that) (N5)<br>Sentence reading: そのリモコン、とって。<br>Translation: Pass me that remote.	vocabulary::topic11 vocabulary::topic11-s06
+タオル、{{c1::渡して}}くれる？	わたして — hand it over (N3)<br>Sentence reading: タオル、わたしてくれる？<br>Translation: Can you hand me the towel?	vocabulary::topic11 vocabulary::topic11-s06
+タオル、{{c1::渡して::hand it over}}くれる？	わたして — hand it over (N3)<br>Sentence reading: タオル、わたしてくれる？<br>Translation: Can you hand me the towel?	vocabulary::topic11 vocabulary::topic11-s06
+{{c1::気をつけて}}、階段だよ。	きをつけて — be careful (N4)<br>Sentence reading: きをつけて、かいだんだよ。<br>Translation: Be careful, there are stairs.	vocabulary::topic11 vocabulary::topic11-s06
+{{c1::気をつけて::be careful}}、階段だよ。	きをつけて — be careful (N4)<br>Sentence reading: きをつけて、かいだんだよ。<br>Translation: Be careful, there are stairs.	vocabulary::topic11 vocabulary::topic11-s06
+{{c1::静かにして}}、赤ちゃんが寝てるよ。	しずかにして — be quiet (N4)<br>Sentence reading: しずかにして、あかちゃんがねてるよ。<br>Translation: Be quiet, the baby is sleeping.	vocabulary::topic11 vocabulary::topic11-s06
+{{c1::静かにして::be quiet}}、赤ちゃんが寝てるよ。	しずかにして — be quiet (N4)<br>Sentence reading: しずかにして、あかちゃんがねてるよ。<br>Translation: Be quiet, the baby is sleeping.	vocabulary::topic11 vocabulary::topic11-s06
+それ、熱いから{{c1::触らないで}}。	さわらないで — don't touch (N3)<br>Sentence reading: それ、あついからさわらないで。<br>Translation: That's hot, so don't touch it.	vocabulary::topic11 vocabulary::topic11-s06
+それ、熱いから{{c1::触らないで::don't touch}}。	さわらないで — don't touch (N3)<br>Sentence reading: それ、あついからさわらないで。<br>Translation: That's hot, so don't touch it.	vocabulary::topic11 vocabulary::topic11-s06
+{{c1::危ない}}！離れて！	あぶない — dangerous (N4)<br>Sentence reading: あぶない！はなれて！<br>Translation: Careful! Step back!	vocabulary::topic11 vocabulary::topic11-s06
+{{c1::危ない::dangerous}}！離れて！	あぶない — dangerous (N4)<br>Sentence reading: あぶない！はなれて！<br>Translation: Careful! Step back!	vocabulary::topic11 vocabulary::topic11-s06
+{{c1::ちゃんと座って}}食べようね。	ちゃんとすわって — sit properly (N4)<br>Sentence reading: ちゃんとすわってたべようね。<br>Translation: Sit properly and eat.	vocabulary::topic11 vocabulary::topic11-s06
+{{c1::ちゃんと座って::sit properly}}食べようね。	ちゃんとすわって — sit properly (N4)<br>Sentence reading: ちゃんとすわってたべようね。<br>Translation: Sit properly and eat.	vocabulary::topic11 vocabulary::topic11-s06
+ただいま、{{c1::疲れた}}〜。	つかれた — I'm tired (N4)<br>Sentence reading: ただいま、つかれた〜。<br>Translation: I'm home, so tired...	vocabulary::topic11 vocabulary::topic11-s07
+ただいま、{{c1::疲れた::I'm tired}}〜。	つかれた — I'm tired (N4)<br>Sentence reading: ただいま、つかれた〜。<br>Translation: I'm home, so tired...	vocabulary::topic11 vocabulary::topic11-s07
+おかえり、{{c1::元気}}だった？	げんき — are you well? (N5)<br>Sentence reading: おかえり、げんきだった？<br>Translation: Welcome back, were you well?	vocabulary::topic11 vocabulary::topic11-s07
+おかえり、{{c1::元気::are you well?}}だった？	げんき — are you well? (N5)<br>Sentence reading: おかえり、げんきだった？<br>Translation: Welcome back, were you well?	vocabulary::topic11 vocabulary::topic11-s07
+お疲れ様。{{c1::今日はどうだった}}？	きょうはどうだった — how was today? (N5)<br>Sentence reading: おつかれさま。きょうはどうだった？<br>Translation: Good work today. How was today?	vocabulary::topic11 vocabulary::topic11-s07
+お疲れ様。{{c1::今日はどうだった::how was today?}}？	きょうはどうだった — how was today? (N5)<br>Sentence reading: おつかれさま。きょうはどうだった？<br>Translation: Good work today. How was today?	vocabulary::topic11 vocabulary::topic11-s07
+{{c1::大丈夫}}？顔色悪いよ。	だいじょうぶ — are you okay? (N4)<br>Sentence reading: だいじょうぶ？かおいろわるいよ。<br>Translation: Are you okay? You look pale.	vocabulary::topic11 vocabulary::topic11-s07
+{{c1::大丈夫::are you okay?}}？顔色悪いよ。	だいじょうぶ — are you okay? (N4)<br>Sentence reading: だいじょうぶ？かおいろわるいよ。<br>Translation: Are you okay? You look pale.	vocabulary::topic11 vocabulary::topic11-s07
+なんか元気ないね、{{c1::どうしたの}}？	どうしたの — what's wrong? (N4)<br>Sentence reading: なんかげんきないね、どうしたの？<br>Translation: You seem a bit down, what's wrong?	vocabulary::topic11 vocabulary::topic11-s07
+なんか元気ないね、{{c1::どうしたの::what's wrong?}}？	どうしたの — what's wrong? (N4)<br>Sentence reading: なんかげんきないね、どうしたの？<br>Translation: You seem a bit down, what's wrong?	vocabulary::topic11 vocabulary::topic11-s07
+{{c1::楽しかった}}よ、でもちょっと疲れた。	たのしかった — it was fun (N4)<br>Sentence reading: たのしかったよ、でもちょっとつかれた。<br>Translation: It was fun, but a bit tiring.	vocabulary::topic11 vocabulary::topic11-s07
+{{c1::楽しかった::it was fun}}よ、でもちょっと疲れた。	たのしかった — it was fun (N4)<br>Sentence reading: たのしかったよ、でもちょっとつかれた。<br>Translation: It was fun, but a bit tiring.	vocabulary::topic11 vocabulary::topic11-s07
+今日はちょっと{{c1::大変だった}}。	たいへんだった — it was tough (N4)<br>Sentence reading: きょうはちょっとたいへんだった。<br>Translation: Today was a bit tough.	vocabulary::topic11 vocabulary::topic11-s07
+今日はちょっと{{c1::大変だった::it was tough}}。	たいへんだった — it was tough (N4)<br>Sentence reading: きょうはちょっとたいへんだった。<br>Translation: Today was a bit tough.	vocabulary::topic11 vocabulary::topic11-s07
+{{c1::何かあった}}？	なにかあった — did something happen? (N4)<br>Sentence reading: なにかあった？<br>Translation: Did something happen?	vocabulary::topic11 vocabulary::topic11-s07
+{{c1::何かあった::did something happen?}}？	なにかあった — did something happen? (N4)<br>Sentence reading: なにかあった？<br>Translation: Did something happen?	vocabulary::topic11 vocabulary::topic11-s07
+{{c1::ゆっくりして}}ね。	ゆっくりして — relax / take it easy (N4)<br>Sentence reading: ゆっくりしてね。<br>Translation: Take it easy.	vocabulary::topic11 vocabulary::topic11-s07
+{{c1::ゆっくりして::relax / take it easy}}ね。	ゆっくりして — relax / take it easy (N4)<br>Sentence reading: ゆっくりしてね。<br>Translation: Take it easy.	vocabulary::topic11 vocabulary::topic11-s07
+ちゃんと{{c1::話を聞いて}}ね。	はなしをきく — to listen (to a story) (N4)<br>Sentence reading: ちゃんとはなしをきいてね。<br>Translation: Listen to the story properly.	vocabulary::topic11 vocabulary::topic11-s07 vocabulary::topic11-s12
+ちゃんと{{c1::話を聞いて::to listen}}ね。	はなしをきく — to listen (to a story) (N4)<br>Sentence reading: ちゃんとはなしをきいてね。<br>Translation: Listen to the story properly.	vocabulary::topic11 vocabulary::topic11-s07 vocabulary::topic11-s12
+なんだか{{c1::気になる}}ことがあるの？	きになる — to be on one's mind (N3)<br>Sentence reading: なんだかきになることがあるの？<br>Translation: Is there something on your mind?	vocabulary::topic11 vocabulary::topic11-s07
+なんだか{{c1::気になる::to be on one's mind}}ことがあるの？	きになる — to be on one's mind (N3)<br>Sentence reading: なんだかきになることがあるの？<br>Translation: Is there something on your mind?	vocabulary::topic11 vocabulary::topic11-s07
+今日はちょっと{{c1::落ち込んでる}}みたい。	おちこむ — to feel down (N2)<br>Sentence reading: きょうはちょっとおちこんでるみたい。<br>Translation: You seem a bit down today.	vocabulary::topic11 vocabulary::topic11-s07
+今日はちょっと{{c1::落ち込んでる::to feel down}}みたい。	おちこむ — to feel down (N2)<br>Sentence reading: きょうはちょっとおちこんでるみたい。<br>Translation: You seem a bit down today.	vocabulary::topic11 vocabulary::topic11-s07
+そろそろ{{c1::お風呂に入ろう}}か。	おふろにはいる — to take a bath (N5)<br>Sentence reading: そろそろおふろにはいろうか。<br>Translation: Shall we take a bath soon?	vocabulary::topic11 vocabulary::topic11-s08
+そろそろ{{c1::お風呂に入ろう::to take a bath}}か。	おふろにはいる — to take a bath (N5)<br>Sentence reading: そろそろおふろにはいろうか。<br>Translation: Shall we take a bath soon?	vocabulary::topic11 vocabulary::topic11-s08
+ちゃんと{{c1::体を洗って}}ね。	からだをあらう — to wash one's body (N5)<br>Sentence reading: ちゃんとからだをあらってね。<br>Translation: Wash your body properly.	vocabulary::topic11 vocabulary::topic11-s08
+ちゃんと{{c1::体を洗って::to wash one's body}}ね。	からだをあらう — to wash one's body (N5)<br>Sentence reading: ちゃんとからだをあらってね。<br>Translation: Wash your body properly.	vocabulary::topic11 vocabulary::topic11-s08
+{{c1::パジャマに着替えて}}。	パジャマにきがえる — to change into pajamas (N4)<br>Sentence reading: パジャマにきがえて。<br>Translation: Change into your pajamas.	vocabulary::topic11 vocabulary::topic11-s08
+{{c1::パジャマに着替えて::to change into pajamas}}。	パジャマにきがえる — to change into pajamas (N4)<br>Sentence reading: パジャマにきがえて。<br>Translation: Change into your pajamas.	vocabulary::topic11 vocabulary::topic11-s08
+{{c1::布団に入って}}。	ふとんにはいる — to get into bed (N3)<br>Sentence reading: ふとんにはいって。<br>Translation: Get into bed.	vocabulary::topic11 vocabulary::topic11-s08
+{{c1::布団に入って::to get into bed}}。	ふとんにはいる — to get into bed (N3)<br>Sentence reading: ふとんにはいって。<br>Translation: Get into bed.	vocabulary::topic11 vocabulary::topic11-s08
+{{c1::おやすみ}}、また明日ね。	おやすみ — good night (N5)<br>Sentence reading: おやすみ、またあしたね。<br>Translation: Good night, see you tomorrow.	vocabulary::topic11 vocabulary::topic11-s08
+{{c1::おやすみ::good night}}、また明日ね。	おやすみ — good night (N5)<br>Sentence reading: おやすみ、またあしたね。<br>Translation: Good night, see you tomorrow.	vocabulary::topic11 vocabulary::topic11-s08
+今日はどの{{c1::絵本を読む}}？	えほんをよむ — to read a picture book (N4)<br>Sentence reading: きょうはどのえほんをよむ？<br>Translation: Which picture book shall we read today?	vocabulary::topic11 vocabulary::topic11-s08 vocabulary::topic11-s12
+今日はどの{{c1::絵本を読む::to read a picture book}}？	えほんをよむ — to read a picture book (N4)<br>Sentence reading: きょうはどのえほんをよむ？<br>Translation: Which picture book shall we read today?	vocabulary::topic11 vocabulary::topic11-s08 vocabulary::topic11-s12
+もう{{c1::寝る時間}}だよ。	ねるじかん — bedtime (N5)<br>Sentence reading: もうねるじかんだよ。<br>Translation: It's already bedtime.	vocabulary::topic11 vocabulary::topic11-s08
+もう{{c1::寝る時間::bedtime}}だよ。	ねるじかん — bedtime (N5)<br>Sentence reading: もうねるじかんだよ。<br>Translation: It's already bedtime.	vocabulary::topic11 vocabulary::topic11-s08
+{{c1::もう遅い}}から、寝ようね。	もうおそい — it's already late (N4)<br>Sentence reading: もうおそいから、ねようね。<br>Translation: It's already late, so let's sleep.	vocabulary::topic11 vocabulary::topic11-s08
+{{c1::もう遅い::it's already late}}から、寝ようね。	もうおそい — it's already late (N4)<br>Sentence reading: もうおそいから、ねようね。<br>Translation: It's already late, so let's sleep.	vocabulary::topic11 vocabulary::topic11-s08
+{{c1::眠くなって}}きた？	ねむくなる — to get sleepy (N4)<br>Sentence reading: ねむくなってきた？<br>Translation: Are you getting sleepy?	vocabulary::topic11 vocabulary::topic11-s08
+{{c1::眠くなって::to get sleepy}}きた？	ねむくなる — to get sleepy (N4)<br>Sentence reading: ねむくなってきた？<br>Translation: Are you getting sleepy?	vocabulary::topic11 vocabulary::topic11-s08
+今度の{{c1::週末}}、何する？	しゅうまつ — weekend (N4)<br>Sentence reading: こんどのしゅうまつ、なにする？<br>Translation: What should we do this coming weekend?	vocabulary::topic11 vocabulary::topic11-s09
+今度の{{c1::週末::weekend}}、何する？	しゅうまつ — weekend (N4)<br>Sentence reading: こんどのしゅうまつ、なにする？<br>Translation: What should we do this coming weekend?	vocabulary::topic11 vocabulary::topic11-s09
+{{c1::休みの日}}は何をする？	やすみのひ — day off (N5)<br>Sentence reading: やすみのひはなにをする？<br>Translation: What do you do on your day off?	vocabulary::topic11 vocabulary::topic11-s09
+{{c1::休みの日::day off}}は何をする？	やすみのひ — day off (N5)<br>Sentence reading: やすみのひはなにをする？<br>Translation: What do you do on your day off?	vocabulary::topic11 vocabulary::topic11-s09
+特に{{c1::予定}}ないから、決めようか。	よてい — plans/schedule (N3)<br>Sentence reading: とくによていないから、きめようか。<br>Translation: We don't have plans yet, so let's decide.	vocabulary::topic11 vocabulary::topic11-s09
+特に{{c1::予定::plans/schedule}}ないから、決めようか。	よてい — plans/schedule (N3)<br>Sentence reading: とくによていないから、きめようか。<br>Translation: We don't have plans yet, so let's decide.	vocabulary::topic11 vocabulary::topic11-s09
+特に予定ないから、{{c1::決めよう}}か。	きめる — to decide (N4)<br>Sentence reading: とくによていないから、きめようか。<br>Translation: We don't have plans yet, so let's decide.	vocabulary::topic11 vocabulary::topic11-s09
+特に予定ないから、{{c1::決めよう::to decide}}か。	きめる — to decide (N4)<br>Sentence reading: とくによていないから、きめようか。<br>Translation: We don't have plans yet, so let's decide.	vocabulary::topic11 vocabulary::topic11-s09
+今度の週末、{{c1::何する}}？	なにする — what shall we do? (N5)<br>Sentence reading: こんどのしゅうまつ、なにする？<br>Translation: What should we do this coming weekend?	vocabulary::topic11 vocabulary::topic11-s09
+今度の週末、{{c1::何する::what shall we do?}}？	なにする — what shall we do? (N5)<br>Sentence reading: こんどのしゅうまつ、なにする？<br>Translation: What should we do this coming weekend?	vocabulary::topic11 vocabulary::topic11-s09
+午後は{{c1::ゆっくりしたい}}な。	ゆっくりする — to relax/take it easy (N4)<br>Sentence reading: ごごはゆっくりしたいな。<br>Translation: I'd like to relax in the afternoon.	vocabulary::topic11 vocabulary::topic11-s09
+午後は{{c1::ゆっくりしたい::to relax/take it easy}}な。	ゆっくりする — to relax/take it easy (N4)<br>Sentence reading: ごごはゆっくりしたいな。<br>Translation: I'd like to relax in the afternoon.	vocabulary::topic11 vocabulary::topic11-s09
+公園に{{c1::遊びに行かない}}？	あそびにいく — to go out to play (N5)<br>Sentence reading: こうえんにあそびにいかない？<br>Translation: Want to go play at the park?	vocabulary::topic11 vocabulary::topic11-s09
+公園に{{c1::遊びに行かない::to go out to play}}？	あそびにいく — to go out to play (N5)<br>Sentence reading: こうえんにあそびにいかない？<br>Translation: Want to go play at the park?	vocabulary::topic11 vocabulary::topic11-s09
+家事は{{c1::交代で}}やろうか。	こうたいで — by taking turns (N3)<br>Sentence reading: かじはこうたいでやろうか。<br>Translation: Shall we split the chores by taking turns?	vocabulary::topic11 vocabulary::topic11-s09
+家事は{{c1::交代で::by taking turns}}やろうか。	こうたいで — by taking turns (N3)<br>Sentence reading: かじはこうたいでやろうか。<br>Translation: Shall we split the chores by taking turns?	vocabulary::topic11 vocabulary::topic11-s09
+そのあとは{{c1::自由時間}}にしよう。	じゆうじかん — free time (N3)<br>Sentence reading: そのあとはじゆうじかんにしよう。<br>Translation: Let's make the rest free time.	vocabulary::topic11 vocabulary::topic11-s09
+そのあとは{{c1::自由時間::free time}}にしよう。	じゆうじかん — free time (N3)<br>Sentence reading: そのあとはじゆうじかんにしよう。<br>Translation: Let's make the rest free time.	vocabulary::topic11 vocabulary::topic11-s09
+{{c1::一緒に過ごす}}時間を増やそうね。	いっしょにすごす — to spend time together (N3)<br>Sentence reading: いっしょにすごすじかんをふやそうね。<br>Translation: Let's spend more time together.	vocabulary::topic11 vocabulary::topic11-s09
+{{c1::一緒に過ごす::to spend time together}}時間を増やそうね。	いっしょにすごす — to spend time together (N3)<br>Sentence reading: いっしょにすごすじかんをふやそうね。<br>Translation: Let's spend more time together.	vocabulary::topic11 vocabulary::topic11-s09
+{{c1::出かける準備}}はできた？	でかけるじゅんび — preparation to go out (N4)<br>Sentence reading: でかけるじゅんびはできた？<br>Translation: Are you ready to go out?	vocabulary::topic11 vocabulary::topic11-s09
+{{c1::出かける準備::preparation to go out}}はできた？	でかけるじゅんび — preparation to go out (N4)<br>Sentence reading: でかけるじゅんびはできた？<br>Translation: Are you ready to go out?	vocabulary::topic11 vocabulary::topic11-s09
+今日は{{c1::幼稚園}}で何した？	ようちえん — kindergarten (N4)<br>Sentence reading: きょうはようちえんでなにした？<br>Translation: What did you do at kindergarten today?	vocabulary::topic11 vocabulary::topic11-s10
+今日は{{c1::幼稚園::kindergarten}}で何した？	ようちえん — kindergarten (N4)<br>Sentence reading: きょうはようちえんでなにした？<br>Translation: What did you do at kindergarten today?	vocabulary::topic11 vocabulary::topic11-s10
+{{c1::保育園}}は楽しかった？	ほいくえん — nursery school (N4)<br>Sentence reading: ほいくえんはたのしかった？<br>Translation: Was nursery school fun?	vocabulary::topic11 vocabulary::topic11-s10
+{{c1::保育園::nursery school}}は楽しかった？	ほいくえん — nursery school (N4)<br>Sentence reading: ほいくえんはたのしかった？<br>Translation: Was nursery school fun?	vocabulary::topic11 vocabulary::topic11-s10
+{{c1::先生}}に褒められた？	せんせい — teacher (N5)<br>Sentence reading: せんせいにほめられた？<br>Translation: Did the teacher praise you?	vocabulary::topic11 vocabulary::topic11-s10
+{{c1::先生::teacher}}に褒められた？	せんせい — teacher (N5)<br>Sentence reading: せんせいにほめられた？<br>Translation: Did the teacher praise you?	vocabulary::topic11 vocabulary::topic11-s10
+{{c1::友達}}とケンカした？	ともだち — friend (N5)<br>Sentence reading: ともだちとケンカした？<br>Translation: Did you fight with a friend?	vocabulary::topic11 vocabulary::topic11-s10
+{{c1::友達::friend}}とケンカした？	ともだち — friend (N5)<br>Sentence reading: ともだちとケンカした？<br>Translation: Did you fight with a friend?	vocabulary::topic11 vocabulary::topic11-s10
+ねえ、{{c1::今日は何した}}？	きょうはなにした — what did you do today? (N5)<br>Sentence reading: ねえ、きょうはなにした？<br>Translation: Hey, what did you do today?	vocabulary::topic11 vocabulary::topic11-s10
+ねえ、{{c1::今日は何した::what did you do today?}}？	きょうはなにした — what did you do today? (N5)<br>Sentence reading: ねえ、きょうはなにした？<br>Translation: Hey, what did you do today?	vocabulary::topic11 vocabulary::topic11-s10
+{{c1::楽しかった}}？	たのしかった — was it fun? (N4)<br>Sentence reading: たのしかった？<br>Translation: Was it fun?	vocabulary::topic11 vocabulary::topic11-s10
+{{c1::楽しかった::was it fun?}}？	たのしかった — was it fun? (N4)<br>Sentence reading: たのしかった？<br>Translation: Was it fun?	vocabulary::topic11 vocabulary::topic11-s10
+{{c1::給食}}は美味しかった？	きゅうしょく — school lunch (N3)<br>Sentence reading: きゅうしょくはおいしかった？<br>Translation: Was the school lunch good?	vocabulary::topic11 vocabulary::topic11-s10
+{{c1::給食::school lunch}}は美味しかった？	きゅうしょく — school lunch (N3)<br>Sentence reading: きゅうしょくはおいしかった？<br>Translation: Was the school lunch good?	vocabulary::topic11 vocabulary::topic11-s10
+{{c1::誰と遊んだ}}の？	だれとあそんだ — who did you play with? (N5)<br>Sentence reading: だれとあそんだの？<br>Translation: Who did you play with?	vocabulary::topic11 vocabulary::topic11-s10
+{{c1::誰と遊んだ::who did you play with?}}の？	だれとあそんだ — who did you play with? (N5)<br>Sentence reading: だれとあそんだの？<br>Translation: Who did you play with?	vocabulary::topic11 vocabulary::topic11-s10
+今日は{{c1::お迎え}}、ママが行くね。	おむかえ — pickup (N3)<br>Sentence reading: きょうはおむかえ、ママがいくね。<br>Translation: Mom will pick you up today.	vocabulary::topic11 vocabulary::topic11-s10
+今日は{{c1::お迎え::pickup}}、ママが行くね。	おむかえ — pickup (N3)<br>Sentence reading: きょうはおむかえ、ママがいくね。<br>Translation: Mom will pick you up today.	vocabulary::topic11 vocabulary::topic11-s10
+明日は僕が保育園に{{c1::送る}}ね。	おくる — to drop off/send (N4)<br>Sentence reading: あしたはぼくがほいくえんにおくるね。<br>Translation: I'll drop him off at nursery tomorrow.	vocabulary::topic11 vocabulary::topic11-s10
+明日は僕が保育園に{{c1::送る::to drop off/send}}ね。	おくる — to drop off/send (N4)<br>Sentence reading: あしたはぼくがほいくえんにおくるね。<br>Translation: I'll drop him off at nursery tomorrow.	vocabulary::topic11 vocabulary::topic11-s10
+今度、保育園で{{c1::発表会}}があるんだって。	はっぴょうかい — recital/presentation event (N2)<br>Sentence reading: こんど、ほいくえんではっぴょうかいがあるんだって。<br>Translation: There's apparently a recital at nursery coming up.	vocabulary::topic11 vocabulary::topic11-s10
+今度、保育園で{{c1::発表会::recital/presentation event}}があるんだって。	はっぴょうかい — recital/presentation event (N2)<br>Sentence reading: こんど、ほいくえんではっぴょうかいがあるんだって。<br>Translation: There's apparently a recital at nursery coming up.	vocabulary::topic11 vocabulary::topic11-s10
+{{c1::連絡帳}}、ちゃんと書いた？	れんらくちょう — daily communication notebook (N2)<br>Sentence reading: れんらくちょう、ちゃんとかいた？<br>Translation: Did you fill in the notebook properly?	vocabulary::topic11 vocabulary::topic11-s10
+{{c1::連絡帳::daily communication notebook}}、ちゃんと書いた？	れんらくちょう — daily communication notebook (N2)<br>Sentence reading: れんらくちょう、ちゃんとかいた？<br>Translation: Did you fill in the notebook properly?	vocabulary::topic11 vocabulary::topic11-s10
+それは{{c1::だめ}}だよ。	だめ — no good / not allowed (N5)<br>Sentence reading: それはだめだよ。<br>Translation: That's not okay.	vocabulary::topic11 vocabulary::topic11-s11
+それは{{c1::だめ::no good / not allowed}}だよ。	だめ — no good / not allowed (N5)<br>Sentence reading: それはだめだよ。<br>Translation: That's not okay.	vocabulary::topic11 vocabulary::topic11-s11
+お友達を叩いたら{{c1::いけない}}よ。	いけない — must not (N4)<br>Sentence reading: おともだちをたたいたらいけないよ。<br>Translation: You mustn't hit your friend.	vocabulary::topic11 vocabulary::topic11-s11
+お友達を叩いたら{{c1::いけない::must not}}よ。	いけない — must not (N4)<br>Sentence reading: おともだちをたたいたらいけないよ。<br>Translation: You mustn't hit your friend.	vocabulary::topic11 vocabulary::topic11-s11
+{{c1::どうしてそんなことをしたの}}？	どうしてそんなことをしたの — why did you do such a thing? (N4)<br>Sentence reading: どうしてそんなことをしたの？<br>Translation: Why did you do such a thing?	vocabulary::topic11 vocabulary::topic11-s11
+{{c1::どうしてそんなことをしたの::why did you do such a thing?}}？	どうしてそんなことをしたの — why did you do such a thing? (N4)<br>Sentence reading: どうしてそんなことをしたの？<br>Translation: Why did you do such a thing?	vocabulary::topic11 vocabulary::topic11-s11
+それは{{c1::悪いこと}}だよ、わかる？	わるいこと — a bad thing (N4)<br>Sentence reading: それはわるいことだよ、わかる？<br>Translation: That's a bad thing, do you understand?	vocabulary::topic11 vocabulary::topic11-s11
+それは{{c1::悪いこと::a bad thing}}だよ、わかる？	わるいこと — a bad thing (N4)<br>Sentence reading: それはわるいことだよ、わかる？<br>Translation: That's a bad thing, do you understand?	vocabulary::topic11 vocabulary::topic11-s11
+ちゃんと謝れて、えらいね。{{c1::いい子}}だね。	いいこ — good kid (N5)<br>Sentence reading: ちゃんとあやまれて、えらいね。いいこだね。<br>Translation: You apologized properly, well done. You're a good kid.	vocabulary::topic11 vocabulary::topic11-s11
+ちゃんと謝れて、えらいね。{{c1::いい子::good kid}}だね。	いいこ — good kid (N5)<br>Sentence reading: ちゃんとあやまれて、えらいね。いいこだね。<br>Translation: You apologized properly, well done. You're a good kid.	vocabulary::topic11 vocabulary::topic11-s11
+ちゃんと{{c1::謝ろう}}ね。	あやまる — to apologize (N3)<br>Sentence reading: ちゃんとあやまろうね。<br>Translation: Let's properly apologize.	vocabulary::topic11 vocabulary::topic11-s11
+ちゃんと{{c1::謝ろう::to apologize}}ね。	あやまる — to apologize (N3)<br>Sentence reading: ちゃんとあやまろうね。<br>Translation: Let's properly apologize.	vocabulary::topic11 vocabulary::topic11-s11
+{{c1::ごめんなさいは}}？	ごめんなさいは — where's your "sorry"? (N5)<br>Sentence reading: ごめんなさいは？<br>Translation: Where's your "sorry"?	vocabulary::topic11 vocabulary::topic11-s11
+{{c1::ごめんなさいは::where's your "sorry"?}}？	ごめんなさいは — where's your "sorry"? (N5)<br>Sentence reading: ごめんなさいは？<br>Translation: Where's your "sorry"?	vocabulary::topic11 vocabulary::topic11-s11
+{{c1::わざと}}やったの？	わざと — on purpose (N3)<br>Sentence reading: わざとやったの？<br>Translation: Did you do that on purpose?	vocabulary::topic11 vocabulary::topic11-s11
+{{c1::わざと::on purpose}}やったの？	わざと — on purpose (N3)<br>Sentence reading: わざとやったの？<br>Translation: Did you do that on purpose?	vocabulary::topic11 vocabulary::topic11-s11
+{{c1::わざとじゃなかった}}…	わざとじゃない — not on purpose (N3)<br>Sentence reading: わざとじゃなかった…<br>Translation: It wasn't on purpose...	vocabulary::topic11 vocabulary::topic11-s11
+{{c1::わざとじゃなかった::not on purpose}}…	わざとじゃない — not on purpose (N3)<br>Sentence reading: わざとじゃなかった…<br>Translation: It wasn't on purpose...	vocabulary::topic11 vocabulary::topic11-s11
+ちゃんと{{c1::理由}}を教えてね。	りゆう — reason (N4)<br>Sentence reading: ちゃんとりゆうをおしえてね。<br>Translation: Please tell me the reason properly.	vocabulary::topic11 vocabulary::topic11-s11
+ちゃんと{{c1::理由::reason}}を教えてね。	りゆう — reason (N4)<br>Sentence reading: ちゃんとりゆうをおしえてね。<br>Translation: Please tell me the reason properly.	vocabulary::topic11 vocabulary::topic11-s11
+{{c1::危ないからだめ}}だよ。	あぶないからだめ — it's no good because it's dangerous (N4)<br>Sentence reading: あぶないからだめだよ。<br>Translation: It's not okay because it's dangerous.	vocabulary::topic11 vocabulary::topic11-s11
+{{c1::危ないからだめ::it's no good because it's dangerous}}だよ。	あぶないからだめ — it's no good because it's dangerous (N4)<br>Sentence reading: あぶないからだめだよ。<br>Translation: It's not okay because it's dangerous.	vocabulary::topic11 vocabulary::topic11-s11
+{{c1::もうしない}}ね、約束だよ。	もうしない — won't do it again (N4)<br>Sentence reading: もうしないね、やくそくだよ。<br>Translation: Won't do it again, I promise.	vocabulary::topic11 vocabulary::topic11-s11
+{{c1::もうしない::won't do it again}}ね、約束だよ。	もうしない — won't do it again (N4)<br>Sentence reading: もうしないね、やくそくだよ。<br>Translation: Won't do it again, I promise.	vocabulary::topic11 vocabulary::topic11-s11
+今日はどの{{c1::絵本}}を読む？	えほん — picture book (N4)<br>Sentence reading: きょうはどのえほんをよむ？<br>Translation: Which picture book shall we read today?	vocabulary::topic11 vocabulary::topic11-s12
+今日はどの{{c1::絵本::picture book}}を読む？	えほん — picture book (N4)<br>Sentence reading: きょうはどのえほんをよむ？<br>Translation: Which picture book shall we read today?	vocabulary::topic11 vocabulary::topic11-s12
+今日はSpotifyで{{c1::物語}}を聞こうか。	ものがたり — story/tale (N3)<br>Sentence reading: きょうはSpotifyでものがたりをきこうか。<br>Translation: Shall we listen to a story on Spotify today?	vocabulary::topic11 vocabulary::topic11-s12
+今日はSpotifyで{{c1::物語::story/tale}}を聞こうか。	ものがたり — story/tale (N3)<br>Sentence reading: きょうはSpotifyでものがたりをきこうか。<br>Translation: Shall we listen to a story on Spotify today?	vocabulary::topic11 vocabulary::topic11-s12
+今日は{{c1::Spotifyで物語を聞こう}}か。	スポティファイでものがたりをきく — to listen to a story on Spotify (N3)<br>Sentence reading: きょうはSpotifyでものがたりをきこうか。<br>Translation: Shall we listen to a story on Spotify today?	vocabulary::topic11 vocabulary::topic11-s12
+今日は{{c1::Spotifyで物語を聞こう::to listen to a story on Spotify}}か。	スポティファイでものがたりをきく — to listen to a story on Spotify (N3)<br>Sentence reading: きょうはSpotifyでものがたりをきこうか。<br>Translation: Shall we listen to a story on Spotify today?	vocabulary::topic11 vocabulary::topic11-s12
+{{c1::ページをめくって}}くれる？	ページをめくる — to turn the page (N3)<br>Sentence reading: ページをめくってくれる？<br>Translation: Can you turn the page?	vocabulary::topic11 vocabulary::topic11-s12
+{{c1::ページをめくって::to turn the page}}くれる？	ページをめくる — to turn the page (N3)<br>Sentence reading: ページをめくってくれる？<br>Translation: Can you turn the page?	vocabulary::topic11 vocabulary::topic11-s12
+この{{c1::絵を見せて}}。	えをみせる — to show a picture (N5)<br>Sentence reading: このえをみせて。<br>Translation: Show me this picture.	vocabulary::topic11 vocabulary::topic11-s12
+この{{c1::絵を見せて::to show a picture}}。	えをみせる — to show a picture (N5)<br>Sentence reading: このえをみせて。<br>Translation: Show me this picture.	vocabulary::topic11 vocabulary::topic11-s12
+この{{c1::昔のページ}}、好きだな。	むかしのページ — old/earlier page (N4)<br>Sentence reading: このむかしのページ、すきだな。<br>Translation: I like this earlier page.	vocabulary::topic11 vocabulary::topic11-s12
+この{{c1::昔のページ::old/earlier page}}、好きだな。	むかしのページ — old/earlier page (N4)<br>Sentence reading: このむかしのページ、すきだな。<br>Translation: I like this earlier page.	vocabulary::topic11 vocabulary::topic11-s12
+{{c1::もう一回読んで}}！	もういっかいよんで — read it again (N4)<br>Sentence reading: もういっかいよんで！<br>Translation: Read it again!	vocabulary::topic11 vocabulary::topic11-s12
+{{c1::もう一回読んで::read it again}}！	もういっかいよんで — read it again (N4)<br>Sentence reading: もういっかいよんで！<br>Translation: Read it again!	vocabulary::topic11 vocabulary::topic11-s12
+{{c1::続き}}はまた明日ね。	つづき — the rest/continuation (N3)<br>Sentence reading: つづきはまたあしたね。<br>Translation: We'll continue tomorrow.	vocabulary::topic11 vocabulary::topic11-s12
+{{c1::続き::the rest/continuation}}はまた明日ね。	つづき — the rest/continuation (N3)<br>Sentence reading: つづきはまたあしたね。<br>Translation: We'll continue tomorrow.	vocabulary::topic11 vocabulary::topic11-s12
+この{{c1::主人公}}、好き？	しゅじんこう — main character (N2)<br>Sentence reading: このしゅじんこう、すき？<br>Translation: Do you like this main character?	vocabulary::topic11 vocabulary::topic11-s12
+この{{c1::主人公::main character}}、好き？	しゅじんこう — main character (N2)<br>Sentence reading: このしゅじんこう、すき？<br>Translation: Do you like this main character?	vocabulary::topic11 vocabulary::topic11-s12
+{{c1::お気に入りの本}}はどれ？	おきにいりのほん — favorite book (N4)<br>Sentence reading: おきにいりのほんはどれ？<br>Translation: Which is your favorite book?	vocabulary::topic11 vocabulary::topic11-s12
+{{c1::お気に入りの本::favorite book}}はどれ？	おきにいりのほん — favorite book (N4)<br>Sentence reading: おきにいりのほんはどれ？<br>Translation: Which is your favorite book?	vocabulary::topic11 vocabulary::topic11-s12
+{{c1::これは}}冷蔵庫だよ。	これは〜だよ — this is ~ (N5)<br>Sentence reading: これはれいぞうこだよ。<br>Translation: This is a refrigerator.	vocabulary::topic11 vocabulary::topic11-s13
+{{c1::これは::this is ~}}冷蔵庫だよ。	これは〜だよ — this is ~ (N5)<br>Sentence reading: これはれいぞうこだよ。<br>Translation: This is a refrigerator.	vocabulary::topic11 vocabulary::topic11-s13
+{{c1::危ないから}}、{{c1::だめなんだよ}}。	〜だから〜なんだよ — it's ~ because ~ (N4)<br>Sentence reading: あぶないから、だめなんだよ。<br>Translation: It's because it's dangerous that it's not okay.	vocabulary::topic11 vocabulary::topic11-s13
+{{c1::危ないから::reason: because it's dangerous}}、{{c1::だめなんだよ::conclusion: so it's not okay}}。	〜だから〜なんだよ — it's ~ because ~ (N4)<br>Sentence reading: あぶないから、だめなんだよ。<br>Translation: It's because it's dangerous that it's not okay.	vocabulary::topic11 vocabulary::topic11-s13
+冷蔵庫は電気で{{c1::動く}}から、中が冷たくなるんだよ。	うごく — to move (N4)<br>Sentence reading: れいぞうこはでんきでうごくから、なかがつめたくなるんだよ。<br>Translation: The fridge runs on electricity, so the inside gets cold.	vocabulary::topic11 vocabulary::topic11-s13
+冷蔵庫は電気で{{c1::動く::to move}}から、中が冷たくなるんだよ。	うごく — to move (N4)<br>Sentence reading: れいぞうこはでんきでうごくから、なかがつめたくなるんだよ。<br>Translation: The fridge runs on electricity, so the inside gets cold.	vocabulary::topic11 vocabulary::topic11-s13
+このスプーンを{{c1::使って}}ね。	つかう — to use (N5)<br>Sentence reading: このスプーンをつかってね。<br>Translation: Use this spoon.	vocabulary::topic11 vocabulary::topic11-s13
+このスプーンを{{c1::使って::to use}}ね。	つかう — to use (N5)<br>Sentence reading: このスプーンをつかってね。<br>Translation: Use this spoon.	vocabulary::topic11 vocabulary::topic11-s13
+このボタンを{{c1::押す}}から、電気がつくんだよ。	おす — to push (N4)<br>Sentence reading: このボタンをおすから、でんきがつくんだよ。<br>Translation: Because you push this button, the light turns on.	vocabulary::topic11 vocabulary::topic11-s13
+このボタンを{{c1::押す::to push}}から、電気がつくんだよ。	おす — to push (N4)<br>Sentence reading: このボタンをおすから、でんきがつくんだよ。<br>Translation: Because you push this button, the light turns on.	vocabulary::topic11 vocabulary::topic11-s13
+{{c1::なぜ}}お水は冷たいの？	なぜ — why (N4)<br>Sentence reading: なぜおみずはつめたいの？<br>Translation: Why is the water cold?	vocabulary::topic11 vocabulary::topic11-s13
+{{c1::なぜ::why}}お水は冷たいの？	なぜ — why (N4)<br>Sentence reading: なぜおみずはつめたいの？<br>Translation: Why is the water cold?	vocabulary::topic11 vocabulary::topic11-s13
+{{c1::どうして}}電気がつくの？	どうして — why (N4)<br>Sentence reading: どうしてでんきがつくの？<br>Translation: Why does the light turn on?	vocabulary::topic11 vocabulary::topic11-s13
+{{c1::どうして::why}}電気がつくの？	どうして — why (N4)<br>Sentence reading: どうしてでんきがつくの？<br>Translation: Why does the light turn on?	vocabulary::topic11 vocabulary::topic11-s13
+この{{c1::仕組み}}、面白いね。	しくみ — mechanism/how it works (N2)<br>Sentence reading: このしくみ、おもしろいね。<br>Translation: This mechanism is interesting.	vocabulary::topic11 vocabulary::topic11-s13
+この{{c1::仕組み::mechanism/how it works}}、面白いね。	しくみ — mechanism/how it works (N2)<br>Sentence reading: このしくみ、おもしろいね。<br>Translation: This mechanism is interesting.	vocabulary::topic11 vocabulary::topic11-s13
+冷蔵庫は{{c1::電気で動く}}から、中が冷たくなるんだよ。	でんきでうごく — to run on electricity (N4)<br>Sentence reading: れいぞうこはでんきでうごくから、なかがつめたくなるんだよ。<br>Translation: The fridge runs on electricity, so the inside gets cold.	vocabulary::topic11 vocabulary::topic11-s13
+冷蔵庫は{{c1::電気で動く::to run on electricity}}から、中が冷たくなるんだよ。	でんきでうごく — to run on electricity (N4)<br>Sentence reading: れいぞうこはでんきでうごくから、なかがつめたくなるんだよ。<br>Translation: The fridge runs on electricity, so the inside gets cold.	vocabulary::topic11 vocabulary::topic11-s13
+シャツが{{c1::水でぬれちゃった}}。	みずでぬれる — to get wet with water (N4)<br>Sentence reading: シャツがみずでぬれちゃった。<br>Translation: The shirt got wet with water.	vocabulary::topic11 vocabulary::topic11-s13
+シャツが{{c1::水でぬれちゃった::to get wet with water}}。	みずでぬれる — to get wet with water (N4)<br>Sentence reading: シャツがみずでぬれちゃった。<br>Translation: The shirt got wet with water.	vocabulary::topic11 vocabulary::topic11-s13
+これは{{c1::危ないから触らないでね}}。	あぶないからさわらないでね — don't touch it, it's dangerous (N4)<br>Sentence reading: これはあぶないからさわらないでね。<br>Translation: This is dangerous, so don't touch it.	vocabulary::topic11 vocabulary::topic11-s13
+これは{{c1::危ないから触らないでね::don't touch it, it's dangerous}}。	あぶないからさわらないでね — don't touch it, it's dangerous (N4)<br>Sentence reading: これはあぶないからさわらないでね。<br>Translation: This is dangerous, so don't touch it.	vocabulary::topic11 vocabulary::topic11-s13
+冷蔵庫は電気で動くから、中が{{c1::冷たくなる}}んだよ。	つめたくなる — to become cold (N4)<br>Sentence reading: れいぞうこはでんきでうごくから、なかがつめたくなるんだよ。<br>Translation: The fridge runs on electricity, so the inside gets cold.	vocabulary::topic11 vocabulary::topic11-s13
+冷蔵庫は電気で動くから、中が{{c1::冷たくなる::to become cold}}んだよ。	つめたくなる — to become cold (N4)<br>Sentence reading: れいぞうこはでんきでうごくから、なかがつめたくなるんだよ。<br>Translation: The fridge runs on electricity, so the inside gets cold.	vocabulary::topic11 vocabulary::topic11-s13
+{{c1::水道代}}とガス代はもう引き落としになってるよ。	すいどうだい — water bill (N3)<br>Sentence reading: すいどうだいとガスだいはもうひきおとしになってるよ。<br>Translation: The water and gas bills are already set to auto-debit.	vocabulary::topic11 vocabulary::topic11-s14
+{{c1::水道代::water bill}}とガス代はもう引き落としになってるよ。	すいどうだい — water bill (N3)<br>Sentence reading: すいどうだいとガスだいはもうひきおとしになってるよ。<br>Translation: The water and gas bills are already set to auto-debit.	vocabulary::topic11 vocabulary::topic11-s14
+今月の{{c1::電気代}}、払った？	でんきだい — electricity bill (N4)<br>Sentence reading: こんげつのでんきだい、はらった？<br>Translation: Did you pay this month's electricity bill?	vocabulary::topic11 vocabulary::topic11-s14
+今月の{{c1::電気代::electricity bill}}、払った？	でんきだい — electricity bill (N4)<br>Sentence reading: こんげつのでんきだい、はらった？<br>Translation: Did you pay this month's electricity bill?	vocabulary::topic11 vocabulary::topic11-s14
+水道代と{{c1::ガス代}}はもう引き落としになってるよ。	ガスだい — gas bill (N4)<br>Sentence reading: すいどうだいとガスだいはもうひきおとしになってるよ。<br>Translation: The water and gas bills are already set to auto-debit.	vocabulary::topic11 vocabulary::topic11-s14
+水道代と{{c1::ガス代::gas bill}}はもう引き落としになってるよ。	ガスだい — gas bill (N4)<br>Sentence reading: すいどうだいとガスだいはもうひきおとしになってるよ。<br>Translation: The water and gas bills are already set to auto-debit.	vocabulary::topic11 vocabulary::topic11-s14
+{{c1::家賃}}の支払い期限はいつだっけ？	やちん — rent (N3)<br>Sentence reading: やちんのしはらいきげんはいつだっけ？<br>Translation: When is the rent due date again?	vocabulary::topic11 vocabulary::topic11-s14
+{{c1::家賃::rent}}の支払い期限はいつだっけ？	やちん — rent (N3)<br>Sentence reading: やちんのしはらいきげんはいつだっけ？<br>Translation: When is the rent due date again?	vocabulary::topic11 vocabulary::topic11-s14
+{{c1::クレジットカードの支払い}}、確認した？	クレジットカードのしはらい — credit card payment (N3)<br>Sentence reading: クレジットカードのしはらい、かくにんした？<br>Translation: Did you check the credit card payment?	vocabulary::topic11 vocabulary::topic11-s14
+{{c1::クレジットカードの支払い::credit card payment}}、確認した？	クレジットカードのしはらい — credit card payment (N3)<br>Sentence reading: クレジットカードのしはらい、かくにんした？<br>Translation: Did you check the credit card payment?	vocabulary::topic11 vocabulary::topic11-s14
+家賃の{{c1::支払い期限}}はいつだっけ？	しはらいきげん — payment due date (N2)<br>Sentence reading: やちんのしはらいきげんはいつだっけ？<br>Translation: When is the rent due date again?	vocabulary::topic11 vocabulary::topic11-s14
+家賃の{{c1::支払い期限::payment due date}}はいつだっけ？	しはらいきげん — payment due date (N2)<br>Sentence reading: やちんのしはらいきげんはいつだっけ？<br>Translation: When is the rent due date again?	vocabulary::topic11 vocabulary::topic11-s14
+水道代とガス代はもう{{c1::引き落とし}}になってるよ。	ひきおとし — automatic bank debit (N2)<br>Sentence reading: すいどうだいとガスだいはもうひきおとしになってるよ。<br>Translation: The water and gas bills are already set to auto-debit.	vocabulary::topic11 vocabulary::topic11-s14
+水道代とガス代はもう{{c1::引き落とし::automatic bank debit}}になってるよ。	ひきおとし — automatic bank debit (N2)<br>Sentence reading: すいどうだいとガスだいはもうひきおとしになってるよ。<br>Translation: The water and gas bills are already set to auto-debit.	vocabulary::topic11 vocabulary::topic11-s14
+まだだよ、明日{{c1::払う}}ね。	はらう — to pay (N3)<br>Sentence reading: まだだよ、あしたはらうね。<br>Translation: Not yet, I'll pay it tomorrow.	vocabulary::topic11 vocabulary::topic11-s14
+まだだよ、明日{{c1::払う::to pay}}ね。	はらう — to pay (N3)<br>Sentence reading: まだだよ、あしたはらうね。<br>Translation: Not yet, I'll pay it tomorrow.	vocabulary::topic11 vocabulary::topic11-s14
+家賃を{{c1::振り込んで}}くれる？	ふりこむ — to transfer (money) (N2)<br>Sentence reading: やちんをふりこんでくれる？<br>Translation: Can you transfer the rent payment?	vocabulary::topic11 vocabulary::topic11-s14
+家賃を{{c1::振り込んで::to transfer}}くれる？	ふりこむ — to transfer (money) (N2)<br>Sentence reading: やちんをふりこんでくれる？<br>Translation: Can you transfer the rent payment?	vocabulary::topic11 vocabulary::topic11-s14
+{{c1::請求書}}が来てるよ、確認してくれる？	せいきゅうしょ — invoice/bill (N2)<br>Sentence reading: せいきゅうしょがきてるよ、かくにんしてくれる？<br>Translation: The invoice has arrived, can you check it?	vocabulary::topic11 vocabulary::topic11-s14
+{{c1::請求書::invoice/bill}}が来てるよ、確認してくれる？	せいきゅうしょ — invoice/bill (N2)<br>Sentence reading: せいきゅうしょがきてるよ、かくにんしてくれる？<br>Translation: The invoice has arrived, can you check it?	vocabulary::topic11 vocabulary::topic11-s14
+{{c1::銀行口座}}からの引き落としで大丈夫だよ。	ぎんこうこうざ — bank account (N3)<br>Sentence reading: ぎんこうこうざからのひきおとしでだいじょうぶだよ。<br>Translation: It's fine, it'll come out automatically from the bank account.	vocabulary::topic11 vocabulary::topic11-s14
+{{c1::銀行口座::bank account}}からの引き落としで大丈夫だよ。	ぎんこうこうざ — bank account (N3)<br>Sentence reading: ぎんこうこうざからのひきおとしでだいじょうぶだよ。<br>Translation: It's fine, it'll come out automatically from the bank account.	vocabulary::topic11 vocabulary::topic11-s14
+うん、口座の{{c1::残高}}、大丈夫だった。	ざんだか — balance (N2)<br>Sentence reading: うん、こうざのざんだか、だいじょうぶだった。<br>Translation: Yeah, the account balance was fine.	vocabulary::topic11 vocabulary::topic11-s14
+うん、口座の{{c1::残高::balance}}、大丈夫だった。	ざんだか — balance (N2)<br>Sentence reading: うん、こうざのざんだか、だいじょうぶだった。<br>Translation: Yeah, the account balance was fine.	vocabulary::topic11 vocabulary::topic11-s14
