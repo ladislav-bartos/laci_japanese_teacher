@@ -42,6 +42,19 @@ default, or mix-and-match (e.g. "Kanji: Style B, but Vocabulary: Style A").
   all meaning-hint (production) cards are grouped at the very end — not interleaved pair-by-pair
   — so the production card for an item never sits right next to (and gives away) its
   reading-practice counterpart.
+- **Card CSS/layout** (custom Cloze model, same model id as genanki's built-in one so re-imports
+  update it in place rather than duplicating):
+  - Sentence (the cloze text, both front and the repeated line on the back) is wrapped in
+    `.sentence` and rendered 4px larger than the base card font (24px vs. the 20px default).
+  - Back Extra is split into three stacked `<div>` blocks — meaning/JLPT line, then a
+    "Sentence reading:" label with the hiragana reading on its own centered line below, then a
+    "Translation:" label with the English on its own centered line below — instead of one
+    `<br>`-joined string.
+  - Spacing: 20px above the whole answer block (between the sentence and the answer), 20px
+    between the meaning/JLPT line and the sentence-reading block, 10px between the
+    sentence-reading block and the translation block.
+  - The hiragana sentence-reading text is bold black (with a `.nightMode` override to white) so
+    it reads clearly regardless of the emphasis color used on the cloze text itself.
 
 ---
 
