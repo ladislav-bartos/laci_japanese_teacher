@@ -29,6 +29,10 @@ default, or mix-and-match (e.g. "Kanji: Style B, but Vocabulary: Style A").
 - Grammar-pattern vocab entries (e.g. "〜だから〜なんだよ") get a **multi-blank cloze** — every
   blank in the sentence uses the same `{{c1::...}}` tag so they reveal together as one card,
   rather than splitting into separate c1/c2 cards.
+- **Deck structure**: conversation-topic decks go under a top-level Anki deck named
+  `Japanese Conversation`, as `Japanese Conversation::Topic N - {name}` (e.g.
+  `Japanese Conversation::Topic 11 - Home & Daily Life`) — kept separate from the `Japanese N2`
+  deck used for the weekly Sou Matome material (`anki/week*.apkg`).
 
 ---
 
