@@ -33,6 +33,15 @@ default, or mix-and-match (e.g. "Kanji: Style B, but Vocabulary: Style A").
   `Japanese Conversation`, as `Japanese Conversation::Topic N - {name}` (e.g.
   `Japanese Conversation::Topic 11 - Home & Daily Life`) — kept separate from the `Japanese N2`
   deck used for the weekly Sou Matome material (`anki/week*.apkg`).
+- **No blank/empty cloze hints.** Anki renders a hint-less `{{c1::span}}` as literal `[...]` on
+  the front, which is just blind guessing. Fixed by giving the no-hint card a **self-hint**
+  (`{{c1::span::span}}`) so the front shows the actual kanji/word to read in context — the task
+  becomes "read this aloud," not "guess what's missing." The meaning-hint variant (English in
+  brackets) is unchanged and still tests production from meaning.
+- **Card order**: within a deck, all no-hint/self-hint (reading-practice) cards come first, and
+  all meaning-hint (production) cards are grouped at the very end — not interleaved pair-by-pair
+  — so the production card for an item never sits right next to (and gives away) its
+  reading-practice counterpart.
 
 ---
 
