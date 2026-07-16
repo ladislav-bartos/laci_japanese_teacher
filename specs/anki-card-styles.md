@@ -53,8 +53,11 @@ default, or mix-and-match (e.g. "Kanji: Style B, but Vocabulary: Style A").
   - Spacing: 20px above the whole answer block (between the sentence and the answer), 20px
     between the meaning/JLPT line and the sentence-reading block, 10px between the
     sentence-reading block and the translation block.
-  - The hiragana sentence-reading text is bold black (with a `.nightMode` override to white) so
-    it reads clearly regardless of the emphasis color used on the cloze text itself.
+  - Within the hiragana sentence-reading line, only the substring corresponding to the
+    card's own target kanji/word is bold black (`.reading-highlight`, with a `.nightMode`
+    override to white) — the rest of the sentence reading is plain, so the eye goes straight to
+    the relevant word instead of the whole line competing for attention.
+  - The "Sentence reading:" / "Translation:" labels are 16px (4px smaller than the 20px base).
 
 ---
 
