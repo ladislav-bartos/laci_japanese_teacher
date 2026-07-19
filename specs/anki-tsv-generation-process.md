@@ -65,15 +65,36 @@ listening-comprehension exercise built around a calculation, or a chapter with n
 script to source a sentence from). When that happens:
 - Don't force it into the nearest-sounding category just to have somewhere to put it.
 - Don't silently skip it either — record it in `specs/anki-content-gaps.md` (one section per
-  week) with what the content is, why it didn't fit, and a next step if one exists (a new
-  sub-type, a check against existing cards, or "no action identified yet").
-- This includes content you deliberately chose to skip for a reason that wasn't fully verified
-  (e.g. "this word is probably already covered elsewhere" without actually checking) — log the
-  assumption so it can be verified later, not just the content itself.
+  week) with **the exact source quote** (not a paraphrase/description of it), why it didn't fit,
+  a concrete example of what a card *would* look like if one existed (or an explanation of why
+  none can be made), and a next step if one exists (a new sub-type, or "no action identified").
+  A gap entry without the source quote isn't done — go back and add it.
+- **Never skip something because it's "probably already covered" or "probably common enough to
+  not need a card" without actually checking.** Grep the existing `anki/week*-v3-*.tsv` files for
+  the word/pattern first. This is not optional — Week 2 had exactly this mistake: 5 words were
+  assumed redundant, but a grep afterward showed 4 of the 5 weren't in either deck at all, and
+  they had to be added retroactively. Do the grep *before* deciding to skip, not after.
 
 Check `specs/anki-content-gaps.md` before starting a new week too — a gap from an earlier week
 might turn out to be relevant again (e.g. if a recurring pattern makes a new sub-type worth
 designing).
+
+## Step 1b — Completeness sweep before calling a week done
+
+Don't rely on noticing gaps opportunistically while classifying (Step 1) — that's exactly how the
+Week 2 gaps were almost missed. Before considering a week's TSVs final, go back through **every
+bullet, list item, and table row** in each of the five `plan/*-w{N}.md` files (including
+teaching-block asides, footnotes, and answer-key-only content — not just the headline vocab
+lists) and confirm each one is in exactly one of these buckets:
+- Turned into a card (in either TSV).
+- Deliberately excluded per an established rule (Day 7 pure-review stub, an exact Kanji/Vocabulary
+  duplicate per Step 2, a synonym/alternate already covered elsewhere *and verified* per Step 1a).
+- Recorded in `specs/anki-content-gaps.md`.
+
+If something doesn't land cleanly in one of those three, it's been missed — go back to Step 1 or
+1a for it. This sweep is what catches content sitting in a section you didn't expect to have
+cardable material (e.g. a stray real example buried inside an otherwise-empty listening-strategy
+section, or a footnote vocab word in a dialogue transcript).
 
 ## Step 2 — Deduplicate Kanji vs. Vocabulary
 
