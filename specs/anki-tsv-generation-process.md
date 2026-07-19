@@ -242,3 +242,14 @@ needs to run unattended.
   parenthesis or a `/` separator survived intact.
 - Partial word readings in older source data (reading only covers the kanji portion of a
   multi-word phrase) — always reconstruct the full reading (Step 4).
+- **Day 7 sections are "review only, skip" for the *questions*, but Reading's Day 7 passages
+  still contain book-annotated vocabulary (`（注）word＝meaning`) that has nowhere else to live**
+  — Days 1–6 pull this into a separate "Key vocabulary" block, but Day 7 doesn't have one, so the
+  same `（注）` annotations sitting directly in the Day 7 passage text get silently skipped if you
+  only pull from "Key vocabulary" blocks. Grep every `plan/*-w{N}.md` file for `（注）` regardless
+  of which day it's in, not just Days 1–6.
+- **A section that's mostly review can still contain genuinely new content buried in the summary
+  test, not the teaching table** — Week 1's Listening "まとめ問題" (summary test) tested mostly
+  already-covered patterns, but 2 items (ご存知, やっぱり) only ever appear there, not in the
+  actual teaching tables for keigo/attitude-words. Skimming a review section and confirming "yes,
+  this pattern is covered" isn't the same as checking every individual word/line in it.

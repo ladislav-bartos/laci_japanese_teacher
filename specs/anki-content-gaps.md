@@ -12,6 +12,83 @@ identified." Don't log a vague description — quote the actual text, every time
 
 ---
 
+## Week 1 (retroactive completeness sweep, done 2026-07-19 after Week 2's gaps prompted it)
+
+Week 1 predates Step 1a/1b existing at all, so this is a retroactive audit applying them now.
+Method: for Kanji/Vocabulary, parsed every source bullet and diffed word-for-word against the
+deck (found 0 gaps — both sections were already 100% complete, the only "missing" words were the
+2 intentional Kanji/Vocabulary dedups from Step 2, 家賃 and 銀行口座). For Reading/Grammar/
+Listening, grepped for every `（注）`-style book-annotated term, checked Day 7/"Bonus" sections
+specifically (since Week 2's kanji Day 7 showed these can hide new content), and reviewed the
+Listening "まとめ問題" summary test line-by-line against what the main teaching tables already
+covered. All 8 confirmed gaps below have been added as new cards.
+
+**1. `〜させていただきます`** (`grammar-w1.md`, "Bonus: 敬語 — 自分について話す①", after Day 7):
+> ❶ 自己紹介します → させていただきます
+> **【問い】** すみませんが、風邪気味なので休ませて（a. お願いします / b. 申し上げます / c. いただきます）。
+
+A genuine grammar pattern (causative-stem + いただきます, "I will humbly do X") distinct from the
+already-carded 申し上げる — this bonus section's *other* item (❷ お願い申し上げます) was already
+covered verbatim as 申し上げる's example sentence, which is likely why the whole section read as
+"already covered" on first pass. Added to Deck 2 as `type::grammar`, tag `grammar::w1d7`.
+
+**2–5. Reading Day 7's book-annotated vocabulary** (`reading-w1.md`, 7日目, hotel-listing and
+dry-cleaning passages — Day 7 has no separate "Key vocabulary" block like Days 1–6, so these were
+never pulled out):
+> （注）連泊＝同じところに続けて泊まること／バイキング＝好きなだけ皿に取って食べる食事スタイル／素泊まり＝食事なしで泊まること
+> （注）衣替え＝洋服を季節に合わせて替えること
+
+**連泊, バイキング, 素泊まり, 衣替え** — all four are explicitly annotated by the book itself
+(the same signal Days 1–6 use for "this is vocabulary worth learning"), so this was a parsing
+gap, not a judgment call: Day 7 sections were treated as "review only, skip" across the board,
+which was right for the *questions* but wrong for annotated vocabulary sitting in the passage
+text. Added to Deck 1, tag `reading::w1d7` (new tag — Week 1's reading section previously only
+went to d6).
+
+**6. もれなく** (`reading-w1.md`, 2日目 dry-cleaning DM... actually the sale-DM passage):
+> （注）もれなく＝without exception
+
+Same category as #2–5 (a book-annotated word), but from Day 2, not Day 7 — missed for the same
+reason (the day's separate "Key vocabulary" Q&A block doesn't include every annotated word in the
+passage itself, only the block's own bullets). Added to Deck 1, tag `reading::w1d2`.
+
+**7. ご存知** (`listening-w1.md`, section 5 まとめ問題, 問題II 3番#2):
+> あの方をご存知ですか。 → 1 あの人を知っていますか ／ 2 あの人をどう思いますか
+
+The main keigo teaching table (section 3, already fully carded as 9 `type::keigo` cards) only
+covers 存じる／存じ上げる, the *humble* "I know" form. ご存知, the *respectful* "you/they know"
+counterpart, only appears in the summary test, not the teaching table itself — easy to miss
+because it reads as "testing already-covered content" unless you check the direction (humble vs.
+respectful) specifically. Added to Deck 2 as `type::keigo`, tag `listening::w1d3` (grouped with
+the other keigo cards it pairs with conceptually, even though it physically appears in section 5).
+
+**8. やっぱり** (`listening-w1.md`, section 5 まとめ問題, 問題II 5番#2):
+> 女：何、その服の組み合わせ。変だよ。／男：やっぱり？
+
+Same pattern as #7 — an attitude/discourse word (same category as the already-carded どうせ/
+どうだか/そこをなんとか) that only shows up in the summary test, not the section-4 "気持ちを表す
+表現" teaching list it conceptually belongs to. Added to Deck 2 as `type::idiom`, tag
+`listening::w1d4`.
+
+**Checked and confirmed NOT gaps** (logged so they aren't re-flagged in a future re-sweep):
+- **くんない** (「窓、閉めといてくんない？」, summary test 1番#1) — looks like a new contraction
+  (くれない→くんない) but is actually the *same* already-documented rule (ら・り・る・れ・に・の
+  → ん, which explicitly includes れ→ん) applied to a different verb. No new card needed.
+  同様に 見てらんない／直したげる／太りたくなけりゃ in the same table are all the already-carded
+  てらんない grammar pattern or already-carded てあげる／なければ contractions — the whole 1番
+  block turned out to be review, this one line just needed the extra check to confirm it.
+- **足りるわけないよ** (summary test 4番#3) uses わけない in its はずがない sense ("there's no way
+  it's enough"), while the existing わけない card's example uses its 簡単だ sense ("this is
+  easy") — the *same word* genuinely carries two different colloquial meanings depending on
+  context. Not a missing-card gap (adding a second わけない card with a conflicting explanation
+  would be confusing, not helpful) — flagged here as a nuance worth remembering when reviewing
+  that card, not something to act on structurally.
+
+**Resolution**: `anki/week1-v3-vocabulary.tsv`/`.apkg` grew from 400 → 405 cards.
+`anki/week1-v3-grammar-usage.tsv`/`.apkg` grew from 97 → 100 cards.
+
+---
+
 ## Week 2
 
 ### 1. Synonym partners from the Listening "言い換えの例" list — RESOLVED 2026-07-19
