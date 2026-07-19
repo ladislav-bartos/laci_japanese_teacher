@@ -6,7 +6,8 @@ This is the step-by-step playbook for turning a week's source material
 types are already finalized — see `specs/anki-note-type-vocabulary.md` (Deck 1) and
 `specs/anki-note-type-grammar-and-usage.md` (Deck 2) for the exact HTML/CSS/field spec; this doc
 only covers *classification* (which item goes where) and the *build pipeline* (source → TSV →
-apkg).
+apkg). See also `specs/anki-content-gaps.md` for source content that didn't fit anywhere — check
+it before starting a week and update it (Step 1a) as you go.
 
 ## Two decks, one pipeline
 
@@ -56,6 +57,23 @@ ask:
 
 If none of 2–6 clearly fit, default to rule 1 (Deck 1, plain vocabulary) — that was the correct
 call for 落ち込む in Week 1.
+
+## Step 1a — Log anything that doesn't fit, instead of silently dropping it
+
+Not everything in the source material will fit Step 1's rules or be cardable at all (e.g. a
+listening-comprehension exercise built around a calculation, or a chapter with no real dialogue
+script to source a sentence from). When that happens:
+- Don't force it into the nearest-sounding category just to have somewhere to put it.
+- Don't silently skip it either — record it in `specs/anki-content-gaps.md` (one section per
+  week) with what the content is, why it didn't fit, and a next step if one exists (a new
+  sub-type, a check against existing cards, or "no action identified yet").
+- This includes content you deliberately chose to skip for a reason that wasn't fully verified
+  (e.g. "this word is probably already covered elsewhere" without actually checking) — log the
+  assumption so it can be verified later, not just the content itself.
+
+Check `specs/anki-content-gaps.md` before starting a new week too — a gap from an earlier week
+might turn out to be relevant again (e.g. if a recurring pattern makes a new sub-type worth
+designing).
 
 ## Step 2 — Deduplicate Kanji vs. Vocabulary
 
@@ -146,6 +164,8 @@ Before considering a TSV done, validate:
   bug where a combined `word (reading1) / word2 (reading2)`-style source field got parsed as if
   it were a single `word (reading)` pair, silently dropping half the content — always sanity
   check any row whose Front field contains multiple parenthesized readings or a `/` separator).
+- `specs/anki-content-gaps.md` has an entry for anything found during Step 1/1a that didn't make
+  it into either TSV, for this week specifically.
 
 ## Step 8 — Generate the .apkg with genanki
 
