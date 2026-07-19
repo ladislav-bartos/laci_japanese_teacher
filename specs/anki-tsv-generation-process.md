@@ -96,6 +96,16 @@ If something doesn't land cleanly in one of those three, it's been missed — go
 cardable material (e.g. a stray real example buried inside an otherwise-empty listening-strategy
 section, or a footnote vocab word in a dialogue transcript).
 
+**"The whole thing doesn't fit" is not the same as "there's nothing inside worth extracting."** A
+listening exercise, dialogue, or passage can correctly have no card for itself as a unit (e.g. a
+word-problem-style comprehension exercise, or a script fragment whose punchline/answer isn't in
+the source) while still containing individual words or natural phrases worth their own Deck 1 or
+Deck 2 cards. When logging something in `specs/anki-content-gaps.md` as uncardable-as-a-whole,
+still read through it specifically looking for extractable vocabulary or genuinely useful,
+naturally-occurring phrases — using the source's own sentence as the card's example (translated
+as-is) rather than inventing a new one. Only mark the *whole item* as fully closed once that
+extraction pass has actually been done, not just assumed unnecessary.
+
 ## Step 2 — Deduplicate Kanji vs. Vocabulary
 
 Some words appear in both the Kanji section (as a compound built from that day's target kanji)
