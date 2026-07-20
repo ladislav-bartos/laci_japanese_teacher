@@ -180,3 +180,57 @@ Listening chapter otherwise has no casual-contraction teaching block at all (unl
 from 35 → 37 cards (2 added: 置いてった, なくなっちゃった). The *exercise itself* (item 2) and the
 *missing answer-choice text* (item 3b) remain open — those are genuinely uncardable, not missed
 extractions.
+
+---
+
+## Week 3
+
+Unlike Weeks 1–2, Steps 1a/1b were applied *during* generation this time, not retroactively — so
+this section records what was checked and found, rather than gaps discovered after the fact.
+
+**1. Reading's "ポイント" lists turned out to be grammar patterns, not vocabulary** — a new
+structural pattern worth watching for in future weeks. `reading-w3.md` Day 1 and Day 6 each open
+with a bulleted "ポイント：文末表現に注意！" list:
+> ～一方だ／～つつある／～に至る／～次第だ／～始末だ (Day 1)
+> ～とは限らない／～にすぎない／～に違いない／～かねない／～わけにはいかない (Day 6)
+
+These aren't reading-comprehension vocabulary (Deck 1) — they're literally grammar patterns
+(sentence-ending forms), so per Step 1 they belong in Deck 2 as `type::grammar`, not Deck 1. Two
+of the ten (一方だ, わけにはいかない) were already covered by `grammar-w3.md`'s own Day 2/Day 6
+patterns — skipped as duplicates. The other **8** (つつある, に至る, 次第だ, 始末だ, とは限らない,
+にすぎない, に違いない, かねない) were genuinely new, and the book gives no example sentences for
+them here (unlike `grammar-w3.md`'s patterns) — fresh sentences were written for all 8. Added to
+`anki/week3-v3-grammar-usage.tsv` as `type::grammar`, tagged `reading::w3d1`/`reading::w3d6` (real
+origin, not `grammar::`).
+
+**2. `reading-w3.md`'s actual passages (Days 1, 2, 3, 4, 5, 6) were scanned for extractable
+vocabulary, per Step 1b** — none of these days have a "Key vocabulary" list at all this week
+(unlike Weeks 1–2), only a short strategy tip and then straight into the passage. Extracted 12
+words verified not already in either deck: 点滴, 人ごと, 患者 (Day 1); モーニングコール,
+ケアレスミス, ペーパーテスト, ベビーカー (Day 2, from the "和製英語に注意" wasei-eigo point —
+パソコン/リモコン/コンビニ/マナー from the same list were skipped as too basic for an N2 deck,
+consistent with the bar set in Week 2); 強盗 (Day 3); だらだら, 老後 (Day 4); 分煙 (Day 5);
+でこぼこ (Day 6). Added to `anki/week3-v3-vocabulary.tsv`, tagged `reading::w3d{N}` by the day
+each was found in.
+
+**3. `listening-w3.md` has zero extractable content — confirmed, not assumed.** Every one of its
+13 `【スクリプト】` entries is a parenthetical description (e.g. `（お母さんと子どもの会話：
+スリッパをそろえる）`), never real quoted dialogue — unlike Week 2, where 即時応答 at least had
+real (if incomplete) stimulus lines. Verified by grepping the whole file for `スクリプト` and
+confirming every instance is wrapped in `（...）`. No teaching tables (no keigo/contraction/
+minimal-pair lists) exist in this chapter either. **Zero cards from Listening this week** — this
+is the expected, fully-checked result, not a skipped section.
+
+**4. Kanji's "Extra Topic" section** (between Day 6 and Day 7, introducing new kanji 昨/翌/軒/毒/
+涙/笑 plus symbolic pairs like 未読/送信済み) was caught proactively this time, unlike Week 2's
+kanji Day 7 (which needed a later gap-fix). Tagged `kanji::w3dExtra` since the source doesn't
+number it as a day. 18 cards.
+
+**5. Both Day 7 "実戦問題" exercises (kanji and vocabulary) verified as pure review** — every
+distinctive word/reading tested was grepped against the assembled deck (checking inflected forms
+against their dictionary-form base entries, e.g. かついで → かつぐ, つまづいて → つまずく) and
+confirmed already covered. No new cards needed from either Day 7.
+
+**Resolution**: no retroactive fixes needed — `anki/week3-v3-vocabulary.tsv`/`.apkg` (536 cards)
+and `anki/week3-v3-grammar-usage.tsv`/`.apkg` (55 cards) already include everything found above
+in their initial build.

@@ -253,3 +253,18 @@ needs to run unattended.
   already-covered patterns, but 2 items (ご存知, やっぱり) only ever appear there, not in the
   actual teaching tables for keigo/attitude-words. Skimming a review section and confirming "yes,
   this pattern is covered" isn't the same as checking every individual word/line in it.
+- **Reading's "ポイント" bullet lists are sometimes grammar patterns, not vocabulary** — Week 3's
+  `reading-w{N}.md` opens some days with a "ポイント：文末表現に注意！" list of sentence-ending
+  forms (e.g. ～つつある, ～に至る) rather than a word-meaning "Key vocabulary" list. These belong
+  in Deck 2 as `type::grammar` (check for duplicates against that week's own `grammar-w{N}.md`
+  patterns first), not Deck 1 — don't assume everything under Reading is a vocabulary word just
+  because the section is Reading.
+- **Not every week's Reading section has a separate "Key vocabulary" block at all** — Week 3's
+  doesn't (unlike Weeks 1–2); each day just has a short strategy tip and then the passage. When
+  that happens, the extractable vocabulary is *only* in the passage text itself (Step 1b) — there
+  is no list to lean on, so the passage-by-passage scan isn't optional, it's the only way in.
+- **Some weeks' `listening-w{N}.md` (or `kanji-w{N}.md` Day 7, etc.) genuinely have zero
+  extractable content, and that's a fine, checked outcome** — Week 3's Listening chapter has no
+  real dialogue text anywhere (confirmed by grepping every `スクリプト` line), so it correctly
+  contributes 0 cards. Don't force content to appear where a proper check shows there's none —
+  the goal is a verified answer either way, not a non-zero card count.
