@@ -192,10 +192,52 @@ This document extracts the essential Kanji information, vocabulary, and practice
 
 ## Day 7: Practice Exercise (7日目)
 
-*This day contains a cumulative 25-question practice exercise for the week. Here are some sample questions from the test:*
+*Time limit: 15 min · 4 points × 25 questions · /100 · (Answers: 別冊 p.2 — not printed in this source)*
 
-* ここは駐車禁止です。 (1. じゅうしゃ / 2. ちょうしゃ / 3. ちゅうしゃ / 4. じょうしゃ)
-* デパートの閉店セールに行く。 (1. へいてん / 2. かいてん / 3. さいてん / 4. せいてん)
-* このエレベーターはていいん9名です。 (1. 係員 / 2. 乗員 / 3. 店員 / 4. 定員)
-* くうこうまでリムジンバスで行きました。 (1. 空港 / 2. 航空 / 3. 港口 / 4. 高校)
-* 一万円( )を両替してくれませんか。 (1. 符 / 2. 札 / 3. 付 / 4. 段)
+### 問題1 — Choose the best reading for the underlined word (1–10)
+1. ここは<u>駐車</u>禁止です。 → 1 じゅうしゃ　2 ちょうしゃ　3 ちゅうしゃ　4 じょうしゃ
+2. チューインガムは紙に<u>包んで</u>捨てましょう。 → 1 はさんで　2 つつんで　3 たたんで　4 すすんで
+3. 外国<u>為替</u>の窓口は2階です。 → 1 きがえ　2 ためせ　3 かわせ　4 りょうがえ
+4. <u>喫煙席</u>はあちらです。 → 1 きんねんせ　2 きんえんせき　3 きっえんせき　4 きつえんせき
+5. 食堂はまだ<u>準備中</u>です。 → 1 せいび　2 えいぎょう　3 きゅうぎょう　4 じゅんび
+6. デパートの<u>閉店</u>セールに行く。 → 1 へいてん　2 かいてん　3 さいてん　4 せいてん
+7. <u>医療</u>関係の仕事をする。 → 1 ちりょう　2 いりょう　3 ひりょう　4 しんりょう
+8. <u>救急車</u>をよぶときは119に電話します。 → 1 きゅうきゅう　2 きょうきゅう　3 きゅうきょう　4 きょうきょう
+9. 富士山に<u>初雪</u>が降りました。 → 1 はじゆき　2 はつゆき　3 しょゆき　4 しょせつ
+10. 機械でも<u>精算</u>できます。 → 1 しょうさん　2 かいさん　3 せいさん　4 けいさん
+
+### 問題2 — Choose the correct kanji for the underlined word (11–15)
+11. このエレベーターは<u>ていいん</u>9名です。 → 1 係員　2 乗員　3 店員　4 定員
+12. 御手洗いは<u>せいそう</u>中です。 → 1 清帰　2 清掃　3 精掃　4 精帰
+13. 地デジ<u>ほうそう</u>というのは何ですか。 → 1 郵送　2 包送　3 放送　4 発送
+14. この手紙は<u>そくたつ</u>でお願いします。 → 1 速達　2 配達　3 発達　4 友達
+15. <u>くうこう</u>までリムジンバスで行きました。 → 1 空港　2 航空　3 港口　4 高校
+
+### 問題3 — Choose the best word for the blank (16–20)
+16. 一万円（　）を両替してくれませんか。 → 1 符　2 札　3 付　4 段
+17. 日本からの海外旅行は1964年に自由（　）されました。 → 1 科　2 化　3 案　4 席
+18. （　）入国手続きをする。 → 1 改　2 際　3 御　4 再
+19. このバスは運（　）を先にはらいます。 → 1 代　2 料　3 賃　4 貸
+20. 1（　）車は禁煙車です。 → 1 号　2 両　3 番　4 階
+
+### 問題4 — Fill each blank with a word from the box, written in kanji (21–25)
+読み終えた新聞などは、デパートの21（　　）紙やトイレットペーパーなどに22（　　）されます。ゴミとして23（　　）で、リサイクルするように24（　　）気をつけているという人が25（　　）います。
+
+> ふえて　さいせい　つつみ　すてない　りゅうこうして　つねに　とじない
+
+*(Word bank given as-is; the source's answer key for this fill-in section is in 別冊 p.2, not included here.)*
+
+---
+
+## Bonus: 看板・立て札・表示 (after Day 7)
+
+*A short bonus page reviewing this week's "みる①" theme with a few more related kanji.*
+
+* **看 (9 Strokes / カン):** 看板 (かんばん - A signboard), 看護師 (かんごし - A nurse), 看病 (かんびょう - Nursing).
+* **板 (8 Strokes / バン / いた):** 黒板 (こくばん - A blackboard), 板 (いた - A board), 案内板 (あんないばん - A notice board).
+* **羽 (6 Strokes / ウ / はね, は):** 羽毛 (うもう - Feathering/down), 羽 (はね - A feather), 羽根 (はね - A shuttlecock).
+* **成 (6 Strokes / セイ / な・る):** 成分 (せいぶん - An ingredient/constituent), 成人式 (せいじんしき - A coming-of-age ceremony).
+* **第 (11 Strokes / ダイ):** 第〜 (だい〜 - Number...).
+* **総 (14 Strokes / ソウ):** 総合病院 (そうごうびょういん - A general hospital), 総計 (そうけい - The total).
+
+*Context note from the source: 成田空港 and 羽田空港 are airport names, each with a 第1/第2ターミナル ("Terminal 1/2"). 「総」means "to gather many things," as in 総合病院 (general hospital) or 総計 (grand total).*
