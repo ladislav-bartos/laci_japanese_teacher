@@ -181,6 +181,52 @@ from 35 → 37 cards (2 added: 置いてった, なくなっちゃった). The *
 *missing answer-choice text* (item 3b) remain open — those are genuinely uncardable, not missed
 extractions.
 
+### 4. Grammar deck missing most of Days 2–6 — found 2026-07-29 during a full plan-vs-deck audit
+
+Found by extracting every `## Pattern N:` header from `grammar-w2.md` and checking it against
+`front-main` in `anki/week2-v3-grammar-usage.tsv` — the first time this deck had been checked
+pattern-by-pattern rather than assumed complete. Every day should have 4 patterns × 2 example
+cards = 8 cards; the deck instead had 6 (Day 1), 2 (Day 2), 6 (Day 3), 6 (Day 4), 3 (Day 5), 6
+(Day 6) = 29 total against an expected 48.
+
+**Day 1/Day 2 mistag**: `〜てまで／〜までして` (`grammar-w2.md` Day 1, Pattern 4) was carded
+correctly but tagged `grammar::w2d2` instead of `grammar::w2d1` — meanwhile Day 2's actual 4
+patterns (`〜かける`, `〜切る／〜切れない`, `〜える／〜うる`, `〜抜く`) had 0 cards. Retagged the
+existing pair to `w2d1` and added all 8 Day 2 cards from the source's own example sentences.
+
+**Missing patterns** (0 cards each, 2 cards added per pattern from the source's own examples):
+- Day 3: `〜に限り／〜に限って／〜に限らず〜も` — e.g. `70歳以上の方に限り、入場無料。`
+- Day 4: `〜ばかりだ` — e.g. `物価は上がるばかりだ。`
+- Day 5: `〜を目的として／〜としてV／〜としたN` — e.g. `この祭りは、住民の社会参加を目的として始められた。`
+
+**Missing second example** (pattern existed but only had 1 of its 2 book examples carded):
+`〜にしたら／〜にすれば`, `〜としたら／〜とすれば`, `〜としても／〜にしても` (Day 5); `〜にともなって`,
+`〜につれて` (Day 6) — added the missing example sentence for each, sourced from `grammar-w2.md`.
+
+**Incomplete front-main**: the lone existing `〜としても` card was missing its alternate form —
+`grammar-w2.md`'s Pattern 3 header is `〜としても／〜にしても`, and the book's own two example
+sentences demonstrate both forms (行くとしても uses としても, 監督にしても uses にしても). The
+card's `front-main`/`back-main-reading` said only `〜としても`. Expanded to `〜としても / 〜にしても`
+on both the existing card and its newly-added second-example partner. This is a genuine content
+fix (not just an addition), so per Step 8a that one specific note gets a new GUID on regeneration
+— unavoidable since the field content itself was incomplete.
+
+### 5. Vocabulary deck missing Day 1's "お仕事は？" occupation list — found 2026-07-29, same audit
+
+**Source** (`vocabulary-w2.md` Day 1, "Vocabulary — What's your job?"): 老人ホームのホームヘルパー,
+語学学校の講師, 会社の事務員, コンピューター関係の仕事, レストランのオーナー, ホテルの従業員,
+フリーター — 7 entries, all bulleted in the exact same format as the very next section ("Job
+Hunting," 24 entries) which *is* fully carded. No indication of an intentional skip; looks like
+this specific sub-section was missed when the deck was originally built. Book gives no example
+sentences for any of the 7 (a bare term + gloss list), so fresh natural sentences were written for
+each, following the "お仕事は？―〜をしています／〜です" framing the section itself uses.
+
+**Resolution**: `anki/week2-v3-vocabulary.tsv`/`.apkg` grew from 467 → 474 cards (7 added).
+`anki/week2-v3-grammar-usage.tsv`/`.apkg` grew from 37 → 56 cards (19 added, 1 content-fixed, 2
+retagged). All pre-existing note GUIDs preserved across both regenerations except the one
+`〜としても` note whose content was corrected (see item 4) — verified by direct sqlite guid-set
+diff against the previously-committed `.apkg`s per Step 8a.
+
 ---
 
 ## Week 3
