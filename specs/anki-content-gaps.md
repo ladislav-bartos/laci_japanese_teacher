@@ -231,6 +231,19 @@ distinctive word/reading tested was grepped against the assembled deck (checking
 against their dictionary-form base entries, e.g. かついで → かつぐ, つまづいて → つまずく) and
 confirmed already covered. No new cards needed from either Day 7.
 
-**Resolution**: no retroactive fixes needed — `anki/week3-v3-vocabulary.tsv`/`.apkg` (536 cards)
-and `anki/week3-v3-grammar-usage.tsv`/`.apkg` (55 cards) already include everything found above
-in their initial build.
+**6. Grammar's own "Bonus: 敬語 (Keigo) — お願いする" box** (the chapter's closing page, after Day 7's
+実戦問題 — see `specs/anki-tsv-generation-process.md`'s note on this section's true position) was
+missed in the initial build: 0 `type::keigo` cards existed for Week 3 despite this box teaching 4
+request-keigo patterns (協力がほしい／見てほしい／来てほしい／〜したい → their keigo forms). Found
+2026-07-29 while reconciling the anki deck against a corrected `grammar-w3.md`. The book only gives
+bare transformation formulas, no example sentences, so fresh formal+informal sentence pairs were
+written for all 4, following the same convention as Week 1's keigo cards (which also needed
+invented examples). Tagged `grammar::w3 grammar::w3dExtra` (real origin: the grammar chapter's own
+bonus box, not a numbered day — unlike Week 1's keigo, which came from the *Listening* chapter's
+teaching block and is tagged `listening::w1...` accordingly).
+
+**Resolution**: `anki/week3-v3-vocabulary.tsv`/`.apkg` (536 cards) needed no changes.
+`anki/week3-v3-grammar-usage.tsv`/`.apkg` grew from 55 → 59 cards (item 6's keigo cards added); the
+existing 55 notes' GUIDs were preserved unchanged when regenerating the `.apkg` (see
+`specs/anki-tsv-generation-process.md` Step 8a) so re-importing doesn't reset review history on
+cards already studied.

@@ -243,6 +243,63 @@ name; read the week's TSV, skip header/comment lines, and add one `genanki.Note`
 `fields=[front, back]` and `tags=tags.split()`; write the package to
 `anki/week{N}-v3-{vocabulary|grammar-usage}.apkg`.
 
+### Step 8a — Preserve note GUIDs when regenerating an existing week's `.apkg`
+
+**This matters every time a TSV that already has a committed `.apkg` gets edited** (a typo fix, a
+content correction, adding a few new rows) — not just for brand-new weeks. If you don't do this,
+re-importing the regenerated `.apkg` resets the user's review history/scheduling on every card
+whose field content changed, and the user has to re-study cards they'd already learned.
+
+**Why this happens:** `genanki.Note` computes a note's `guid` (the identity Anki uses to match
+notes on import) as a hash of the note's own field content, *unless* you pass `guid=` explicitly.
+Anki's `Front`/`Back` field content is exactly what these TSV edits change — so any uncorrected
+regeneration silently mints a new identity for every edited row, even though it's meant to be "the
+same card, fixed."
+
+**Fix: before regenerating, pull each row's *existing* guid out of the currently-committed
+`.apkg`** (a `.apkg` is a zip containing a `collection.anki2` SQLite file with a `notes` table of
+`(guid, flds, tags, ...)`; `flds` is `Front + "\x1f" + Back`) and pass it back in explicitly, so
+the note's identity survives the edit:
+
+```python
+import sqlite3, zipfile, tempfile, os
+
+def load_existing_guids(apkg_path):
+    """(Front, Back) -> guid, read from the currently-committed apkg."""
+    with tempfile.TemporaryDirectory() as tmp:
+        with zipfile.ZipFile(apkg_path) as z:
+            z.extract('collection.anki2', tmp)
+        con = sqlite3.connect(os.path.join(tmp, 'collection.anki2'))
+        rows = con.execute("select guid, flds from notes").fetchall()
+        con.close()
+    return {tuple(flds.split('\x1f')): guid for guid, flds in rows}
+
+guid_map = load_existing_guids(f"anki/week{N}-v3-{deck}.apkg")  # BEFORE overwriting it
+# ... when building notes:
+key = (front, back)
+note = genanki.Note(model=model, fields=[front, back], tags=tags.split(),
+                     guid=guid_map.get(key))  # None → genanki falls back to its default hash
+```
+
+Match on exact `(Front, Back)` content — every unchanged row will hit, and every row whose content
+you just fixed *won't*, which is expected (that row's identity does change, once, at the moment of
+the fix — there's no way around that if the field content itself is what was wrong). New rows
+(added vocabulary/patterns) naturally have no entry in `guid_map` and get a fresh default guid,
+which is correct since they have no prior review history to preserve.
+
+**After regenerating, verify no existing guid was lost** — the set of guids in the old `.apkg`
+should be a subset of the guids in the new one:
+```bash
+diff <(sqlite3 old/collection.anki2 "select guid from notes" | sort) \
+     <(sqlite3 new/collection.anki2 "select guid from notes" | sort)
+```
+Only additions (new rows) should show up in the diff; any *removed* guid means an existing row
+failed to match (usually because its content was accidentally changed too) and needs
+investigation before shipping.
+
+Applied 2026-07-29: `anki/week3-v3-grammar-usage.apkg` grew from 55 → 59 notes (added the missing
+keigo cards — see `specs/anki-content-gaps.md` item 6); all 55 pre-existing guids were preserved.
+
 No standalone generator script is checked into the repo yet — the build has been run ad hoc each
 time from a throwaway script. Ask to have a proper `anki/scripts/build_apkg.py` added if this
 needs to run unattended.
