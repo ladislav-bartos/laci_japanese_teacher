@@ -195,6 +195,23 @@ Before considering a TSV done, validate:
   bug where a combined `word (reading1) / word2 (reading2)`-style source field got parsed as if
   it were a single `word (reading)` pair, silently dropping half the content — always sanity
   check any row whose Front field contains multiple parenthesized readings or a `/` separator).
+- For Deck 1, `front-main` must **never** append the word's reading in parentheses (e.g.
+  `振込 (ふりこみ)`, `頼る (たよる)`) — the spec (`anki-note-type-vocabulary.md`) already says
+  `{WORD}` has no furigana, and the reading already lives in `back-main-reading`; putting it in
+  `front-main` too just gives the answer away on the question side. Weeks 1 and 3 both had this
+  leak (4 words total, found retroactively 2026-07-29). Grep every row for
+  `front-main">[^<]*(` and manually clear each hit: legitimate hits are grammar/word-formation
+  notation (`(を)`, `(の)`, `(な)`, `(色)`, conjugation asides like `(いらっしゃいま)`) or
+  non-kanji abbreviations (`1DK (ワンディーケー)`); a bare `kanji (hiragana-reading-of-that-kanji)`
+  pair is always the bug — delete the parenthetical.
+- For Deck 1, confirm every example sentence actually uses the word's kanji form when
+  `front-main` has one, instead of silently falling back to its kana reading (e.g. `父に大声で
+  どなられた` instead of `父に大声で怒鳴られた` for 怒鳴る). This defeats the kanji-recognition
+  point of the card. Check: does every kanji character in `front-main` (ignoring parenthetical/
+  slash-alternative notation) appear somewhere in `front-example-sentence-1`? If none of them do,
+  the sentence was probably written in kana by mistake — fix it to use the kanji, matching
+  conjugation/okurigana as needed. 5 cards across Weeks 1 and 3 had this bug (found retroactively
+  2026-07-29).
 - `specs/anki-content-gaps.md` has an entry for anything found during Step 1/1a that didn't make
   it into either TSV, for this week specifically.
 
