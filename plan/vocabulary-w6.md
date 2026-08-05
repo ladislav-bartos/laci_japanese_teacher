@@ -1,376 +1,376 @@
-# Vocabulary Learning Summary - Week 6 (第6週)[cite: 10]
+# Vocabulary Learning Summary - Week 6 (第6週)
 
-**Theme: まとめて覚えましょう① (Put them together and memorize 1)**[cite: 10]
+**Theme: まとめて覚えましょう① (Put them together and memorize 1)**
 
-This document extracts the vocabulary, useful expressions, and practice questions from Week 6, organized day by day for self-testing.[cite: 10] Answer keys (printed in the source for Days 1–6) are included at the end of each day.[cite: 10]
-
----
-
-# Day 1 (1日目): カタカナで書く言葉① (Words written in katakana 1)[cite: 10]
-
-## Vocabulary — Abbreviations (省略に注意)[cite: 10]
-* **デジカメ／デジタルカメラ** — digital camera[cite: 10]
-* **ラッシュ／ラッシュアワー** — rush hour[cite: 10]
-* **マスコミ／マスコミュニケーション** — mass media[cite: 10]
-* **テロ／テロリズム** — terrorism / terrorist attack[cite: 10]
-* **インフレ／インフレーション** — inflation[cite: 10] ↔ **デフレ** — deflation[cite: 10]
-* **アポ（イント）／アポイントメント** — appointment[cite: 10]
-* **ミス** — mistake[cite: 10]
-* **イラスト／イラストレーション** — illustration[cite: 10]
-* **アマ／アマチュア** — amateur[cite: 10]
-* **プロ／プロフェッショナル** — professional[cite: 10]
-* **プロダクション** — production (e.g., show business production)[cite: 10]
-* **スト／ストライキ** — strike[cite: 10]
-* **レジ** — cash-register[cite: 10]
-* **ゼミ／ゼミナール** — seminar[cite: 10]
-* **ホーム／プラットフォーム** — platform[cite: 10]
-* **ホイル／アルミホイル** — aluminium foil[cite: 10]
-* **バーゲン／バーゲンセール** — sale[cite: 10]
-* **ファミレス／ファミリーレストラン** — family restaurant[cite: 10]
-* **エコ／エコロジー** — ecology / eco-friendly[cite: 10]
-
-## Vocabulary — Pronunciation (発音に注意)[cite: 10]
-* **アレルギー** — allergy / allergic reaction[cite: 10]
-* **エネルギー** — energy[cite: 10]
-* **ウイルス** — virus[cite: 10]
-* **ワクチン** — vaccine[cite: 10]
-* **ビタミン** — vitamin[cite: 10]
-* **サプリメント** — supplements[cite: 10]
-* **テーマ** — theme / topic[cite: 10]
-* **ビニール** — plastic / vinyl[cite: 10]
-
-## Practice (練習)[cite: 10]
-
-**練習I — Choose the correct option:**[cite: 10]
-1. 彼は（a. ゼミ / b. プロ）のカメラマンです。[cite: 10]
-2. インフルエンザの（a. ウイルス / b. ワクチン）が不足している。[cite: 10]
-3. 緑黄色野菜には（a. ビタミン / b. ビニール）が多い。[cite: 10]
-4. 太陽（a. アレルギー / b. エネルギー）を利用して発電する。[cite: 10]
-5. 朝の電車は（a. ホーム / b. ラッシュ）で大変混んでいる。[cite: 10]
-6. 「本日は、この問題を（a. ホーム / b. テーマ）に講義します。」[cite: 10]
-
-**練習II — Choose the word that fits:**[cite: 10]
-7. 明日の12時に面会の（ ）をとった。 → 1 アポ 2 ミス 3 アマ 4 レジ[cite: 10]
-8. 電車は（ ）で動いておりません。 → 1 ミス 2 スト 3 イラスト 4 ラッシュ[cite: 10]
-
-*きょうの一言: 試験でミスしないように。*[cite: 10]
-
-**Answers (Day 1):** 練習I ① b ② b ③ a ④ b ⑤ b ⑥ b ／ 練習II ⑦ 1 ⑧ 2[cite: 10]
+This document extracts the vocabulary, useful expressions, and practice questions from Week 6, organized day by day for self-testing. Answer keys (printed in the source for Days 1–6) are included at the end of each day.
 
 ---
 
-# Day 2 (2日目): カタカナで書く言葉② (Words written in katakana 2)[cite: 10]
+# Day 1 (1日目): カタカナで書く言葉① (Words written in katakana 1)
 
-## Vocabulary — Media, Services & Daily Life[cite: 10]
-* **アイドル歌手 (かしゅ)** — a popular young singer / idol[cite: 10]
-* **テレビタレント** — a TV personality[cite: 10]
-* **クレームをつける／言う** — complain / make a claim[cite: 10]
-* **サービスがいい** — provides good service[cite: 10]
-* **ホテルのフロント** — reception desk[cite: 10]
-* **シングル** — a single room[cite: 10]
-* **ツイン** — a twin room[cite: 10]
-* **フルコース／コース料理 (りょうり)** — a multiple course meal[cite: 10]
-* **バイキング形式の食事 (けいしき)** — buffet meal[cite: 10]
-* **ドライな性格 (せいかく)** — a cold / dry personality[cite: 10]
-* **（車の）ハンドル** — steering wheel[cite: 10]
-* **タイヤがパンクする** — have a flat tire[cite: 10]
-* **学校のグラウンド** — the school yard[cite: 10]
-* **コピー機 (き)／コピー用紙** — a photo copying machine / photo copy paper[cite: 10]
-* **デパートの化粧品コーナー (けしょうひん)** — cosmetic section in a department store[cite: 10]
-* **ガソリンスタンド** — a gas station[cite: 10]
-* **電気スタンド (でんき)** — a desk lamp[cite: 10]
-* **ビジネスマン** — a businessman / company employee[cite: 10]
-* **ポイントカード** — point card[cite: 10]
-* **コメントをする／述べる (のべる)** — voice your opinion / comment[cite: 10]
-* **ノーコメント** — no comment[cite: 10]
-* **予算がオーバーする (よさん)** — be over budget[cite: 10]
-* **オーバーに話す** — exaggerate[cite: 10]
-* **日本人とドイツ人のハーフ** — a person who is half Japanese and half German[cite: 10]
-* **ユニークな人／考え** — a unique person / a unique opinion[cite: 10]
-* **ベテラン** — an expert / someone with a lot of experience[cite: 10]
-* **トレーナー** — sweat shirt / trainer (coach)[cite: 10]
-* **受け取りのサインをする** — sign the receipt[cite: 10]
+## Vocabulary — Abbreviations (省略に注意)
+* **デジカメ／デジタルカメラ** — digital camera
+* **ラッシュ／ラッシュアワー** — rush hour
+* **マスコミ／マスコミュニケーション** — mass media
+* **テロ／テロリズム** — terrorism / terrorist attack
+* **インフレ／インフレーション** — inflation ↔ **デフレ** — deflation
+* **アポ（イント）／アポイントメント** — appointment
+* **ミス** — mistake
+* **イラスト／イラストレーション** — illustration
+* **アマ／アマチュア** — amateur
+* **プロ／プロフェッショナル** — professional
+* **プロダクション** — production (e.g., show business production)
+* **スト／ストライキ** — strike
+* **レジ** — cash-register
+* **ゼミ／ゼミナール** — seminar
+* **ホーム／プラットフォーム** — platform
+* **ホイル／アルミホイル** — aluminium foil
+* **バーゲン／バーゲンセール** — sale
+* **ファミレス／ファミリーレストラン** — family restaurant
+* **エコ／エコロジー** — ecology / eco-friendly
 
-## Practice (練習)[cite: 10]
+## Vocabulary — Pronunciation (発音に注意)
+* **アレルギー** — allergy / allergic reaction
+* **エネルギー** — energy
+* **ウイルス** — virus
+* **ワクチン** — vaccine
+* **ビタミン** — vitamin
+* **サプリメント** — supplements
+* **テーマ** — theme / topic
+* **ビニール** — plastic / vinyl
 
-**練習I — Choose the correct option:**[cite: 10]
-1. 父はキャリア30年の（a. ビジネス / b. ベテラン）パイロットです。[cite: 10]
-2. 書類を2部ずつ（a. コピー / b. サービス）しておいてください。[cite: 10]
-3. 彼女は学校中の（a. アイドル / b. タレント）です。[cite: 10]
-4. タレントの（a. コピー / b. サイン）入りポスターをプレゼントします。[cite: 10]
-5. その件に関してはノー（a. ポイント / b. コメント）です。[cite: 10]
-6. とても（a. ユニーク / b. オーバー）なデザインの衣装ですね。[cite: 10]
+## Practice (練習)
 
-**練習II — Choose the word that fits:**[cite: 10]
-7. 結婚記念日にホテルでフル（ ）の料理を食べた。 → 1 サービス 2 コース 3 コーナー 4 バイキング[cite: 10]
-8. ここに了解の印の（ ）をしてください。 → 1 コピー 2 サイン 3 コメント 4 クレーム[cite: 10]
+**練習I — Choose the correct option:**
+1. 彼は（a. ゼミ / b. プロ）のカメラマンです。
+2. インフルエンザの（a. ウイルス / b. ワクチン）が不足している。
+3. 緑黄色野菜には（a. ビタミン / b. ビニール）が多い。
+4. 太陽（a. アレルギー / b. エネルギー）を利用して発電する。
+5. 朝の電車は（a. ホーム / b. ラッシュ）で大変混んでいる。
+6. 「本日は、この問題を（a. ホーム / b. テーマ）に講義します。」
 
-*きょうの一言: 予算をオーバーしないようにしましょう。*[cite: 10]
+**練習II — Choose the word that fits:**
+7. 明日の12時に面会の（ ）をとった。 → 1 アポ 2 ミス 3 アマ 4 レジ
+8. 電車は（ ）で動いておりません。 → 1 ミス 2 スト 3 イラスト 4 ラッシュ
 
-**Answers (Day 2):** 練習I ① b ② a ③ a ④ b ⑤ b ⑥ a ／ 練習II ⑦ 2 ⑧ 2[cite: 10]
+*きょうの一言: 試験でミスしないように。*
 
----
-
-# Day 3 (3日目): カタカナで書く言葉③ (Words written in katakana 3)[cite: 10]
-
-## Vocabulary — Wasei-Eigo & Common Katakana Terms[cite: 10]
-* **コンパ** — a welcoming party for new students / student party[cite: 10]
-* **合コン (ごうこん)** — a coed party / mixer[cite: 10]
-* **ワンパターン（な）** — a person with a one-track mind / monotonous[cite: 10]
-* **ゴールデンウィーク** — Golden Week (A week long holiday from late April to early May)[cite: 10]
-* **Uターン** — make a U-turn / return to one's hometown[cite: 10]
-* **オフ** — a day off work[cite: 10]
-* **フリーダイヤル** — a toll-free number[cite: 10]
-* **フリーサイズ** — one size fits all[cite: 10]
-* **キャッチボール** — play catch[cite: 10]
-* **コインランドリー** — a laundromat[cite: 10]
-* **リサイクルショップ** — a recycling shop[cite: 10]
-* **ジェットコースター** — a roller coaster[cite: 10]
-* **パトカー** — a police car[cite: 10]
-* **ガードマン** — a security guard[cite: 10]
-* **サインペン** — a felt-tipped pen[cite: 10]
-* **マイホーム** — a private house / one's own home[cite: 10]
-* **キーホルダー** — a key chain[cite: 10]
-* **シルバーシート** — a priority seat for aged, pregnant, and handicapped people[cite: 10]
-
-## Vocabulary — More Katakana Usage[cite: 10]
-* **ホチキス** — stapler[cite: 10]
-* **コンテスト** — contest[cite: 10]
-* **コンクール** — competition (e.g., choir competition)[cite: 10]
-* **セロテープ** — cellophane tape / clear tape[cite: 10]
-* **タイプ** — type (e.g., my type of person)[cite: 10]
-* **イメージ** — image / impression[cite: 10]
-* **テンポ** — tempo / pace[cite: 10]
-* **リズム** — rhythm / beat[cite: 10]
-* **バランス** — balance[cite: 10]
-* **ハンサム（な）** — handsome / good-looking[cite: 10]
-* **スマート（な）** — slim / slender[cite: 10]
-
-## Practice (練習)[cite: 10]
-
-**練習I — Choose the correct option:**[cite: 10]
-1. 子どものころ、よく父と（a. ボールキャッチ / b. キャッチボール）をしたものです。[cite: 10]
-2. チラシを（a. ホチキス / b. セロテープ）で壁に貼った。[cite: 10]
-3. 古い洗濯機を（a. コインランドリー / b. リサイクルショップ）で売った。[cite: 10]
-4. あの店の服は、どれも安っぽい（a. タイプ / b. イメージ）がする。[cite: 10]
-5. （a. テンポ / b. リズム）が早くて、会話についていけない。[cite: 10]
-6. 仕事が（a. ワンパターン / b. オフ）の日は、一日中家でテレビを見ている。[cite: 10]
-
-**練習II — Choose the word that fits:**[cite: 10]
-7. （ ）のよい食事を心がけています。 → 1 テンポ 2 リズム 3 バランス 4 タイプ[cite: 10]
-8. テレビショッピングの商品を（ ）で注文した。 → 1 フリーダイヤル 2 コンクール 3 コンパ 4 フリーサイズ[cite: 10]
-
-*きょうの一言: 仕事のノルマをこなせるよう、計画しましょう。*[cite: 10]
-
-**Answers (Day 3):** 練習I ① b ② b ③ b ④ a ⑤ a ⑥ b ／ 練習II ⑦ 3 ⑧ 1[cite: 10]
+**Answers (Day 1):** 練習I ① b ② b ③ a ④ b ⑤ b ⑥ b ／ 練習II ⑦ 1 ⑧ 2
 
 ---
 
-# Day 4 (4日目): 似ている言葉① (Similar words 1)[cite: 10]
+# Day 2 (2日目): カタカナで書く言葉② (Words written in katakana 2)
 
-## Vocabulary — Words with Similar Meanings[cite: 10]
-* **飛ぶ (とぶ)** — fly[cite: 10]
-* **跳ねる (はねる)** — jump[cite: 10]
-* **転ぶ (ころぶ)** — fall / trip[cite: 10]
-* **転がる (ころがる)** — roll[cite: 10]
-* **ちぎる** — tear off[cite: 10]
-* **破る (やぶる)** — tear / break (a promise) / break (a record)[cite: 10]
-* **ほえる** — bark[cite: 10]
-* **うなる** — growl / groan[cite: 10]
-* **もれる** — leak (e.g., water leaks out)[cite: 10]
-* **こぼれる** — spill[cite: 10]
-* **埋める (うめる)** — fill in / bury[cite: 10]
-* **ふさぐ** — cover / block up[cite: 10]
-* **つるす** — hang (e.g., a curtain)[cite: 10]
-* **ぶらさげる** — hang / dangle (e.g., a camera)[cite: 10]
-* **なめる** — lick[cite: 10]
-* **しゃぶる** — suck (e.g., candy)[cite: 10]
-* **ずらす** — put off / shift[cite: 10]
-* **どける** — move (something) out of the way[cite: 10]
-* **枯れる (かれる)** — die / wither (for trees/plants)[cite: 10]
-* **しぼむ** — wilt / fade (for flowers/balloons)[cite: 10]
-* **傷つく (きずつく)** — be hurt[cite: 10]
-* **傷がつく (きずがつく)** — get a scratch[cite: 10]
-* **新たにする (あらたにする)** — renew[cite: 10]
-* **改める (あらためる)** — deal with shortcomings / change / call again[cite: 10]
-* **先に (さきに)** — previously / ahead[cite: 10]
-* **先ほど (さきほど)** — earlier / a short while ago[cite: 10]
+## Vocabulary — Media, Services & Daily Life
+* **アイドル歌手 (かしゅ)** — a popular young singer / idol
+* **テレビタレント** — a TV personality
+* **クレームをつける／言う** — complain / make a claim
+* **サービスがいい** — provides good service
+* **ホテルのフロント** — reception desk
+* **シングル** — a single room
+* **ツイン** — a twin room
+* **フルコース／コース料理 (りょうり)** — a multiple course meal
+* **バイキング形式の食事 (けいしき)** — buffet meal
+* **ドライな性格 (せいかく)** — a cold / dry personality
+* **（車の）ハンドル** — steering wheel
+* **タイヤがパンクする** — have a flat tire
+* **学校のグラウンド** — the school yard
+* **コピー機 (き)／コピー用紙** — a photo copying machine / photo copy paper
+* **デパートの化粧品コーナー (けしょうひん)** — cosmetic section in a department store
+* **ガソリンスタンド** — a gas station
+* **電気スタンド (でんき)** — a desk lamp
+* **ビジネスマン** — a businessman / company employee
+* **ポイントカード** — point card
+* **コメントをする／述べる (のべる)** — voice your opinion / comment
+* **ノーコメント** — no comment
+* **予算がオーバーする (よさん)** — be over budget
+* **オーバーに話す** — exaggerate
+* **日本人とドイツ人のハーフ** — a person who is half Japanese and half German
+* **ユニークな人／考え** — a unique person / a unique opinion
+* **ベテラン** — an expert / someone with a lot of experience
+* **トレーナー** — sweat shirt / trainer (coach)
+* **受け取りのサインをする** — sign the receipt
 
-## Practice (練習)[cite: 10]
+## Practice (練習)
 
-**練習I — Choose the correct option:**[cite: 10]
-1. （a. 先ほど / b. 先に）田中さんからお電話がありました。[cite: 10]
-2. 天井から雨が（a. こぼれている / b. もれている）。[cite: 10]
-3. ゴルフ場の芝生が（a. かれて / b. しぼんで）しまった。[cite: 10]
-4. 新車にもう（a. 傷ついて / b. 傷がついて）しまった。[cite: 10]
-5. くしゃみをするとき、手で口を（a. うめた / b. ふさいだ）。[cite: 10]
-6. 雪のため、試験の開始時間を30分（a. どけた / b. ずらした）。[cite: 10]
+**練習I — Choose the correct option:**
+1. 父はキャリア30年の（a. ビジネス / b. ベテラン）パイロットです。
+2. 書類を2部ずつ（a. コピー / b. サービス）しておいてください。
+3. 彼女は学校中の（a. アイドル / b. タレント）です。
+4. タレントの（a. コピー / b. サイン）入りポスターをプレゼントします。
+5. その件に関してはノー（a. ポイント / b. コメント）です。
+6. とても（a. ユニーク / b. オーバー）なデザインの衣装ですね。
 
-**練習II — Choose the word that fits:**[cite: 10]
-7. 池で、魚が（ ）いる。 → 1 ころんで 2 はねて 3 とんで 4 ほえて[cite: 10]
-8. ちょっと、じゃまだから（ ）。 → 1 どいて 2 うなって 3 つるして 4 しぼんで[cite: 10]
+**練習II — Choose the word that fits:**
+7. 結婚記念日にホテルでフル（ ）の料理を食べた。 → 1 サービス 2 コース 3 コーナー 4 バイキング
+8. ここに了解の印の（ ）をしてください。 → 1 コピー 2 サイン 3 コメント 4 クレーム
 
-*きょうの一言: 約束は破らないようにしましょう。*[cite: 10]
+*きょうの一言: 予算をオーバーしないようにしましょう。*
 
-**Answers (Day 4):** 練習I ① a ② b ③ a ④ b ⑤ b ⑥ b ／ 練習II ⑦ 2 ⑧ 1[cite: 10]
-
----
-
-# Day 5 (5日目): 似ている言葉② (Similar words 2)[cite: 10]
-
-## Vocabulary — Synonyms and Related Words[cite: 10]
-* **すべて** — all / entirely[cite: 10]
-* **第一（に） (だいいちに)** — first of all[cite: 10]
-* **真っ先に (まっさきに)** — the very first[cite: 10]
-* **あらゆる** — every possible[cite: 10]
-* **以前 (いぜん)** — previously / used to be[cite: 10]
-* **かつて** — once / formerly[cite: 10]
-* **単に (たんに)** — simply / merely[cite: 10]
-* **ただ** — just / only[cite: 10]
-* **まね** — imitate / act like[cite: 10]
-* **ふり** — pretend[cite: 10]
-* **必死に (ひっしに)** — desperately / frantically[cite: 10]
-* **無理に／無理やり (むりに／むりやり)** — by force / forcefully[cite: 10]
-* **高級（な） (こうきゅうな)** — high class / luxury[cite: 10]
-* **上等（な） (じょうとうな)** — high quality / excellent[cite: 10]
-* **高度（な） (こうどな)** — high degree / advanced[cite: 10]
-* **高等（な） (こうとうな)** — higher grade (e.g., higher education)[cite: 10]
-* **高価（な） (こうかな)** — highly priced / expensive[cite: 10]
-* **勝手に (かってに)** — on one's own / selfishly[cite: 10]
-* **無断で (むだんで)** — without permission / without notice[cite: 10]
-* **次々（に／と） (つぎつぎに)** — one after another[cite: 10]
-* **続々（と） (ぞくぞくと)** — successively / one after another[cite: 10]
-* **案外（と） (あんがいと)** — unexpectedly / contrary to expectation[cite: 10]
-* **意外（に／と） (いがいに)** — unexpectedly / surprising[cite: 10]
-* **余計に (よけいに)** — more / excessively[cite: 10]
-* **余分に (よぶんに)** — extra / in excess[cite: 10]
-
-## Practice (練習)[cite: 10]
-
-**練習I — Choose the correct option:**[cite: 10]
-1. 友人に（a. 高度な / b. 高級な）ワインをもらった。[cite: 10]
-2. 医者へ行ったら（a. 余計に / b. 余分に）症状が悪化した。[cite: 10]
-3. その映画はみんなはつまらないと言っていたが、（a. ただ / b. 意外と）面白かった。[cite: 10]
-4. クモは危険を感じると死んだ（a. まね / b. ふり）をする。[cite: 10]
-5. 地震のとき、教室から（a. 第一 / b. 真っ先）に逃げ出したのは先生だった。[cite: 10]
-6. 1900年（a. 以前 / b. かつて）の記録はもう残っていません。[cite: 10]
-
-**練習II — Choose the word that fits:**[cite: 10]
-7. 彼は（ ）勉強して医者になりました。 → 1 無理に 2 必死に 3 高度な 4 勝手に[cite: 10]
-8. インフルエンザが流行し、患者が（ ）増えている。 → 1 続々と 2 案外と 3 余分に 4 無断で[cite: 10]
-
-*きょうの一言: 必死にがんばれば、いい結果が出ますよ。*[cite: 10]
-
-**Answers (Day 5):** 練習I ① b ② a ③ b ④ b ⑤ b ⑥ a ／ 練習II ⑦ 2 ⑧ 1[cite: 10]
+**Answers (Day 2):** 練習I ① b ② a ③ a ④ b ⑤ b ⑥ a ／ 練習II ⑦ 2 ⑧ 2
 
 ---
 
-# Day 6 (6日目): 似ている言葉③ (Similar words 3)[cite: 10]
+# Day 3 (3日目): カタカナで書く言葉③ (Words written in katakana 3)
 
-## Vocabulary — Confusing Pairs & Homophones[cite: 10]
-* **責める (せめる)** — blame / condemn[cite: 10]
-* **攻める (せめる)** — attack[cite: 10]
-* **乗る (のる)** — ride / take part in (e.g., listen and give advice)[cite: 10]
-* **載る (のる)** — be published / be placed on[cite: 10]
-* **辺り (あたり)** — around here[cite: 10]
-* **当たり (あたり)** — per (e.g., per person) / a hit[cite: 10]
-* **以外 (いがい)** — except / other than[cite: 10]
-* **意外 (いがい)** — unexpected / surprising[cite: 10]
-* **夫人 (ふじん)** — Mrs. / wife[cite: 10]
-* **婦人 (ふじん)** — woman / lady[cite: 10]
-* **人口 (じんこう)** — population[cite: 10]
-* **人工 (じんこう)** — artificial / man-made[cite: 10]
-* **見方 (みかた)** — view / perspective[cite: 10]
-* **味方 (みかた)** — ally / supporter[cite: 10]
-* **特徴 (とくちょう)** — distinguishing feature (can be good or bad)[cite: 10]
-* **特長 (とくちょう)** — strong point / merit[cite: 10]
-* **あきる** — get tired of / lose interest[cite: 10]
-* **あきれる** — be amazed / be appalled[cite: 10]
-* **あきらめる** — give up[cite: 10]
-* **ある** — a certain / some[cite: 10]
-* **あくる** — next / following (day)[cite: 10]
-* **もたれる** — lean against[cite: 10]
-* **もたらす** — bring about / cause[cite: 10]
-* **詳しい (くわしい)** — detailed / knowledgeable[cite: 10]
-* **くやしい** — frustrating / regrettable[cite: 10]
-* **実は (じつは)** — to tell the truth / actually[cite: 10]
-* **実に (じつに)** — really / truly[cite: 10]
+## Vocabulary — Wasei-Eigo & Common Katakana Terms
+* **コンパ** — a welcoming party for new students / student party
+* **合コン (ごうこん)** — a coed party / mixer
+* **ワンパターン（な）** — a person with a one-track mind / monotonous
+* **ゴールデンウィーク** — Golden Week (A week long holiday from late April to early May)
+* **Uターン** — make a U-turn / return to one's hometown
+* **オフ** — a day off work
+* **フリーダイヤル** — a toll-free number
+* **フリーサイズ** — one size fits all
+* **キャッチボール** — play catch
+* **コインランドリー** — a laundromat
+* **リサイクルショップ** — a recycling shop
+* **ジェットコースター** — a roller coaster
+* **パトカー** — a police car
+* **ガードマン** — a security guard
+* **サインペン** — a felt-tipped pen
+* **マイホーム** — a private house / one's own home
+* **キーホルダー** — a key chain
+* **シルバーシート** — a priority seat for aged, pregnant, and handicapped people
 
-## Practice (練習)[cite: 10]
+## Vocabulary — More Katakana Usage
+* **ホチキス** — stapler
+* **コンテスト** — contest
+* **コンクール** — competition (e.g., choir competition)
+* **セロテープ** — cellophane tape / clear tape
+* **タイプ** — type (e.g., my type of person)
+* **イメージ** — image / impression
+* **テンポ** — tempo / pace
+* **リズム** — rhythm / beat
+* **バランス** — balance
+* **ハンサム（な）** — handsome / good-looking
+* **スマート（な）** — slim / slender
 
-**練習I — Choose the correct option:**[cite: 10]
-1. インターネットは情報社会に大きい変化を（a. もたれた / b. もたらした）。[cite: 10]
-2. これは、（a. 人口 / b. 人工）で作られた湖である。[cite: 10]
-3. このあたりの駐車料金は（a. あきれる / b. あきる）ほど高い。[cite: 10]
-4. 犯人の名前が新聞に（a. のって / b. せめて）いた。[cite: 10]
-5. 死んだと思った猫は（a. 実は / b. 実に）隣の家で飼われていた。[cite: 10]
-6. 1番違いで宝くじがはずれて、とても（a. くやしい / b. くわしい）。[cite: 10]
+## Practice (練習)
 
-**練習II — Choose the word that fits:**[cite: 10]
-7. 事件の犯人は（ ）人物だった。 → 1 意外な 2 案外な 3 実は 4 実に[cite: 10]
-8. 留学してから、物の（ ）が変わった。 → 1 特徴 2 特長 3 見方 4 当たり[cite: 10]
+**練習I — Choose the correct option:**
+1. 子どものころ、よく父と（a. ボールキャッチ / b. キャッチボール）をしたものです。
+2. チラシを（a. ホチキス / b. セロテープ）で壁に貼った。
+3. 古い洗濯機を（a. コインランドリー / b. リサイクルショップ）で売った。
+4. あの店の服は、どれも安っぽい（a. タイプ / b. イメージ）がする。
+5. （a. テンポ / b. リズム）が早くて、会話についていけない。
+6. 仕事が（a. ワンパターン / b. オフ）の日は、一日中家でテレビを見ている。
 
-*きょうの一言: あきらめないで、続けましょう。*[cite: 10]
+**練習II — Choose the word that fits:**
+7. （ ）のよい食事を心がけています。 → 1 テンポ 2 リズム 3 バランス 4 タイプ
+8. テレビショッピングの商品を（ ）で注文した。 → 1 フリーダイヤル 2 コンクール 3 コンパ 4 フリーサイズ
 
-**Answers (Day 6):** 練習I ① b ② b ③ a ④ a ⑤ a ⑥ a ／ 練習II ⑦ 1 ⑧ 3[cite: 10]
+*きょうの一言: 仕事のノルマをこなせるよう、計画しましょう。*
+
+**Answers (Day 3):** 練習I ① b ② b ③ b ④ a ⑤ a ⑥ b ／ 練習II ⑦ 3 ⑧ 1
 
 ---
 
-# Day 7 (7日目): 実戦問題 (Practice Exercise)[cite: 10]
+# Day 4 (4日目): 似ている言葉① (Similar words 1)
 
-*Time limit: 15 min · 4 points × 25 questions · /100*[cite: 10]
+## Vocabulary — Words with Similar Meanings
+* **飛ぶ (とぶ)** — fly
+* **跳ねる (はねる)** — jump
+* **転ぶ (ころぶ)** — fall / trip
+* **転がる (ころがる)** — roll
+* **ちぎる** — tear off
+* **破る (やぶる)** — tear / break (a promise) / break (a record)
+* **ほえる** — bark
+* **うなる** — growl / groan
+* **もれる** — leak (e.g., water leaks out)
+* **こぼれる** — spill
+* **埋める (うめる)** — fill in / bury
+* **ふさぐ** — cover / block up
+* **つるす** — hang (e.g., a curtain)
+* **ぶらさげる** — hang / dangle (e.g., a camera)
+* **なめる** — lick
+* **しゃぶる** — suck (e.g., candy)
+* **ずらす** — put off / shift
+* **どける** — move (something) out of the way
+* **枯れる (かれる)** — die / wither (for trees/plants)
+* **しぼむ** — wilt / fade (for flowers/balloons)
+* **傷つく (きずつく)** — be hurt
+* **傷がつく (きずがつく)** — get a scratch
+* **新たにする (あらたにする)** — renew
+* **改める (あらためる)** — deal with shortcomings / change / call again
+* **先に (さきに)** — previously / ahead
+* **先ほど (さきほど)** — earlier / a short while ago
 
-## 問題1 — Choose the best word for the blank (1–10)[cite: 10]
-1. お忙しいようですので、日を（ ）また来るようにします。 → 1 すべて 2 改めて 3 新たに 4 どけて[cite: 10]
-2. 兄は（ ）関係の会社に勤めています。 → 1 ホテルのフロント 2 マスコミ 3 ビジネス 4 プロ[cite: 10]
-3. 私は、卵に（ ）があるので、卵の入ったものは食べないようにしています。 → 1 エネルギー 2 ブーム 3 オーバー 4 アレルギー[cite: 10]
-4. 彼女の部屋があまりに汚くて（ ）しまった。 → 1 あきて 2 あきれて 3 あきらめて 4 あきられて[cite: 10]
-5. 大丈夫、この症状は（ ）風邪ですからしばらくすれば治りますよ。 → 1 単なる 2 ただ 3 意外に 4 案外[cite: 10]
-6. クレジットカードの（ ）をためて商品券をもらった。 → 1 ポイント 2 バランス 3 サービス 4 アポイント[cite: 10]
-7. 彼の世界記録が、10年ぶりに（ ）。 → 1 どけられた 2 やぶられた 3 ちぎられた 4 改められた[cite: 10]
-8. これは（ ）行われた会議で決定したことです。 → 1 主に 2 実に 3 第一に 4 先に[cite: 10]
-9. パソコンが（ ）に感染してしまい、データが全部なくなってしまった。 → 1 病気 2 ウイルス 3 インフルエンザ 4 傷[cite: 10]
-10. 通行のじゃまになるので、このいすをちょっと（ ）ください。 → 1 ぶらさげて 2 転んで 3 埋めて 4 どけて[cite: 10]
+## Practice (練習)
 
-## 問題2 — Choose the word that best matches the description (11–15)[cite: 10]
-11. 人の手によって作られること。 → 1 人手 2 コピー 3 人工 4 タイプ[cite: 10]
-12. 物事を進める速さ。 → 1 アポ 2 バランス 3 ラッシュ 4 テンポ[cite: 10]
-13. スーパーなどで料金を支払うところ。 → 1 レジ 2 ゼミ 3 オフ 4 コーナー[cite: 10]
-14. 指で破って細かくする。 → 1 ぶらさげる 2 ちぎる 3 しゃぶる 4 こぼれる[cite: 10]
-15. 数量や時間が限度を超えること。 → 1 プロ 2 デフレ 3 オーバー 4 インフレ[cite: 10]
+**練習I — Choose the correct option:**
+1. （a. 先ほど / b. 先に）田中さんからお電話がありました。
+2. 天井から雨が（a. こぼれている / b. もれている）。
+3. ゴルフ場の芝生が（a. かれて / b. しぼんで）しまった。
+4. 新車にもう（a. 傷ついて / b. 傷がついて）しまった。
+5. くしゃみをするとき、手で口を（a. うめた / b. ふさいだ）。
+6. 雪のため、試験の開始時間を30分（a. どけた / b. ずらした）。
 
-## 問題3 — Choose the word closest in meaning to the underlined word (16–20)[cite: 10]
-16. **以前**、この辺りに公園があった。 → 1 第一に 2 かつて 3 先に 4 真っ先に[cite: 10]
-17. 人の物を**許可を得ないで**使わないでください。 → 1 真っ先に 2 無理に 3 意外に 4 勝手に[cite: 10]
-18. 今日の試験は予想と違って**難しかった**。 → 1 単に 2 実に 3 案外 4 余計に[cite: 10]
-19. 今日の予定を、明日に**移動した**。 → 1 ずらした 2 もたらした 3 うめた 4 もらした[cite: 10]
-20. 彼女は入社した**あくる**年に結婚した。 → 1 2、3年で 2 何年かたって 3 次の年 4 ある年[cite: 10]
+**練習II — Choose the word that fits:**
+7. 池で、魚が（ ）いる。 → 1 ころんで 2 はねて 3 とんで 4 ほえて
+8. ちょっと、じゃまだから（ ）。 → 1 どいて 2 うなって 3 つるして 4 しぼんで
 
-## 問題4 — Choose the best usage of the word (21–25)[cite: 10]
-21. **特徴**[cite: 10]
-   1 最新の冷蔵庫は、省エネの特徴があります。[cite: 10]
-   2 キリンは首が長いのが特徴です。[cite: 10]
-   3 東京は人口が特徴に多い。[cite: 10]
-   4 彼を特徴にあつかってはいけません。[cite: 10]
-22. **改める**[cite: 10]
-   1 彼は、先生に注意されて、態度を改めた。[cite: 10]
-   2 テレビ番組がつまらないから、チャンネルを改めよう。[cite: 10]
-   3 味を改めたので、おいしくなった。[cite: 10]
-   4 答えが間違っているかどうか改めた。[cite: 10]
-23. **しゃぶる**[cite: 10]
-   1 突然雨がしゃぶってきた。[cite: 10]
-   2 ラーメンをしゃぶって食べました。[cite: 10]
-   3 別れた彼からの手紙をしゃぶって捨てた。[cite: 10]
-   4 風邪でのどが痛いので、あめをしゃぶった。[cite: 10]
-24. **うなる**[cite: 10]
-   1 赤ちゃんがうなってすやすや寝ている。[cite: 10]
-   2 雷がうなっています。[cite: 10]
-   3 問題の答えがわからずうなってしまった。[cite: 10]
-   4 父に大きな声でうなられてしまった。[cite: 10]
-25. **ワクチン**[cite: 10]
-   1 ワクチン不足で、肌が荒れてしまった。[cite: 10]
-   2 若いから彼はワクチンにあふれている。[cite: 10]
-   3 パソコンがワクチンに感染してしまった。[cite: 10]
-   4 インフルエンザのワクチンを注射してもらった。[cite: 10]
+*きょうの一言: 約束は破らないようにしましょう。*
 
-*(Note: Answers for Day 7 are located in the separate answer booklet (別冊 p.3~4) which is not included in the source.)*[cite: 10]
+**Answers (Day 4):** 練習I ① a ② b ③ a ④ b ⑤ b ⑥ b ／ 練習II ⑦ 2 ⑧ 1
+
+---
+
+# Day 5 (5日目): 似ている言葉② (Similar words 2)
+
+## Vocabulary — Synonyms and Related Words
+* **すべて** — all / entirely
+* **第一（に） (だいいちに)** — first of all
+* **真っ先に (まっさきに)** — the very first
+* **あらゆる** — every possible
+* **以前 (いぜん)** — previously / used to be
+* **かつて** — once / formerly
+* **単に (たんに)** — simply / merely
+* **ただ** — just / only
+* **まね** — imitate / act like
+* **ふり** — pretend
+* **必死に (ひっしに)** — desperately / frantically
+* **無理に／無理やり (むりに／むりやり)** — by force / forcefully
+* **高級（な） (こうきゅうな)** — high class / luxury
+* **上等（な） (じょうとうな)** — high quality / excellent
+* **高度（な） (こうどな)** — high degree / advanced
+* **高等（な） (こうとうな)** — higher grade (e.g., higher education)
+* **高価（な） (こうかな)** — highly priced / expensive
+* **勝手に (かってに)** — on one's own / selfishly
+* **無断で (むだんで)** — without permission / without notice
+* **次々（に／と） (つぎつぎに)** — one after another
+* **続々（と） (ぞくぞくと)** — successively / one after another
+* **案外（と） (あんがいと)** — unexpectedly / contrary to expectation
+* **意外（に／と） (いがいに)** — unexpectedly / surprising
+* **余計に (よけいに)** — more / excessively
+* **余分に (よぶんに)** — extra / in excess
+
+## Practice (練習)
+
+**練習I — Choose the correct option:**
+1. 友人に（a. 高度な / b. 高級な）ワインをもらった。
+2. 医者へ行ったら（a. 余計に / b. 余分に）症状が悪化した。
+3. その映画はみんなはつまらないと言っていたが、（a. ただ / b. 意外と）面白かった。
+4. クモは危険を感じると死んだ（a. まね / b. ふり）をする。
+5. 地震のとき、教室から（a. 第一 / b. 真っ先）に逃げ出したのは先生だった。
+6. 1900年（a. 以前 / b. かつて）の記録はもう残っていません。
+
+**練習II — Choose the word that fits:**
+7. 彼は（ ）勉強して医者になりました。 → 1 無理に 2 必死に 3 高度な 4 勝手に
+8. インフルエンザが流行し、患者が（ ）増えている。 → 1 続々と 2 案外と 3 余分に 4 無断で
+
+*きょうの一言: 必死にがんばれば、いい結果が出ますよ。*
+
+**Answers (Day 5):** 練習I ① b ② a ③ b ④ b ⑤ b ⑥ a ／ 練習II ⑦ 2 ⑧ 1
+
+---
+
+# Day 6 (6日目): 似ている言葉③ (Similar words 3)
+
+## Vocabulary — Confusing Pairs & Homophones
+* **責める (せめる)** — blame / condemn
+* **攻める (せめる)** — attack
+* **乗る (のる)** — ride / take part in (e.g., listen and give advice)
+* **載る (のる)** — be published / be placed on
+* **辺り (あたり)** — around here
+* **当たり (あたり)** — per (e.g., per person) / a hit
+* **以外 (いがい)** — except / other than
+* **意外 (いがい)** — unexpected / surprising
+* **夫人 (ふじん)** — Mrs. / wife
+* **婦人 (ふじん)** — woman / lady
+* **人口 (じんこう)** — population
+* **人工 (じんこう)** — artificial / man-made
+* **見方 (みかた)** — view / perspective
+* **味方 (みかた)** — ally / supporter
+* **特徴 (とくちょう)** — distinguishing feature (can be good or bad)
+* **特長 (とくちょう)** — strong point / merit
+* **あきる** — get tired of / lose interest
+* **あきれる** — be amazed / be appalled
+* **あきらめる** — give up
+* **ある** — a certain / some
+* **あくる** — next / following (day)
+* **もたれる** — lean against
+* **もたらす** — bring about / cause
+* **詳しい (くわしい)** — detailed / knowledgeable
+* **くやしい** — frustrating / regrettable
+* **実は (じつは)** — to tell the truth / actually
+* **実に (じつに)** — really / truly
+
+## Practice (練習)
+
+**練習I — Choose the correct option:**
+1. インターネットは情報社会に大きい変化を（a. もたれた / b. もたらした）。
+2. これは、（a. 人口 / b. 人工）で作られた湖である。
+3. このあたりの駐車料金は（a. あきれる / b. あきる）ほど高い。
+4. 犯人の名前が新聞に（a. のって / b. せめて）いた。
+5. 死んだと思った猫は（a. 実は / b. 実に）隣の家で飼われていた。
+6. 1番違いで宝くじがはずれて、とても（a. くやしい / b. くわしい）。
+
+**練習II — Choose the word that fits:**
+7. 事件の犯人は（ ）人物だった。 → 1 意外な 2 案外な 3 実は 4 実に
+8. 留学してから、物の（ ）が変わった。 → 1 特徴 2 特長 3 見方 4 当たり
+
+*きょうの一言: あきらめないで、続けましょう。*
+
+**Answers (Day 6):** 練習I ① b ② b ③ a ④ a ⑤ a ⑥ a ／ 練習II ⑦ 1 ⑧ 3
+
+---
+
+# Day 7 (7日目): 実戦問題 (Practice Exercise)
+
+*Time limit: 15 min · 4 points × 25 questions · /100*
+
+## 問題1 — Choose the best word for the blank (1–10)
+1. お忙しいようですので、日を（ ）また来るようにします。 → 1 すべて 2 改めて 3 新たに 4 どけて
+2. 兄は（ ）関係の会社に勤めています。 → 1 ホテルのフロント 2 マスコミ 3 ビジネス 4 プロ
+3. 私は、卵に（ ）があるので、卵の入ったものは食べないようにしています。 → 1 エネルギー 2 ブーム 3 オーバー 4 アレルギー
+4. 彼女の部屋があまりに汚くて（ ）しまった。 → 1 あきて 2 あきれて 3 あきらめて 4 あきられて
+5. 大丈夫、この症状は（ ）風邪ですからしばらくすれば治りますよ。 → 1 単なる 2 ただ 3 意外に 4 案外
+6. クレジットカードの（ ）をためて商品券をもらった。 → 1 ポイント 2 バランス 3 サービス 4 アポイント
+7. 彼の世界記録が、10年ぶりに（ ）。 → 1 どけられた 2 やぶられた 3 ちぎられた 4 改められた
+8. これは（ ）行われた会議で決定したことです。 → 1 主に 2 実に 3 第一に 4 先に
+9. パソコンが（ ）に感染してしまい、データが全部なくなってしまった。 → 1 病気 2 ウイルス 3 インフルエンザ 4 傷
+10. 通行のじゃまになるので、このいすをちょっと（ ）ください。 → 1 ぶらさげて 2 転んで 3 埋めて 4 どけて
+
+## 問題2 — Choose the word that best matches the description (11–15)
+11. 人の手によって作られること。 → 1 人手 2 コピー 3 人工 4 タイプ
+12. 物事を進める速さ。 → 1 アポ 2 バランス 3 ラッシュ 4 テンポ
+13. スーパーなどで料金を支払うところ。 → 1 レジ 2 ゼミ 3 オフ 4 コーナー
+14. 指で破って細かくする。 → 1 ぶらさげる 2 ちぎる 3 しゃぶる 4 こぼれる
+15. 数量や時間が限度を超えること。 → 1 プロ 2 デフレ 3 オーバー 4 インフレ
+
+## 問題3 — Choose the word closest in meaning to the underlined word (16–20)
+16. **以前**、この辺りに公園があった。 → 1 第一に 2 かつて 3 先に 4 真っ先に
+17. 人の物を**許可を得ないで**使わないでください。 → 1 真っ先に 2 無理に 3 意外に 4 勝手に
+18. 今日の試験は予想と違って**難しかった**。 → 1 単に 2 実に 3 案外 4 余計に
+19. 今日の予定を、明日に**移動した**。 → 1 ずらした 2 もたらした 3 うめた 4 もらした
+20. 彼女は入社した**あくる**年に結婚した。 → 1 2、3年で 2 何年かたって 3 次の年 4 ある年
+
+## 問題4 — Choose the best usage of the word (21–25)
+21. **特徴**
+   1 最新の冷蔵庫は、省エネの特徴があります。
+   2 キリンは首が長いのが特徴です。
+   3 東京は人口が特徴に多い。
+   4 彼を特徴にあつかってはいけません。
+22. **改める**
+   1 彼は、先生に注意されて、態度を改めた。
+   2 テレビ番組がつまらないから、チャンネルを改めよう。
+   3 味を改めたので、おいしくなった。
+   4 答えが間違っているかどうか改めた。
+23. **しゃぶる**
+   1 突然雨がしゃぶってきた。
+   2 ラーメンをしゃぶって食べました。
+   3 別れた彼からの手紙をしゃぶって捨てた。
+   4 風邪でのどが痛いので、あめをしゃぶった。
+24. **うなる**
+   1 赤ちゃんがうなってすやすや寝ている。
+   2 雷がうなっています。
+   3 問題の答えがわからずうなってしまった。
+   4 父に大きな声でうなられてしまった。
+25. **ワクチン**
+   1 ワクチン不足で、肌が荒れてしまった。
+   2 若いから彼はワクチンにあふれている。
+   3 パソコンがワクチンに感染してしまった。
+   4 インフルエンザのワクチンを注射してもらった。
+
+*(Note: Answers for Day 7 are located in the separate answer booklet (別冊 p.3~4) which is not included in the source.)*

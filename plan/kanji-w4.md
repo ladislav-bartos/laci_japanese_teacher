@@ -189,28 +189,61 @@ This document extracts the essential Kanji information, vocabulary, and practice
 
 ## Day 7: 実戦問題 (Practice Exercise) & 問診票 (Medical Form)
 
-### 1. Sample Practice Questions (実戦問題)
-**問題1: Choose the correct reading.**
-1. 自分は間違っていない、と彼は主張した。 (**1.** ちゅしょう / **2.** しゅっちょう / **3.** じゅちょう / **4.** しゅちょう)
-2. デパートはお歳暮の買い物をする人たちで込んでいた。 (**1.** おさいぼ / **2.** おせいぼ / **3.** おとしくれ / **4.** おとしだま)
-3. 本日はお招き頂きまして、ありがとうございます。 (**1.** おなねき / **2.** おまねき / **3.** おなめき / **4.** おまめき)
+*Time limit: 15 min · 4 points × 25 questions · /100 · (Answers: 別冊 p.7 — not included in this source)*
 
-**問題2: Choose the correct kanji.**
-11. 国によって文化やしゅうかんは異なる。 (**1.** 週間 / **2.** 習慣 / **3.** 主観 / **4.** 週刊)
-12. うちあわせは2時からです。 (**1.** 打ち合わせ / **2.** 待ち合わせ / **3.** 持ち合わせ / **4.** 落ち合わせ)
+### 1. Practice Exercise (実戦問題)
+
+**問題1 — Choose the best reading for the underlined word (1–10)**
+1. 自分は間違っていない、と彼は<u>主張した</u>。 → 1 ちゅしょう　2 しゅっちょう　3 じゅちょう　4 しゅちょう
+2. デパートは<u>お歳暮</u>の買い物をする人たちで込んでいた。 → 1 おさいぼ　2 おせいぼ　3 おとしくれ　4 おとしだま
+3. 本日は<u>お招き</u>頂きまして、ありがとうございます。 → 1 おなねき　2 おまねき　3 おなめき　4 おまめき
+4. 信用を<u>失って</u>はビジネスはできない。 → 1 うしなって　2 やしなって　3 あしらって　4 おぎなって
+5. 花と緑に<u>囲まれた</u>家に住みたい。 → 1 めぐまれた　2 つつまれた　3 かこまれた　4 いとなまれた
+6. <u>お互い</u>に体に気をつけて頑張りましょう。 → 1 おかだい　2 おたがい　3 おとがい　4 おだかい
+7. 子供らしく<u>素直</u>に育ってほしい。 → 1 そじき　2 そなお　3 そっちょく　4 すなお
+8. この歌には<u>争い</u>をやめようというメッセージが込められている。 → 1 たたかい　2 きそい　3 あらそい　4 いさかい
+9. 結婚して以来、私はすっかり妻に<u>頼って</u>いる。 → 1 はまって　2 たもって　3 ひたって　4 たよって
+10. スピーチで漢字を読み間違えて<u>恥</u>をかいた。 → 1 あせ　2 いびき　3 はじ　4 あぐら
+
+**問題2 — Choose the correct kanji for the underlined word (11–15)**
+11. 国によって文化や<u>しゅうかん</u>は異なる。 → 1 週間　2 習慣　3 主観　4 週刊
+12. <u>うちあわせ</u>は2時からです。 → 1 打ち合わせ　2 待ち合わせ　3 持ち合わせ　4 落ち合わせ
+13. 明日は<u>さいじつ</u>でお休みだ。 → 1 祝日　2 察日　3 際日　4 祭日
+14. こちらに勤務先と<u>ぶしょ</u>名をお書きください。 → 1 部暑　2 部所　3 部署　4 部諸
+15. 幼い子にきちんとあいさつをされて<u>かんしん</u>した。 → 1 喜心　2 関心　3 寒心　4 感心
+
+**問題3 — Choose the best word for the blank (16–22)**
+16. この試験に受かった人は二（　）試験が受けられる。 → 1 期　2 次　3 部　4 助
+17. 家の事情で（　）学することにしました。 → 1 無　2 退　3 誤　4 中
+18. 兄は消防（　）に勤めています。 → 1 著　2 所　3 暑　4 署
+19. 友達の石田（　）が遊びに来た。 → 1 殿　2 様　3 君　4 奥
+20. 年賀（　）を印刷する。 → 1 状　2 札　3 礼　4 紙
+21. おかげさまで両親は（　）在です。 → 1 存　2 健　3 現　4 保
+22. 現代社会の（　）問題についての講演を聞く。 → 1 諸　2 第　3 総　4 要
+
+**問題4 — Fill in the blanks with a word from the box, written in kanji (23–25)**
+
+> 兄はいつも私をからかうので23（　）と思うこともある。でも、困ったとき、いつも助けてくれる24
+> （　）人だ。もう半年も会っていないので、兄が25（　）。
+
+> なさけない　にくらしい　たのもしい　こいしい　あさましい
+
+*(Word bank given as-is; the source's answer key for this fill-in section is in 別冊 p.7, not included here.)*
 
 ### 2. Extra Medical Kanji (問診票)
-* **痛 (12 Strokes):** 痛い (いたい - Painful), 腹痛 (ふくつう - Stomachache).
+* **腹 (13 Strokes / フク / はら):** 腹痛 (ふくつう - Stomachache).
+* **背 (9 Strokes / せ):** 背中 (せなか - Back).
 * **息 (10 Strokes / ソク / いき):** 休息 (きゅうそく - Rest), 息 (いき - Breath), 息子 (むすこ - Son), ぜん息 (ぜんそく - Asthma).
-* **圧 (5 Strokes / アツ):** 高血圧 (こうけつあつ - High blood pressure), 圧力 (あつりょく - Pressure).
-* **臓 (19 Strokes / ゾウ):** 心臓 (しんぞう - Heart), 内臓 (ないぞう - Internal organs), 心臓病 (しんぞうびょう - Heart disease).
-* **血 (6 Strokes / ケツ):** 血液 (けつえき - Blood), 高血圧 (こうけつあつ - High blood pressure).
-* **液 (11 Strokes / エキ):** 血液 (けつえき - Blood), 血液病 (けつえきびょう - Blood disease).
-* **鼻 (14 Strokes / ビ / はな):** 耳鼻科 (じびか - Otorhinology), 鼻水 (はなみず - Nasal mucous), 鼻炎 (びえん - Nasal inflammation).
+* **血 (6 Strokes / ケツ / ち):** 高血圧 (こうけつあつ - High blood pressure), 血 (ち - Blood).
+* **圧 (5 Strokes / アツ):** 圧力 (あつりょく - Pressure).
+* **臓 (19 Strokes / ゾウ):** 心臓 (しんぞう - Heart), 内臓 (ないぞう - Internal organs).
+* **液 (11 Strokes / エキ):** 血液 (けつえき - Blood).
+* **鼻 (14 Strokes / ビ / はな):** 耳鼻科 (じびか - Otorhinology), 鼻 (はな - Nose), 鼻水 (はなみず - Nasal mucous).
 * **吸 (6 Strokes / キュウ / す・う):** 呼吸 (こきゅう - Respiration), 吸収 (きゅうしゅう - Absorption), 吸う (すう - Breathe/inhale).
 * **眠 (10 Strokes / ミン / ねむ・い, ねむ・る):** 睡眠 (すいみん - Sleep), 眠い (ねむい - Sleepy), 眠る (ねむる - Sleep), 居眠り (いねむり - Doze).
 * **欲 (11 Strokes / ヨク / ほ・しい):** 食欲 (しょくよく - Appetite), 欲張り (よくばり - Greed), 欲しい (ほしい - Want).
 * **疲 (10 Strokes / つか・れる):** 疲れる (つかれる - Get tired/exhaust).
 * **胃 (9 Strokes / イ):** 胃 (い - Stomach), 胃腸 (いちょう - Stomach and intestines).
 * **胸 (10 Strokes / むね):** 胸 (むね - Chest/breast).
-* **背 (9 Strokes / せ):** 背中 (せなか - Back).
+
+*Context note from the source: this is a 問診票 (medical intake form) — a checklist of symptoms and history the extra kanji above are drawn from, alongside the week's usual reading/writing exercises. The checklist itself references conditions like ぜん息, 高血圧, 心臓病, 血液病, 神経症, and アレルギー性鼻炎, plus a cross-reference to kanji #419 (痛, introduced in a later week) for 痛いところ.*

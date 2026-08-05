@@ -182,20 +182,77 @@ This document extracts the essential Kanji information, vocabulary, and practice
 
 ## Day 7: 実戦問題 (Practice Exercise)
 
-### 1. Sample Practice Questions (実戦問題)
-**問題1: Choose the correct reading.**
-1. 苦労をすると白髪が多くなると言います。 (**1.** かつら / **2.** しろげ / **3.** はくが / **4.** しらが)
-2. 布製のバッグに本を入れる。 (**1.** むの / **2.** なの / **3.** ふの / **4.** ぬの)
-3. 地震で家が傾いた。 (**1.** ひびいた / **2.** きずついた / **3.** かたむいた / **4.** おどろいた)
+*Time limit: 15 min · 4 points × 25 questions · /100 · (Answers: 別冊 p.9 — not included in this source)*
 
-**問題2: Choose the correct reading/kanji match.**
-11. 台風が日本にせっきんしている。 (**1.** 最近 / **2.** 接近 / **3.** 間近 / **4.** 遠近)
-12. 彼女は北海道しゅっしんです。 (**1.** 中身 / **2.** 自身 / **3.** 白身 / **4.** 出身)
-13. かぐを買わずにレンタルする。 (**1.** 家具 / **2.** 器具 / **3.** 家見 / **4.** 家旦)
+### 1. Practice Exercise (実戦問題)
 
-**問題3: Fill in the blank.**
-16. 強いにおいが苦手なので、( ) 香料のものを選ぶ。 (**1.** 無 / **2.** 非 / **3.** 不 / **4.** 全)
-17. 一ヵ月の食 ( ) はいくらぐらいかかりますか。 (**1.** 賃 / **2.** 代 / **3.** 費 / **4.** 料)
+**問題1 — Choose the best reading for the underlined word (1–10)**
+1. 苦労をすると白髪が多くなると言います。 → 1 かつら　2 しろげ　3 はくが　4 しらが
+2. 布製のバッグに本を入れる。 → 1 むの　2 なの　3 ふの　4 ぬの
+3. 地震で家が傾いた。 → 1 ひびいた　2 きずついた　3 かたむいた　4 おどろいた
+4. 日本のお土産に浴衣はいかがですか。 → 1 ゆかた　2 せんす　3 うちわ　4 ゆのみ
+5. この虫は指で触ると体を丸くします。 → 1 いじる　2 ふれる　3 さわる　4 あたる
+6. 物置に眠っている不用品を回収いたします。 → 1 そうこ　2 もつおき　3 ぶっち　4 ものおき
+7. 私は5人兄弟の末っ子です。 → 1 まつっこ　2 すえっこ　3 みっこ　4 ひとりっこ
+8. 木の実を拾い集める。 → 1 み　2 は　3 こ　4 ね
+9. お湯が沸いた。 → 1 ふいた　2 まいた　3 わいた　4 ないた
+10. 悩みを相談する人がいない。 → 1 なやみ　2 むやみ　3 のぞみ　4 ねたみ
 
-### 2. Review Games (Kanji Puzzle)
-* This day also includes fun kanji puzzles reviewing previously learned characters like: **泥棒** (どろぼう - thief), **枯れる** (かれる - wither), **貧しい** (まずしい - poor), **昔** (むかし - old times), **岩** (いわ - rock), **泣く** (なく - cry), **咲く** (さく - bloom), **涼しい** (すずしい - cool), **散歩** (さんぽ - walk), **吹く** (ふく - blow), **赤ん坊** (あかんぼう - baby), **怒る** (おこる - be angry), **家畜** (かちく - livestock), **才能** (さいのう - ability), **珍しい** (めずらしい - rare).
+**問題2 — Choose the correct kanji for the underlined word (11–15)**
+11. 台風が日本にせっきんしている。 → 1 最近　2 接近　3 間近　4 遠近
+12. 彼女は北海道しゅっしんです。 → 1 中身　2 自身　3 白身　4 出身
+13. かぐを買わずにレンタルする。 → 1 家具　2 家貝　3 家見　4 家旦
+14. かべにポスターがはってあります。 → 1 柱　2 壁　3 床　4 布
+15. 水をいっぱいください。 → 1 一枚　2 一杯　3 一技　4 一牧
+
+**問題3 — Choose the best word for the blank (16–20)**
+16. 強いにおいが苦手なので、（　）香料のものを選ぶ。 → 1 無　2 非　3 不　4 全
+17. 一ヵ月の食（　）はいくらぐらいかかりますか。 → 1 賃　2 代　3 費　4 料
+18. ここは追い（　）禁止区間です。 → 1 付き　2 込み　3 出し　4 抜き
+19. 1分は60（　）だ。 → 1 砂　2 科　3 秒　4 料
+20. 日本の代表（　）な祭りに参加する。 → 1 式　2 的　3 色　4 化
+
+**問題4 — Write the underlined hiragana in kanji (21–25)**
+
+> 電気もうふ　使用上のご注意
+> - 低温やけどの<u>おそれ</u>（21）あり。乳幼児や自分で温度<u>ちょうせつ</u>（22）のできない方、皮膚の弱い方が使用する場合は特に注意してください。
+> - <u>おりたたんだ</u>（23）まま使用しないこと。
+> - 重いものを上に<u>おかない</u>（24）こと。
+> - <u>もうふ</u>（25）は手洗いしてください。
+
+21. おそれ → 恐れ ／ 22. ちょうせつ → 調節 ／ 23. おりたたんだ → 折りたたんだ ／ 24. おかない → 置かない ／ 25. もうふ → 毛布
+
+### 2. 漢字を使って遊ぼう (Playing with Kanji) — bonus review puzzle
+
+This day closes with two kanji games reviewing characters from earlier weeks, plus 18 new kanji introduced through the puzzle's word list.
+
+**ゲーム1** — a crossword-style puzzle (grid not reproducible here) built from these words: 泥棒 (どろぼう - thief), 枯れる (かれる - wither), 舟 (ふね - boat), 貧しい (まずしい - poor), 昔 (むかし - old times/long ago), 岩 (いわ - rock), 泣く (なく - cry/weep), 咲く (さく - bloom), 司会 (しかい - moderating/facilitating a meeting), 残念 (ざんねん - regret/disappointment), 涼しい (すずしい - cool), 散歩 (さんぽ - walk/stroll), 吹く (ふく - blow), 赤ん坊 (あかんぼう - baby), 怒る (おこる - be angry), 家畜 (かちく - livestock), 才能 (さいのう - ability/talent), 珍しい (めずらしい - rare).
+Grid answer key (12 cells, for reference): ①す ②ふ ③い ④お ⑤ず ⑥か ⑦し ⑧わ ⑨さ ⑩ざ ⑪ね ⑫う
+
+**ゲーム2** — combine two of the grid's hiragana cells (by their numbers above) to read each kanji:
+* A. 鈴 = ①+⑤ = すず (bell)
+* B. 節 = ②+⑦ = ふし (joint/knuckle)
+* C. 稲 = ③+⑪ = いね (rice plant)
+* D. 傘 = ⑥+⑨ = かさ (umbrella)
+* E. 技 = ⑧+⑩ = わざ (skill/technique)
+* F. 魚 = ⑫+④ = うお (fish)
+
+**New kanji introduced via this puzzle (453–470):**
+* **棒 (12 Strokes / ボウ):** 泥棒 (どろぼう - Thief).
+* **枯 (9 Strokes / か・れる):** 枯れる (かれる - Wither).
+* **舟 (6 Strokes / ふね):** 舟 (ふね - Boat).
+* **貧 (11 Strokes / まず・しい):** 貧しい (まずしい - Poor).
+* **昔 (8 Strokes / むかし):** 昔 (むかし - Old times/long ago).
+* **岩 (8 Strokes / ガン / いわ):** 岩 (いわ - Rock).
+* **泣 (8 Strokes / な・く):** 泣く (なく - Cry/weep).
+* **咲 (9 Strokes / さ・く):** 咲く (さく - Bloom).
+* **司 (5 Strokes / シ):** 司会 (しかい - Moderating/facilitating a meeting).
+* **念 (8 Strokes / ネン):** 残念 (ざんねん - Regret/disappointment).
+* **涼 (11 Strokes / すず・しい, すず・む):** 涼しい (すずしい - Cool).
+* **散 (12 Strokes / サン / ち・る, ち・らす, ち・らかす, ち・らかる):** 散歩 (さんぽ - Walk/stroll).
+* **吹 (7 Strokes / ふ・く):** 吹く (ふく - Blow).
+* **坊 (7 Strokes / ボウ, ボッ):** 赤ん坊 (あかんぼう - Baby).
+* **怒 (9 Strokes / ド / おこ・る):** 怒る (おこる - Be angry).
+* **畜 (10 Strokes / チク):** 家畜 (かちく - Livestock).
+* **才 (3 Strokes / サイ):** 才能 (さいのう - Ability/talent).
+* **珍 (9 Strokes / めずら・しい):** 珍しい (めずらしい - Rare).

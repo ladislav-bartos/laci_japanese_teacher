@@ -178,30 +178,69 @@ This document extracts the essential Kanji information, vocabulary, and practice
 
 ## Day 7: 実戦問題 (Practice Exercise)
 
-### 1. Sample Practice Questions (実戦問題)
-**問題1: Choose the correct reading.**
-1. 相手に考える時間を与える。 (**1.** きたえる / **2.** こたえる / **3.** あたえる / **4.** つたえる)
-2. 濃い目のコーヒーが好きだ。 (**1.** ぬいめ / **2.** のいめ / **3.** こいめ / **4.** すいめ)
-3. 人々を幸せな未来へと導く。 (**1.** たなびく / **2.** みちびく / **3.** ながびく / **4.** ささやく)
-4. 自らの主張を明確に述べる。 (**1.** のべる / **2.** すべる / **3.** なべる / **4.** くべる)
-5. 乱筆乱文お許しください。 (**1.** おゆるし / **2.** おためし / **3.** おすごし / **4.** おさっし)
+*Time limit: 15 min · 4 points × 25 questions · /100 · (Answers: 別冊 p.13 — not included in this source)*
 
-**問題2: Choose the correct kanji.**
-11. 手術でゆけつが必要となる場合があります。 (**1.** 輸血 / **2.** 輸皿 / **3.** 輸入 / **4.** 輪皿)
-12. 結果よりもかていのほうが大切だということもある。 (**1.** 仮定 / **2.** 家庭 / **3.** 課程 / **4.** 過程)
+### 1. Practice Exercise (実戦問題)
 
-**問題3: Fill in the blank.**
-16. 雑誌を1 ( ) 買ってきてくれませんか。 (**1.** 刊 / **2.** 冊 / **3.** 杯 / **4.** 枚)
-17. 今から、口 ( ) 試験があります。 (**1.** 面 / **2.** 筆 / **3.** 記 / **4.** 述)
+**問題1 — Choose the best reading for the underlined word (1–10)**
+1. 相手に考える時間を<u>与える</u>。 → 1 きたえる　2 こたえる　3 あたえる　4 つたえる
+2. <u>濃い目</u>のコーヒーが好きだ。 → 1 ぬいめ　2 のいめ　3 こいめ　4 すいめ
+3. 人々を幸せな未来へと<u>導く</u>。 → 1 たなびく　2 みちびく　3 ながびく　4 ささやく
+4. 自らの主張を明確に<u>述べる</u>。 → 1 のべる　2 すべる　3 なべる　4 くべる
+5. 乱筆乱文お<u>許し</u>ください。 → 1 おゆるし　2 おためし　3 おすごし　4 おさっし
+6. <u>宇宙</u>旅行が夢ではなくなった。 → 1 ゆちょう　2 うちょう　3 ふちゅう　4 うちゅう
+7. <u>率直</u>な意見を聞かせてほしい。 → 1 すなお　2 じっちょく　3 りっちょく　4 そっちょく
+8. 材料をよく<u>混ぜます</u>。 → 1 まぜます　2 もぜます　3 みぜます　4 めぜます
+9. 受験の<u>許可</u>が出た。 → 1 けっか　2 きょか　3 ごうか　4 しちょか
+10. 今夜は<u>吹雪</u>になりそうです。 → 1 ふぶき　2 しぶき　3 はつゆき　4 なだれ
 
-### 2. Guessing the Reading (読みを推測する)
-* Kanjis with the same component parts often share the same On'yomi (音読み).
-* **魚** (ギョ/fish) $\rightarrow$ **漁** (ギョ/fishing)
-* **底** (テイ/bottom) $\rightarrow$ **低** (テイ/low)
-* **告** (コク/tell) $\rightarrow$ **鉱** (コウ/mineral)
-* **皮** (ヒ/skin) $\rightarrow$ **彼** (ヒ/he)
-* **滴** (テキ/drop) $\rightarrow$ **適** (テキ/suitable)
-* **偉** (イ/great) $\rightarrow$ **違** (イ/differ)
-* **測** (ソク/measure) $\rightarrow$ **側** (ソク/side) $\rightarrow$ **則** (ソク/rule)
-* **授** (ジュ/instruct) $\rightarrow$ **受** (ジュ/receive)
-* **零** (レイ/zero) $\rightarrow$ **冷** (レイ/cold) $\rightarrow$ **令** (レイ/command)
+**問題2 — Choose the correct kanji for the underlined word (11–15)**
+11. 手術で<u>ゆけつ</u>が必要となる場合があります。 → 1 輸血　2 輸皿　3 輪血　4 輪皿
+12. 結果よりも<u>かてい</u>のほうが大切だということもある。 → 1 仮定　2 家庭　3 課程　4 過程
+13. 第一<u>しぼう</u>の大学に合格してうれしい。 → 1 脂肪　2 志望　3 死亡　4 予防
+14. 花の<u>たね</u>をまく。 → 1 竹　2 根　3 灰　4 種
+15. かもめ丸は悪天候のため<u>けっこう</u>となりました。 → 1 決行　2 結構　3 欠航　4 血行
+
+**問題3 — Choose the best word for the blank (16–20)**
+16. 雑誌を1（　）買ってきてくれませんか。 → 1 刊　2 冊　3 杯　4 枚
+17. 今から、口（　）試験があります。 → 1 面　2 筆　3 記　4 述
+18. ここにずっと住むわけではなく、（　）の住まいです。 → 1 仮　2 公　3 単　4 応
+19. 仕事で業（　）を上げれば給料も上がるだろう。 → 1 責　2 積　3 績　4 漬
+20. 水（　）にお茶を入れて持参する。 → 1 竹　2 筒　3 封　4 包
+
+**問題4 — Fill in the blanks with a word from the box, written in kanji (21–25)**
+
+> 犬や21（　）のように小さい動物は「〜22（　）」と数えるが、牛や23（　）のように大型のものは
+> 「〜頭」と数える。家や店は「〜24（　）」と数えるが、家は「〜25（　）」とも数える。
+
+> うま　けん　ひき　さつ　こ　ねこ
+
+*(Word bank given as-is, with one distractor — さつ — not used; the source's answer key for this
+fill-in section is in 別冊 p.13, not included here.)*
+
+### 2. 読みを推測する (Guessing the Reading) — bonus
+
+Kanji that share a visual component often share the same On'yomi reading. See if you can guess
+the second reading from the first:
+
+1. 金魚→漁船　きんぎょ → ぎょせん
+2. 低下→海底　ていか → かいてい
+3. 広告→鉱山　こうこく → こうざん
+4. 皮膚→（お）彼岸　ひふ → （お）ひがん
+5. 適当→水滴　てきとう → すいてき
+6. 違反→偉大　いはん → いだい
+7. 側面→測定→規則　そくめん → そくてい → きそく
+8. 受験→授業　じゅけん → じゅぎょう
+9. 冷凍→零下→命令　れいとう → れいか → めいれい
+
+**New kanji introduced via this puzzle (642–651):**
+* **漁 (14 Strokes / ギョ, リョウ):** 漁船 (ぎょせん - A fishing boat), 漁師 (りょうし - A fisherman).
+* **底 (8 Strokes / テイ / そこ):** 海底 (かいてい - The sea bottom) = 海の底 (うみのそこ).
+* **鉱 (13 Strokes / コウ):** 鉱山 (こうざん - A mine, e.g. coal mine), 炭鉱 (たんこう - A coal mine/coal pit).
+* **彼 (8 Strokes / ヒ / かれ, かの):** 彼岸 (ひがん - The week of the equinox), 彼 (かれ - He/him/boyfriend), 彼女 (かのじょ - She/her/girlfriend).
+* **滴 (14 Strokes / テキ):** 水滴 (すいてき - A waterdrop).
+* **偉 (12 Strokes / イ / えら・い):** 偉大(な) (いだいな - Great) = 偉い (えらい).
+* **則 (9 Strokes / ソク):** 規則 (きそく - A rule/regulation).
+* **測 (12 Strokes / ソク / はか・る):** 測定 (そくてい - A measurement), 測る (はかる - Measure/weigh).
+* **授 (11 Strokes / ジュ):** 授業 (じゅぎょう - A class/lesson).
+* **零 (13 Strokes / レイ):** 零下 (れいか - Being sub-zero).
