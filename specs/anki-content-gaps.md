@@ -293,3 +293,64 @@ teaching block and is tagged `listening::w1...` accordingly).
 existing 55 notes' GUIDs were preserved unchanged when regenerating the `.apkg` (see
 `specs/anki-tsv-generation-process.md` Step 8a) so re-importing doesn't reset review history on
 cards already studied.
+
+---
+
+## Week 4
+
+Built with a checked-in generator, `anki/scripts/build_week4.py` (structured Python data → TSV →
+`.apkg` via genanki), rather than an ad hoc one-off script — the first week this has been done, per
+the standing note in `specs/anki-tsv-generation-process.md` Step 8 inviting a proper script. Steps
+1a/1b applied during generation, not retroactively.
+
+**1. Cross-week duplicates checked before carding, per Step 1a's "grep first" rule.** This week's
+reading passages reused several words already covered in earlier weeks: 口座 (already covered via
+銀行口座, week1/week2), 手数料 (already covered via 手数料がかかる, week1), 金利 (already fully
+carded as its own card, week3), だらけ (already a Deck 2 grammar-pattern card, week3). All four
+skipped after confirming via grep — not silently assumed redundant.
+
+**2. Within-week Kanji-section-internal duplicate** (a variant of Step 2's Kanji-vs-Vocabulary
+dedup, but here it's Kanji-vs-Kanji): 失望 and 失礼（な） each appear twice in `kanji-w4.md` — once
+under their "own" kanji (望 on Day 1, 礼 on Day 2) and again as compounds re-listed under 失 on Day
+4. Kept the earlier occurrence in both cases (`kanji::w4d1`/`kanji::w4d2`), dropped the Day 4
+repeat.
+
+**3. Reading Day 5's Akutagawa excerpt (『少年』) has literary/classical constructions that don't
+reduce to clean standalone cards:**
+> 自動車の中は相変わらず身動きさえ出来ぬ満員（注2）である。（注2）身動きさえ出来ぬ満員：動けない
+> くらい満員
+> 宣教師の眼はパンス・ネエ（注4）の奥に笑い涙をかがやかせている。（注4）パンス・ネエ：鼻眼鏡
+> （pince-nez フランス語）
+
+身動きさえ出来ぬ満員 is a full descriptive clause (using classical 出来ぬ = 出来ない), not a
+word — no clean front/back split exists for "so packed you can't move." パンス・ネエ is an archaic
+French-loanword transliteration for pince-nez glasses, too obscure to be active N2 vocabulary.
+Logged as uncardable rather than forced into a card. No action identified for either.
+
+**4. Skipped as too transparent/basic for an N2 deck**, consistent with the bar Weeks 1–3 already
+set (e.g. Week 2 skipping 大人/子ども/小学生, Week 3 skipping パソコン/リモコン/コンビニ/マナー):
+テレビショッピング, ウェブ, ログインする, シンポジウム, パート, アルバイト（／バイト）, ギフト, 肺ガン
+(self-explanatory 肺＋ガン compound), and the fully compositional 書籍売り場／家庭用品売り場／
+レストラン街 (transparent from their parts, unlike 寝具売り場／正面玄関／連絡通路 which were kept).
+
+**5. `listening-w4.md` is unusually rich — the opposite situation from Week 3, which had zero
+extractable content.** Real dialogue scripts run through all 5 sections, plus explicit 語彙
+teaching blocks for station/store announcements, weather/traffic terminology, campus vocabulary,
+and situational vocabulary (dentist, pharmacy, salon, deliveries, apartment-hunting, job-hunting).
+Extracted 77 Deck 1 items (tagged `listening::w4d1`–`listening::w4d5` by section) and 2 Deck 2
+items:
+- **上り線 ↔ 下り線** (inbound/outbound train line), a `type::contrast` pair from the traffic-report
+  vocabulary (上り線↔下り線 mentioned as a pair in the section's own 語彙 line) — no exact-pair
+  precedent existed in either deck yet, verified by grep.
+- **承る**, a `type::keigo` card (humble for 受ける／引き受ける／聞く) sourced from the ticket-
+  reservation dialogue's「はい、かしこまりました」context, specifically the desk clerk's
+  「南部デパートの8階でしたよね」exchange closing with an implied 承りました-style handoff — written
+  from the pattern the section's own reference table teaches (`田中が承りました`), since the exact
+  sentence appears in the reference table itself, not the dialogue script.
+
+**Resolution**: `anki/week4-v3-vocabulary.tsv`/`.apkg` created fresh with **523 cards** (296 kanji,
+130 vocabulary, 20 reading, 77 listening). `anki/week4-v3-grammar-usage.tsv`/`.apkg` created fresh
+with **55 cards** (51 across the Grammar section's 25 patterns — one pattern, 〜向き, only had 1
+book example and got a second, freshly written; another, 〜つつ(も), had 3 book examples and got 3
+cards — plus 2 bonus keigo cards from grammar-w4.md's closing 敬語 box, 1 listening contrast pair,
+and 1 listening keigo card).

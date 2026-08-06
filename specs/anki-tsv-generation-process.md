@@ -300,9 +300,13 @@ investigation before shipping.
 Applied 2026-07-29: `anki/week3-v3-grammar-usage.apkg` grew from 55 → 59 notes (added the missing
 keigo cards — see `specs/anki-content-gaps.md` item 6); all 55 pre-existing guids were preserved.
 
-No standalone generator script is checked into the repo yet — the build has been run ad hoc each
-time from a throwaway script. Ask to have a proper `anki/scripts/build_apkg.py` added if this
-needs to run unattended.
+Weeks 1–3 were built ad hoc from throwaway scripts. Starting with Week 4, the build is a checked-in
+script (`anki/scripts/build_week4.py`) holding the week's cards as structured Python data (`V(...)`
+calls for Deck 1, `G(...)` calls for Deck 2) plus the TSV/apkg-writing and validation logic
+described in Step 7 and this step. A future week can copy this file's shape rather than starting
+from scratch — the GUID-preservation logic above still needs to be wired in explicitly if
+regenerating an existing week's `.apkg` (the Week 4 script didn't need it, since Week 4 had no
+prior `.apkg` to preserve GUIDs from).
 
 ## Known edge cases (learned from Week 1 — check for these every week)
 
