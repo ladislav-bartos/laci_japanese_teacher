@@ -428,3 +428,67 @@ fresh with **52 cards**
 (50 across the Grammar section's 24 patterns, plus 2 bonus keigo cards from grammar-w5.md's closing
 敬語 box; no Deck 2 items from Reading's grammar-shaped bullets were miscounted here since those
 went in as part of the same Grammar-section pass).
+
+---
+
+## Week 6
+
+Built with `anki/scripts/build_week6.py` (copied from Week 5's script shape). Steps 1a/1b applied
+during generation.
+
+**1. No `listening-w6.md` exists — confirmed, not an oversight.** The source listening book
+(`聞き取り`) apparently only runs 5 chapters, one per week for Weeks 1–5; Week 6 (and presumably
+onward) has no listening component to extract from at all. This week's decks are Kanji +
+Vocabulary + Grammar + Reading only. Checked that `plan/` genuinely has no `listening-w6.md`
+before proceeding, rather than assuming a gap.
+
+**2. The heaviest cross-week duplicate load of any week so far**, likely because Week 6's kanji
+list (広告・地図・文化財 themes) revisits a lot of everyday vocabulary already introduced via
+other weeks' listening/reading sections. Confirmed and skipped: 小麦粉 (week5 kanji), 承る (week4
+grammar keigo — same word, different deck), 展示 (near-duplicate of week5's already-carded 展示
+する), 築〜年 (week4 listening, exact same string), 列島 (week5 kanji), 警察 (week4 listening),
+永久 (week4 kanji — the introducing kanji, 永, has no other listed word, so it gets no card at all
+this week, same shape as Week 5's 棒／泥棒 situation), 厚かましい (week1 vocab), 苦痛 (week5 kanji),
+居眠り (week3 vocab), 約束 (an earlier week). Checked via grep against all four prior weeks'
+decks before excluding each one — none were assumed redundant without verification.
+
+**3. Within-week Kanji-Kanji duplicates** (a kanji's only listed compound turning out to already
+be carded under a *different* kanji taught the same week — the same shape as Week 5's 泥棒/棒):
+省略 (listed under both 省 on Day 2 and 略 on Day 5 — kept under 省, first occurrence) and 芸術
+(listed under both 術 on Day 4 and 芸 on Day 5 — kept under 術, first occurrence).
+
+**4. Within-week Kanji-vs-Vocabulary duplicates** (Step 2): 破る (かんじ Day 2, under 破; also
+listed in `vocabulary-w6.md` Day 4's 似ている言葉① list) and 辺り (kanji Day 4, under 辺; also
+listed in `vocabulary-w6.md` Day 6's 似ている言葉③ list). Kept in Kanji both times, per Step 2.
+
+**5. A within-week Vocabulary-Vocabulary duplicate that Step 2 doesn't explicitly name** (it only
+covers Kanji-vs-Vocabulary): 意外 appears in both `vocabulary-w6.md` Day 5 (as the adverbial
+意外に／と, "unexpectedly") and Day 6 (as the bare word 意外, paired with its homophone 以外 for
+the day's whole "confusable pairs" teaching point). Since it's genuinely the same headword, carded
+once, under Day 6, where it belongs to the pair the day is actually built around.
+
+**6. One intentional non-duplicate worth flagging explicitly so it isn't "fixed" by a future
+pass**: 綿 appears twice with two different readings — めん (cotton fabric, e.g. 綿のシャツ) and
+わた (raw cotton/cotton batting, e.g. 布団に綿を詰めた) — both listed as separate headwords in
+`kanji-w6.md`'s own 綿 entry. Kept as two separate cards; this is a real reading distinction the
+book itself teaches, not an accidental repeat (confirmed: different `back-main-reading`, different
+example sentences).
+
+**7. Reading Day 2's two annotated negative-construction glosses, 一概に〜ない and 〜に満たない,
+are reusable grammar patterns, not vocabulary** — the same recurring pattern flagged in Weeks 3
+and 5 (Reading sections sometimes smuggle in grammar via annotation rather than a "ポイント" list).
+Both went to Deck 2 as `type::grammar`, tagged `reading::w6d2` (real origin). Since the source
+passage only uses each once, a second natural example sentence was written for each.
+
+**8. Grammar's closing 敬語 box teaches a genuinely reusable respectful-potential *construction*
+(お〜になれる／ご〜になれる), not just a single word mapping** — unlike prior weeks' keigo bonus
+boxes, which mapped one plain verb to one respectful equivalent. The book's own box explicitly
+flags a common error (`× ご利用できます`, correct is `ご利用になれます`), so that correction was
+preserved in the card's meaning field rather than only showing the correct form in isolation.
+
+**Resolution**: `anki/week6-v3-vocabulary.tsv`/`.apkg` created fresh with **451 cards** (262
+kanji — 252 across Days 1–6 after all dedup exclusions, plus 10 from the Day 7 look-alike-kanji
+bonus puzzle; 151 vocabulary after the 意外 dedup; 38 reading). `anki/week6-v3-grammar-usage.tsv`/
+`.apkg` created fresh with **56 cards** (52 across the Grammar section's 24 patterns — two
+patterns, 〜まい's negative-conjecture sense and 〜において(は)／における, had 3 book examples each
+and got 3 cards apiece — plus 2 reading-derived grammar cards and 2 bonus keigo cards).
