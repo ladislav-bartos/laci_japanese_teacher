@@ -354,3 +354,77 @@ with **55 cards** (51 across the Grammar section's 25 patterns — one pattern, 
 book example and got a second, freshly written; another, 〜つつ(も), had 3 book examples and got 3
 cards — plus 2 bonus keigo cards from grammar-w4.md's closing 敬語 box, 1 listening contrast pair,
 and 1 listening keigo card).
+
+---
+
+## Week 5
+
+Built with `anki/scripts/build_week5.py` (copied from Week 4's script shape). Steps 1a/1b applied
+during generation.
+
+**1. Within-week Kanji-vs-Vocabulary duplicate, caught by an automated check this time.** 物置
+appears in both `kanji-w5.md` Day 1 (under 置) and `vocabulary-w5.md` Day 1 (under the 物 word-
+family list), with the book supplying the exact same word both times. Unlike Weeks 1–4, this was
+caught programmatically — the build script's validator flags any word appearing twice across
+`vocab_cards` before the TSV is written — rather than needing a retroactive audit. Per Step 2, kept
+the Kanji-section card (`kanji::w5d1`), dropped the Vocabulary-section copy.
+
+**2. Within-week Kanji-Kanji duplicate in the Day 7 bonus puzzle.** `kanji-w5.md`'s closing
+"漢字を使って遊ぼう" crossword-style puzzle introduces 18 new kanji (453–470, tagged
+`kanji::w5dExtra`), but one of them — 棒 — has only one listed vocabulary word, 泥棒, which is the
+exact same word already carded on Day 2 under 泥 (`kanji::w5d2`). Skipped re-carding 泥棒 a second
+time; 棒 itself doesn't get a dedicated card this week since its only example word is already
+covered, which is a legitimate (not gap-worthy) outcome, not a missed extraction.
+
+**3. Cross-week duplicates checked before carding, per Step 1a's "grep first" rule.** Week 5's
+reading passages reused: 人身事故 (already covered, week4 listening extraction) and 不況 (already
+covered, week2 vocabulary). Both skipped after confirming via grep. Also checked and confirmed
+*not* duplicates: ユニットバス, 合理的, 価値観, 題材, 買い得, 表向き — none of these were already
+present in Weeks 1–4's decks despite feeling like they might be common enough to have come up
+before.
+
+**4. Reading Day 5's "グラフでよく使われる表現" bullet list turned out to be grammar patterns, not
+vocabulary** — the same structural pattern already flagged in Week 3's gap log (Reading `ポイント`
+lists that are secretly grammar). `〜割（%）を占める` and `〜に達する` are reusable statistical/
+descriptive constructions, so per Step 1 rule 5 they went to Deck 2 as `type::grammar`, tagged
+`reading::w5d5` (real origin). The rest of that same bullet list — 上回る／下回る (a verb pair,
+carded as 2 separate Deck 1 items per the established precedent that non-Listening-chapter antonym
+pairs get separate cards, not a `type::contrast` card), 割合, わずかに／やや, and はるかに／大きく —
+are plain vocabulary and went to Deck 1. Skipped 〇〇率 and 総〇数 as bare prefix/suffix notation
+(same treatment as Week 4's skipped 〜状／〜君／〜対 bare-affix bullets), and skipped 大半を占める as
+a redundant collocation example of 占める itself, not a separate word.
+
+**5. `listening-w5.md` is Chapter 5's full comprehensive mock test (総まとめ問題)** — structured
+like an actual JLPT listening section (問題I–V) rather than a themed vocabulary chapter like Weeks
+1, 2, and 4. It has no explicit 語彙 teaching blocks at all; every extractable item came from real
+dialogue scripts and their ※-annotated glosses. Extracted 24 Deck 1 items (下ろす in its "withdraw
+money" sense, 表向き, 継ぐ, リストラ, 豊作を祈願する, 田植え, おみこし, 買い得, 題材, 車イス,
+付き添い, 同伴, 添乗員, 介護人, フレックス会員, 吸い込み, 紙パック, お求めやすいお値段, 価値観,
+洗面化粧台, 苦労をかける, ぜいたくを言う, うろうろする, 出直す). Skipped as too basic for an N2 deck
+(consistent with the bar set in prior weeks): ナビ, 好み, 俳句, クローゼット, ミニキッチン, 音符,
+電線, フクロウ, タヌキ, 制度, 同僚, 合理的 (this last one specifically because に応じたもの — the
+phrase it appeared in — is just a plain application of Week 4's already-carded 〜に応じて grammar
+pattern, not new vocabulary). No Deck 2 items were extracted from Listening this week — checked
+for keigo/contrast/contraction/idiom candidates (this chapter's dialogue is mostly plain
+conversational Japanese, unlike Week 4's traffic-report and reservation-desk register shifts) and
+found none strong enough to card; a legitimate zero, not a skipped search.
+
+**6. A validator false-positive nearly caused a stale-apkg bug.** The build script's "does the
+word's kanji appear in its own example sentence" check (added in Week 4 to catch a real class of
+bug — kana used where the kanji form was intended) doesn't apply cleanly to grouped-synonym Front
+fields like `はるかに／大きく`, where only one of the two synonyms needs to appear in the sentence.
+Because `build_week5.py`'s `.apkg` write is gated on zero validation errors, this false positive
+silently blocked every apkg regeneration after the grouped-synonym rows were added — the `.tsv`
+files kept updating (unconditional) while the `.apkg` files quietly stayed stale at an earlier,
+incomplete card count, only caught by comparing TSV row counts against `.apkg` note counts via a
+direct sqlite check. Fixed by excluding words containing `／` from that specific check (rather than
+just noting the false positive and moving on, which is what let it go unnoticed). Worth carrying
+this exclusion forward into future weeks' copies of the script.
+
+**Resolution**: `anki/week5-v3-vocabulary.tsv`/`.apkg` created fresh with **527 cards** (276 kanji
+— 259 across Days 1–6 plus 17 from the Day 7 bonus puzzle after the 泥棒 dedup, 170 vocabulary
+after the 物置 dedup, 57 reading, 24 listening). `anki/week5-v3-grammar-usage.tsv`/`.apkg` created
+fresh with **52 cards**
+(50 across the Grammar section's 24 patterns, plus 2 bonus keigo cards from grammar-w5.md's closing
+敬語 box; no Deck 2 items from Reading's grammar-shaped bullets were miscounted here since those
+went in as part of the same Grammar-section pass).

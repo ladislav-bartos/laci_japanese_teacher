@@ -310,6 +310,14 @@ prior `.apkg` to preserve GUIDs from).
 
 ## Known edge cases (learned from Week 1 — check for these every week)
 
+- If copying `build_week{N}.py` from a prior week, keep the `'／' not in word` exclusion in the
+  "word's kanji must appear in its own sentence" validator check. Without it, grouped-synonym Front
+  fields (e.g. `はるかに／大きく`, where only one synonym needs to appear in the example sentence)
+  trip a false positive — and because the `.apkg` write is gated on zero validation errors, that
+  false positive silently blocks every apkg regeneration while the `.tsv` keeps updating
+  unconditionally, leaving a stale `.apkg` with a lower note count than its own `.tsv`. Found in
+  Week 5 by comparing `.tsv` row counts against `.apkg` note counts via direct sqlite inspection —
+  do that comparison as a final check every week, not just when something seems off.
 - Kanji/Vocabulary word overlap (Step 2) — always check, even though Week 1 only had 2.
 - Minimal-pair/contrast items are tagged `listening::`, not `reading::`, even though they're
   about sound/reading discrimination — don't assume from the book's section title.
