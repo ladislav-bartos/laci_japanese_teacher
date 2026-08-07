@@ -339,6 +339,15 @@ prior `.apkg` to preserve GUIDs from).
   already-covered patterns, but 2 items (ご存知, やっぱり) only ever appear there, not in the
   actual teaching tables for keigo/attitude-words. Skimming a review section and confirming "yes,
   this pattern is covered" isn't the same as checking every individual word/line in it.
+- **Grammar pattern boxes sometimes contain a "もっと！" aside that isn't just a third example of
+  the pattern** — Week 7 Day 2's `〜につけ〜につけ` box added "もっと！何かにつけ" (a related but
+  structurally distinct single-につけ idiom) and Day 4's `〜をこめて` box added "もっと！心をこめる→
+  心がこもる→心のこもった手紙" (a different word family entirely). Check whether the aside actually
+  uses the *same* inflection/construction as the pattern it's attached to: if yes, it can be folded
+  in as an extra example card under that pattern's front_main (Week 7's `〜を問わず` had a genuine
+  third example this way); if the aside introduces a distinct idiom or word, give it its own
+  Deck 2 grammar entry or, if it's plain vocabulary, move it to Deck 1 (same precedent as Week 1's
+  落ち込む) rather than silently folding it into the parent pattern's card count.
 - **Reading's "ポイント" bullet lists are sometimes grammar patterns, not vocabulary** — Week 3's
   `reading-w{N}.md` opens some days with a "ポイント：文末表現に注意！" list of sentence-ending
   forms (e.g. ～つつある, ～に至る) rather than a word-meaning "Key vocabulary" list. These belong

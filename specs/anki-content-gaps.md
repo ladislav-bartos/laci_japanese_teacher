@@ -492,3 +492,76 @@ bonus puzzle; 151 vocabulary after the 意外 dedup; 38 reading). `anki/week6-v3
 `.apkg` created fresh with **56 cards** (52 across the Grammar section's 24 patterns — two
 patterns, 〜まい's negative-conjecture sense and 〜において(は)／における, had 3 book examples each
 and got 3 cards apiece — plus 2 reading-derived grammar cards and 2 bonus keigo cards).
+
+## Week 7
+
+Built with `anki/scripts/build_week7.py` (copied from Week 6's script shape). Steps 1a/1b applied
+during generation.
+
+**1. No `reading-w7.md` or `listening-w7.md` exists — confirmed, not an oversight.** The source
+reading book (`読解`) runs through Week 6 only, and the listening book (`聞き取り`) already stopped
+after Week 5 (per Week 6's own gap entry). Week 7 loses reading too, so this week's decks are
+Kanji + Vocabulary + Grammar only. Checked `plan/` directly for both files' absence before
+proceeding.
+
+**2. The heaviest cross-week duplicate load of any week so far (15 words)**, all found via grep
+against every prior week's `anki/week*-v3-vocabulary.tsv` before excluding, none assumed
+redundant without checking (Step 1a): 請求書, 単に, 許す, 応募, 一応, 課長 (all week1 kanji Day1,
+except 課長 which is week2), 育児, 公演 (week1 kanji Day2 / week2 kanji Day2), 採用, 論じる (week2 /
+week5), 欠航, 着陸, かき混ぜる (all week4/week1), 交通費 (week1), プライドが高い (week3). Each
+removal was checked against its kanji group first to confirm the group still contributes at least
+one other card (see item 3) — none dropped to zero as a result of this dedup pass.
+
+**3. Within-day Kanji-Kanji duplicates**: 給与 is listed under both 給 and 与 on Kanji Day 1 (kept
+under 給, first occurrence, skipped under 与) — same shape as Week 5's 棒／泥棒 and Week 6's
+省略／芸術. 業's only listed word, 業績, is shared with 績 on Kanji Day 4 — kept under 績, so 業
+contributes no card of its own this week, the same "kanji whose only compound lives elsewhere"
+shape as Week 5's 棒 and Week 6's 永.
+
+**4. Bare-affix/counter/low-value proper-noun bullets skipped, never carded standalone** (same
+established pattern as prior weeks' 〜省／〜坂／〜寺 etc.): 〜丸 (ship-name suffix, Kanji Day 5, kept
+only 丸/丸い), 〜匹 (counter, Kanji Day 2, kept only 匹敵する), 〜戸 (counter, Kanji Day 6, kept only
+一戸建て/戸/雨戸), and 宇都宮／水戸 (city names under 宇／戸 on Kanji Day 6 — low-value proper nouns,
+not the kind of vocabulary worth a spaced-repetition card). Also 彼女 (Kanji Day 7 bonus puzzle,
+under 彼) skipped as too basic for an N2 deck — only 彼／彼岸 carded.
+
+**5. Vocabulary section's "多義語" (multi-meaning word) lists on Days 1–3 pair each headword with
+a ↔ counterpart, not all of which merit their own card** — where the book gives the counterpart
+its own explicit reading/gloss (e.g. 切れる↔切る, ボールが当たる↔ボールを当てる), both sides were
+carded as distinct collocations; where the counterpart is a bare, already-basic antonym restated
+without its own annotation (e.g. 台風の被害は軽かった ↔ 大きかった — 大きい needs no card), only the
+target side was carded. This is a judgment call, not a mechanical rule, applied consistently
+across all three multi-meaning days.
+
+**6. Two "もっと！" asides in the Grammar section needed their own treatment rather than folding
+into the parent pattern's example count:**
+- Day 2's `〜につけ〜につけ` pattern box adds "もっと！何かにつけ（＝何かあるたびに）" — this is a
+  related but structurally distinct idiom (single につけ, not the reduplicated A・Bにつけ form), so
+  it was carded as its own `type::grammar` pattern (何かにつけ, 2 cards) rather than as a third
+  example of the reduplicated pattern. One example reuses Day 2's own reorder-practice answer
+  (大家さんには何かにつけお世話になっている), the other was written fresh.
+- Day 4's `〜をこめて` pattern box adds "もっと！心をこめる→心がこもる→心のこもった手紙" — this
+  introduces a genuinely different word (こもる, intransitive) and a fixed adjectival phrase, not
+  another use of をこめて itself, so 心のこもった手紙 was carded as a plain Deck 1 vocabulary card
+  (tag `grammar::w7d4`, real origin kept per Step 6) instead of a Deck 2 grammar card — the same
+  precedent as Week 1's 落ち込む moving decks despite its Listening-section origin.
+
+**7. `〜を問わず` (Grammar Day 1) has a third book example that isn't in the reduplicated/base
+inflection** ("もっと！性別は問いません。") — kept as a third card under the same pattern label
+(`〜を問わず`) since the source lists it directly inside that pattern's own Examples bullet list,
+unlike item 6's asides which introduced distinct idioms.
+
+**8. Day 7 is pure review/practice with no new vocabulary or grammar of its own, confirmed across
+all three sections** (Kanji's Day 7 is entirely the 読みを推測する bonus puzzle, already carded
+under item 4's kanji groups; Vocabulary Day 7 is a 25-question 実戦問題 test whose answer key lives
+in a separate booklet not included in the source; Grammar Day 7 is the same shape, plus a closing
+keigo 問い whose answer key is also external) — matches the established Day-7-is-review pattern
+from every prior week.
+
+**Resolution**: `anki/week7-v3-vocabulary.tsv`/`.apkg` created fresh with **488 cards** (236
+kanji across Days 1–7 after all dedup exclusions; 251 vocabulary across Days 1–6 after the 2
+cross-week dedup exclusions; 1 grammar-origin card, 心のこもった手紙, per item 6).
+`anki/week7-v3-grammar-usage.tsv`/`.apkg` created fresh with **58 cards** (56 across the Grammar
+section's 24 patterns plus the 何かにつけ aside — five patterns/asides had 3+ book examples and got
+3–4 cards apiece: 〜を問わず (3), 〜ものだ (3), 〜ものか (3), 〜を通じて／〜を通して (3), 〜を
+きっかけに(して)／〜を契機に(として) (4) — plus 2 bonus keigo cards).
