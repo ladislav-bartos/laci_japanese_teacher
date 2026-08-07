@@ -565,3 +565,68 @@ cross-week dedup exclusions; 1 grammar-origin card, 心のこもった手紙, pe
 section's 24 patterns plus the 何かにつけ aside — five patterns/asides had 3+ book examples and got
 3–4 cards apiece: 〜を問わず (3), 〜ものだ (3), 〜ものか (3), 〜を通じて／〜を通して (3), 〜を
 きっかけに(して)／〜を契機に(として) (4) — plus 2 bonus keigo cards).
+
+## Week 8
+
+Built with `anki/scripts/build_week8.py` (copied from Week 7's script shape). Steps 1a/1b applied
+during generation.
+
+**1. No `reading-w8.md` or `listening-w8.md` exists — confirmed, not an oversight.** Both source
+books already stopped before Week 7 (per Weeks 6/7's own gap entries), so this continues to be
+true at Week 8. This week's decks are Kanji + Vocabulary + Grammar only.
+
+**2. By far the heaviest cross-week duplicate load of any week so far (31 words)**, all found via
+grep against every prior week's `anki/week*-v3-vocabulary.tsv` before excluding, none assumed
+redundant without checking (Step 1a). This week's News/Crime-themed kanji (盗難・逮捕・被害 etc.)
+and idiom-heavy vocabulary sections revisit a lot of everyday and disaster/crime vocabulary
+already introduced across Weeks 1–7. Kanji-section duplicates: 津波, 強盗, 盗難 (week1/3/4), 疑う,
+容疑, 逮捕 (week3/5), 絶えず, 児童, 暴れる (week1/2/4), 欧米, 厚生労働省, 被告 (week5/6), 競争, 逆らう,
+骨折 (week3/4/5), 抱える, 雇う, 恐怖 (week2/3/5), 警官, 宇宙, 技術, 演技, 政治 (week4/5/6/7).
+Vocabulary-section duplicates: 組み合わせ, 打ち合わせ (week4/6), 追い越す, 乗り越す, 思い込む,
+呼び出す (week3/4/5), 手入れ (week5), ダサい (week3). Each Kanji-section removal was checked against
+its kanji group first (see item 3) to confirm the group still contributes at least one other
+card, except 宇宙 (item 3).
+
+**3. Within-day and cross-day Kanji-Kanji duplicates**: 政党 is listed again under 政 on Kanji
+Day 6, but was already carded under Day 1's 党 group — kept there (first occurrence), skipped on
+Day 6, the first *cross-day* instance of this pattern (prior weeks' Kanji-Kanji dedups were all
+same-day). 宙's only listed word, 宇宙, turned out to be a cross-week duplicate of week7's
+already-carded 宇宙 (item 2) — 宙 contributes no card of its own this week, the same "kanji whose
+only compound lives elsewhere" shape as week5's 棒, week7's 業, and this week's own 宙.
+
+**4. Bare-affix/counter bullets skipped, never carded standalone** (same established pattern as
+prior weeks' 〜省／〜坂／〜寺 etc.): 〜州 (Kanji Day 1, kept only 本州/九州), 〜党 (Kanji Day 1, kept
+政党/与党/野党), 〜権 (Kanji Day 2, kept only 権利/人権), 〜軍 (Kanji Day 3, kept only 軍/軍隊), 〜兵
+(Kanji Day 3, kept only 兵士/兵隊).
+
+**5. A missed-then-caught bare word**: 害 (がい, "injury/harm/damage") on Kanji Day 2 was initially
+skipped alongside its compounds' bare-affix siblings, but it's a genuine standalone N2 word, not a
+suffix-only form like 〜省 — caught during the day's own build and added back before moving on.
+
+**6. A sourced-sentence bug caught by the validator, not by manual review**: Kanji Day 3's 競争
+was initially given the practice section's own example sentence ("勝負がつかず、試合を延長する。"),
+but that sentence's correct multiple-choice answer is actually 勝負, not 競争 — reusing it would
+have tested the wrong word entirely. Caught immediately by the kanji-in-sentence validator check
+(競争's own kanji don't appear in that sentence) and fixed with a fresh sentence. A reminder that
+Step 3's "verify it actually uses the word in the sense given" check matters even for words that
+look like an obvious fit for a practice sentence's blank.
+
+**7. Vocabulary Day 3's body-part idiom list has an exact cross-week duplicate**: 口がかたい
+(Tight-lipped/discreet) was already carded verbatim in week7's Day 3 (from the きつい word-family
+day, a different vocabulary theme but the same idiom). Skipped here, kept in week7.
+
+**8. Vocabulary Day 6's slang list references the already-carded 超〜 prefix** (超満員/超特急/超小型/
+超忙しい, week7 kanji Day 5) purely as a register note ("too informal for superiors") — no new
+vocabulary to extract, so no card added for it.
+
+**9. Grammar Day 4's `〜ただし` pattern box has a "もっと！" aside introducing a distinct casual
+variant, 〜ただ** — unlike week7's asides, this one already came with its own 2 full book example
+sentences, so it was carded as its own `type::grammar` entry (2 cards) with no sentence-writing
+needed, the simplest case of the "もっと！ aside" edge case documented in
+`specs/anki-tsv-generation-process.md`.
+
+**Resolution**: `anki/week8-v3-vocabulary.tsv`/`.apkg` created fresh with **388 cards** (211
+kanji across Days 1–7 after all dedup exclusions; 177 vocabulary across Days 1–6 after the 8
+cross-week dedup exclusions). `anki/week8-v3-grammar-usage.tsv`/`.apkg` created fresh with
+**55 cards** (53 across the Grammar section's 24 patterns plus the 〜ただ aside — one pattern,
+〜それで, had 4 book examples and got 4 cards; 〜すると had 3 and got 3 — plus 2 bonus keigo cards).
